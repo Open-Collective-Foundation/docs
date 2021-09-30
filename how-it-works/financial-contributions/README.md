@@ -45,7 +45,7 @@ The fastest way to have access to funds is through **Card/PayPal donations** mad
 
 ### **Bank Transfers**
 
-If you select to make a contribution via bank transfer, we will provide instructions for making your contribution. The instructions will also be sent to you by email. Once the money has arrived in the initiative’s account, an administrator for the initiative will mark it as “paid” and the funds will show as part of the initiative’s balance.‌
+If you select to make a contribution via bank transfer, [we will provide instructions for making your contribution](https://docs.opencollective.com/help/fiscal-hosts/bank-transfers). The instructions will also be sent to you by email. Once the money has arrived in the initiative’s account, an administrator for the initiative will mark it as “paid” and the funds will show as part of the initiative’s balance.‌
 
 When you arrange the transfer, if you have the option of sending an email notification for the transaction, please send it to [contact@opencollective.foundation](mailto:contact@opencollective.foundation). You can also reach out to that address if you run into any issues along the process - please note the reference number from your instruction email and contact us and we’ll be happy to help.
 
