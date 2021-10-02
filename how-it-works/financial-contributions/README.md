@@ -8,7 +8,7 @@ description: Helpful guides for Donors and Financial Contributors
 This page of documentation is written for financial contributors. If you are an initiative hosted by Open Collective Foundation, feel free to share this page with your donors. If they have questions that you cannot answer, [send them our way](mailto:contact@opencollective.foundation)!
 {% endhint %}
 
-Open Collective Foundation allows donors to support amazing community charitable initiatives - legally - without them having to go through the laborious process of setting up a legal entity.
+Open Collective Foundation allows donors to support amazing initiatives without them having to go through the laborious process of setting up a legal entity and bank account.
 
 While Open Collective Foundation provides [plenty of benefits](https://docs.opencollective.foundation/about/what-we-offer) for our sponsored initiatives, there are also benefits for financial contributors. Since our hosted initiatives use [the Open Collective platform](https://opencollective.com/foundation#section-contributions), their finances are transparent, and you can feel confident that the funds will be put to good use.
 
@@ -25,7 +25,7 @@ You can contribute via the following methods:
 * [In-Kind](https://docs.opencollective.foundation/how-it-works/financial-contributions/in-kind) [\(i.e., “non-cash”\)](https://docs.opencollective.foundation/how-it-works/financial-contributions/in-kind)
 * NEW! To donate public stock, please [reach out to us](mailto:contact@opencollective.foundation).
 
-Further instructions on how to support one of our hosted initiatives via the above methods are included below. If you need any of our official information or documentation, see our [Official Information and Documents](https://docs.opencollective.foundation/about/official-information-and-documents).
+Further instructions on how to support one of our hosted initiatives via the above methods are included below. See [Official Information and Documents](https://docs.opencollective.foundation/about/official-information-and-documents) for our EIN, determination letter, and banking info.
 
 {% hint style="info" %}
 No matter which method you choose, make sure to whenever possible, **indicate the initiative** that you would like to support. If your chosen contribution method does not provide you with any opportunity to do so \(e.g., there is no memo line, accompanying letter, or online form\) [please reach out to us to let us know](mailto:contact@opencollective.foundation) the details of the transaction so we know to expect it and properly credit it when the funds arrive.
@@ -45,9 +45,15 @@ The fastest way to have access to funds is through **Card/PayPal donations** mad
 
 ### **Bank Transfers**
 
-If you select to make a contribution via bank transfer, [we will provide instructions for making your contribution](https://docs.opencollective.com/help/fiscal-hosts/bank-transfers). The instructions will also be sent to you by email. Once the money has arrived in the initiative’s account, an administrator for the initiative will mark it as “paid” and the funds will show as part of the initiative’s balance.‌
+If you select to make a contribution via bank transfer, you will automatically be given bank transfer instructions, on screen and by email, along with a unique reference ID code.
 
-When you arrange the transfer, if you have the option of sending an email notification for the transaction, please send it to [contact@opencollective.foundation](mailto:contact@opencollective.foundation). You can also reach out to that address if you run into any issues along the process - please note the reference number from your instruction email and contact us and we’ll be happy to help.
+You can also download a [PDF with general payment info](../../about/official-information-and-documents.md#financial-information). 
+
+You must include the unique ID code as a reference with your bank transfer, so we can match up the transaction.
+
+Once the money has arrived, we will confirm, then the amount will be credited to the initiative’s balance and you will automatically receive a receipt.‌
+
+When you arrange the transfer, if you have the option of sending an email notification for the transaction, please send it to [contact@opencollective.foundation](mailto:contact@opencollective.foundation). 
 
 ### **Giving Anonymously**
 
