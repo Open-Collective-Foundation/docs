@@ -28,6 +28,7 @@
 * [Political Activity](how-it-works/political-activity.md)
 * [Fees](how-it-works/fees.md)
 * [FAQ](how-it-works/faq/README.md)
+  * [Is OCF Right For You?](how-it-works/faq/is-ocf-right-for-you.md)
   * [Non-Platform Contributions](how-it-works/faq/non-platform.md)
 
 ## About
