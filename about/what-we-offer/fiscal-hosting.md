@@ -122,6 +122,10 @@ Some groups can “get by” without setting up a legal entity using individuals
 
 When you join Open Collective Foundation, your group’s finances are totally transparent and the burden of administering your finances can be shared across the team. No one will have to include the group’s income on their personal taxes. [Plus all of the other things we offer](https://docs.opencollective.foundation/about/what-we-offer)[!](https://docs.opencollective.foundation/about/what-we-offer)
 
+## Is OCF Right For You?
+
+---&gt; [An objective and detailed legal analysis.](https://docs.opencollective.foundation/how-it-works/faq/is-ocf-right-for-you)
+
 ## Further Reading
 
 We definitely encourage you to read more about fiscal hosting to make the most informed decision for your initiative! When you are ready, check out [how to get started with Open Collective Foundation](https://docs.opencollective.foundation/getting-started/how-to-apply).

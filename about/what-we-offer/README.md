@@ -79,6 +79,10 @@ The platform’s financial features also encourage best practices:
 
 Administrators, team members, contributors, and third parties such as potential funders or partners can all see what funds are coming in and what funds are going out \(don’t worry - [sensitive personal details](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) [remain](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) [private](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices)\).
 
+## Is OCF right for you?
+
+Learn more in [this objective and detailed legal analysis.](https://docs.opencollective.foundation/how-it-works/faq/is-ocf-right-for-you)
+
 ## How do we get started?
 
 To learn more about the application process:
