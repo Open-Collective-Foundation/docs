@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Who We Are](who-we-are.md)
 
 ## Getting Started
 
