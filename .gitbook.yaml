@@ -1,2 +1,4 @@
+root: ./
+
 redirects:
   test: ./how-it-works/faq.md
