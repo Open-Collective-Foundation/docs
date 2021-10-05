@@ -95,7 +95,7 @@ OCF has an exception to this rule as follows:
 
 _You can maintain another bank account for other projects and activities that may be somewhat related. They need to be fully distinct, with different names and purposes, and funds must remain completely separate. Money cannot be regularly flowing back and forth between the two accounts/entities. You will also need to define a very clear scope for your Open Collective funding and activities that is fully separated from any other ones._
 
-Relatedly, under OCF's [Outside Entities Policy](../processes-and-limitations/outside-entities-policy.md) you may not:
+Relatedly, under OCF's [Outside Entities Policy](../policies/outside-entities-policy.md) you may not:
 
 * Use funds for the private benefit of for profit entities or individuals
 * Move money through OCF out to another entity and manage operational expenses from that outside entity 
@@ -105,7 +105,7 @@ These financial restrictions are both good and bad: you don't have to deal with 
 
 Some donors may be confused by the requirement that all checks must be made out to Open Collective Foundation. It's therefore important in your communications with donors to make clear what your relationship with OCF is.
 
-The [Outside Accounts Policy](../processes-and-limitations/outside-accounts-policy.md) places rules and restrictions around how OCF initiatives may use external fundraising and payment platforms and accounts.
+The [Outside Accounts Policy](../policies/outside-accounts-policy.md) places rules and restrictions around how OCF initiatives may use external fundraising and payment platforms and accounts.
 
 ### Restrictions on fundraising and regranting
 
@@ -115,7 +115,7 @@ Additionally, according to Clause 3C of your fiscal sponsorship agreement, you m
 
 In addition, OCF requires you to reach out to them if you engage in any of the following financial activity \(to discuss logistical considerations and sure policy compliance\): 
 
-* If you want to [make grants](../processes-and-limitations/grantmaking-policy.md) and/or provide [cash assistance](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/cash-assistance-policy);
+* If you want to [make grants](../policies/grantmaking-policy.md) and/or provide [cash assistance](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/cash-assistance-policy);
 * If you engage in offline or in-person fundraising;
 * If you want to use an external service or platform to receive funds \(e.g. Kickstarter, Patreon\);
 * If you want to sell goods or services, or provide anything tangible in return to someone giving you money \(i.e. it’s not purely a donation\);
@@ -132,7 +132,7 @@ The following situations, for OCF, "are not permitted under any circumstances":
 * Failing to disclose the relationship between an Initiative and its participants with an outside entity that is being paid from the Initiative’s budget.
 * Signing a contract or forming a legal agreement with an outside entity without involving OCF staff.
 
-Under the [Outside Entities Policy](../processes-and-limitations/outside-entities-policy.md), you must send contracts, MOUs, etc, for their approval, review, and signature before committing to and finalizing that agreement. This requirement will add a step to, and thus slow down, your contracting process with outside entities. You should inform anyone you are in negotiations with that, before working together, you must obtain OCF approval of the agreement. In this way, you confirm that OCF will honor the terms of the agreement and pay the third party as promised.
+Under the [Outside Entities Policy](../policies/outside-entities-policy.md), you must send contracts, MOUs, etc, for their approval, review, and signature before committing to and finalizing that agreement. This requirement will add a step to, and thus slow down, your contracting process with outside entities. You should inform anyone you are in negotiations with that, before working together, you must obtain OCF approval of the agreement. In this way, you confirm that OCF will honor the terms of the agreement and pay the third party as promised.
 
 ## Summary
 

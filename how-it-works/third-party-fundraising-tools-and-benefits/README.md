@@ -101,7 +101,7 @@ In the **Reimbursement**, make sure to include:
 * [ ] as well as the **receipt** from the service \(e.g. Venmo\) that you used to transfer them the funds.
 
 {% hint style="info" %}
-**All** funds for your initiative **must** be held in your budget with Open Collective Foundation. Read about the [limitations of our fiscal hosting service](https://docs.opencollective.foundation/how-it-works/processes-and-limitations), as well as our [Outside Accounts Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-accounts-policy). If you would like to make direct cash payments out to recipients, please review our [Cash Assistance Policy](../processes-and-limitations/cash-assistance-policy.md).
+**All** funds for your initiative **must** be held in your budget with Open Collective Foundation. Read about the [limitations of our fiscal hosting service](https://docs.opencollective.foundation/how-it-works/processes-and-limitations), as well as our [Outside Accounts Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-accounts-policy). If you would like to make direct cash payments out to recipients, please review our [Cash Assistance Policy](../policies/cash-assistance-policy.md).
 {% endhint %}
 
 ## Third-Party Benefits

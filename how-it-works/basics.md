@@ -61,7 +61,7 @@ Make sure to review the [Expenses and Getting Paid](https://docs.opencollective.
 
 If your initiative would like to pay out funds to individuals who do not have bank account access/PayPal, please review our [Cash Assistance Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/cash-assistance-policy).
 
-Also check our [Third-Party Fundraising Tools](third-party-fundraising-tools-and-benefits/) and our [Outside Accounts Policy](processes-and-limitations/outside-accounts-policy.md) pages for info about how OCF works with other giving platforms \(e.g. [Venmo, CashApp,](third-party-fundraising-tools-and-benefits/#venmo-and-cash-app) [GoFundMe](third-party-fundraising-tools-and-benefits/#third-party-tools)\)
+Also check our [Third-Party Fundraising Tools](third-party-fundraising-tools-and-benefits/) and our [Outside Accounts Policy](policies/outside-accounts-policy.md) pages for info about how OCF works with other giving platforms \(e.g. [Venmo, CashApp,](third-party-fundraising-tools-and-benefits/#venmo-and-cash-app) [GoFundMe](third-party-fundraising-tools-and-benefits/#third-party-tools)\)
 {% endhint %}
 
 ## Looking for our Letter of Determination or W9?
