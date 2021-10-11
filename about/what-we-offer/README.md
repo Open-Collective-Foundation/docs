@@ -8,15 +8,15 @@ description: Fiscal sponsorship as a service
 
 You shouldn't have to incorporate a legal entity, start a new bank account, and set up bookkeeping just to collect and spend money for a project—and with Open Collective Foundation you don't have to.
 
-We are a [501\(c\)\(3\)](https://docs.opencollective.foundation/about/fiscal-hosting#what-does-501-c-3-mean) organization specializing in technology-driven, Comprehensive \(Model A\) fiscal hosting \([what’s that?](https://docs.opencollective.foundation/about/fiscal-hosting)\) for collaborative initiatives. We can be your legal entity and provide you with the financial tools you need to make an impact on the world! No bank account required.
+We are a [501(c)(3)](https://docs.opencollective.foundation/about/fiscal-hosting#what-does-501-c-3-mean) organization specializing in technology-driven, Comprehensive (Model A) fiscal hosting ([what’s that?](https://docs.opencollective.foundation/about/fiscal-hosting)) for collaborative initiatives. We can be your legal entity and provide you with the financial tools you need to make an impact on the world! No bank account required.
 
 ### **Nonprofit Status**
 
-Open Collective Foundation is a [501\(c\)\(3\) organization](https://docs.opencollective.foundation/about/fiscal-hosting#what-does-501-c-3-mean), meaning our hosted initiatives are charitable projects that can receive **tax-deductible donations**.
+Open Collective Foundation is a [501(c)(3) organization](https://docs.opencollective.foundation/about/fiscal-hosting#what-does-501-c-3-mean), meaning our hosted initiatives are charitable projects that can receive **tax-deductible donations**.
 
-This arrangement is perfect for charitable projects that want to move fast and reduce setup costs, especially since incorporating an entity and getting 501\(c\)\(3\) status can take over a year, requires a lot of admin to run, and likely requires hiring an accountant and a lawyer.
+This arrangement is perfect for charitable projects that want to move fast and reduce setup costs, especially since incorporating an entity and getting 501(c)(3) status can take over a year, requires a lot of admin to run, and likely requires hiring an accountant and a lawyer.
 
-Further, hosted initiatives have access to one of the biggest benefits of 501\(c\)\(3\) status: being able to **apply for special grants from foundations**. _Most major foundations, along with many companies, will only contribute to 501\(c\)\(3\) organizations and their sponsored initiatives._ Make sure you take this into account when considering the best fit for your project or community!
+Further, hosted initiatives have access to one of the biggest benefits of 501(c)(3) status: being able to **apply for special grants from foundations**._ Most major foundations, along with many companies, will only contribute to 501(c)(3) organizations and their sponsored initiatives._ Make sure you take this into account when considering the best fit for your project or community!
 
 ### **Tax Compliance**
 
@@ -28,7 +28,7 @@ Open Collective Foundation [issues 1099s to contracted workers when required](ht
 
 ### **OCF vs. Other Fiscal Sponsors**
 
-One thing that makes Open Collective Foundation different from [other fiscal sponsors](https://fiscalsponsordirectory.org/) is the Open Collective platform, a powerful, [open-source](https://opensource.com/resources/what-open-source) tool for managing your activities and funds transparently providing you with **24/7 access** to collect, spend, and manage funds. You can quickly and easily:
+One thing that makes Open Collective Foundation different from [other fiscal sponsors](https://fiscalsponsordirectory.org) is the Open Collective platform, a powerful, [open-source](https://opensource.com/resources/what-open-source) tool for managing your activities and funds transparently providing you with **24/7 access** to collect, spend, and manage funds. You can quickly and easily:
 
 * Begin charitable/community work **without setting up a legal entity or bank account**
 * Create a [public profile](https://docs.opencollective.com/help/collectives/customize-collective) with your own URL
@@ -51,8 +51,8 @@ It also differs from crowdfunding platforms, particularly in how it is designed 
 
 * Access funds as they arrive, rather than in a lump sum at the end of the campaign
 * Spend funds for your initiative directly from the platform, rather than having the funds go through your personal bank account
-* Receive **recurring** monthly contributions
-* Accept **tax-deductible** contributions \(this is a big incentive for donors\)
+* Receive **recurring **monthly contributions
+* Accept **tax-deductible** contributions (this is a big incentive for donors)
 * View your initiative’s budget **in full transparency**
 * [Export complete contribution and expense data](https://docs.opencollective.com/help/collectives/budget) in CSV documents
 * [R](https://docs.opencollective.foundation/how-it-works/financial-contributions)[eceive donations](https://docs.opencollective.foundation/how-it-works/financial-contributions), [post Updates](https://docs.opencollective.com/help/collectives/communication), and gain momentum—as you would while crowdfunding—without limiting your long-term reach
@@ -67,7 +67,7 @@ Our technology is completely [open source](https://github.com/OpenCollective/), 
 
 One of the greatest strengths of our platform is the **full transparency** of both where money comes from and where it goes. When expenses are approved or contributions come through, the balance is updated in real time! 
 
-💡 The ability to see your initiative’s financial position and goals gives credibility to your organization, especially in the early stages, and helps to build an environment of collaboration and trust.
+:bulb: The ability to see your initiative’s financial position and goals gives credibility to your organization, especially in the early stages, and helps to build an environment of collaboration and trust.
 
 With a transparent process, team members and contributors can feel confident that the funds are being put to good use, while **private details like emails, names, and addresses are only visible to administrators**. Financial transparency creates stronger collaboration. Plus, when it’s time to report back to funders, you can just send them a link to your Open Collective profile.
 
@@ -77,7 +77,7 @@ The platform’s financial features also encourage best practices:
 * Clear system of approvals and oversight
 * Financial processes are accessible to your team, funders, and community
 
-Administrators, team members, contributors, and third parties such as potential funders or partners can all see what funds are coming in and what funds are going out \(don’t worry - [sensitive personal details](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) [remain](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) [private](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices)\).
+Administrators, team members, contributors, and third parties such as potential funders or partners can all see what funds are coming in and what funds are going out (don’t worry - [sensitive personal details](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) [remain](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) [private](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices)).
 
 ## Is OCF right for you?
 
@@ -87,9 +87,10 @@ Learn more in [this objective and detailed legal analysis.](https://docs.opencol
 
 To learn more about the application process:
 
-{% page-ref page="../../getting-started/how-to-apply/" %}
+{% content-ref url="../../getting-started/how-to-apply/" %}
+[how-to-apply](../../getting-started/how-to-apply/)
+{% endcontent-ref %}
 
 
 
-✅ If you're ready,  [Submit an Application](www.opencollective.com/foundation/apply)
-
+:white_check_mark: If you're ready,  [Submit an Application](https://www.opencollective.com/foundation/apply)
