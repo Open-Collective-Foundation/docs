@@ -14,8 +14,9 @@
 
 * [Basics](how-it-works/basics.md)
 * [Financial Contributions](how-it-works/financial-contributions/README.md)
+  * [Stock Donations](how-it-works/financial-contributions/stock-donations.md)
   * [In-Kind Contributions](how-it-works/financial-contributions/in-kind.md)
-  * [What is a Donor Advised Fund \(DAF\)?](how-it-works/financial-contributions/dafs.md)
+  * [What is a Donor Advised Fund (DAF)?](how-it-works/financial-contributions/dafs.md)
 * [Applying for Institutional Grant Funding](how-it-works/grant-funding.md)
 * [Third-Party Fundraising Tools and Benefits](how-it-works/third-party-fundraising-tools-and-benefits/README.md)
   * [Setting Up GitHub Sponsors](how-it-works/third-party-fundraising-tools-and-benefits/setting-up-github-sponsors.md)
@@ -43,4 +44,3 @@
 * [Team](about/team.md)
 * [These Docs](about/these-docs.md)
 * [Contact Us](about/contact-us.md)
-
