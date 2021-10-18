@@ -36,6 +36,8 @@ Cash assistance should only be used after authorization has been provided by OCF
 
 Please note that the [invite expense feature](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense) can enable someone more familiar with the Platform to fill out most of the required information for an expense. Then, the Recipient will get an email and will simply need to confirm. This can result in more people being able to directly submit their own expenses, and should be used where possible.
 
+All transactions over $600 via payment apps [may be taxable](https://www.wptv.com/money/new-irs-rule-for-cash-app-transactions-set-to-go-into-effect-next-year) for the Recipient. Initiatives should exercise judgement when transferring money via these services and use our built-in payment tools when possible.
+
 {% hint style="danger" %}
 Initiatives **may not** disburse cash to Recipients with whom the Volunteer or the Initiative organizers have a relationship or conflict of interest, e.g. family members, business partners, employees, or major donors to the Initiative.
 {% endhint %}
