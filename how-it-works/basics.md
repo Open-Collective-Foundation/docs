@@ -33,7 +33,7 @@ Using funds from your initiative’s budget is simple:
 1. Someone submits an [expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses).
    * There are 2 Types of Expenses: (see below for more info)
      * [**Reimbursements **](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements)
-     * [**Invoices **](basics.md#open-collective)
+     * ****[**Invoices**](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices)****
 2. An initiative [admin ](https://docs.opencollective.com/help/collectives/core-contributors#roles)(someone on your team) approves it.
 3. OCF's team reviews it (confirms that the expense meets requirements e.g. having a valid receipt).
 4. They get [paid](https://docs.opencollective.com/help/fiscal-hosts/payouts#what-payment-methods-do-you-support-for-withdrawals).
@@ -46,7 +46,7 @@ Initiative admins can [set an expense policy](https://docs.opencollective.com/he
 
 #### **Expense **payments may relate to either:&#x20;
 
-1. an [**Invoice**](basics.md#open-collective)** **for work completed for the initiative;&#x20;
+1. an [**Invoice**](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices)** **for work completed for the initiative;&#x20;
    * _Invoices_ are used to pay people for work completed or their goods/services.&#x20;
    * Within the _invoice_ option, you can either upload your own invoice, or you can create one directly on the platform. You will be able to detail what the services/goods are, and can include multiple items&#x20;
    * When someone uses invoices, they are treated as an independent contractor. If earnings exceed $600 in a year, they will be automatically issued a 1099 tax form to fill out per IRS regulations. (_Reimbursements _do not trigger the 1099 form). More info about taxes [here](https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information).
