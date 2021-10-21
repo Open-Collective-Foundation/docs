@@ -14,7 +14,7 @@ Once you [apply to join Open Collective Foundation](https://docs.opencollective.
 
 {% hint style="info" %}
 * **Open Collective Inc**. is the **platform **that OCF operates on.&#x20;
-  * Open Collective has their own [homepage](https://www.opencollective.com), [budget](https://opencollective.com/opencollective#category-ABOUT), and [documentation](https://docs.opencollective.com/help/). These docs are a pared down version to relay information that is specific to OCF.
+  * Open Collective has their own [homepage](https://www.opencollective.com), [budget](https://opencollective.com/opencollective#category-ABOUT), and [documentation](https://docs.opencollective.com/help/). These docs you're currently reading are a pared down version to relay information that is specific to OCF.
 * **OCF (**Open Collective** Foundation)** is a charitable** **[**fiscal host**](../about/what-we-offer/fiscal-hosting.md) who uses the Open Collective platform
 {% endhint %}
 
@@ -57,6 +57,7 @@ Initiative admins can [set an expense policy](https://docs.opencollective.com/he
 * Individuals and organizations can request payment from an initiative by [submitting an expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses).&#x20;
 * Initiative admins also have the option of drafting an expense and then [**sending an invitation** to someone else to complete and submit it](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense).
   * _This is a great option for those admins who know already know exactly how much they want to pay/reimburse someone, and just want to invite them to the platform._
+* Sometimes a **third type of expense, "Request a Grant" **will appear on an initiative's page. This is because that initiative has submitted a grant proposal in order to be able to offer grants. More info [here](https://docs.opencollective.foundation/how-it-works/about-grantmaking).
 {% endhint %}
 
 #### OCF uses a Double-Approval Process to pay out expenses:&#x20;
