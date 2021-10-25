@@ -1,15 +1,15 @@
 # Virtual Cards Policy
 
-{% hint style="danger" %}
-As of October 11, 2021, virtual cards for Open Collective Foundation initiatives are currently **on pause**. This is due to issues with our card provider. We are working hard to resolve this issue as soon as possible. Reach out to us with any questions.
+{% hint style="success" %}
+As of October 25, virtual cards are back up and running. [Reach out to us](../../about/contact-us.md) if you have any issues.
 {% endhint %}
 
-Virtual Cards can now be issued to OCF’s hosted initiatives for paying things like: recurring payments, online resources/tools, subscriptions that can be paid by card, vendors (e.g. wholesale distributors). 
+Virtual Cards can now be issued to OCF’s hosted initiatives for paying things like: recurring payments, online resources/tools, subscriptions that can be paid by card, vendors (e.g. wholesale distributors).&#x20;
 
 ## How it works
 
 * Funds are spent only as transactions occur. (Setting up a card does not remove any money from your initiative's budget.)
-* Each card will be locked to the first vendor the purchase is made to.  OCF Admins & Initiative Admins agree upon and set the card either at a weekly/monthly limit (for recurring payments) or it can be single-use as well. 
+* Each card will be locked to the first vendor the purchase is made to.  OCF Admins & Initiative Admins agree upon and set the card either at a weekly/monthly limit (for recurring payments) or it can be single-use as well.&#x20;
 * As of right now (while we are beta-testing this feature), each initiative can have up to 10 cards assigned.
 * Cards have a maximum budget of $1,250/card.
 
@@ -20,9 +20,9 @@ Virtual Cards can now be issued to OCF’s hosted initiatives for paying things 
 * Card must be used solely for the intended vendor initially described to OCF admin (see Steps below)
 * _If you need to input Cardholder contact details:_
   * **Name**: You can use yours
-  * **Address**: You can use ours: 
+  * **Address**: You can use ours:&#x20;
     * 340 S. Lemon Avenue, #3717 Walnut, CA 91789-2706
-  * If the transaction requires a shipping address, you may want to use a billing address in the same city 
+  * If the transaction requires a shipping address, you may want to use a billing address in the same city&#x20;
 
 #### **Limitations:**
 
@@ -48,6 +48,6 @@ Virtual Cards can now be issued to OCF’s hosted initiatives for paying things 
 
 #### ​After a purchase is made:
 
-1. The funds will be withdrawn from your initiative, 
-2. An "Invitation to submit an expense" will be sent to your initiative admins 
+1. The funds will be withdrawn from your initiative,&#x20;
+2. An "Invitation to submit an expense" will be sent to your initiative admins&#x20;
    1. Admins will be asked to submit your receipt. **(If the receipt is not submitted within 30 days, the card access will be paused until you do submit the receipt).**
