@@ -7,3 +7,6 @@ description: >-
 
 # Welcome!
 
+This video intro explains what OCF is all about and how to make the most of our services.
+
+{% embed url="https://www.loom.com/share/e7c8245251784196a6dde4f49cb3ab2a" %}
