@@ -11,7 +11,7 @@ Open Collective’s platform is set up so that your initiative can have autonomy
 * If you choose to **enter into an agreement with a third party** (like a vendor or a service), please [email us](mailto:contact@opencollective.foundation). Since we are your fiscal host, **these agreements are legally between the third party and OCF,** and need to be reviewed, approved, and signed by our team.
 * If you need to **submit a grant application** as Open Collective Foundation, we _may _need to review the grant application. You may also need documentation from us that is not available on our [Official Information and Documents page](https://docs.opencollective.foundation/about/official-info). Check out our information on [Applying for Institutional Grant Funding](https://docs.opencollective.foundation/how-it-works/grant-funding) for more information on how to apply for foundation and corporate grant funding.
 * If you want to **distribute grant funds** and/or [**direct cash assistance**](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/cash-assistance-policy).
-* If you engage in **offline or in-person fundraising**, so that we can make sure we are registered with the government in your state. 
+* If you engage in **offline or in-person fundraising**, so that we can make sure we are registered with the government in your state.&#x20;
   * (Purely online fundraising does not need to be reported to us.)
 * If you want to use an **external service or platform** to receive funds that is not covered in these docs, please [let us know](mailto:contact@opencollective.foundation) so we can make sure it is compatible. If you do not reach out ahead of time, it could cause trouble and delay fund transfers.
 * If you want to **sell goods or services**, or **provide anything tangible in return** to someone giving you money (i.e. it’s not purely a donation). There are tax implications including potential sales tax and impacts on tax-deductibility.
@@ -22,7 +22,7 @@ In any of these situations, or in others where you need assistance, don’t hesi
 
 ## Restrictions and Limitations
 
-While our goal is to help you do _more_, there are some limitations to what you can do as an initiative hosted by Open Collective. In order to host your initiative and all the others who are currently with us, Open Collective Foundation needs to maintain its 501(c)(3) status and remain in good standing with the IRS and other US authorities. 
+While our goal is to help you do _more_, there are some limitations to what you can do as an initiative hosted by Open Collective. In order to host your initiative and all the others who are currently with us, Open Collective Foundation needs to maintain its 501(c)(3) status and remain in good standing with the IRS and other US authorities.&#x20;
 
 :bulb: Please make sure to consider how the activities of your initiative could impact the other initiatives hosted by OCF.
 
@@ -38,7 +38,7 @@ _Note _: You can maintain another bank account for **other** projects and activi
 
 * Initiatives **cannot be simultaneously hosted by another organization or use another legal entity** for their hosted charitable activities. Review our [Outside Entities Policy](outside-entities-policy.md) for more.
 * Open Collective Foundation **cannot employ people** on behalf of initiatives. You may engage workers as** independent contractors** and they can get paid by [submitting an invoice](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) as an expense. If you are engaging people for significant work, it’s likely you’ll need a contract in place, so please let us know and we can help. (This is something we are currently working on.)
-* If you are engaging in **political work**, please make sure you are abiding by the IRS’s limitations on political activity for 501(c)(3) organizations. [We wrote a friendly guide here.](https://docs.opencollective.foundation/how-it-works/political-activities)
+* If you are engaging in **political work**, please make sure you are abiding by the IRS’s limitations on political activity for 501(c)(3) organizations. [We wrote a friendly guide here.](../political-activity.md)
 * OCF initiatives **are not** able to take on loans. We can facilitate donations and grants only.
 * We do not give/find our initatives money: We are here to support existing projects. Check [here ](https://blog.opencollective.com/ten-steps-to-successful-open-source-crowdfunding/)for some fundraising tips.
 
