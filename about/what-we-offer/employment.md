@@ -12,6 +12,8 @@ OCF ensures legal compliance with employment regulations, and takes care of payr
 
 ### Healthcare & Benefits
 
+Benefits ar
+
 Because many initiatives operate under the OCF umbrella, we can access large group health insurance plans only available to employers. This lowers costs an increases available options.
 
 Employees can decide whether or not to sign up for healthcare or other benefits, and the initiative's budget is only charged for benefits if they opt-in. There are a wide range of plans, which vary depending on the employee's place of residence and other factors. Once an employee gets set up and wants to activate health insurance, they can choose from available options.
@@ -33,7 +35,7 @@ Costs are automatically deducted monthly from the initiative's budget. Once empl
 ### Requirements & Policies
 
 * Employees must be located in the US and be allowed to legally work in the US.
-* OCF can currently only support salaried, exempt, part-time or full-time employees, not hourly or manual workers.
+* OCF can currently only support salaried, exempt, part-time or full-time employees, not hourly or manual workers. Other people, who ar
 * All employees have unlimited PTO and we do not track or pay out PTO.
 * Initiatives must maintain a budget of at least 3x monthly employment costs, to ensure funds are available to pay employees. (For fixed-term employment situations, it may be possible to drop below this threshold toward the end of the contract.)
 * Employees and initiative admins have to agree to the terms of the standard OCF employment agreement ([template](https://docs.google.com/document/d/1T-KYVOAGx74uJXGElVSuAKWOLgmsISJHVCHnwF4s-Xc/edit?usp=sharing)).
