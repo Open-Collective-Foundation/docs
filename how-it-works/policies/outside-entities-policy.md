@@ -4,18 +4,18 @@ description: Info about Separate Legal Entities and OCF
 
 # Outside Entities Policy
 
-OpenCollective Foundation (“OCF”) is a [comprehensive Model A fiscal sponsor](../../about/what-we-offer/fiscal-hosting.md#comprehensive-fiscal-sponsorship), meaning our service is designed for unincorporated initiatives (“Initiatives” and individually as an “Initiative”) that **don’t** have a separate legal entity of their own. This policy explains the rules for cases where an Initiative under OCF’s umbrella is also related to an external incorporated entity.
+OpenCollective Foundation (“OCF”) is a [comprehensive Model A fiscal sponsor](../../about/what-we-offer/fiscal-hosting.md#comprehensive-fiscal-sponsorship), meaning our service is designed for unincorporated initiatives (“Initiatives” and individually as an “Initiative”) that **don’t** have a separate legal entity of their own. This policy explains the rules for cases where an Initiative under OCF’s umbrella is also related to an external incorporated entity or EIN.
 
 #### **The OpenCollective Foundation **[**Terms of Fiscal Sponsorship**](../../getting-started/terms.md)** state:**
 
 > 6\. In the event that Sponsee receives funding outside of the Platform (that which does not go directly into the Fund), Sponsee will immediately transfer such funds to Sponsor for deposit into Sponsee’s Fund; at no time shall Sponsee hold any funds for the Initiative outside of the Fund or utilize the services of any other fiscal sponsor during the Term of this Agreement.
 
-Funds for Initiatives that OCF fiscally sponsors **must **be held by OCF, and the baseline policy is that Initiatives **cannot **use outside entities to perform any activities under this fiscal sponsorship relationship. 
+Funds for Initiatives that OCF fiscally sponsors **must **be held by OCF, and the baseline policy is that Initiatives **cannot **use outside entities to perform any activities under this fiscal sponsorship relationship.&#x20;
 
-However, there are some cases where exceptions may be possible, as set forth below. 
+However, there are some cases where exceptions may be possible, as set forth below.&#x20;
 
 {% hint style="success" %}
-See also: OCF’s [Outside Accounts Policy](outside-accounts-policy.md) for information about using personal accounts and third-party payment services. 
+See also: OCF’s [Outside Accounts Policy](outside-accounts-policy.md) for information about using personal accounts and third-party payment services.&#x20;
 {% endhint %}
 
 ## Why we need this policy
@@ -31,13 +31,13 @@ As such, OCF **must **ensure that funds for all Initiatives under its 501(c)(3) 
 Outside entities _may _be allowed if **all **the following criteria are met:
 
 * The Initiative **must **inform OCF about the existence of the outside entity and explain how the below criteria will be met.
-* The Initiative and the outside entity must have **completely separate and distinct names, missions, activities, and budgets**. 
+* The Initiative and the outside entity must have **completely separate and distinct names, missions, activities, and budgets**.&#x20;
 * Only donations to the OCF-hosted Initiative qualify for tax deductibility under OCF’s 501(c)(3) status—this must be made explicit to donors, and it must be clear which entity the donor is giving to.
 * Except as otherwise provided for in this policy, money **cannot **flow from the OCF Initiative budget out to a related outside entity. However, the related outside entity may donate to the OCF Initiative.
 * If the outside entity is performing any services for which it intends to invoice the Initiative budget, a signed contract must be in place **between OCF and the outside entity,** covering which services will be performed, payment terms, and how the services help achieve the charitable mission of the Initiative.
 * **Any contracts between OCF Initiatives and outside entities must be reviewed and signed by OCF staff **(hosted Initiatives are not legal entities that can enter contracts independently, nor are Initiative participants authorized to act as agents of OCF for legal purposes).
 
-## :ballot_box_with_check: **Examples of generally permitted use of outside entities:**
+## :ballot\_box\_with\_check: **Examples of generally permitted use of outside entities:**
 
 * An entity seeking to run a charity program associated with their brand but separated from its commercial operations.
 * A dormant entity that was previously used for 501(c)(3) activities prior to joining OCF, as long as it’s not active during the term of OCF fiscal sponsorship.
@@ -47,7 +47,7 @@ Outside entities _may _be allowed if **all **the following criteria are met:
 * Receiving donations from an outside entity for the hosted Initiative (as long as money isn’t flowing in the other direction from the Initiative to the outside entity).
 * Selling products or services through a distinct and separate outside entity where the proceeds are then donated to an Initiative under OCF (as long as buyers are made aware that their purchase is not a direct donation and isn’t tax deductible, and that the Initiative **and **the outside entity are separate and distinct).
 
-## :no_entry_sign: The following situations are not permitted under any circumstances:
+## :no\_entry\_sign: The following situations are not permitted under any circumstances:
 
 * Simultaneously having another fiscal sponsor while being fiscally sponsored by OCF.
 * Failing to disclose the relationship between an Initiative and its participants with an outside entity that is being paid from the Initiative’s budget.
@@ -58,7 +58,7 @@ Outside entities _may _be allowed if **all **the following criteria are met:
 
 ## Transitioning to an outside entity
 
-If an Initiative hosted by OCF wishes to move to another fiscal sponsor or incorporate its own entity, OCF will assist with the transition to the extent allowed by regulations. 
+If an Initiative hosted by OCF wishes to move to another fiscal sponsor or incorporate its own entity, OCF will assist with the transition to the extent allowed by regulations.&#x20;
 
 Money donated to a 501(c)(3) nonprofit organization **cannot **be transferred to a for-profit entity or an individual, so in almost all cases OCF can only move an Initiative’s funds to another 501(c)(3) entity. See the termination section of the OCF [Terms of Fiscal Sponsorship](../../getting-started/terms.md) for more details.
 
@@ -66,6 +66,6 @@ If you operate or desire to form your own legal entity for your Initiative, you 
 
 ## More Info:
 
-:loud_sound: Read our [Policies Update / Watch our Webinar](https://opencollective.com/foundation/updates/policies-webinar-notes-and-recording) to learn more about this policy. 
+:loud\_sound: Read our [Policies Update / Watch our Webinar](https://opencollective.com/foundation/updates/policies-webinar-notes-and-recording) to learn more about this policy.&#x20;
 
 :bulb: If you wish to use your own entity and bank account to manage funds on Open Collective, you may not need a fiscal host. [Learn more](https://docs.opencollective.com/help/fiscal-hosts/become-a-fiscal-host).
