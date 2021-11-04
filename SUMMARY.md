@@ -38,6 +38,7 @@
 * [What We Offer](about/what-we-offer/README.md)
   * [Fiscal Hosting](about/what-we-offer/fiscal-hosting.md)
   * [Liability Insurance](about/what-we-offer/liability-insurance.md)
+  * [Employment](about/what-we-offer/employment.md)
   * [Emails & Google Workspace](about/what-we-offer/emails.md)
 * [Our Mission and Values](about/mission-and-values.md)
 * [Official Information and Documents](about/official-information-and-documents.md)
