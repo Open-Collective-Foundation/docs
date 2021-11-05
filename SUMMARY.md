@@ -33,6 +33,7 @@
 * [FAQ](how-it-works/faq/README.md)
   * [Is OCF Right For You?](how-it-works/faq/is-ocf-right-for-you.md)
   * [Non-Platform Contributions](how-it-works/faq/non-platform.md)
+* [Test Page](how-it-works/test-page.md)
 
 ## About
 
@@ -46,4 +47,3 @@
 * [Team](about/team.md)
 * [These Docs](about/these-docs.md)
 * [Contact Us](about/contact-us.md)
-* [Test Page](about/test-page.md)
