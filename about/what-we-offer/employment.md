@@ -12,7 +12,7 @@ OCF ensures legal compliance with employment regulations, and takes care of payr
 
 ### Healthcare & Benefits
 
-Benefits ar
+Benefits are available to full time employees (30+ hours per week).
 
 Because many initiatives operate under the OCF umbrella, we can access large group health insurance plans only available to employers. This lowers costs an increases available options.
 
