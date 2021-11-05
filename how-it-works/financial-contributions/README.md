@@ -47,13 +47,13 @@ The fastest way to have access to funds is through **Card/PayPal donations** mad
 
 If you select to make a contribution via bank transfer, you will automatically be given bank transfer instructions, on screen and by email, along with a unique reference ID code.
 
-You can also download a [PDF with general payment info](../../about/official-information-and-documents.md#financial-information). 
+You can also download a [PDF with general payment info](../../about/official-information-and-documents.md#financial-information).&#x20;
 
 You must include the unique ID code as a reference with your bank transfer, so we can match up the transaction.
 
 Once the money has arrived, we will confirm, then the amount will be credited to the initiative’s balance and you will automatically receive a receipt.‌
 
-When you arrange the transfer, if you have the option of sending an email notification for the transaction, please send it to [contact@opencollective.foundation](mailto:contact@opencollective.foundation). 
+When you arrange the transfer, if you have the option of sending an email notification for the transaction, please send it to [contact@opencollective.foundation](mailto:contact@opencollective.foundation).&#x20;
 
 ### **Giving Anonymously**
 
@@ -116,7 +116,7 @@ Sometimes OCF receives money without a description of which initiative to direct
 * Interested in contributing **non-monetary **or **in-kind** items or property? [See our guide.](https://docs.opencollective.foundation/how-it-works/financial-contributions/in-kind)
 * To make a donation on behalf of a company or funder, or some other group, we recommend [setting up an Organization](https://docs.opencollective.com/help/financial-contributors/organizations) profile on the Open Collective platform.
 * Initiatives hosted by Open Collective Foundation can also [make financial contributions to one another](https://docs.opencollective.com/help/financial-contributors/collective-to-collective).
-* Check our [Third Party Fundraising Tools & Benefits](../third-party-fundraising-tools-and-benefits/) page to see other ways that money can be sent to an initiative
+* Check our [Third Party Fundraising Tools & Benefits](third-party-fundraising-tools-and-benefits/) page to see other ways that money can be sent to an initiative
 
 If none of the above options work, you can make a direct contribution to Open Collective Foundation (to one of our hosted initiatives) through [external payment processors and bank transfers, without using the Open Collective platform](https://docs.opencollective.foundation/how-it-works/faq/non-platform). Be aware, however, that such contributions can take _much longer_ to arrive in the initiative’s budget.
 
