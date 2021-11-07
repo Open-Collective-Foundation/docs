@@ -8,9 +8,9 @@ description: Frequently-Asked Questions
 
 #### **How can I contact Open Collective Foundation? Where can I go with questions or concerns?**
 
-Email us at [contact@opencollective.foundation](mailto:contact@opencollective.foundation). We will respond as soon as we can! 
+Email us at [contact@opencollective.foundation](mailto:contact@opencollective.foundation). We will respond as soon as we can!&#x20;
 
-You can also join [our Slack](https://join.slack.com/t/opencollective/shared_invite/zt-f43qko76-sD8G\~e_vQCm4TtpIsM4i\~A) to get in touch with the entire Open Collective community. Check in at the #ocf channel.
+You can also join [our Slack](https://join.slack.com/t/opencollective/shared\_invite/zt-f43qko76-sD8G\~e\_vQCm4TtpIsM4i\~A) to get in touch with the entire Open Collective community. Check in at the #ocf channel.
 
 #### **What is the difference between **_**Open Collective **_**and **_**Open Collective Foundation**_**?**
 
@@ -44,7 +44,7 @@ As long as your group is legitimate, meets all of the [eligibility requirements]
 
 #### **What if a contributor wants their contribution to be anonymous?**
 
-Tell them about our incognito contribution feature! Or they can also make a [guest contribution](https://docs.opencollective.com/help/financial-contributors/guest-contributions). You can also now [differentiate ](https://opencollective.com/opencollective/updates/new-legal-and-display-name-settings)your public display name from your private legal name. 
+Tell them about our incognito contribution feature! Or they can also make a [guest contribution](https://docs.opencollective.com/help/financial-contributors/guest-contributions). You can also now [differentiate ](https://opencollective.com/opencollective/updates/new-legal-and-display-name-settings)your public display name from your private legal name.&#x20;
 
 #### **What if a financial contributor is unable or not comfortable with submitting their credit card information online?**
 
@@ -56,13 +56,13 @@ If a donor is not comfortable with online credit card transactions, they can sen
 
 #### **Can we use outside fundraising platforms, like GoFundMe, to fundraise for our initiative?**
 
-In most cases, yes! As long as the funds are transferred into your Open Collective account in a timely manner (30 days). Please note, that most of the time, donations not made on the Open Collective platform will not receive the tax- deduction. For more details, please review our [Outside Accounts Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-accounts-policy). 
+In most cases, yes! As long as the funds are transferred into your Open Collective account in a timely manner (30 days). Please note, that most of the time, donations not made on the Open Collective platform will not receive the tax- deduction. For more details, please review our [Outside Accounts Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-accounts-policy).&#x20;
 
 Also, check out our [Third-Party Fundraising Tools page](https://docs.opencollective.foundation/how-it-works/third-party-fundraising-tools-and-benefits) for more options and details about GoFundMe.
 
 #### **Can we receive earned income (i.e., non-donations) or sell stuff through OCF?**
 
-OCF’s ability to support sales of goods and services as a means of fundraising [is limited](https://docs.opencollective.foundation/how-it-works/processes-and-limitations), but we will consider requests on a case-by-case basis. 
+OCF’s ability to support sales of goods and services as a means of fundraising [is limited](https://docs.opencollective.foundation/how-it-works/processes-and-limitations), but we will consider requests on a case-by-case basis.&#x20;
 
 From our [Outside Entities Policy](../policies/outside-entities-policy.md#examples-of-generally-permitted-use-of-outside-entities):
 
@@ -78,7 +78,7 @@ Due to state-by-state regulations and significant reporting requirements, OCF's 
 
 #### **What should I do if I receive funds outside of the platform?**
 
-As laid out in our [Terms](https://docs.google.com/document/u/2/d/e/2PACX-1vQ_fs7IOojAHaMBKYtaJetlTXJZLnJ7flIWkwxUSQtTkWUMtwFYC2ssb-ooBnT-Ldl6wbVhNQiCkSms/pub) (Exhibit A, no. 6), when you receive funds outside of the platform, you must immediately [transfer them to your account with Open Collective Foundation](https://docs.opencollective.foundation/about/official-info). Please let us know when you do so, and we will then manually add the funds to your budget. You [cannot hold funds outside of your budget at any time](https://docs.opencollective.foundation/how-it-works/processes-and-limitations).
+As laid out in our [Terms](https://docs.google.com/document/u/2/d/e/2PACX-1vQ\_fs7IOojAHaMBKYtaJetlTXJZLnJ7flIWkwxUSQtTkWUMtwFYC2ssb-ooBnT-Ldl6wbVhNQiCkSms/pub) (Exhibit A, no. 6), when you receive funds outside of the platform, you must immediately [transfer them to your account with Open Collective Foundation](https://docs.opencollective.foundation/about/official-info). Please let us know when you do so, and we will then manually add the funds to your budget. You [cannot hold funds outside of your budget at any time](https://docs.opencollective.foundation/how-it-works/processes-and-limitations).
 
 If you are using a third-party fundraising platform, please see the [Third-Party Tools and Benefits page](https://docs.opencollective.foundation/how-it-works/third-party-fundraising-tools-and-benefits) for information on specific platforms.
 
@@ -106,27 +106,25 @@ Please see [Submitting Expenses](https://docs.opencollective.com/help/expenses-a
 
 #### **Can we send or receive funds via Venmo or Cash App?**
 
-Unfortunately, these services do not currently allow nonprofit accounts. 
+Unfortunately, these services do not currently allow nonprofit accounts.&#x20;
 
-If you work with a mutual aid or solidarity project and must use these apps, please see our [Cash Assistance Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/cash-assistance-policy). 
+If you work with a mutual aid or solidarity project and must use these apps, please see our [Cash Assistance Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/cash-assistance-policy).&#x20;
 
 #### **Do you offer payroll services? Can I have employees?**
 
-Open Collective Foundation does not offer payroll services at this time. If your initiative has staff, they must engage as [independent contractors](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses).
+Yes! [More info](../../about/what-we-offer/employment.md).
 
-{% hint style="info" %}
-Open Collective Foundation must collect[ tax forms](https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information#info-for-expense-submitters-getting-paid) for any individual who **invoices **(this does not apply to **reimbursements) **over $600 in year. Those individuals will be automatically issued a 1099. [Here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/Filing-IRS-Form-W-9/INF19741.html)'s a good explanation of how W-9s work for independent contractors, and there's more info on what a 1099 is [here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/What-is-an-IRS-1099-Form-/INF14810.html).
+#### What about tax forms?
+
+Open Collective Foundation must collect[ tax forms](https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information#info-for-expense-submitters-getting-paid) for any individual who **invoices **(this does not apply to **reimbursements **or** payroll) **over $600 in year. Those individuals will be automatically issued a 1099. [Here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/Filing-IRS-Form-W-9/INF19741.html)'s a good explanation of how W-9s work for independent contractors, and there's more info on what a 1099 is [here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/What-is-an-IRS-1099-Form-/INF14810.html).
 
 When you submit an expense that puts you over the $600 threshold, you will be sent an email with a link to complete your tax form online. This email will come from HelloWorks, the system we use to handle the forms.
 
 Expenses will not be paid out to you until you submit the tax form.
 
-If you don’t meet the $600 threshold, simply report your earnings as miscellaneous self-employment income when you file your taxes as described above. 
+If you don’t meet the $600 threshold, simply report your earnings as miscellaneous self-employment income when you file your taxes as described above.&#x20;
 
-Please note Paypal only sends out 1099s when >$20,000 is invoiced. This means that users who select to get paid via Paypal will not be automatically sent the 1099. 
-{% endhint %}
-
-Payroll and employment services are something that we are currently exploring and hope to offer soon. If you are interested in these sorts of services, please [let us know](mailto:contact@opencollective.foundation).
+Please note: If you are paid via Paypal, OCF will not issue you a 1099 because Paypal is responsible for that. So you will not be asked for a tax form if paid via Paypal. However, Paypal only sends out 1099s when >$20,000 is invoiced. This means you will not get a 1099 from Paypal or OCF if you receive less than $20,000 total from Paypal.
 
 **Can I be incognito/not display my name?**
 
@@ -148,17 +146,17 @@ Initiatives do **not **have a separate legal existence from Open Collective Foun
 
 Individuals who receive income from Open Collective Foundation (or one of its hosted initiatives) may be asked to submit a W9 and will be issued a 1099. If this applies to you, you will automatically be sent a notification.
 
- If you have questions about your own personal tax situation, we recommend reaching out to a tax professional.
+&#x20;If you have questions about your own personal tax situation, we recommend reaching out to a tax professional.
 
 #### **Are we exempt from sales tax?**
 
 Sales taxes are administered on the state and local level, but we're happy to apply or complete a certificate for your state or area, provided that we are eligible. [Reach out to us](mailto:contact@opencollective.foundation) and we'll look into it!
 
-Only direct purchases, such as those via the platform or via Virtual Card, are eligible for sales tax exemption. Purchases that would be reimbursed are not eligible. 
+Only direct purchases, such as those via the platform or via Virtual Card, are eligible for sales tax exemption. Purchases that would be reimbursed are not eligible.&#x20;
 
 #### **Will OCF own our intellectual property?**
 
-Per [our Fiscal Sponsorship Agreement,](https://docs.google.com/document/u/2/d/e/2PACX-1vQ_fs7IOojAHaMBKYtaJetlTXJZLnJ7flIWkwxUSQtTkWUMtwFYC2ssb-ooBnT-Ldl6wbVhNQiCkSms/pub) you retain ownership of all your initiative's intellectual property. If you would like us to hold non-monetary assets, such as trademarks, please [reach out](mailto:contact@opencollective.foundation).
+Per [our Fiscal Sponsorship Agreement,](https://docs.google.com/document/u/2/d/e/2PACX-1vQ\_fs7IOojAHaMBKYtaJetlTXJZLnJ7flIWkwxUSQtTkWUMtwFYC2ssb-ooBnT-Ldl6wbVhNQiCkSms/pub) you retain ownership of all your initiative's intellectual property. If you would like us to hold non-monetary assets, such as trademarks, please [reach out](mailto:contact@opencollective.foundation).
 
 #### **Do you provide insurance coverage for our activities?**
 
@@ -214,6 +212,6 @@ Sometimes!  If all that's needed is [proof of 501(c)(3) status](../../about/offi
 #### For technical support or help with a specific expense, please email [support@opencollective.com](mailto:%20support@opencollective.com)
 {% endhint %}
 
-#### Where's my money? 
+#### Where's my money?&#x20;
 
 Ping us! We often receive money into our bank account without any indication of where it should go. (This is why it's so important to include the name of the initiative on any correpondances/checks/transfer that gets sent to OCF). We don't use/disperse that money anywhere, it just sits in our account until someone claims it, so just send us a message (in [slack ](http://slack.opencollective.com)or [email](mailto:%20contact@opencollective.foundation)) with screenshots/receipts that include the dollar amount & the initiative name, so that we may get your funds to you.

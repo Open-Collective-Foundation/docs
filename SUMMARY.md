@@ -20,6 +20,7 @@
   * [Applying for Institutional Grant Funding](how-it-works/financial-contributions/grant-funding.md)
   * [Third-Party Fundraising Tools and Benefits](how-it-works/financial-contributions/third-party-fundraising-tools-and-benefits/README.md)
     * [Setting Up GitHub Sponsors](how-it-works/financial-contributions/third-party-fundraising-tools-and-benefits/setting-up-github-sponsors.md)
+  * [Non-Platform Contributions](how-it-works/financial-contributions/non-platform.md)
 * [Payouts](how-it-works/payouts.md)
 * [Policies](how-it-works/policies/README.md)
   * [Cash Assistance Policy](how-it-works/policies/cash-assistance-policy.md)
@@ -32,7 +33,6 @@
 * [Fees](how-it-works/fees.md)
 * [FAQ](how-it-works/faq/README.md)
   * [Is OCF Right For You?](how-it-works/faq/is-ocf-right-for-you.md)
-  * [Non-Platform Contributions](how-it-works/faq/non-platform.md)
 
 ## About
 
