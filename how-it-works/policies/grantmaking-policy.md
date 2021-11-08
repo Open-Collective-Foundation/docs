@@ -50,6 +50,10 @@ A ‘Grant Agreement’ is a **legal contract** that includes the terms by which
 
 In cases where a grant has not been completed by the end of the timeframe specified, and the grant will proceed with an extension of time: OCF, the Initiative, and the Grantee will enter into a signed amendment to the Grant Agreement evidencing the parties’ agreement to such extension. An Extension Update is also required to explain why the extension is necessary (see Reporting, below).
 
+{% file src="../../.gitbook/assets/OCF Grant Agreement.pdf" %}
+The Grant Agreement template.
+{% endfile %}
+
 ## Grants Allowed Under This Policy
 
 The activities funded by grants must be in alignment with the [IRS definition of charitable purposes](https://docs.opencollective.foundation/how-it-works/about-grantmaking#what-do-you-mean-by-the-irs-definition-of-charitable-purposes). Grants under this Policy may only be given to **individual Grantees**, not to groups or incorporated entities.
@@ -163,7 +167,11 @@ All grant expenses must include a description of what the payment is for and an 
 #### Hardship grants
 
 {% hint style="info" %}
-By definition, someone receiving a Hardship Grant is facing extenuating life circumstances and we understand they may not always be able to submit paperwork. We have to demonstrate to the IRS that our policy makes a reasonable effort to gather all required evidence and reports. We will work with grantees and initiative admins to adapt to situations on a case by case basis as needed.
+By definition, someone receiving a Hardship Grant is facing extenuating life circumstances and we understand they may not always be able to submit paperwork. We have to demonstrate to the IRS that our policy makes a reasonable effort to gather all required evidence and reports.&#x20;
+
+In instances where receipts are not available at the time funds are send to the Grantee, the Initiative Admin should follow up with the Grantee about documentation. Once all funds have been disbursed and all documentation has been received, Projects can be archived.
+
+We will work with grantees and initiative admins to adapt to situations on a case by case basis as needed.
 {% endhint %}
 
 * If payments have already been made and grant funds will serve to reimburse the Grantee for these costs, receipts should be attached at the time of submission of the grant expense if they are available.

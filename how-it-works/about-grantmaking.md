@@ -14,26 +14,28 @@ This is a basic summary. More details are available in the Grantmaking Policy.
 2. The initiative admin fills out the [OCF Grantmaking Proposal](https://docs.google.com/forms/d/e/1FAIpQLSfJ-cHc8KEFvn-OThEEdGpgcsc4s5-GZ7nlXhci28RVr7bf7g/viewform) form
 3. OCF, the initiative, and the grantee sign a contract
 4. The grantee submits grant expenses to the Project set up for the grant within the initiative's Collective, and is paid out that way
-5. Any required reports are submitted via Updates on the Project page (see the Granmaking Policy for details)
+5. Any required reports are submitted via Updates on the Project page (see the [Grantmaking Policy](policies/grantmaking-policy.md) for details)
 6. OCF handles all the record-keeping and IRS reporting
 
 #### What info is required on the grantmaking proposal form?
 
-You can preview the [grantmaking form questions here](https://drive.google.com/file/d/1OqpEQhXeYyBYhMWFnM0\_q9WCG_WokWdM/view?usp=sharing) (also useful for printing out if needed, but we need all info submitted through the online form to move forward).
+You can preview the [grantmaking form questions here](https://drive.google.com/file/d/1OqpEQhXeYyBYhMWFnM0\_q9WCG\_WokWdM/view?usp=sharing) (also useful for printing out if needed, but we need all info submitted through the online form to move forward).
+
+If you have your own intake for for grant applicants, we recommend making sure that it covers all of the information in the OCF proposal form (links above).
 
 ## What sorts of things can we make grants for?
 
 #### Taxes and receipt availability
 
-The OCF grantmaking policy is _very narrowly scoped_ to enable grants that: 
+The OCF grantmaking policy is _very narrowly scoped_ to enable grants that:&#x20;
 
-a) Won't be taxable income to the grantee, and 
+a) Won't be taxable income to the grantee, and&#x20;
 
-b) Enable us to pay people upfront instead of needing receipts beforehand. 
+b) Enable us to pay people upfront instead of needing receipts beforehand.&#x20;
 
-This is because if these two aspects aren't a barrier for the payee, you can already pay people via normal expenses without all this extra process. 
+This is because if these two aspects aren't a barrier for the payee, you can already pay people via normal expenses without all this extra process.&#x20;
 
-If receipts are available, they can submit a reimbursement expense. If it's ok for them to get a 1099 for this income, they can submit an invoice expense. 
+If receipts are available, they can submit a reimbursement expense. If it's ok for them to get a 1099 for this income, they can submit an invoice expense.&#x20;
 
 If those options aren't a good fit _and_ they fit the criteria for a grant, you can proceed to make a grant.
 
@@ -47,7 +49,7 @@ You have a responsibility to ensure that all funds donated to your initiative go
 
 #### **What do you mean by **_**the IRS definition of charitable purposes**_**?**
 
-Generally, grants by our initiatives have to fit within the exempt purposes set forth in Internal Revenue Code section 501(c)(3): charitable, religious, educational, scientific, literary, testing for public safety, fostering national or international amateur sports competition, and the prevention of cruelty to children or animals. 
+Generally, grants by our initiatives have to fit within the exempt purposes set forth in Internal Revenue Code section 501(c)(3): charitable, religious, educational, scientific, literary, testing for public safety, fostering national or international amateur sports competition, and the prevention of cruelty to children or animals.&#x20;
 
 The term **charitable **can be confusing. The IRS uses the term in its generally accepted legal sense, and it includes relief of the poor, the distressed, or the underprivileged; advancement of religion; advancement of education or science; erection or maintenance of public buildings, monuments, or works; lessening the burdens of government; lessening neighborhood tensions; eliminating prejudice and discrimination; defending human and civil rights secured by law; and combating community deterioration and juvenile delinquency.
 
@@ -57,7 +59,7 @@ In emergencies, rapid response can make a tremendous difference.
 
 The policy we have developed for grantmaking streamlines the process for applicants and initiatives. One added benefit of this is that initiatives can respond quickly to their community's needs. If all the info is submitted and the contract is signed quickly, we can turn around grant payments within a few days.
 
-Traditional grantmaking by large foundations can drag on for months, and usually requires everything about the intended impact and budget be known upfront. OCF's approach to grantmaking enables a lower up-front barrier because we hold the funds as you spend the grant and check each expense instead of requiring a detailed budget ahead of time. 
+Traditional grantmaking by large foundations can drag on for months, and usually requires everything about the intended impact and budget be known upfront. OCF's approach to grantmaking enables a lower up-front barrier because we hold the funds as you spend the grant and check each expense instead of requiring a detailed budget ahead of time.&#x20;
 
 ## Best practices for responsible grantmaking
 
@@ -77,7 +79,7 @@ While our hosted initiatives may not be huge foundations, there is still an inhe
 
 ### Recommended practices
 
-The ability to make grants is just one piece of the puzzle. While OCF holds the line on the outer bounds of compliance, you and your team still have to work together on creating a grantmaking practice that centers equity and justice, and accounts as much as possible for the power imbalance inherent in the grantmaker-grantee relationship. Thankfully, there is a great deal of information out there to help you cultivate an efficient and equitable process. 
+The ability to make grants is just one piece of the puzzle. While OCF holds the line on the outer bounds of compliance, you and your team still have to work together on creating a grantmaking practice that centers equity and justice, and accounts as much as possible for the power imbalance inherent in the grantmaker-grantee relationship. Thankfully, there is a great deal of information out there to help you cultivate an efficient and equitable process.&#x20;
 
 Trust-based philanthropy, along with advocates within the grantmaking world like [Vu Le](https://nonprofitaf.com) and [Edgar Villanueva](https://decolonizingwealth.com), have suggested that grantmakers:
 
@@ -93,16 +95,16 @@ We recommend that our initiatives engage with grantees generously and responsibl
 
 ### Participatory grantmaking
 
-Even with all of the above practices in place, there is _still_ a significant power imbalance between the grantmaker and the grantee. 
+Even with all of the above practices in place, there is _still_ a significant power imbalance between the grantmaker and the grantee.&#x20;
 
-**Participatory grantmaking** is an essential tool of the solidarity economy. [More than just consulting your community](https://www.fordfoundation.org/media/3599/participatory_grantmaking-lmv7.pdf), or involving community members, participatory grantmaking is a form of co-creation. By distributing your grantmaking power to your community, you can turn patronage into solidarity and cultivate a tight-knit network of mutual support. 
+**Participatory grantmaking** is an essential tool of the solidarity economy. [More than just consulting your community](https://www.fordfoundation.org/media/3599/participatory\_grantmaking-lmv7.pdf), or involving community members, participatory grantmaking is a form of co-creation. By distributing your grantmaking power to your community, you can turn patronage into solidarity and cultivate a tight-knit network of mutual support.&#x20;
 
 Participatory grantmaking takes many forms:
 
-* Inviting community members into the grantmaking process (for example, InCUBATE's [Sunday Soup](https://issuu.com/chillrock/docs/sunday_soup) or [Accountable](https://opencollective.com/the-social-change-nest)'s [Pitch Perfect](https://www.eventbrite.com/o/accountable-33554519897) series)
+* Inviting community members into the grantmaking process (for example, InCUBATE's [Sunday Soup](https://issuu.com/chillrock/docs/sunday\_soup) or [Accountable](https://opencollective.com/the-social-change-nest)'s [Pitch Perfect](https://www.eventbrite.com/o/accountable-33554519897) series)
 * Inviting grantees to determine how much each receives (much like a participatory budgeting process, using tools like [CoBudget](https://cobudget.co))
 * Inviting grant applicants to vote for which applicants should be funded
-* And much more! 
+* And much more!&#x20;
 
 Open Collective Foundation fully supports initiatives' exploration of participatory grantmaking. We invite you to explore available guides and tools to cultivate a process that works for you:
 
@@ -112,4 +114,4 @@ Open Collective Foundation fully supports initiatives' exploration of participat
 
 ## Getting started
 
-If you're an existing initiative ready to start giving grants to individuals as part of your work, head over to our [Grantmaking Policy](policies/grantmaking-policy.md). Once you've read through the policy and understand the procedures, you can get started! If you have selected a grantee, your next step is to fill out the [OCF Grantmaking Proposal](https://docs.google.com/forms/d/e/1FAIpQLSfJ-cHc8KEFvn-OThEEdGpgcsc4s5-GZ7nlXhci28RVr7bf7g/viewform) form. (A pdf version of the form can be found [here](https://drive.google.com/file/d/1OqpEQhXeYyBYhMWFnM0\_q9WCG_WokWdM/view).)
+If you're an existing initiative ready to start giving grants to individuals as part of your work, head over to our [Grantmaking Policy](policies/grantmaking-policy.md). Once you've read through the policy and understand the procedures, you can get started! If you have selected a grantee, your next step is to fill out the [OCF Grantmaking Proposal](https://docs.google.com/forms/d/e/1FAIpQLSfJ-cHc8KEFvn-OThEEdGpgcsc4s5-GZ7nlXhci28RVr7bf7g/viewform) form. (A pdf version of the form can be found [here](https://drive.google.com/file/d/1OqpEQhXeYyBYhMWFnM0\_q9WCG\_WokWdM/view).)
