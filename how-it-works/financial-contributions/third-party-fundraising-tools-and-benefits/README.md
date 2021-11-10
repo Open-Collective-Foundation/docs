@@ -2,7 +2,7 @@
 description: More ways to raise funds
 ---
 
-# Third-Party Fundraising Tools and Benefits
+# 3rd-Party Fundraising Tools
 
 Although [receiving funds through the Open Collective platform](https://docs.opencollective.foundation/how-it-works/financial-contributions) is the swiftest, most direct & efficient way to receive funds, OCF’s hosted initiatives can also use some third-party tools to receive funds for their initiative.&#x20;
 
@@ -103,47 +103,3 @@ In the **Reimbursement**, make sure to include:&#x20;
 {% hint style="info" %}
 **All **funds for your initiative **must **be held in your budget with Open Collective Foundation. Read about the [limitations of our fiscal hosting service](https://docs.opencollective.foundation/how-it-works/processes-and-limitations), as well as our [Outside Accounts Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-accounts-policy). If you would like to make direct cash payments out to recipients, please review our [Cash Assistance Policy](../../policies/cash-assistance-policy.md).
 {% endhint %}
-
-## Third-Party Benefits
-
-{% hint style="success" %}
-Refer to** **[**our Official Information & Documentation**](../../../about/official-information-and-documents.md) if a third-party tool asks you for it (e.g. address, EIN, bank info, 990s)
-{% endhint %}
-
-### **Nonprofit Rates & Discounts** <a href="nonprofit-rates" id="nonprofit-rates"></a>
-
-Through OCF’s 501(c)(3) status, our initiatives are eligible for a variety of nonprofit rates and benefits. Don’t forget to inquire to vendors and venues about a possible discount!&#x20;
-
-Keep in mind that nonprofit rates are not a legal process. It's up to the vendor's discretion whether or not they offer initiatives a nonprofit rate.
-
-### **Google Workspace**
-
-[Reach out to us](mailto:contact@opencollective.foundation) if you would like to create a Google for Nonprofits or Google Workspace (a.k.a. G Suite) account for your initiative.
-
-#### **Techsoup**
-
-Techsoup has expressed that [discounts through TechSoup do NOT extend to fiscally hosted projects](https://www.techsoup.org/support/product-donation-faq#collapse3-4).
-
-#### **Slack**
-
-Slack offers discounts through TechSoup, and Techsoup is not compatible with fiscal hosting.
-
-## Donation Matching
-
-OCF can process matching donations (including employee giving programs, matching gifts, contributions-matching, funds arriving from third-party giving platforms, and grant matches), but in order to do so, we need additional information about the donation.&#x20;
-
-**To ensure that a donation match goes through, please **[**email us**](mailto:%20contact@opencollective.foundation)** the following:  **
-
-* [ ] Donor name
-* [ ] Donor company/employer name
-* [ ] Initiative name
-* [ ] Date(s) of original donation (if in two parts)
-* [ ] Dollar amount of original donation
-* [ ] The match amount or rate (i.e., 2x, 3x, 4x)
-* [ ] If known, the platform used by the company/employer
-
-Without the above information, we cannot guarantee that funds will be allocated properly and in a timely manner. This is due to the difficult manual processes required in order to correctly allocate those funds.&#x20;
-
-If needed, you can find our **EIN number** on the [Official Information and Documents page](https://docs.opencollective.foundation/about/official-information-and-documents). Any email communications from your matching gift program should go to [contact@opencollective.foundation](mailto:contact@opencollective.foundation).&#x20;
-
-If you are expecting funds and have not seen them arrive, or if you have donated funds via third-parties, please [email us at contact@opencollective.foundation](mailto:%20contact@opencollective.com) with the above information included and we will be happy to locate and allocate those funds with you.

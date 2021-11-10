@@ -1,6 +1,6 @@
-# Who We Are
+# What is OCF?
 
-Open Collective Foundation (OCF) is a fiscal sponsor and fiscal host ([what's that?](https://docs.opencollective.foundation/about/fiscal-hosting)) dedicated to providing a simple, open, lightweight path for charitable initiatives and communities to operate through a 501(c)(3) charitable entity ([what's that?](https://docs.opencollective.foundation/about/fiscal-hosting#what-does-501-c-3-mean)).
+**Open Collective Foundation (OCF)** is a fiscal sponsor (aka fiscal host) ([what's that?](https://docs.opencollective.foundation/about/fiscal-hosting)) dedicated to providing a simple, open, lightweight path for charitable initiatives and communities to operate through a 501(c)(3) charitable entity ([what's that?](https://docs.opencollective.foundation/about/fiscal-hosting#what-does-501-c-3-mean)).
 
 Hosted initiatives that align with our [impact areas](https://docs.opencollective.foundation/about/our-mission-and-values#our-missions-impact-areas) have access to the unique [Open Collective online platform](https://www.opencollective.com) for managing their funds. They can also receive **tax-deductible contributions** through our 501(c)(3) status.
 
@@ -11,11 +11,12 @@ _For the latest on our approach to fiscal sponsorship and the solidarity economy
 {% hint style="info" %}
 **Open Collective** is a growing ecosystem. In addition to OCF, in our network, we also have:
 
-* [Open Source Collective](https://www.oscollective.org) (OSC) which is a fiscal host for [open source](https://opensource.com/resources/what-open-source) projects,
-* [Open Collective Europe](https://opencollective.com/europe) is a Brussels-based non-profit to host collectives across Europe
+* [Open Source Collective](https://www.oscollective.org) (OSC) which is a fiscal host for [open source](https://opensource.com/resources/what-open-source) projects
+* [All For Climate](https://allforclimate.earth) hosts climate action movement groups in Europe
+* [Open Collective Europe](https://opencollective.com/europe) host all kinds of Collectives across Europe
 * [Open Collective NZ ](https://opencollective.com/ocnz)is a fundholder for kiwi projects, communities, and initiatives
-
-:star2:The Open Collective **platform **is used by [many different fiscal hosts](http://opencollective.com/hosts) to manage the finances of their initiatives.
+* [Social Change Nest](https://opencollective.com/the-social-change-nest) hosts community impact groups in the UK
+* [Many more fiscal hosts](https://opencollective.com/hosts) using the OC platform to provide similar services to their communities
 {% endhint %}
 
 ### **For Initiatives**
@@ -33,8 +34,8 @@ We exist to take care of the difficult administrative aspects of running a 501(c
 
 Open Collective Foundation can be the home for your initiative’s finances. As your [fiscal host](https://docs.opencollective.foundation/about/fiscal-hosting), we can be your legal entity and provide you with the financial tools you need to make an impact on the world! [**Read more about what we offer.**](https://docs.opencollective.foundation/about/what-we-offer)
 
-{% content-ref url="about/what-we-offer/" %}
-[what-we-offer](about/what-we-offer/)
+{% content-ref url="what-we-offer/" %}
+[what-we-offer](what-we-offer/)
 {% endcontent-ref %}
 
 #### **Sign Me Up!**
@@ -49,19 +50,19 @@ Ready to get started right now? Find out [How To Apply](https://docs.opencollect
 Check out [our page on Open Collective](https://opencollective.com/foundation) to see the over 200 [initiatives we host](https://opencollective.com/foundation#category-CONTRIBUTIONS), as well as [our transparent operating budget](https://opencollective.com/foundation#category-BUDGET).
 {% endhint %}
 
- 💡 If you would like to learn about making tax-deductible financial contributions to our hosted initiatives, see the [Financial Contributions overview](https://docs.opencollective.foundation/how-it-works/financial-contributions).
+&#x20;💡 If you would like to learn about making tax-deductible financial contributions to our hosted initiatives, see the [Financial Contributions overview](https://docs.opencollective.foundation/how-it-works/financial-contributions).
 
 ## Contact Us
 
 Didn’t find what you are looking for? :mag: Use the Search Bar in the upper right corner!
 
- :love_letter:Email us at [contact@opencollective.foundation](mailto:contact@opencollective.foundation)
+&#x20;:love\_letter:Email us at [contact@opencollective.foundation](mailto:contact@opencollective.foundation)
 
-:speech_balloon:Join [our Slack](https://join.slack.com/t/opencollective/shared_invite/zt-f43qko76-sD8G\~e_vQCm4TtpIsM4i\~A) to get in touch with the entire Open Collective community
+:speech\_balloon:Join [our Slack](https://join.slack.com/t/opencollective/shared\_invite/zt-f43qko76-sD8G\~e\_vQCm4TtpIsM4i\~A) and find us in the #ocf channel
 
 :bird: Follow us on [Twitter](https://twitter.com/opencollect)
 
-:round_pushpin: Our [mailing address](https://docs.opencollective.foundation/about/official-information-and-documents#address) & [Other Important Docs](https://docs.opencollective.foundation/about/official-information-and-documents)
+:round\_pushpin: Our [mailing address](https://docs.opencollective.foundation/about/official-information-and-documents#address) & [Other Important Docs](https://docs.opencollective.foundation/about/official-information-and-documents)
 
 {% hint style="success" %}
 _**We’re transparent!**_  View our [budget](https://opencollective.com/foundation/#category-BUDGET) and check out our [blog](https://blog.opencollective.com)!

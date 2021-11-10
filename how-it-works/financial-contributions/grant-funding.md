@@ -1,4 +1,4 @@
-# Applying for Institutional Grant Funding
+# Applying for Grants
 
 ## Grant Applications
 
@@ -59,3 +59,10 @@ Make sure to punctually submit completed annual, interim, and/or final reports t
 {% hint style="info" %}
 Since as your fiscal host we are technically the grant recipient, sometimes the funder will send information about reports to our staff, but we will always make sure to forward such information to you.
 {% endhint %}
+
+See also:
+
+{% content-ref url="../../faq/grants-faq.md" %}
+[grants-faq.md](../../faq/grants-faq.md)
+{% endcontent-ref %}
+

@@ -8,7 +8,7 @@ description: >-
 # Grantmaking Policy
 
 {% hint style="info" %}
-**For more info on this policy, helpful tips, and advice about equitable grantmaking, see **[**About Grantmaking**](../about-grantmaking.md)**. **\
+**For more info on this policy, helpful tips, and advice about equitable grantmaking, see **[**About Grantmaking**](../../what-we-offer/about-grantmaking.md)**. **\
 \
 If the person you wish to fund can provide receipts before payment and/or is ok with getting a 1099 for this income, they can submit normal expenses instead of going through this grant process.
 

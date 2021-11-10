@@ -37,7 +37,7 @@ _Note _: You can maintain another bank account for **other** projects and activi
 {% endhint %}
 
 * Initiatives **cannot be simultaneously hosted by another organization or use another legal entity** for their hosted charitable activities. Review our [Outside Entities Policy](outside-entities-policy.md) for more.
-* If you are engaging in **political work**, please make sure you are abiding by the IRS’s limitations on political activity for 501(c)(3) organizations. [We wrote a friendly guide here.](../political-activity.md)
+* If you are engaging in **political work**, please make sure you are abiding by the IRS’s limitations on political activity for 501(c)(3) organizations. [We wrote a friendly guide here.](political-activity.md)
 * OCF initiatives **are not** able to take on loans. We can facilitate donations and grants only.
 * We do not give/find our initatives money: We are here to support existing projects. Check [here ](https://blog.opencollective.com/ten-steps-to-successful-open-source-crowdfunding/)for some fundraising tips.
 

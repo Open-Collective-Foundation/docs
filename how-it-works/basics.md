@@ -15,7 +15,7 @@ Once you [apply to join Open Collective Foundation](https://docs.opencollective.
 {% hint style="info" %}
 * **Open Collective Inc**. is the **platform **that OCF operates on.&#x20;
   * Open Collective has their own [homepage](https://www.opencollective.com), [budget](https://opencollective.com/opencollective#category-ABOUT), and [documentation](https://docs.opencollective.com/help/). These docs you're currently reading are a pared down version to relay information that is specific to OCF.
-* **OCF (**Open Collective** Foundation)** is a charitable** **[**fiscal host**](../about/what-we-offer/fiscal-hosting.md) who uses the Open Collective platform
+* **OCF (**Open Collective** Foundation)** is a charitable** **[**fiscal host**](../what-we-offer/fiscal-hosting.md) who uses the Open Collective platform
 {% endhint %}
 
 For an overview of [using the Open Collective platform](https://opencollective.com/how-it-works), check out their[ documentation](https://docs.opencollective.com). It has a ton of great information about features like the [transparent budget](https://docs.opencollective.com/help/collectives/budget), customizing an [initiative profile](https://docs.opencollective.com/help/collectives/customize-collective), [tiers, goals](https://docs.opencollective.com/help/collectives/tiers-goals), and other tools now at your disposal.&#x20;
@@ -81,4 +81,4 @@ Also check our [Third-Party Fundraising Tools](financial-contributions/third-par
 [official-information-and-documents.md](../about/official-information-and-documents.md)
 {% endcontent-ref %}
 
-Haven't found what you are looking for? :mag: Use the Search Bar in the upper right corner or check our [FAQ](faq/)!
+Haven't found what you are looking for? :mag: Use the Search Bar in the upper right corner or check our [FAQ](broken-reference)!

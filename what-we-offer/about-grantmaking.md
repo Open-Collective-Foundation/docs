@@ -1,6 +1,6 @@
 # About Grantmaking
 
-Open Collective Foundation is excited to offer our initiatives the opportunity to give grants to individuals in furtherance of their mission. For all of the details of how it works, make sure to take a look at our [**Grantmaking Policy**](policies/grantmaking-policy.md).
+Open Collective Foundation is excited to offer our initiatives the opportunity to give grants to individuals in furtherance of their mission. For all of the details of how it works, make sure to take a look at our [**Grantmaking Policy**](../how-it-works/policies/grantmaking-policy.md).
 
 {% hint style="info" %}
 Want to make a grant to a 501(c)(3) organization or contribute to another OCF initiative? You don't need to make a formal grant. Reach out to us and we'll be happy to help.
@@ -14,7 +14,7 @@ This is a basic summary. More details are available in the Grantmaking Policy.
 2. The initiative admin fills out the [OCF Grantmaking Proposal](https://docs.google.com/forms/d/e/1FAIpQLSfJ-cHc8KEFvn-OThEEdGpgcsc4s5-GZ7nlXhci28RVr7bf7g/viewform) form
 3. OCF, the initiative, and the grantee sign a contract
 4. The grantee submits grant expenses to the Project set up for the grant within the initiative's Collective, and is paid out that way
-5. Any required reports are submitted via Updates on the Project page (see the [Grantmaking Policy](policies/grantmaking-policy.md) for details)
+5. Any required reports are submitted via Updates on the Project page (see the [Grantmaking Policy](../how-it-works/policies/grantmaking-policy.md) for details)
 6. OCF handles all the record-keeping and IRS reporting
 
 #### What info is required on the grantmaking proposal form?
@@ -114,4 +114,4 @@ Open Collective Foundation fully supports initiatives' exploration of participat
 
 ## Getting started
 
-If you're an existing initiative ready to start giving grants to individuals as part of your work, head over to our [Grantmaking Policy](policies/grantmaking-policy.md). Once you've read through the policy and understand the procedures, you can get started! If you have selected a grantee, your next step is to fill out the [OCF Grantmaking Proposal](https://docs.google.com/forms/d/e/1FAIpQLSfJ-cHc8KEFvn-OThEEdGpgcsc4s5-GZ7nlXhci28RVr7bf7g/viewform) form. (A pdf version of the form can be found [here](https://drive.google.com/file/d/1OqpEQhXeYyBYhMWFnM0\_q9WCG\_WokWdM/view).)
+If you're an existing initiative ready to start giving grants to individuals as part of your work, head over to our [Grantmaking Policy](../how-it-works/policies/grantmaking-policy.md). Once you've read through the policy and understand the procedures, you can get started! If you have selected a grantee, your next step is to fill out the [OCF Grantmaking Proposal](https://docs.google.com/forms/d/e/1FAIpQLSfJ-cHc8KEFvn-OThEEdGpgcsc4s5-GZ7nlXhci28RVr7bf7g/viewform) form. (A pdf version of the form can be found [here](https://drive.google.com/file/d/1OqpEQhXeYyBYhMWFnM0\_q9WCG\_WokWdM/view).)

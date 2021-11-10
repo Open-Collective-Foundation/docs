@@ -35,7 +35,7 @@ Costs are automatically deducted monthly from the initiative's budget. Once empl
 ### Requirements & Policies
 
 * Employees must be located in the US and be allowed to legally work in the US.
-* OCF can currently only support salaried, exempt, part-time or full-time employees, not hourly or manual workers. Other people, who ar
+* OCF can currently only support salaried, exempt, part-time or full-time employees, not hourly or manual workers. For other types of work, you may pay people as independent contractors instead (employment laws allowing - [see below](employment.md#worker-classification)).
 * All employees have unlimited PTO and we do not track or pay out PTO.
 * Initiatives must maintain a budget of at least 3x monthly employment costs, to ensure funds are available to pay employees. (For fixed-term employment situations, it may be possible to drop below this threshold toward the end of the contract.)
 * Employees and initiative admins have to agree to the terms of the standard OCF employment agreement ([template](https://docs.google.com/document/d/1T-KYVOAGx74uJXGElVSuAKWOLgmsISJHVCHnwF4s-Xc/edit?usp=sharing)).
@@ -49,7 +49,7 @@ There are laws designed to prevent worker exploitation and ensure workers are af
 
 If you'd like to learn more about classification, read the guide below. It's a complex topic and we regularly run scenarios past our lawyer to be sure. If you have any questions about classification, please [contact us](mailto:contact@opencollective.foundation).
 
-{% file src="../../.gitbook/assets/Independent_Contractor_Classification_Guide.pdf" %}
+{% file src="../.gitbook/assets/Independent_Contractor_Classification_Guide.pdf" %}
 
 ## Set up Employment
 
@@ -64,8 +64,8 @@ Here are the steps to employ someone.
 
 ## Terminating Employment
 
-OCF is an at-will employer, and either OCF or the employee may end the employment relationship at any time. In most circumstances, OCF will terminate employment at the instruction of the intiative admin named as the employee's supervisor in the employment contract.&#x20;
+OCF is an at-will employer, and either OCF or the employee may end the employment relationship at any time. In most circumstances, OCF will terminate employment at the instruction of the initiative admin named as the employee's supervisor in the employment contract.&#x20;
 
-Fixed term employment contracts will expire upon the end date specified unless they are extended. If the initiative or employee no longer meets the basic [requirements for employment](employment.md#requirements-and-policies), the employment relationship will end.
+Fixed term employment contracts will expire upon the end date specified, unless they are extended. If the initiative or employee no longer meets the basic [requirements for employment](employment.md#requirements-and-policies), such as lacking budget to cover costs, the employment relationship will end.
 
-Where possible, we ask initiatives to give OCF advance notice so we can take care of the termination process in a timely manner.&#x20;
+Where possible, we ask initiatives to give OCF advance notice, so we can take care of the termination process in a timely manner.&#x20;
