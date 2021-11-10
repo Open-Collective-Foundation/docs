@@ -2,9 +2,9 @@
 
 ## Grant Applications
 
-The opportunity to apply for grants is one of the biggest benefits of being hosted by a [501(c)(3) organization](https://docs.opencollective.foundation/about/fiscal-hosting#what-does-501-c-3-mean) like Open Collective Foundation.
+The opportunity to apply for grants is one of the biggest benefits of being hosted by a [501(c)(3) organization](../../what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean) like Open Collective Foundation.
 
-When drafting grant applications, you will likely need info like our [EIN number, address, and maybe even our banking information](https://docs.opencollective.foundation/about/official-information-and-documents). You may also need to [upload our IRS Determination Letter](https://docs.opencollective.foundation/about/official-information-and-documents). Please check the [Official Information and Documents](https://docs.opencollective.foundation/about/official-information-and-documents) page first, and if the application asks for info or documentation not listed there (such as our most recent audit, 990, or other budget documents), [reach out](mailto:contact@opencollective.foundation) and we will endeavor to put it together for you. &#x20;
+When drafting grant applications, you will likely need info like our [EIN number, address, and maybe even our banking information](../../about/official-information-and-documents.md). You may also need to [upload our IRS Determination Letter](../../about/official-information-and-documents.md#nonprofit-status). Please check the [Official Information and Documents](../../about/official-information-and-documents.md) page first, and if the application asks for info or documentation not listed there (such as our most recent audit, 990, or other budget documents), [reach out](../../about/contact-us.md) and we will endeavor to put it together for you. &#x20;
 
 {% hint style="info" %}
 Some applications will ask for a document describing the fiscal sponsorship relationship. If they do, you can send them our [Terms of Fiscal Sponsorship](../../getting-started/terms.md) (you agree to these when you sign up with us.)&#x20;
@@ -12,27 +12,27 @@ Some applications will ask for a document describing the fiscal sponsorship rela
 If they ask for a signed MOU (Memorandum of Understanding), email us at [contact@opencollective.foundation](mailto:%20contact@opencollective.foundation) to request one. Please be sure to include you initiative's name in the request.
 {% endhint %}
 
-Make sure to also double-check that the funder accepts applications from “fiscally sponsored projects” (i.e. what OCF calls 'initiatives'). Although [fiscal hosting (a.k.a. fiscal sponsorship)](https://docs.opencollective.foundation/about/fiscal-hosting) is an established and widespread practice in the nonprofit world, there are funders that do not allow it. If their guidelines do not say, reach out to them and ask! (And in general, don’t be afraid to ask funders questions.)
+Make sure to also double-check that the funder accepts applications from “fiscally sponsored projects” (i.e. what OCF calls 'initiatives'). Although [fiscal hosting (a.k.a. fiscal sponsorship)](../../what-we-offer/fiscal-hosting.md) is an established and widespread practice in the nonprofit world, there are funders that do not allow it. If their guidelines do not say, reach out to them and ask! (And in general, don’t be afraid to ask funders questions.)
 
 {% hint style="info" %}
-When you are applying for a grant, keep in mind that this can be a time-consuming process! Try to [let us know](mailto:contact@opencollective.foundation) well in advance of the due date about what you need so that we have time to prepare and so that we don’t run the risk of missing a deadline.
+When you are applying for a grant, keep in mind that this can be a time-consuming process! Try to [let us know](../../about/contact-us.md) well in advance of the due date about what you need so that we have time to prepare and so that we don’t run the risk of missing a deadline.
 {% endhint %}
 
 ### **Government Grants**
 
-Since Open Collective Foundation is a 501(c)(3) organization, our projects are eligible to apply for many government grants. Please be aware, however, that there may be some government grant programs that **do not** accept fiscally sponsored projects or require the fiscal sponsor to be based in their geographic area of focus (OCF is [based in Walnut, California](https://docs.opencollective.foundation/about/official-information-and-documents#address)).
+Since Open Collective Foundation is a 501(c)(3) organization, our projects are eligible to apply for many government grants. Please be aware, however, that there may be some government grant programs that **do not** accept fiscally sponsored projects or require the fiscal sponsor to be based in their geographic area of focus (OCF is [based in Walnut, California](../../about/official-information-and-documents.md#address)).
 
 Some large (e.g., federal) government programs also have extremely complicated application processes that require significant, time-intensive work from you and our staff. Because of the labor involved, as well as some of their restrictions, our initiatives may not be able to submit such applications.
 
-:white\_check\_mark: If you are interested in a government grant, please [reach out to us](mailto:contact@opencollective.foundation) early in the process so we can determine whether or not we will be able to apply.
+:white\_check\_mark: If you are interested in a government grant, please [reach out to us](../../about/contact-us.md) early in the process so we can determine whether or not we will be able to apply.
 
 ## Grant Contracts and Receiving Funds
 
 If your grant application has been approved, congratulations! The first thing the funder is likely to do is provide a grant contract that needs to be signed.
 
-Since grant [contracts are legal agreements between the funder and Open Collective Foundation](https://docs.opencollective.foundation/how-it-works/processes-and-limitations), **they will need to be signed by an OCF staff member**. Once you receive a grant contract, please send it to [contact@opencollective.foundation](mailto:contact@opencollective.foundation) or ask the funder to send it to us directly.
+Since grant [contracts are legal agreements between the funder and Open Collective Foundation](../policies/#situations-where-we-need-to-be-involved), **they will need to be signed by an OCF staff member**. Once you receive a grant contract, please send it to [contact@opencollective.foundation](mailto:contact@opencollective.foundation) or ask the funder to send it to us directly.
 
-If they provide you with an ACH form (for payments via bank transfer) or ask for [our mailing address](https://docs.opencollective.foundation/about/official-information-and-documents#address) (to [contribute via check](https://docs.opencollective.foundation/how-it-works/financial-contributions#check-contributions)), you can send that information to them. **If it needs to be signed by an Open Collective Foundation team member,** [**send it to us**](mailto:contact@opencollective.foundation)**.** Once we have received and processed the contribution, you will see the funds in your initiative’s budget.
+If they provide you with an ACH form (for payments via bank transfer) or ask for [our mailing address](../../about/official-information-and-documents.md#address) (to [contribute via check](checks.md)), you can send that information to them. **If it needs to be signed by an Open Collective Foundation team member,** [**send it to us**](../../about/contact-us.md)** via email.** Once we have received and processed the contribution, you will see the funds in your initiative’s budget.
 
 {% hint style="warning" %}
 **All checks must be made out to Open Collective Foundation**. We cannot accept checks that are made out to your initiative’s name or an individual person.

@@ -5,7 +5,7 @@ description: Alternate Donation Options
 # Off-Platform Contributions
 
 {% hint style="danger" %}
-**PLEASE MAKE YOUR CONTRIBUTION **[**THROUGH THE OPEN COLLECTIVE PLATFORM**](https://docs.opencollective.foundation/how-it-works/financial-contributions)** WHEREVER POSSIBLE. Using the platform is the best way to ensure the quickest, smoothest experience.**
+**PLEASE MAKE YOUR CONTRIBUTION **[**THROUGH THE OPEN COLLECTIVE PLATFORM**](./)** WHEREVER POSSIBLE. Using the platform is the best way to ensure the quickest, smoothest experience.**
 {% endhint %}
 
 If you would like to contribute but would prefer to do so **without **using the Open Collective platform, you will have to manually arrange the payments yourself. Also, **you will need to communicate with us** about your payment so that we can properly allocate it to the intended hosted initiative.&#x20;

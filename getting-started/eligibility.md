@@ -4,7 +4,7 @@
 
 Open Collective Foundation can fiscally sponsor initiatives that meet the following requirements:
 
-* Activities must align with [our mission](https://docs.opencollective.foundation/about/mission-and-values) & [impact areas](https://docs.opencollective.foundation/about/mission-and-values#our-missions-impact-areas)
+* Activities must align with [our mission](../about/mission-and-values.md#our-mission) & [impact areas](../about/mission-and-values.md#our-missions-impact-areas)
 * Activities must be [charitable](https://www.irs.gov/charities-non-profits/charitable-purposes), to benefit and open to the public (per [IRS requirements](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations) for [501(c)(3)s](../what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean))
 * Activities **cannot **include [lobbying or political campaign intervention](https://docs.opencollective.foundation/how-it-works/political-activity)
 * Initiative must be based in the United States (although activities & expense payouts can be international)
@@ -24,8 +24,8 @@ Here are things that are not required by Open Collective Foundation that are som
 * No minimum budget balance.
 * No minimum amount you have to raise per year.
 * No duration requirement (You can [leave ](https://docs.opencollective.com/help/collectives/closing-a-collective)Open Collective at any time)
-* No onerous application process, just [a few straightforward questions](https://docs.opencollective.foundation/getting-started/how-to-apply/application-questions).
-* No specific reporting requirements (the [platform automates that](https://docs.opencollective.com/help/collectives/budget)!).
+* No onerous application process, just [a few straightforward questions](how-to-apply/application-questions.md).
+* No intense reporting requirements (the [platform automates that](https://docs.opencollective.com/help/collectives/budget)!) other than posting a straightforward annual [Update](https://docs.opencollective.com/help/collectives/communication#updates) to your Collective page.
 
 Open Collective is a **home** for your community or collaborative charitable project - no matter how much money comes in.
 
@@ -35,7 +35,7 @@ If accepted to be hosted by Open Collective Foundation, any raised funds are now
 
 ## Ready to Apply?
 
-If you meet the above requirements, check out [How To Apply](https://docs.opencollective.foundation/getting-started/how-to-apply) for your next steps or [Submit an Application.](https://www.opencollective.com/foundation/apply)
+If you meet the above requirements, check out [How To Apply](how-to-apply/) for your next steps or [Submit an Application.](https://www.opencollective.com/foundation/apply)
 
 Or to learn more about **How it Works**, keep reading these Docs:
 

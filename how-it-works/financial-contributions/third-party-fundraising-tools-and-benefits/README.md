@@ -4,10 +4,10 @@ description: More ways to raise funds
 
 # 3rd-Party Fundraising Tools
 
-Although [receiving funds through the Open Collective platform](https://docs.opencollective.foundation/how-it-works/financial-contributions) is the swiftest, most direct & efficient way to receive funds, OCF’s hosted initiatives can also use some third-party tools to receive funds for their initiative.&#x20;
+Although [receiving funds through the Open Collective platform](../) is the swiftest, most direct & efficient way to receive funds, OCF’s hosted initiatives can also use some third-party tools to receive funds for their initiative.&#x20;
 
 {% hint style="info" %}
-Please be sure to review our [**Outside Entities Policy**](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-entities-policy) and [**Outside Accounts Policy**](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-accounts-policy) before moving forward with any of these options&#x20;
+Please be sure to review our [**Outside Entities Policy**](../../policies/outside-entities-policy.md) and [**Outside Accounts Policy**](../../policies/outside-accounts-policy.md) before moving forward with any of these options&#x20;
 {% endhint %}
 
 **Note:**
@@ -15,7 +15,7 @@ Please be sure to review our [**Outside Entities Policy**](https://docs.opencoll
 * You must [reach out to us](mailto:contact@opencollective.foundation) if you decide to use one of these third-party platforms. We may already have an account on the platform, in which case we will help you get things set up. It will also speed up the process of getting the funds into your budget.
 * Since you are part of Open Collective Foundation, funds will need to go directly to us and then we’ll make sure they go into your initiative’s budget.
 * Since moving funds from these sites into your balance is a manual process, and due to external platforms’ own unique disbursement processes, the funds will not reach you as quickly as those raised through Open Collective. There will likely be delays.
-* OCF will charge [our standard fee](https://docs.opencollective.foundation/how-it-works/fees) on funds raised on the external sites.
+* OCF will charge [our standard fee](../../fees.md) on funds raised on the external sites.
 
 ## Third-Party Tools
 
@@ -81,7 +81,7 @@ If you use any of these tools, **please **[**email us**](mailto:contact@opencoll
 
 #### External PayPal Accounts
 
-Since initiatives can receive and spend funds via PayPal from within the Open Collective platform, you **should not** set up an external PayPal account for receiving or spending funds. Please review our [**Outside Accounts Policy**](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-accounts-policy)** **for more details.
+Since initiatives can receive and spend funds via PayPal from within the Open Collective platform, you **should not** set up an external PayPal account for receiving or spending funds. Please review our [**Outside Accounts Policy**](../../policies/outside-accounts-policy.md)** **for more details.
 
 #### Amazon Smile
 
@@ -101,5 +101,5 @@ In the **Reimbursement**, make sure to include:&#x20;
 * [ ] as well as the **receipt **from the service (e.g. Venmo) that you used to transfer them the funds.
 
 {% hint style="info" %}
-**All **funds for your initiative **must **be held in your budget with Open Collective Foundation. Read about the [limitations of our fiscal hosting service](https://docs.opencollective.foundation/how-it-works/processes-and-limitations), as well as our [Outside Accounts Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-accounts-policy). If you would like to make direct cash payments out to recipients, please review our [Cash Assistance Policy](../../policies/cash-assistance-policy.md).
+**All **funds for your initiative **must **be held in your budget with Open Collective Foundation. Read about the [limitations of our fiscal hosting service](../../policies/#restrictions-and-limitations), as well as our [Outside Accounts Policy](../../policies/outside-accounts-policy.md). If you would like to make direct cash payments out to recipients, please review our [Cash Assistance Policy](../../policies/cash-assistance-policy.md).
 {% endhint %}

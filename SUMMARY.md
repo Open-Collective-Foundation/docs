@@ -7,7 +7,7 @@
   * [Online Platform](what-we-offer/online-platform.md)
   * [Liability Insurance](what-we-offer/liability-insurance.md)
   * [Employment](what-we-offer/employment.md)
-  * [About Grantmaking](what-we-offer/about-grantmaking.md)
+  * [Grantmaking](what-we-offer/about-grantmaking.md)
   * [Emails & Google Workspace](what-we-offer/emails.md)
   * [Nonprofit Discounts](what-we-offer/nonprofit-discounts.md)
 
@@ -32,7 +32,7 @@
   * [3rd-Party Fundraising Tools](how-it-works/financial-contributions/third-party-fundraising-tools-and-benefits/README.md)
     * [Setting Up GitHub Sponsors](how-it-works/financial-contributions/third-party-fundraising-tools-and-benefits/setting-up-github-sponsors.md)
   * [Off-Platform Contributions](how-it-works/financial-contributions/non-platform.md)
-  * [Other ways to give](how-it-works/financial-contributions/other-ways-to-give.md)
+  * [Other Ways To Give](how-it-works/financial-contributions/other-ways-to-give.md)
 * [Payouts](how-it-works/payouts.md)
 * [Policies](how-it-works/policies/README.md)
   * [Cash Assistance Policy](how-it-works/policies/cash-assistance-policy.md)

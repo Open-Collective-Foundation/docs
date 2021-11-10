@@ -8,11 +8,11 @@ description: Fiscal sponsorship as a service
 
 You shouldn't have to incorporate a legal entity, start a new bank account, and set up bookkeeping just to collect and spend money for a project—and with Open Collective Foundation you don't have to.
 
-We are a [501(c)(3)](https://docs.opencollective.foundation/about/fiscal-hosting#what-does-501-c-3-mean) organization specializing in technology-driven, Comprehensive (Model A) fiscal hosting ([what’s that?](https://docs.opencollective.foundation/about/fiscal-hosting)) for collaborative initiatives. We can be your legal entity and provide you with the financial tools you need to make an impact on the world! No bank account required.
+We are a [501(c)(3)](fiscal-hosting.md#what-does-501-c-3-mean) organization specializing in technology-driven, Comprehensive (Model A) fiscal hosting ([what’s that?](fiscal-hosting.md)) for collaborative initiatives. We can be your legal entity and provide you with the financial tools you need to make an impact on the world! No bank account required.
 
 ### **Nonprofit Status**
 
-Open Collective Foundation is a [501(c)(3) organization](https://docs.opencollective.foundation/about/fiscal-hosting#what-does-501-c-3-mean), meaning our hosted initiatives are charitable projects that can receive **tax-deductible donations**.
+Open Collective Foundation is a [501(c)(3) organization](fiscal-hosting.md#what-does-501-c-3-mean), meaning our hosted initiatives are charitable projects that can receive **tax-deductible donations**.
 
 This arrangement is perfect for charitable projects that want to move fast and reduce setup costs, especially since incorporating an entity and getting 501(c)(3) status can take over a year, requires a lot of admin to run, and likely requires hiring an accountant and a lawyer.
 
@@ -22,7 +22,7 @@ Further, hosted initiatives have access to one of the biggest benefits of 501(c)
 
 Open Collective Foundation will take care of your initiative's tax filings and compliance requirements.
 
-Open Collective Foundation [issues 1099s to contracted workers when required](https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information#for-us-based-fiscal-hosts), provides donors with receipts for their tax-deductible contributions, and files an [annual Form 990](https://docs.opencollective.foundation/about/official-info) to the IRS on behalf of all of our hosted initiatives.
+Open Collective Foundation [issues 1099s to contracted workers when required](https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information#for-us-based-fiscal-hosts), provides donors with receipts for their tax-deductible contributions, and files an [annual Form 990](../about/official-information-and-documents.md#irs-form-990s) to the IRS on behalf of all of our hosted initiatives.
 
 ### Services & Community
 
@@ -42,7 +42,7 @@ In addition to being your legal and financial home, OCF offers many useful servi
 
 ## Is OCF right for you?
 
-Learn more in [this objective and detailed legal analysis.](https://docs.opencollective.foundation/how-it-works/faq/is-ocf-right-for-you)
+Learn more in [this objective and detailed legal analysis.](./#is-ocf-right-for-you)
 
 ## Get Started!
 

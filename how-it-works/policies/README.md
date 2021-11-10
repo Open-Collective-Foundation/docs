@@ -9,8 +9,8 @@ description: Some of our processes and limitations
 Open Collective’s platform is set up so that your initiative can have autonomy and independence, but there may be some exceptions when you need to get an OCF staff member involved. Here are some situations where you’ll need to [reach out to us](mailto:contact@opencollective.foundation):
 
 * If you choose to **enter into an agreement with a third party** (like a vendor or a service), please [email us](mailto:contact@opencollective.foundation). Since we are your fiscal host, **these agreements are legally between the third party and OCF,** and need to be reviewed, approved, and signed by our team.
-* If you need to **submit a grant application** as Open Collective Foundation, we _may _need to review the grant application. You may also need documentation from us that is not available on our [Official Information and Documents page](https://docs.opencollective.foundation/about/official-info). Check out our information on [Applying for Institutional Grant Funding](https://docs.opencollective.foundation/how-it-works/grant-funding) for more information on how to apply for foundation and corporate grant funding.
-* If you want to **distribute grant funds** and/or [**direct cash assistance**](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/cash-assistance-policy).
+* If you need to **submit a grant application** as Open Collective Foundation, we _may _need to review the grant application. You may also need documentation from us that is not available on our [Official Information and Documents page](../../about/official-information-and-documents.md). Check out our information on [Applying for Institutional Grant Funding](../financial-contributions/grant-funding.md) for more information on how to apply for foundation and corporate grant funding.
+* If you want to **distribute grant funds** and/or [**direct cash assistance**](cash-assistance-policy.md).
 * If you engage in **offline or in-person fundraising**, so that we can make sure we are registered with the government in your state.&#x20;
   * (Purely online fundraising does not need to be reported to us.)
 * If you want to use an **external service or platform** to receive funds that is not covered in these docs, please [let us know](mailto:contact@opencollective.foundation) so we can make sure it is compatible. If you do not reach out ahead of time, it could cause trouble and delay fund transfers.
@@ -46,4 +46,4 @@ _Note _: You can maintain another bank account for **other** projects and activi
 * Everything is managed and tracked on the Open Collective platform.
 * We will receive money on behalf of your initiative and we will hold it safe and not spend it on anything else.
 * Your initiative isn’t a legal entity itself, but sits under the umbrella of OCF.
-* In the [Terms of Fiscal Sponsorship agreement](https://docs.opencollective.foundation/getting-started/terms), you promise that you’ve been honest about your initiative’s mission, and will only spend the money you raise on that mission.
+* In the [Terms of Fiscal Sponsorship agreement](../../getting-started/terms.md), you promise that you’ve been honest about your initiative’s mission, and will only spend the money you raise on that mission.

@@ -5,7 +5,7 @@ description: Fiscal Hosting with OCF
 # Basics
 
 {% hint style="success" %}
-Once you [apply to join Open Collective Foundation](https://docs.opencollective.foundation/getting-started/how-to-apply) and receive an approval email from us, you can immediately get started with managing your initiative on Open Collective.&#x20;
+Once you [apply to join Open Collective Foundation](../getting-started/how-to-apply/) and receive an approval email from us, you can immediately get started with managing your initiative on Open Collective.&#x20;
 
 :tada: Welcome!&#x20;
 {% endhint %}
@@ -24,17 +24,17 @@ For an overview of [using the Open Collective platform](https://opencollective.c
 
 ## Receiving Funds
 
-Our documentation includes information for how people can contribute to your initiative: Feel free to share this [Financial Contributions overview](https://docs.opencollective.foundation/how-it-works/financial-contributions) with your contributors!
+Our documentation includes information for how people can contribute to your initiative: Feel free to share this [Financial Contributions overview](financial-contributions/) with your contributors!
 
 ## Submitting Expenses
 
 Using funds from your initiative’s budget is simple:
 
 1. Someone submits an [expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses).
-   * There are 2 Types of Expenses: (see below for more info)
+   * There are 2 types of Expenses: (see below for more info)
      * [**Reimbursements **](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements)
      * ****[**Invoices**](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices)****
-2. An initiative [admin ](https://docs.opencollective.com/help/collectives/core-contributors#roles)(someone on your team) approves it.
+2. An initiative [admin](https://docs.opencollective.com/help/collectives/core-contributors#roles) (someone on your team) approves it.
 3. OCF's team reviews it (confirms that the expense meets requirements e.g. having a valid receipt).
 4. They get [paid](https://docs.opencollective.com/help/fiscal-hosts/payouts#what-payment-methods-do-you-support-for-withdrawals).
 
