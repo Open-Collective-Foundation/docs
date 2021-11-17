@@ -8,7 +8,7 @@
 
 Please be sure to have any correspondance sent to [contact@opencollective.foundation](mailto:%20contact@opencollective.foundation) and be sure to include the name of the initiative.
 
-For details about employee gift-matching programs, check [here](../how-it-works/financial-contributions/#matching-gifts).
+For details about employee gift-matching programs, check [here](../how-it-works/financial-contributions/donation-matching.md).
 
 ### Where can we get an MOU (Memorandum of understanding)?
 
