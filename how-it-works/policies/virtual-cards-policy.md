@@ -29,8 +29,9 @@ Virtual Cards can now be issued to OCF’s hosted initiatives for paying things 
 * Virtual cards **may not **be used for paying/reimbursing people-that should be done on the OC platform.
 * The following service providers **do not** accept virtual cards:
   * Google **does not** accept prepaid credit cards as a form of payment (e.g. virtuals cards may not be used for Google Workspace, Google Domain.)
-  * Money transfer services like PayPal, Payoneer or Paysend. Attempts to pay for services via these providers will be declined.
+  * Money transfer services (e.g. PayPal, Payoneer, or Paysend.) Attempts to pay for services via these providers will be declined.
   * Zipcar
+  * Sendle Shipping
 * These are **virtual **cards,** no physical card will be issued**
 
 ## Steps:
