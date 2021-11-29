@@ -16,7 +16,7 @@ Yes! [More info](../what-we-offer/employment.md).
 
 ### What about tax forms?
 
-Open Collective Foundation must collect[ tax forms](https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information#info-for-expense-submitters-getting-paid) for any individual who **invoices **(this does not apply to **reimbursements **or** payroll) **over $600 in year. Those individuals will be automatically issued a 1099. [Here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/Filing-IRS-Form-W-9/INF19741.html)'s a good explanation of how W-9s work for independent contractors, and there's more info on what a 1099 is [here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/What-is-an-IRS-1099-Form-/INF14810.html).
+Open Collective Foundation must collect[ tax forms](https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information#info-for-expense-submitters-getting-paid) for any individual who **invoices** (this does not apply to **reimbursements** or **payroll)** over $600 in year. Those individuals will be automatically issued a 1099. [Here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/Filing-IRS-Form-W-9/INF19741.html)'s a good explanation of how W-9s work for independent contractors, and there's more info on what a 1099 is [here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/What-is-an-IRS-1099-Form-/INF14810.html).
 
 When you submit an expense that puts you over the $600 threshold, you will be sent an email with a link to complete your tax form online. This email will come from HelloWorks, the system we use to handle the forms.
 
@@ -28,8 +28,16 @@ Please note: If you are paid via Paypal, OCF will not issue you a 1099 because P
 
 ### **Can I be incognito/not display my name?**
 
-We [now](https://opencollective.com/opencollective/updates/new-legal-and-display-name-settings) have the option to differentiate between your _public _display name, and your _private _legal name.
+We [now](https://opencollective.com/opencollective/updates/new-legal-and-display-name-settings) have the option to differentiate between your _public_ display name, and your _private_ legal name.
 
 We do need your real name as your legal name, because we are bound by IRS regulations and need to be able to ensure funds are being used appropriately. This private legal name will only be visible to admins.
 
-Details such as attachments, comments, the private note section, and the payout method information are **only **visible to the submitter of the request, the collective admin, and the fiscal host admin who processes the actual payment. Confidential details can also be included in those areas to ensure privacy.
+Details such as attachments, comments, the private note section, and the payout method information are **only** visible to the submitter of the request, the collective admin, and the fiscal host admin who processes the actual payment. Confidential details can also be included in those areas to ensure privacy.
+
+### How can we pay for large expenses that we cannot 'pay out-of-pocket and then get reimbursed later'?
+
+As a 501(c)(3) we cannot give out lump sums first and get receipts later.  This is because, with the IRS regulations for a charitable nonprofit, we have to be able to track all funds that come in and go out of our accounts.&#x20;
+
+Check our [payouts.md](../how-it-works/payouts.md "mention") page for information about all the different ways payouts can be made through OCF.  &#x20;
+
+For large expenses that you cannot pay out-of-pocket, you can also have your vendors and service providers submit their invoices directly via your initiative's page, or you can use the "[invite expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense)" option, where you fill in the details and they recieve an email and then just need to confirm. So vendors can invoice OCF through your page to get paid, and then we pay them directly.

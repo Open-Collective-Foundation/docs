@@ -2,11 +2,11 @@
 
 ### **Do we need to set up a bank account?**
 
-Nope. We will hold your funds for you! Hosted initiatives** **[**should not set up a separate bank account**](https://docs.opencollective.foundation/how-it-works/processes-and-limitations)** or legal entity for the project**. If you are [eligible](https://docs.opencollective.foundation/getting-started/eligibility), joining is [fast and easy](https://docs.opencollective.foundation/getting-started/how-to-apply).
+Nope. We will hold your funds for you! Hosted initiatives **** [**should not set up a separate bank account**](https://docs.opencollective.foundation/how-it-works/processes-and-limitations) **or legal entity for the project**. If you are [eligible](https://docs.opencollective.foundation/getting-started/eligibility), joining is [fast and easy](https://docs.opencollective.foundation/getting-started/how-to-apply).
 
 ### **Do we need to file taxes?**
 
-Initiatives do **not **have a separate legal existence from Open Collective Foundation and thus should **not **submit tax forms to the IRS. Your financial activities are included within our annual filings.
+Initiatives do **not** have a separate legal existence from Open Collective Foundation and thus should **not** submit tax forms to the IRS. Your financial activities are included within our annual filings.
 
 Individuals who receive income from Open Collective Foundation (or one of its hosted initiatives) may be asked to submit a W9 and will be issued a 1099. If this applies to you, you will automatically be sent a notification.
 
@@ -45,3 +45,5 @@ While you entered into [an agreement with us](https://docs.opencollective.founda
 If you decide to transition to another fiscal host that uses the Open Collective platform, the [process is relatively simple](https://docs.opencollective.com/help/collectives/change-fiscal-host). If you [“zero out” the funds in your account](https://docs.opencollective.com/help/collectives/zero-collective-balance) and decide to close it, you can also [archive/delete your initiative](https://docs.opencollective.com/help/collectives/closing-a-collective) if you are ending your initiative.
 
 If you decide to transfer your funds to a fiscal host not on the Open Collective platform or to a new 501(c)(3) entity (one that you have set up or another [fiscal host/sponsor](https://docs.opencollective.foundation/about/fiscal-hosting)), please [reach out to us](mailto:contact@opencollective.foundation)
+
+If you wish to close out with OCF, but still want to use the Open Collective **platform** to manage your initiative's funds, you can become an [independent collective](https://docs.opencollective.com/help/independent-collectives/about-independent-collectives).
