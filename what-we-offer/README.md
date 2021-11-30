@@ -16,7 +16,7 @@ Open Collective Foundation is a [501(c)(3) organization](fiscal-hosting.md#what-
 
 This arrangement is perfect for charitable projects that want to move fast and reduce setup costs, especially since incorporating an entity and getting 501(c)(3) status can take over a year, requires a lot of admin to run, and likely requires hiring an accountant and a lawyer.
 
-Further, hosted initiatives have access to one of the biggest benefits of 501(c)(3) status: being able to **apply for special grants from foundations**._ Most major foundations, along with many companies, will only contribute to 501(c)(3) organizations and their sponsored initiatives._ Make sure you take this into account when considering the best fit for your project or community!
+Further, hosted initiatives have access to one of the biggest benefits of 501(c)(3) status: being able to **apply for special grants from foundations**. _Most major foundations, along with many companies, will only contribute to 501(c)(3) organizations and their sponsored initiatives._ Make sure you take this into account when considering the best fit for your project or community!
 
 ### **Tax Compliance**
 
@@ -28,7 +28,7 @@ Open Collective Foundation [issues 1099s to contracted workers when required](ht
 
 In addition to being your legal and financial home, OCF offers many useful services to its community, and works to connect our initiatives together in solidarity.
 
-* [Monthly Community Forums](https://opencollective.com/foundation/events): ask questions, give feedback, and support and learn from other initiatives like yours
+* [Monthly Community Forums](https://opencollective.com/foundation/events): ask questions, give feedback, and support and learn from other initiatives like yours. Connect with our [growing network of hosted initiatives](https://opencollective.com/foundation#category-CONTRIBUTIONS).
 * [Grant application support](../how-it-works/financial-contributions/grant-funding.md): you choose the grants to apply to and tell your story, we take care of all the compliance paperwork and meet funder requirements for documentation, audited financials, and track record
 * [Employment, payroll, and health benefits](employment.md): make your initiative your full time job and hire staff
 * [Liability insurance](liability-insurance.md): get simple, cost-effective coverage for your gorup by adding an addendum to our core policies
@@ -36,13 +36,11 @@ In addition to being your legal and financial home, OCF offers many useful servi
 * [Grantmaking](about-grantmaking.md): make grants to your community - you choose the grantees, we take care of the paperwork
 * [Cash assistance](../how-it-works/policies/cash-assistance-policy.md): give money to people who are unbanked and/or lack internet access, who can't provide the normally required paperwork
 * [Virtual cards](../how-it-works/policies/virtual-cards-policy.md): like a debit card linked to your balance on Open Collective that you can use online
-* [Integration with other funding tools](../how-it-works/financial-contributions/third-party-fundraising-tools-and-benefits/): like ActBlue, Benevity, CashApp, and Venmo
-
-
+* [Integration with other funding tools](../how-it-works/financial-contributions/third-party-fundraising-tools-and-benefits/): like ActBlue & Benevity
 
 ## Is OCF right for you?
 
-Learn more in [this objective and detailed legal analysis.](./#is-ocf-right-for-you)
+Learn more in [this objective and detailed legal analysis.](https://docs.opencollective.foundation/faq/is-ocf-right-for-you)
 
 ## Get Started!
 
@@ -52,6 +50,4 @@ To learn more about the application process:
 [how-to-apply](../getting-started/how-to-apply/)
 {% endcontent-ref %}
 
-
-
-:white\_check\_mark: If you're ready,  [Submit an Application](https://www.opencollective.com/foundation/apply)
+:white\_check\_mark: If you're ready, [Submit an Application](https://www.opencollective.com/foundation/apply)

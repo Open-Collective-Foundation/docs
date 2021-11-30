@@ -21,7 +21,7 @@
 ## How It Works
 
 * [Basics](how-it-works/basics.md)
-* [Financial Contributions](how-it-works/financial-contributions/README.md)
+* [Financial Contributions (How to Donate)](how-it-works/financial-contributions/README.md)
   * [Credit Card, Paypal, Bank transfers](how-it-works/financial-contributions/credit-card-paypal-bank-transfers.md)
   * [Checks](how-it-works/financial-contributions/checks.md)
   * [Donation Matching](how-it-works/financial-contributions/donation-matching.md)

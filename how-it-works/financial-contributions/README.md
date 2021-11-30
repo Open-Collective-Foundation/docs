@@ -2,7 +2,7 @@
 description: Helpful guides for Donors and Financial Contributors
 ---
 
-# Financial Contributions
+# Financial Contributions (How to Donate)
 
 Open Collective Foundation allows donors to support amazing initiatives without them having to go through the laborious process of setting up a legal entity and bank account to receive funds.
 
@@ -25,7 +25,7 @@ If you value what a project produces or stands for, support them to maintain and
 Further instructions on how to support one of our hosted initiatives via the above methods are included below. See [Official Information and Documents](https://docs.opencollective.foundation/about/official-information-and-documents) for our EIN, determination letter, and banking info.
 
 {% hint style="info" %}
-No matter which method you choose, make sure to whenever possible, **indicate the initiative **that you would like to support. If your chosen contribution method does not provide you with any opportunity to do so (e.g., there is no memo line, accompanying letter, or online form) [please reach out to us to let us know](mailto:contact@opencollective.foundation) the details of the transaction so we know to expect it and properly credit it when the funds arrive.
+No matter which method you choose, make sure to whenever possible, **indicate the initiative** that you would like to support. If your chosen contribution method does not provide you with any opportunity to do so (e.g., there is no memo line, accompanying letter, or online form) [please reach out to us to let us know](mailto:contact@opencollective.foundation) the details of the transaction so we know to expect it and properly credit it when the funds arrive.
 {% endhint %}
 
 #### Thank you!
