@@ -13,14 +13,18 @@ Once you [apply to join Open Collective Foundation](../getting-started/how-to-ap
 ## Open Collective&#x20;
 
 {% hint style="info" %}
-* **Open Collective Inc**. is the **platform **that OCF operates on.&#x20;
+* **Open Collective Inc**. is the **platform** that OCF operates on.&#x20;
   * Open Collective has their own [homepage](https://www.opencollective.com), [budget](https://opencollective.com/opencollective#category-ABOUT), and [documentation](https://docs.opencollective.com/help/). These docs you're currently reading are a pared down version to relay information that is specific to OCF.
-* **OCF (**Open Collective** Foundation)** is a charitable** **[**fiscal host**](../what-we-offer/fiscal-hosting.md) who uses the Open Collective platform
+* **OCF (**Open Collective **Foundation)** is a charitable **** [**fiscal host**](../what-we-offer/fiscal-hosting.md) who uses the Open Collective platform
 {% endhint %}
 
 For an overview of [using the Open Collective platform](https://opencollective.com/how-it-works), check out their[ documentation](https://docs.opencollective.com). It has a ton of great information about features like the [transparent budget](https://docs.opencollective.com/help/collectives/budget), customizing an [initiative profile](https://docs.opencollective.com/help/collectives/customize-collective), [tiers, goals](https://docs.opencollective.com/help/collectives/tiers-goals), and other tools now at your disposal.&#x20;
 
 :white\_check\_mark: Their [Quick Start Guide](https://docs.opencollective.com/help/collectives/quick-start-guide) is another great place to start.
+
+{% embed url="https://www.youtube.com/watch?lc=UgwCxiDm65WrFoUQZU14AaABAg&v=IBU5fSILAe8" %}
+Explainer Video: What is Open Collective
+{% endembed %}
 
 ## Receiving Funds
 
@@ -32,7 +36,7 @@ Using funds from your initiative’s budget is simple:
 
 1. Someone submits an [expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses).
    * There are 2 types of Expenses: (see below for more info)
-     * [**Reimbursements **](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements)
+     * [**Reimbursements** ](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements)
      * ****[**Invoices**](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices)****
 2. An initiative [admin](https://docs.opencollective.com/help/collectives/core-contributors#roles) (someone on your team) approves it.
 3. OCF's team reviews it (confirms that the expense meets requirements e.g. having a valid receipt).
@@ -44,12 +48,12 @@ Initiative admins can [set an expense policy](https://docs.opencollective.com/he
 
 ### How submitting & paying out expenses works:
 
-#### **Expense **payments may relate to either:&#x20;
+#### **Expense** payments may relate to either:&#x20;
 
-1. an [**Invoice**](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices)** **for work completed for the initiative;&#x20;
+1. an [**Invoice**](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) **** for work completed for the initiative;&#x20;
    * _Invoices_ are used to pay people for work completed or their goods/services.&#x20;
    * Within the _invoice_ option, you can either upload your own invoice, or you can create one directly on the platform. You will be able to detail what the services/goods are, and can include multiple items&#x20;
-   * When someone uses invoices, they are treated as an independent contractor. If earnings exceed $600 in a year, they will be automatically issued a 1099 tax form to fill out per IRS regulations. (_Reimbursements _do not trigger the 1099 form). More info about taxes [here](https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information).
+   * When someone uses invoices, they are treated as an independent contractor. If earnings exceed $600 in a year, they will be automatically issued a 1099 tax form to fill out per IRS regulations. (_Reimbursements_ do not trigger the 1099 form). More info about taxes [here](https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information).
 2. or a [**Reimbursement** ](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements)for purchases made on behalf of the initiative.
    * _Reimbursements_ are used to pay people (often volunteers) back when they have made purchases for the group - in these cases, receipts are required so that we can ensure the requested amount matches the purchased amount in order to approve the reimbursement.
 
@@ -57,13 +61,13 @@ Initiative admins can [set an expense policy](https://docs.opencollective.com/he
 * Individuals and organizations can request payment from an initiative by [submitting an expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses).&#x20;
 * Initiative admins also have the option of drafting an expense and then [**sending an invitation** to someone else to complete and submit it](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense).
   * _This is a great option for those admins who know already know exactly how much they want to pay/reimburse someone, and just want to invite them to the platform._
-* Sometimes a **third type of expense, "Request a Grant" **will appear on an initiative's page. This is because that initiative has submitted a grant proposal in order to be able to offer grants. More info [here](https://docs.opencollective.foundation/how-it-works/about-grantmaking).
+* Sometimes a **third type of expense, "Request a Grant"** will appear on an initiative's page. This is because that initiative has submitted a grant proposal in order to be able to offer grants. More info [here](https://docs.opencollective.foundation/how-it-works/about-grantmaking).
 {% endhint %}
 
 #### OCF uses a Double-Approval Process to pay out expenses:&#x20;
 
 1. Once submitted, expenses need to first be [approved by initiative admins](https://docs.opencollective.com/help/collectives/approving-expenses) and then,
-2. Expenses are processed and paid out by Open Collective Foundation biweekly (on** Mondays and Thursdays**).&#x20;
+2. Expenses are processed and paid out by Open Collective Foundation biweekly (on **Mondays and Thursdays**).&#x20;
 
 {% hint style="info" %}
 OCF can [pay out funds](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses#by-what-method-can-i-get-paid) via PayPal and electronic bank transfer via Transferwise.&#x20;
