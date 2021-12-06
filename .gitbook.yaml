@@ -1,4 +1,4 @@
 root: ./
 
 redirects:
-  test: ./how-it-works/faq.md
+  how-it-works/faq: faq/basic-faq.md
