@@ -10,7 +10,7 @@ Looking for something specific? :mag: Use the search bar in the upper right-hand
 
 ### Terminology
 
-Since the **Open Collective** **platform **works with hosts and initiatives all over the world, **Open Collective Foundation** (as a US-based fiscal host), has developed some specific terms to describe interactions and roles, [laid out in Open Collective’s documentation](https://docs.opencollective.com/help/about/terminology). As a result, you will notice that we tend to use the terms [“fiscal host” rather than “fiscal sponsor”](https://docs.opencollective.foundation/about/fiscal-hosting) and “[financial contribution](../how-it-works/financial-contributions/)” rather than “donation.”
+Since the **Open Collective** **platform** works with hosts and initiatives all over the world, **Open Collective Foundation** (as a US-based fiscal host), has developed some specific terms to describe interactions and roles, [laid out in Open Collective’s documentation](https://docs.opencollective.com/help/about/terminology). As a result, you will notice that we tend to use the terms [“fiscal host” rather than “fiscal sponsor”](https://docs.opencollective.foundation/about/fiscal-hosting) and “[financial contribution](../how-it-works/financial-contributions/)” rather than “donation.”
 
 In contrast to the Open Collective platform documentation, OCF uses the term “initiative” to describe our hosted groups rather than “collective,” since we host [both Collectives and Funds](https://docs.opencollective.foundation/about/what-we-offer#two-kinds-of-initiatives).
 

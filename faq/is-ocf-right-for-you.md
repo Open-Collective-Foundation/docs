@@ -89,7 +89,7 @@ Any funds you raise must be deposited into your account with OCF. All checks mus
 
 OCF's Terms of Fiscal Sponsorship state:
 
-_6. In the event that Sponsee receives funding outside of the Platform (that which does not go directly into the Fund), Sponsee will immediately transfer such funds to Sponsor for deposit into Sponsee’s Fund; at no time shall Sponsee hold any funds for the Initiative outside of the Fund or utilize the services of any other fiscal sponsor during the Term of this Agreement.  _
+_6. In the event that Sponsee receives funding outside of the Platform (that which does not go directly into the Fund), Sponsee will immediately transfer such funds to Sponsor for deposit into Sponsee’s Fund; at no time shall Sponsee hold any funds for the Initiative outside of the Fund or utilize the services of any other fiscal sponsor during the Term of this Agreement._ &#x20;
 
 OCF has an exception to this rule as follows:
 
@@ -136,7 +136,7 @@ Under the [Outside Entities Policy](../how-it-works/policies/outside-entities-po
 
 ## Summary
 
-| **Advantages   **                                                                                                  | **Disadvantages**                                                                          |
+| **Advantages**                                                                                                     | **Disadvantages**                                                                          |
 | ------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------ |
 | Immediate ability to accept tax-exempt donations and provide tax deductible receipts                               | <p>Fees taken out of all contributed revenue (4-8%)<br></p>                                |
 | OCF takes on liability for initiative's activities                                                                 | OCF maintains legal control                                                                |

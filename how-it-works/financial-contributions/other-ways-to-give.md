@@ -1,6 +1,6 @@
 # Other Ways To Give
 
-* Interested in contributing **non-monetary **or **in-kind** items or property? [See our guide.](https://docs.opencollective.foundation/how-it-works/financial-contributions/in-kind)
+* Interested in contributing **non-monetary** or **in-kind** items or property? [See our guide.](https://docs.opencollective.foundation/how-it-works/financial-contributions/in-kind)
 * To make a donation on behalf of a company or funder, or some other group, we recommend [setting up an Organization](https://docs.opencollective.com/help/financial-contributors/organizations) profile on the Open Collective platform.
 * Initiatives hosted by Open Collective Foundation can also [make financial contributions to one another](https://docs.opencollective.com/help/financial-contributors/collective-to-collective).
 * Check our [Third Party Fundraising Tools & Benefits](third-party-fundraising-tools-and-benefits/) page to see other ways that money can be sent to an initiative

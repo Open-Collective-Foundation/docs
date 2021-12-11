@@ -6,17 +6,17 @@ The [OpenCollective Foundation Terms of Fiscal Sponsorship](../../getting-starte
 
 ## What are outside accounts?
 
-An outside account is any financial account used by an Initiative (“Initiatives”) hosted by OpenCollective Foundation (“OCF”) that is **not **directly owned and managed by OCF, including Venmo, Cash App, [GoFundMe](../financial-contributions/third-party-fundraising-tools-and-benefits/#third-party-tools), Eventbrite, PayPal accounts, cash boxes, personal bank accounts, business bank accounts, cryptocurrency wallets, or any other means of storing and distributing money.&#x20;
+An outside account is any financial account used by an Initiative (“Initiatives”) hosted by OpenCollective Foundation (“OCF”) that is **not** directly owned and managed by OCF, including Venmo, Cash App, [GoFundMe](../financial-contributions/third-party-fundraising-tools-and-benefits/#third-party-tools), Eventbrite, PayPal accounts, cash boxes, personal bank accounts, business bank accounts, cryptocurrency wallets, or any other means of storing and distributing money.&#x20;
 
 If the outside account is associated with an incorporated entity, also ensure compliance with the [Outside Entities Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-entities-policy).
 
 ## Receiving money to outside accounts
 
-If initiatives receive money to any outside account, the funds **must **be transferred in a timely manner to OCF. When OCF receives such transferred funds from outside accounts, the amount (less [standard fees](https://docs.opencollective.foundation/how-it-works/fees)) will be credited to the Initiative’s budget balance on the Open Collective platform (“Platform”).
+If initiatives receive money to any outside account, the funds **must** be transferred in a timely manner to OCF. When OCF receives such transferred funds from outside accounts, the amount (less [standard fees](https://docs.opencollective.foundation/how-it-works/fees)) will be credited to the Initiative’s budget balance on the Open Collective platform (“Platform”).
 
 #### Initiatives may process incoming funds through external services or accounts only if the following conditions are met:
 
-1. Donors are made explicitly aware that paying via an outside account means that their donation will **not **be tax deductible for them.
+1. Donors are made explicitly aware that paying via an outside account means that their donation will **not** be tax deductible for them.
 2. Funds collected through outside accounts are regularly transferred to OCF, not held in an outside account for more than 30 days.
 
 ## Spending money from outside accounts
@@ -25,15 +25,15 @@ Initiatives **may not**, under any circumstances, receive money to an outside ac
 
 In some circumstances, Initiatives may coordinate distributions of funds via external services or accounts and then seek reimbursement from the Initiative funds held by OCF. Such payments must conform to OCF’s[ Cash Assistance Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/cash-assistance-policy).&#x20;
 
-_However_, receiving money to an outside account and paying it back out again from the outside account, without first transferring the funds to OCF, is **never **allowed.
+_However_, receiving money to an outside account and paying it back out again from the outside account, without first transferring the funds to OCF, is **never** allowed.
 
 ### Transfers from outside accounts to OCF
 
 Funds may be [transferred ](https://docs.opencollective.foundation/how-it-works/financial-contributions)from outside accounts to OCF via: bank transfer, PayPal, credit card, or check. To make such a transfer, the owner or administrator of the outside account or service should go to the Initiative’s page on the Platform and make a contribution.&#x20;
 
-If paying through the Platform is not possible, email [contact@opencollective.foundation](mailto:contact@opencollective.foundation) and we will try to find an alternative method. All transfers from outside accounts **must **include reference info so we can correctly credit the amount to the correct Initiative balance.
+If paying through the Platform is not possible, email [contact@opencollective.foundation](mailto:contact@opencollective.foundation) and we will try to find an alternative method. All transfers from outside accounts **must** include reference info so we can correctly credit the amount to the correct Initiative balance.
 
-:exclamation: When funds are transferred from an outside account to OCF, a receipt will be issued to the payer, i.e. the person or entity who owns or controls the outside account. That person or entity **may **be eligible to claim a tax deduction for their donation. OCF will not issue receipts to the person or entity who initially paid the money into the outside account; OCF can only issue receipts for payments received directly to its own accounts.&#x20;
+:exclamation: When funds are transferred from an outside account to OCF, a receipt will be issued to the payer, i.e. the person or entity who owns or controls the outside account. That person or entity **may** be eligible to claim a tax deduction for their donation. OCF will not issue receipts to the person or entity who initially paid the money into the outside account; OCF can only issue receipts for payments received directly to its own accounts.&#x20;
 
 ## Why we need this policy
 

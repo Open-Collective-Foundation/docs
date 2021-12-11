@@ -25,7 +25,7 @@ It also differs from crowdfunding platforms, particularly in how it is designed 
 
 * Access funds as they arrive, rather than in a lump sum at the end of the campaign
 * Spend funds for your initiative directly from the platform, rather than having the funds go through your personal bank account
-* Receive **recurring **monthly contributions
+* Receive **recurring** monthly contributions
 * Accept **tax-deductible** contributions (this is a big incentive for donors)
 * View your initiative’s budget **in full transparency**
 * [Export complete contribution and expense data](https://docs.opencollective.com/help/collectives/budget) in CSV documents

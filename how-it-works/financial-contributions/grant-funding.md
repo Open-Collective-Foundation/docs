@@ -32,7 +32,7 @@ If your grant application has been approved, congratulations! The first thing th
 
 Since grant [contracts are legal agreements between the funder and Open Collective Foundation](../policies/#situations-where-we-need-to-be-involved), **they will need to be signed by an OCF staff member**. Once you receive a grant contract, please send it to [contact@opencollective.foundation](mailto:contact@opencollective.foundation) or ask the funder to send it to us directly.
 
-If they provide you with an ACH form (for payments via bank transfer) or ask for [our mailing address](../../about/official-information-and-documents.md#address) (to [contribute via check](checks.md)), you can send that information to them. **If it needs to be signed by an Open Collective Foundation team member,** [**send it to us**](../../about/contact-us.md)** via email.** Once we have received and processed the contribution, you will see the funds in your initiative’s budget.
+If they provide you with an ACH form (for payments via bank transfer) or ask for [our mailing address](../../about/official-information-and-documents.md#address) (to [contribute via check](checks.md)), you can send that information to them. **If it needs to be signed by an Open Collective Foundation team member,** [**send it to us**](../../about/contact-us.md) **via email.** Once we have received and processed the contribution, you will see the funds in your initiative’s budget.
 
 {% hint style="warning" %}
 **All checks must be made out to Open Collective Foundation**. We cannot accept checks that are made out to your initiative’s name or an individual person.

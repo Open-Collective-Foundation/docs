@@ -4,7 +4,7 @@ description: Donor Access Funds
 
 # Donor Advised Funds (DAF)
 
-A **donor advised fund **is a centralized charitable account that helps individuals, families, and businesses to efficiently distribute their charitable contributions.&#x20;
+A **donor advised fund** is a centralized charitable account that helps individuals, families, and businesses to efficiently distribute their charitable contributions.&#x20;
 
 The donor gives to a fund which is hosted by a charity (such as [Fidelity Charitable](https://www.fidelitycharitable.org)) or their local community foundation. That entity will then distribute the funds to charities, as advised by the donor.
 

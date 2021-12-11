@@ -8,14 +8,14 @@ description: >-
 # Grantmaking Policy
 
 {% hint style="info" %}
-**For more info on this policy, helpful tips, and advice about equitable grantmaking, see **[**About Grantmaking**](../../what-we-offer/about-grantmaking.md)**. **\
+**For more info on this policy, helpful tips, and advice about equitable grantmaking, see** [**About Grantmaking**](../../what-we-offer/about-grantmaking.md)**.** \
 \
 If the person you wish to fund can provide receipts before payment and/or is ok with getting a 1099 for this income, they can submit normal expenses instead of going through this grant process.
 
 If you wish to fund another OCF-hosted initiative or donate to another 501(c)(3) entity, you don't need to go through this grant process ([contact us](../../about/contact-us.md) for details about what to do in those cases).
 {% endhint %}
 
-## About this Policy <a href="docs-internal-guid-36b9e75b-7fff-1003-cd2f-3fe05c5800df" id="docs-internal-guid-36b9e75b-7fff-1003-cd2f-3fe05c5800df"></a>
+## About this Policy <a href="#docs-internal-guid-36b9e75b-7fff-1003-cd2f-3fe05c5800df" id="docs-internal-guid-36b9e75b-7fff-1003-cd2f-3fe05c5800df"></a>
 
 **This Policy enables fiscally hosted Initiatives under OCF’s umbrella to become grantmakers in their communities**, a variation from traditional grantmaking where a foundation or other grantmaking institution makes a grant directly to a grantee.
 
@@ -99,7 +99,7 @@ An eligible educational institution is one whose primary function is the present
 
 Study grants may only be used for “qualified education expenses” which include expenses for tuition and fees required to enroll at or attend an eligible educational institution and course-related expenses (such as fees, books, supplies, and equipment required for the courses). Study grant funds may not be spent on room and board, travel, research, clerical help, or equipment and other expenses that aren't required for everyone enrolled in the course.&#x20;
 
-_For more details about Study Grants, see _[_IRS publication 970_](https://www.irs.gov/pub/irs-pdf/p970.pdf)_, beginning on page 5._
+_For more details about Study Grants, see_ [_IRS publication 970_](https://www.irs.gov/pub/irs-pdf/p970.pdf)_, beginning on page 5._
 
 #### Award Grants
 
@@ -109,7 +109,7 @@ Award grants do not need to be included in the Grantee's gross income for tax pu
 2. The recipient was selected without any action on their part to enter the contest or proceedings; and&#x20;
 3. The recipient is not required to render substantial future services as a condition to receiving the prize or award.&#x20;
 
-_For more details about Award Grants, see _[_26 CFR § 1.74-1 - Prizes and awards_](https://www.govinfo.gov/content/pkg/CFR-2010-title26-vol2/pdf/CFR-2010-title26-vol2-sec1-74-1.pdf)_, specifically subsection (b)._
+_For more details about Award Grants, see_ [_26 CFR § 1.74-1 - Prizes and awards_](https://www.govinfo.gov/content/pkg/CFR-2010-title26-vol2/pdf/CFR-2010-title26-vol2-sec1-74-1.pdf)_, specifically subsection (b)._
 
 #### Hardship Grants
 
@@ -121,7 +121,7 @@ Examples include a person who is financially impoverished as a result of low inc
 
 Under this Policy, OCF will only approve Hardship grants to individuals who meet the relevant IRS definition.&#x20;
 
-_For more details about Hardship Grants, see the _[_IRS Publication on Disaster Relief_](https://www.irs.gov/pub/irs-pdf/p3833.pdf)_, beginning on page 8. _
+_For more details about Hardship Grants, see the_ [_IRS Publication on Disaster Relief_](https://www.irs.gov/pub/irs-pdf/p3833.pdf)_, beginning on page 8._&#x20;
 
 ## Not Allowed Under This Policy
 
@@ -204,11 +204,11 @@ Initiative admins agree to **post Updates on the grant Project page** on the Ope
 
 #### Required Updates
 
-* **Final Update: **Must be posted prior to the final grant payment. Final Updates must include, at minimum, confirmation that the Grantee has complied with the terms of the Grant Agreement and a narrative description of how the grant funds were specifically used in furtherance of the grant goals and purpose. If a grant only involves a single payment, the Final Update may be the only Update for the grant, and it must be posted before that payment will be processed.
-* **Study Grant Update: **For Study Grants, a report verified by the educational institution of the Grantee’s courses and grades must be submitted at least once per year. If the grant only involves a single payment, this information may be included with the Final Update, above.
-* **Annual Update: **If the timeframe of a grant spans more than 12 months, an Update must be posted at least once per year, with a narrative description of how the grant funds were specifically used in furtherance of the grant goals and purpose during the preceding year.
+* **Final Update:** Must be posted prior to the final grant payment. Final Updates must include, at minimum, confirmation that the Grantee has complied with the terms of the Grant Agreement and a narrative description of how the grant funds were specifically used in furtherance of the grant goals and purpose. If a grant only involves a single payment, the Final Update may be the only Update for the grant, and it must be posted before that payment will be processed.
+* **Study Grant Update:** For Study Grants, a report verified by the educational institution of the Grantee’s courses and grades must be submitted at least once per year. If the grant only involves a single payment, this information may be included with the Final Update, above.
+* **Annual Update:** If the timeframe of a grant spans more than 12 months, an Update must be posted at least once per year, with a narrative description of how the grant funds were specifically used in furtherance of the grant goals and purpose during the preceding year.
 * **Extension Update:** If a grant is not completed by the end of the timeframe specified in the grantmaking proposal, an Update must be posted to explain the status of the grant, state why an extension is required, confirm that the grant will still proceed, and specify a new date by which the grant is expected to be complete.&#x20;
-* **Cancellation Update: **If a grant is cancelled, an Update must be posted confirming the cancellation, describing how any grant funds paid out were specifically used in furtherance of grant goals and purpose (also see Returning Funds, below).
+* **Cancellation Update:** If a grant is cancelled, an Update must be posted confirming the cancellation, describing how any grant funds paid out were specifically used in furtherance of grant goals and purpose (also see Returning Funds, below).
 
 **We welcome rich information about grant progress and outcomes**, and encourage initiatives to use Grant Updates as a tool for storytelling and communication about their activities, where appropriate. More Updates than the minimum required, and more information per Update, may be posted at the discretion of the Grantee and Initiative admin.
 

@@ -9,7 +9,7 @@ So that you can draft your responses, the following information is requested in 
 * Your initiative’s location (must be based in the U.S. Check [here ](https://www.opencollective.com/hosts)for international hosting options.)
 * Your name
 * Your email address
-  * :white\_check\_mark: In order to get approved to be hosted, your initiative's profile will **need **to include a minimum of 2 community members
+  * :white\_check\_mark: In order to get approved to be hosted, your initiative's profile will **need** to include a minimum of 2 community members
 * The name of your initiative
 * Website and / or social media links (proof of activities)
 * You will also have the opportunity to choose your own unique URL.

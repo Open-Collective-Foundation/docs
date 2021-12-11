@@ -4,14 +4,14 @@ description: Fiscal Host = Fiscal Sponsor
 
 # Fiscal Hosting
 
-****[**Fiscal hosting**](https://opencollective.com/fiscal-hosting), often referred to as fiscal sponsorship outside the [Open Collective](https://opencollective.com) context, is when an organization **holds funds on behalf of smaller projects** (which we call _initiatives _or _collectives_) and often also provides administrative services such as financial oversight and management.
+****[**Fiscal hosting**](https://opencollective.com/fiscal-hosting), often referred to as fiscal sponsorship outside the [Open Collective](https://opencollective.com) context, is when an organization **holds funds on behalf of smaller projects** (which we call _initiatives_ or _collectives_) and often also provides administrative services such as financial oversight and management.
 
 Open Collective Foundation [provides fiscal hosting services](./) to US-based initiatives that are aligned with our [mission, values, and impact areas](../about/mission-and-values.md).
 
 Since OCF is a [501(c)(3) nonprofit organization](fiscal-hosting.md#what-does-501-c-3-mean), our hosted initiatives (through a contractual relationship), are also able to receive tax-deductible contributions without obtaining their own independent 501(c)(3) status - which can be a time- and resource-consuming process).
 
 {% hint style="info" %}
-The Open Collective Platform can be used by initiatives who want to be hosted under a fiscal host. It can **also **be used by the hosts themselves! [Learn more.](https://opencollective.com/fiscal-hosting)
+The Open Collective Platform can be used by initiatives who want to be hosted under a fiscal host. It can **also** be used by the hosts themselves! [Learn more.](https://opencollective.com/fiscal-hosting)
 {% endhint %}
 
 ## Fiscal Sponsorship vs. Fiscal Hosting
@@ -38,12 +38,12 @@ As the fiscal host, we hold our initiatives’ funds in our bank account and are
 
 When you hear that an organization is a “501(c)(3) organization” in the US, that means they have been approved by the IRS as a tax-exempt, charitable organization. The name comes from section 501(c)(3) of the US Internal Revenue Code.
 
-There are other 501(c) organizations, such as 501(c)(4) and 501(c)(6) organizations, that are nonprofit. But 501(c)(3) organizations are unique in that they are tax-exempt _and _financial contributions to them may be tax-deductible. This is due to the IRS officially approving their [charitable purposes](https://www.irs.gov/charities-non-profits/charitable-purposes) and determining that they provide public benefit to society.
+There are other 501(c) organizations, such as 501(c)(4) and 501(c)(6) organizations, that are nonprofit. But 501(c)(3) organizations are unique in that they are tax-exempt _and_ financial contributions to them may be tax-deductible. This is due to the IRS officially approving their [charitable purposes](https://www.irs.gov/charities-non-profits/charitable-purposes) and determining that they provide public benefit to society.
 
 {% hint style="info" %}
 Simply Put:
 
-* **501(c) :** nonprofit (_but _not necessarily charitable and tax-exempt)
+* **501(c) :** nonprofit (_but_ not necessarily charitable and tax-exempt)
   * **(3) :** charitable, tax-exempt, and donations are tax-deductible
 {% endhint %}
 
@@ -71,7 +71,7 @@ We are not primarily a grantmaker, and focus on our own operational [mission](..
 
 We encourage you to read through all these pages (our Documentation), especially [What We Offer](./), our [Policies](../how-it-works/policies/), and [How to Apply](../getting-started/how-to-apply/) before joining Open Collective Foundation. Our services are great for a variety of community-focused and collaborative projects, but make sure to consider your long term needs before selecting a fiscal host!
 
-### ****[**Other fiscal hosts**](https://opencollective.com/hosts)** on Open Collective**
+### ****[**Other fiscal hosts**](https://opencollective.com/hosts) **on Open Collective**
 
 For some initiatives, being hosted by a 501(c)(3) organization may not be the right fit.&#x20;
 
@@ -83,7 +83,7 @@ For some initiatives, being hosted by a 501(c)(3) organization may not be the ri
 There are also fiscal sponsors that operate without the Open Collective platform. Some may be within your sector or offer different services that fit your specific needs. Before you move forward with another fiscal sponsor, make sure to consider whether they are aligned with your mission, whether their technology and processes are smooth and straightforward, and whether they are transparent to their donors and sponsored projects.
 
 {% hint style="info" %}
-[Ten Things to Look for in a Fiscal Sponsor](https://www.transparency-initiative.org/blog/5011/ten-things-to-look-for-in-a-fiscal-sponsor/) - _Transparency and Accountability Initiative_
+[Ten Things to Look for in a Fiscal Sponsor](https://www.transparency-initiative.org/blog/5011/ten-things-to-look-for-in-a-fiscal-sponsor/) - _Transparency and Accountability Initiative_
 {% endhint %}
 
 ### **Starting your own 501(c)(3)**

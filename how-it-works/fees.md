@@ -15,7 +15,7 @@ There are **no setup fees, balance minimums, monthly or annual fees**, or any ot
 For groups who have raised up to $500k:
 
 * **5%** **fee on each incoming contribution made via credit card** through your page on Open Collective. These transactions are automated.
-* **8% via all other means (like bank transfers and checks). **This reflects the manual processing we need to do for such transactions.
+* **8% via all other means (like bank transfers and checks).** This reflects the manual processing we need to do for such transactions.
 
 :seedling: If your initiative raises funds beyond a certain threshold (above $500k; then above $1 million), the fees on **bank transfers & checks** start to go down. We charge&#x20;
 
@@ -23,7 +23,7 @@ For groups who have raised up to $500k:
 * **4%** if you have raised over $1M&#x20;
 
 {% hint style="info" %}
-Contributors also have the option to give a “tip” to the Open Collective **platform **when making a contribution. (The **platform **has decided to [not charge fees](https://blog.opencollective.com/open-collective-platform-is-moving-on-to-0-fees-for-charitable-collectives/) for it's usage in charitable initiatives. This is separate from the **host**.) Leaving a "tip" is completely voluntary, and helps support the open-source software that makes our service possible.
+Contributors also have the option to give a “tip” to the Open Collective **platform** when making a contribution. (The **platform** has decided to [not charge fees](https://blog.opencollective.com/open-collective-platform-is-moving-on-to-0-fees-for-charitable-collectives/) for it's usage in charitable initiatives. This is separate from the **host**.) Leaving a "tip" is completely voluntary, and helps support the open-source software that makes our service possible.
 {% endhint %}
 
 ### How do the fees compare?

@@ -6,7 +6,7 @@ Open Collective Foundation can fiscally sponsor initiatives that meet the follow
 
 * Activities must align with [our mission](../about/mission-and-values.md#our-mission) & [impact areas](../about/mission-and-values.md#our-missions-impact-areas)
 * Activities must be [charitable](https://www.irs.gov/charities-non-profits/charitable-purposes), to benefit and open to the public (per [IRS requirements](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations) for [501(c)(3)s](../what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean))
-* Activities **cannot **include [lobbying or political campaign intervention](https://docs.opencollective.foundation/how-it-works/political-activity)
+* Activities **cannot** include [lobbying or political campaign intervention](https://docs.opencollective.foundation/how-it-works/political-activity)
 * Initiative must be based in the United States (although activities & expense payouts can be international)
 * Initiative must have [no separate legal existence/entity](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-entities-policy) from OCF
 * Initiative must have a **minimum** of two [admins/team members](https://docs.opencollective.com/help/collectives/core-contributors)

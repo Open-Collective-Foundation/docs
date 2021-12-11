@@ -25,7 +25,7 @@ The below tools have been used by Open Collective Foundation's initiatives in th
 {% tab title="ActBlue" %}
 * [Why Setup an Account?](https://support.actblue.com/donors/about-actblue/why-do-candidates-and-organizations-use-your-platform/)
 * [Quickstart Guide](https://support.actblue.com/campaigns/help/getting-started/)
-  * ****:bulb: Use [our **EIN**](../../../about/official-information-and-documents.md)** **(81-4004928) when registering in order for your initiative's collected donations to be grouped in OCF’s umbrella.
+  * ****:bulb: Use [our **EIN**](../../../about/official-information-and-documents.md) **** (81-4004928) when registering in order for your initiative's collected donations to be grouped in OCF’s umbrella.
 {% endtab %}
 
 {% tab title="Benevity" %}
@@ -53,7 +53,7 @@ We will set up your Benevity profile using the information & logo you use on you
 The following are **not** set up to work specifically with fiscally hosted projects and do not report where donated funds are meant to be allocated to.  This means there will be delays in the funds arriving to your account.
 
 {% hint style="warning" %}
-**If you wish to have the raised funds from the below platforms allocated to your fund, you must **[**inform us**](mailto:contact@opencollective.foundation)** about the incoming funds (please include links + screenshots). **Unclaimed funds will be directed to OCF's operating costs.
+**If you wish to have the raised funds from the below platforms allocated to your fund, you must** [**inform us**](mailto:contact@opencollective.foundation) **about the incoming funds (please include links + screenshots).** Unclaimed funds will be directed to OCF's operating costs.
 {% endhint %}
 
 {% tabs %}
@@ -69,11 +69,11 @@ The following are **not** set up to work specifically with fiscally hosted proje
 GoFundMe [Charity Fundraising](https://www.gofundme.com/start/charity-fundraising)
 
 * Select OpenCollective Foundation as the beneficiary in order for your donors to receive tax-deductible status \[recommended],&#x20;
-* **or **you collect them on your own behalf, and transfer them to your initiative as one lump sum. \[it will not be tax-deductible for your donors]
+* **or** you collect them on your own behalf, and transfer them to your initiative as one lump sum. \[it will not be tax-deductible for your donors]
 {% endtab %}
 {% endtabs %}
 
-If you use any of these tools, **please **[**email us**](mailto:contact@opencollective.foundation). Also, [let us know](mailto:contact@opencollective.foundation) if you are interested in a platform not listed above and we will see if we can make it work.
+If you use any of these tools, **please** [**email us**](mailto:contact@opencollective.foundation). Also, [let us know](mailto:contact@opencollective.foundation) if you are interested in a platform not listed above and we will see if we can make it work.
 
 {% hint style="warning" %}
 [Please email us](mailto:contact@opencollective.foundation) if you are expecting a payment from the third party service so we can look out for it and credit your account.
@@ -81,7 +81,7 @@ If you use any of these tools, **please **[**email us**](mailto:contact@opencoll
 
 #### External PayPal Accounts
 
-Since initiatives can receive and spend funds via PayPal from within the Open Collective platform, you **should not** set up an external PayPal account for receiving or spending funds. Please review our [**Outside Accounts Policy**](../../policies/outside-accounts-policy.md)** **for more details.
+Since initiatives can receive and spend funds via PayPal from within the Open Collective platform, you **should not** set up an external PayPal account for receiving or spending funds. Please review our [**Outside Accounts Policy**](../../policies/outside-accounts-policy.md) **** for more details.
 
 #### Amazon Smile
 
@@ -95,11 +95,11 @@ In the situation where bank transfer and PayPal are not viable transfer methods,
 
 In the **Reimbursement**, make sure to include:&#x20;
 
-* [ ] the **name **of the indirect recipient of the funds and&#x20;
+* [ ] the **name** of the indirect recipient of the funds and&#x20;
 * [ ] **what they are using those funds for**,&#x20;
 * [ ] if available, the **receipt**(s) for their activities,&#x20;
-* [ ] as well as the **receipt **from the service (e.g. Venmo) that you used to transfer them the funds.
+* [ ] as well as the **receipt** from the service (e.g. Venmo) that you used to transfer them the funds.
 
 {% hint style="info" %}
-**All **funds for your initiative **must **be held in your budget with Open Collective Foundation. Read about the [limitations of our fiscal hosting service](../../policies/#restrictions-and-limitations), as well as our [Outside Accounts Policy](../../policies/outside-accounts-policy.md). If you would like to make direct cash payments out to recipients, please review our [Cash Assistance Policy](../../policies/cash-assistance-policy.md).
+**All** funds for your initiative **must** be held in your budget with Open Collective Foundation. Read about the [limitations of our fiscal hosting service](../../policies/#restrictions-and-limitations), as well as our [Outside Accounts Policy](../../policies/outside-accounts-policy.md). If you would like to make direct cash payments out to recipients, please review our [Cash Assistance Policy](../../policies/cash-assistance-policy.md).
 {% endhint %}

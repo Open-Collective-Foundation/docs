@@ -2,14 +2,14 @@
 
 Open Collective Foundation (OCF), while primarily focused on supporting US-based projects, is supported by an international, collaborative team. Many members of our team work not only with Open Collective Foundation, but with [Open Source Collective](https://www.oscollective.org) and elsewhere in the [Open Collective](https://www.opencollective.com) network.
 
-* **Founding Director: **Pia Mancini - [Twitter](https://twitter.com/piamancini), [LinkedIn](https://www.linkedin.com/in/piamancini/)
-* **Executive Director: **Alanna Irving - [Website](http://alanna.space), [Linkedin](https://www.linkedin.com/in/alannairving83/)
+* **Founding Director:** Pia Mancini - [Twitter](https://twitter.com/piamancini), [LinkedIn](https://www.linkedin.com/in/piamancini/)
+* **Executive Director:** Alanna Irving - [Website](http://alanna.space), [Linkedin](https://www.linkedin.com/in/alannairving83/)
 * **Program Staff:**
   * Mike Strode - [Linkedin](https://www.linkedin.com/in/mjstrode/)
   * Caroline Woolard - [Website](https://carolinewoolard.com/past), [Linkedin](https://www.linkedin.com/in/carolinewoolard/)
   * Nathan Hewitt - [Website](https://natehn.com), [Linkedin](https://www.linkedin.com/in/nthnh/)
-* **Support Staff: **
-  * Alina Manko - [Twitter](https://twitter.com/c_observations)[, Instagram](https://www.instagram.com/curious_observations/), [LinkedIn](https://www.linkedin.com/in/alinamanko/)
+* **Support Staff:**&#x20;
+  * Alina Manko - [Twitter](https://twitter.com/c\_observations)[, Instagram](https://www.instagram.com/curious\_observations/), [LinkedIn](https://www.linkedin.com/in/alinamanko/)
   * Kayla Epstein [Blog](https://blog.opencollective.com/author/kayla/), [LinkedIn](https://www.linkedin.com/in/kaylarepstein/)
   * Ember Buck [Website](https://ewhitneybuck.wordpress.com), [LinkedIn](https://www.linkedin.com/in/emberbuck/)
 
@@ -17,7 +17,7 @@ Open Collective Foundation (OCF), while primarily focused on supporting US-based
 
 ![](../.gitbook/assets/pia.jpeg)
 
-**Pia Mancini (Madrid, Spain): **Pia is co-founder & CEO at Open Collective, as well as Chair of DemocracyEarth Foundation, a democracy activist, and an open-source sustainer. She worked in politics in Argentina and developed technology for democracy around the world. She's a YC Alum, YGL (World Economic Forum), globe-trotter, and Roma's mum.
+**Pia Mancini (Madrid, Spain):** Pia is co-founder & CEO at Open Collective, as well as Chair of DemocracyEarth Foundation, a democracy activist, and an open-source sustainer. She worked in politics in Argentina and developed technology for democracy around the world. She's a YC Alum, YGL (World Economic Forum), globe-trotter, and Roma's mum.
 
 ![](../.gitbook/assets/alanna-backdeck.jpg)
 
@@ -29,19 +29,19 @@ Open Collective Foundation (OCF), while primarily focused on supporting US-based
 
 ![](../.gitbook/assets/image.png)
 
-**Caroline Woolard (Berlin, Germany): **Caroline Woolard (she/her/hers) is a six foot tall researcher, collaborator, and connector. As Director of Research and Partnerships at Open Collective Foundation, Caroline brings over a decade of experience working on cutting-edge technology for cooperative culture in New York City. Caroline’s work includes co-creating objects, events, and networks such as an international peer-learning and barter network ([TradeSchool.coop](https://tradeschool.coop), 2009-2019), a cultural equity advocacy group ([BFAMFAPhD.com](http://bfamfaphd.com), 2013-present), and a cultural solidarity economy platform ([Art.coop](https://art.coop), 2021, with Nati Linares). Caroline Woolard is the co-author of three books: [Making and Being](https://makingandbeing.com) (Pioneer Works, 2019), a book for educators about interdisciplinary collaboration, co-authored with Susan Jahoda; [Art, Engagement, Economy](https://www.onomatopee.net/exhibition/caroline-woolard/#publication\_13011) (onomatopee, 2020) a book about managing socially-engaged projects; and [TRADE SCHOOL](https://tradeschool.coop): 2009-2019. Caroline is a tenure-track Assistant Professor of Foundations at Pratt Institute, an AmbitioUS Fellow, and a member of the Guild of Future Architects.
+**Caroline Woolard (Berlin, Germany):** Caroline Woolard (she/her/hers) is a six foot tall researcher, collaborator, and connector. As Director of Research and Partnerships at Open Collective Foundation, Caroline brings over a decade of experience working on cutting-edge technology for cooperative culture in New York City. Caroline’s work includes co-creating objects, events, and networks such as an international peer-learning and barter network ([TradeSchool.coop](https://tradeschool.coop), 2009-2019), a cultural equity advocacy group ([BFAMFAPhD.com](http://bfamfaphd.com), 2013-present), and a cultural solidarity economy platform ([Art.coop](https://art.coop), 2021, with Nati Linares). Caroline Woolard is the co-author of three books: [Making and Being](https://makingandbeing.com) (Pioneer Works, 2019), a book for educators about interdisciplinary collaboration, co-authored with Susan Jahoda; [Art, Engagement, Economy](https://www.onomatopee.net/exhibition/caroline-woolard/#publication\_13011) (onomatopee, 2020) a book about managing socially-engaged projects; and [TRADE SCHOOL](https://tradeschool.coop): 2009-2019. Caroline is a tenure-track Assistant Professor of Foundations at Pratt Institute, an AmbitioUS Fellow, and a member of the Guild of Future Architects.
 
 ![](../.gitbook/assets/forest-profile.jpg)
 
-**Nathan Hewitt (Queens, New York): **Nathan Hewitt (he/him) is a nonprofit worker, fiscal sponsorship nerd, and radical administrator fascinated by solidarity-based community decisionmaking processes and governance structures. He previously worked with a major US fiscal sponsor as well as in small business operations, grantwriting, theatre administration, community arts programming, and noncommercial radio. Also a musician and activist, Nathan is based in Queens, New York.
+**Nathan Hewitt (Queens, New York):** Nathan Hewitt (he/him) is a nonprofit worker, fiscal sponsorship nerd, and radical administrator fascinated by solidarity-based community decisionmaking processes and governance structures. He previously worked with a major US fiscal sponsor as well as in small business operations, grantwriting, theatre administration, community arts programming, and noncommercial radio. Also a musician and activist, Nathan is based in Queens, New York.
 
 ![](../.gitbook/assets/img\_3108\_2.jpg)
 
-**Alina Manko (Wellington, New Zealand): **Weaving together her process-orientated mind with a genuine joy of connecting with the wonderful community we are part of, her role is strongly focused on operations as well as supporting the initiatives OCF hosts, to help them to make the most of their Open Collective experience. After years spent in a more traditional work setting, the last few years of her working life were spent on deliberately finding herself collaborating with people and projects making an actual difference and connecting people.
+**Alina Manko (Wellington, New Zealand):** Weaving together her process-orientated mind with a genuine joy of connecting with the wonderful community we are part of, her role is strongly focused on operations as well as supporting the initiatives OCF hosts, to help them to make the most of their Open Collective experience. After years spent in a more traditional work setting, the last few years of her working life were spent on deliberately finding herself collaborating with people and projects making an actual difference and connecting people.
 
 ![](../.gitbook/assets/greenkayla.jpg)
 
-**Kayla E (Davis, CA): **has been very fortunate to have travelled and worked in many parts of the world.  Originally from Dallas, TX, she is pleased to find that BBQs with friends are popular pretty much everywhere.  Her professional background ranges from more manual labor, like park ranger, landscaper, and yoga instructor, to clerical, like receptionists and personal assistants. At the end of the day, she simply seeks to help people who help people (and plants, animals, the earth), and she is very excited to be able to support the open source movement. She tries not to take life too seriously, but is not very good at that.
+**Kayla E (Davis, CA):** has been very fortunate to have travelled and worked in many parts of the world.  Originally from Dallas, TX, she is pleased to find that BBQs with friends are popular pretty much everywhere.  Her professional background ranges from more manual labor, like park ranger, landscaper, and yoga instructor, to clerical, like receptionists and personal assistants. At the end of the day, she simply seeks to help people who help people (and plants, animals, the earth), and she is very excited to be able to support the open source movement. She tries not to take life too seriously, but is not very good at that.
 
 ![](../.gitbook/assets/rock-headshot.jpeg)
 
@@ -49,7 +49,7 @@ Open Collective Foundation (OCF), while primarily focused on supporting US-based
 
 ### **Board**_**:**_
 
-* **Kaitlin Thaney** is the Executive Director of [Invest in Open Infrastructure](https://investinopen.org), a non-profit initiative dedicated to improving funding and resourcing for open technologies and systems supporting research and scholarship.** **She previously served as the Endowment Director for the [Wikimedia Foundation](https://wikimediafoundation.org), where she led [development of a fund](https://wikimediaendowment.org) to sustain the future of Wikipedia and free knowledge. Prior to joining Wikimedia, Thaney directed the program portfolio for the [Mozilla Foundation](https://foundation.mozilla.org/en/), following her time building the [Mozilla Science Lab](https://science.mozilla.org), a program to serve the open research community. She was on the founding team for [Digital Science](https://www.digital-science.com), where she helped launch and advise programs to serve researchers worldwide, building on her time at [Creative Commons](https://creativecommons.org/about/program-areas/open-science/), where she crafted legal, technical, and social infrastructure for sharing data on the web. She's a Trustee of LYRASIS, a technology and services nonprofit serving higher education, libraries, archives and museums; and [Code for Science & Society](https://codeforscience.org), a fiscal sponsor serving the open source and public interest technology sectors.
+* **Kaitlin Thaney** is the Executive Director of [Invest in Open Infrastructure](https://investinopen.org), a non-profit initiative dedicated to improving funding and resourcing for open technologies and systems supporting research and scholarship. **** She previously served as the Endowment Director for the [Wikimedia Foundation](https://wikimediafoundation.org), where she led [development of a fund](https://wikimediaendowment.org) to sustain the future of Wikipedia and free knowledge. Prior to joining Wikimedia, Thaney directed the program portfolio for the [Mozilla Foundation](https://foundation.mozilla.org/en/), following her time building the [Mozilla Science Lab](https://science.mozilla.org), a program to serve the open research community. She was on the founding team for [Digital Science](https://www.digital-science.com), where she helped launch and advise programs to serve researchers worldwide, building on her time at [Creative Commons](https://creativecommons.org/about/program-areas/open-science/), where she crafted legal, technical, and social infrastructure for sharing data on the web. She's a Trustee of LYRASIS, a technology and services nonprofit serving higher education, libraries, archives and museums; and [Code for Science & Society](https://codeforscience.org), a fiscal sponsor serving the open source and public interest technology sectors.
 * **Andrew Trask**
 * **Pia Mancini**
 

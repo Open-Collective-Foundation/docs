@@ -24,7 +24,7 @@ OCF’s ability to support sales of goods and services as a means of fundraising
 
 From our [Outside Entities Policy](../how-it-works/policies/outside-entities-policy.md#examples-of-generally-permitted-use-of-outside-entities):
 
-> Initiatives may sell products or services through a distinct and separate outside entity where the proceeds are then donated to an Initiative under OCF (as long as buyers are made aware that their purchase is not a direct donation and isn’t tax deductible, and that the Initiative **and **the outside entity are separate and distinct).
+> Initiatives may sell products or services through a distinct and separate outside entity where the proceeds are then donated to an Initiative under OCF (as long as buyers are made aware that their purchase is not a direct donation and isn’t tax deductible, and that the Initiative **and** the outside entity are separate and distinct).
 
 ### **Can we offer financial contributors something in return for their donation?**
 

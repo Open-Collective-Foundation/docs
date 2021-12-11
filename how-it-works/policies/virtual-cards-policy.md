@@ -26,13 +26,13 @@ Virtual Cards can now be issued to OCF’s hosted initiatives for paying things 
 
 #### **Limitations:**
 
-* Virtual cards **may not **be used for paying/reimbursing people-that should be done on the OC platform.
+* Virtual cards **may not** be used for paying/reimbursing people-that should be done on the OC platform.
 * The following service providers **do not** accept virtual cards:
   * Google **does not** accept prepaid credit cards as a form of payment (e.g. virtuals cards may not be used for Google Workspace, Google Domain.)
   * Money transfer services (e.g. PayPal, Payoneer, or Paysend.) Attempts to pay for services via these providers will be declined.
   * Zipcar
   * Sendle Shipping
-* These are **virtual **cards,** no physical card will be issued**
+* These are **virtual** cards, **no physical card will be issued**
 
 ## Steps:
 
@@ -42,7 +42,7 @@ Virtual Cards can now be issued to OCF’s hosted initiatives for paying things 
    1. Visit your initiative's page
    2. Click Actions -> Request a Card
 2. OCF will assign the card and ask the following (please allow time for processing):
-   1. **What is the card for? **(The card will be locked to one vendor)
+   1. **What is the card for?** (The card will be locked to one vendor)
    2. **What is the amount/frequency requested?** (The cards can be set be set: per month, per year, per transaction, total amount, or single-use. For recurring card payments, your initiative’s budget should be >10x more than the monthly balance of the card)
    3. **Which of your initiative's admins would you like to be responsible for the card?**
 3. Once assigned, the card's details will appear in the initiative's settings for you to use (in accordance with this policy)

@@ -1,4 +1,4 @@
-# About Grantmaking
+# Grantmaking
 
 Open Collective Foundation is excited to offer our initiatives the opportunity to give grants to individuals in furtherance of their mission. For all of the details of how it works, make sure to take a look at our [**Grantmaking Policy**](../how-it-works/policies/grantmaking-policy.md).
 
@@ -51,7 +51,7 @@ You have a responsibility to ensure that all funds donated to your initiative go
 
 Generally, grants by our initiatives have to fit within the exempt purposes set forth in Internal Revenue Code section 501(c)(3): charitable, religious, educational, scientific, literary, testing for public safety, fostering national or international amateur sports competition, and the prevention of cruelty to children or animals.&#x20;
 
-The term **charitable **can be confusing. The IRS uses the term in its generally accepted legal sense, and it includes relief of the poor, the distressed, or the underprivileged; advancement of religion; advancement of education or science; erection or maintenance of public buildings, monuments, or works; lessening the burdens of government; lessening neighborhood tensions; eliminating prejudice and discrimination; defending human and civil rights secured by law; and combating community deterioration and juvenile delinquency.
+The term **charitable** can be confusing. The IRS uses the term in its generally accepted legal sense, and it includes relief of the poor, the distressed, or the underprivileged; advancement of religion; advancement of education or science; erection or maintenance of public buildings, monuments, or works; lessening the burdens of government; lessening neighborhood tensions; eliminating prejudice and discrimination; defending human and civil rights secured by law; and combating community deterioration and juvenile delinquency.
 
 ### Rapid response grants
 
@@ -63,7 +63,7 @@ Traditional grantmaking by large foundations can drag on for months, and usually
 
 ## Best practices for responsible grantmaking
 
-Traditionally, grantmaking is an arena of the rich and powerful. OCF's grantmaking policy allows _communities _to distribute money to individuals in a way that is compliant with the tax code and also centers the on-the-ground needs of those communities. We respect and trust your relationships with and understanding of your own communities, and put you in the driver's seat when it comes to making grants. We streamline the process as much as possible, and handle the IRS reporting side for you, and try to create a system that encourages equitable grantmaking practices.
+Traditionally, grantmaking is an arena of the rich and powerful. OCF's grantmaking policy allows _communities_ to distribute money to individuals in a way that is compliant with the tax code and also centers the on-the-ground needs of those communities. We respect and trust your relationships with and understanding of your own communities, and put you in the driver's seat when it comes to making grants. We streamline the process as much as possible, and handle the IRS reporting side for you, and try to create a system that encourages equitable grantmaking practices.
 
 ### Trust-based grantmaking
 
