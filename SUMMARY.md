@@ -53,10 +53,11 @@
 
 ## FAQ
 
-* [Basic  FAQ](faq/basic-faq.md)
+* [Basic FAQ](faq/basic-faq.md)
 * [Contributions FAQ](faq/contributions-faq.md)
-* [Expenses  FAQ](faq/expenses-faq.md)
-* [Legal & Compliance  FAQ](faq/legal-and-compliance-faq.md)
+* [Expenses FAQ](faq/expenses-faq.md)
+* [Legal & Compliance FAQ](faq/legal-and-compliance-faq.md)
 * [Grants FAQ](faq/grants-faq.md)
 * [How we're different](faq/how-were-different.md)
 * [Is OCF Right For You?](faq/is-ocf-right-for-you.md)
+* [OCF & Co-ops](faq/ocf-and-co-ops.md)
