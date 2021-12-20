@@ -12,9 +12,10 @@ Please be sure to review our [**Outside Entities Policy**](../../policies/outsid
 
 **Note:**
 
-* You must [reach out to us](mailto:contact@opencollective.foundation) if you decide to use one of these third-party platforms. We may already have an account on the platform, in which case we will help you get things set up. It will also speed up the process of getting the funds into your budget.
+* **You must** [**reach out to us**](mailto:contact@opencollective.foundation) **if you would like to use one of these third-party platforms.** We may already have an account on the platform, in which case we will help you get things set up. It will also speed up the process of getting the funds into your budget.
 * Since you are part of Open Collective Foundation, funds will need to go directly to us and then we’ll make sure they go into your initiative’s budget.
 * Since moving funds from these sites into your balance is a manual process, and due to external platforms’ own unique disbursement processes, the funds will not reach you as quickly as those raised through Open Collective. There will likely be delays.
+  * **Unless otherwise specified, we will batch donations arriving from 3rd-party platforms and disburse to your initiative 1x/month.**
 * OCF will charge [our standard fee](../../fees.md) on funds raised on the external sites.
 
 ## Third-Party Tools
@@ -36,13 +37,16 @@ The below tools have been used by Open Collective Foundation's initiatives in th
     * many companies use it as their giving portal&#x20;
     * Access to donors
   * Initiative becomes searchable on Benevity's website
-  * Reporting to OCF for streamlined disbursement of funds back into account
   * Credits are made into your initiative's budget 1x/month
 * **Onboarding Info:**
   * **Video**: [Attracting Donors to your Benevity Profile](https://causeshelp.benevity.org/hc/en-us/articles/360000469786-Attracting-Donors-to-Your-Profile)
   * **Webinar**: [Strategies for a Successful Giving Season](https://causeshelp.benevity.org/hc/en-us/articles/360000478943-Charities-Webinar-Strategies-for-a-Successful-Giving-Season)
 
-_Note_: funds raised from Benevity are disbursed to us on a monthly basis.
+_Note_: Benevity operates on a monthly disbursement model. All funds designated to your organization in a month are aggregated and issued in one payment at the end of the following month.&#x20;
+
+For example, all donations designated to your organization in November will be disbursed around the last week of December.
+
+Also, the reporting tools from Benevity are fairly limited (cannot view donor details/dates).
 
 {% hint style="info" %}
 We will set up your Benevity profile using the information & logo you use on your OC page. If there is alternative/additional information you would like to present, please be sure to specify and we will be sure to include it.
@@ -60,7 +64,7 @@ The following are **not** set up to work specifically with fiscally hosted proje
 {% tab title="Facebook" %}
 [Facebook Fundraisers](https://www.facebook.com/fund/Open-Collective-Foundation-100612854999717/)
 
-1. Use [this link](https://www.facebook.com/fund/Open-Collective-Foundation-100612854999717/) to setup a Facebook Fundraiser with Open Collective as the recipient
+1. Use [this link](https://www.facebook.com/fund/Open-Collective-Foundation-100612854999717/) to setup a Facebook Fundraiser with Open Collective Foundation as the recipient
 2. [Contact us](mailto:contact@opencollective.foundation) when you start a new fundraiser so that we can get the raised funds correctly allocated to your account
 3. :exclamation: Due to Facebook's disbursement schedule, there could be a \~1 month delay in disbursement of raised funds to your initiative after the Facebook fundraiser has ended. Funds arrive from Facebook in batches, so it is unlikely OCF received your fundraising campaign's money all at once.
 {% endtab %}
