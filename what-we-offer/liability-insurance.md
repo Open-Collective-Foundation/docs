@@ -30,7 +30,11 @@ Please note: this page does not include information about health insurance, only
 * Inland Marine
 * Employee/Volunteer Dishonesty
 
-[More details on insurance types.](https://insurancefornonprofits.org/coverages/list-of-coverages/)
+See more details about [types of insurance](https://insurancefornonprofits.org/coverages/list-of-coverages/).
+
+See this document for an overview of OCF's core policy coverage:
+
+{% file src="../.gitbook/assets/Summary of Insurance OCF.pdf" %}
 
 ### Is signing up for insurance required?
 
