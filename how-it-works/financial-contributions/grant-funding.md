@@ -2,6 +2,10 @@
 
 ## Grant Applications
 
+{% hint style="warning" %}
+_PLEASE NOTE_: the below is only relevant to initiatives of Open Collective **Foundation**. If you are hosted by [Open Source Collective](https://docs.oscollective.org), or another host, please see their documentation.
+{% endhint %}
+
 The opportunity to apply for grants is one of the biggest benefits of being hosted by a [501(c)(3) organization](../../what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean) like Open Collective Foundation.
 
 When drafting grant applications, you will likely need info like our [EIN number, address, and maybe even our banking information](../../about/official-information-and-documents.md). You may also need to [upload our IRS Determination Letter](../../about/official-information-and-documents.md#nonprofit-status). Please check the [Official Information and Documents](../../about/official-information-and-documents.md) page first, and if the application asks for info or documentation not listed there (such as our most recent audit, 990, or other budget documents), [reach out](../../about/contact-us.md) and we will endeavor to put it together for you. &#x20;
