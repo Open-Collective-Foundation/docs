@@ -1,5 +1,11 @@
 # Setting Up GitHub Sponsors
 
+{% hint style="danger" %}
+_**PLEASE NOTE**_**:** the below is only relevant to initiatives of Open Collective **Foundation**. Most open source projects on the platform are hosted by Open **Source** Collective.
+
+If you are hosted by **Open Source Collective**, **** please see their documentation for how to set up GitHub Sponsors.
+{% endhint %}
+
 **This document is a guide to connecting** [**Github Sponsors**](https://github.com/sponsors) **for Organizations to your initiative. This option is currently only available for initiatives fiscally hosted by the** **Open Collective Foundation, which will hold the funds on behalf of your project.**
 
 _Note: Transaction data about the funds you receive through GitHub Sponsors will be shared with Open Collective Foundation in order to credit your budget._
