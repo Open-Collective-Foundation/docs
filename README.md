@@ -13,7 +13,7 @@ Open Collective Foundation is a 501(c)(3) fiscal sponsor and fiscal host dedicat
 \
 This video explains the power of the tech platform:
 
-{% embed url="https://www.youtube.com/watch?t=43s&v=bbtQcW4E_RU" %}
+{% embed url="https://youtu.be/SfHeSpoSHTM" %}
 We are 1 node in an international network of 600 nonprofits, LLCs, and co-ops around the world that use the same, open source software to create efficiencies with money.
 {% endembed %}
 
