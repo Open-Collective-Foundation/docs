@@ -1,11 +1,17 @@
 ---
 description: >-
-  Open Collective Foundation is a 501(c)(3) fiscal sponsor and fiscal host
-  dedicated to providing a simple, open, lightweight path for charitable
-  initiatives and communities to manage their finances.
+  Open Collective Foundation is a nonprofit with a tech platform that enables
+  over 300 groups to raise and spend over $13 million dollars a year in full
+  transparency.
 ---
 
 # Welcome!
+
+**Access nonprofit status overnight.**
+
+Open Collective Foundation is a 501(c)(3) fiscal sponsor and fiscal host dedicated to providing a simple, open, lightweight path for charitable initiatives and communities to manage their finances.
+
+We are 1 node in an international network of 600 nonprofits, LLCs, and co-ops around the world that use the same, open source software to create efficiencies with money.
 
 This video intro explains what OCF is all about and how to make the most of our services.
 
