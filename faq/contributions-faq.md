@@ -18,9 +18,9 @@ In most cases, yes! As long as the funds are transferred into your Open Collecti
 
 Also, check out our [Third-Party Fundraising Tools page](https://docs.opencollective.foundation/how-it-works/third-party-fundraising-tools-and-benefits) for more options and details about GoFundMe.
 
-### **Can we receive earned income (i.e., non-donations) or sell stuff through OCF?**
+### **Can we receive earned income (i.e., non-donations) sell stuff through OCF?**
 
-OCF’s ability to support sales of goods and services as a means of fundraising [is limited](https://docs.opencollective.foundation/how-it-works/processes-and-limitations), but we will consider requests on a case-by-case basis.&#x20;
+CF cannot provide tax deductibility for merch sales at this time.
 
 From our [Outside Entities Policy](../how-it-works/policies/outside-entities-policy.md#examples-of-generally-permitted-use-of-outside-entities):
 
