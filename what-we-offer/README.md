@@ -31,7 +31,7 @@ In addition to being your legal and financial home, OCF offers many useful servi
 * [Monthly Community Forums](https://opencollective.com/foundation/events): ask questions, give feedback, and support and learn from other initiatives like yours. Connect with our [growing network of hosted initiatives](https://opencollective.com/foundation#category-CONTRIBUTIONS).
 * [Grant application support](../how-it-works/financial-contributions/grant-funding.md): you choose the grants to apply to and tell your story, we take care of all the compliance paperwork and meet funder requirements for documentation, audited financials, and track record
 * [Employment, payroll, and health benefits](employment.md): make your initiative your full time job and hire staff
-* [Liability insurance](liability-insurance.md): get simple, cost-effective coverage for your gorup by adding an addendum to our core policies
+* [Liability insurance](liability-insurance.md): get simple, cost-effective coverage for your group by adding an addendum to our core policies
 * [Free email boxes](emails.md): we can add your domain to our Google for Nonprofits account and give you free email boxes
 * [Grantmaking](about-grantmaking.md): make grants to your community - you choose the grantees, we take care of the paperwork
 * [Cash assistance](../how-it-works/policies/cash-assistance-policy.md): give money to people who are unbanked and/or lack internet access, who can't provide the normally required paperwork
