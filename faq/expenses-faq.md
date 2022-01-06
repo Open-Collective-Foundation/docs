@@ -1,4 +1,8 @@
-# Expenses  FAQ
+# Expenses FAQ
+
+{% hint style="success" %}
+Check out our [payouts.md](../how-it-works/payouts.md "mention") page for details about all the options for spending funds from your balance
+{% endhint %}
 
 ### **What does the approval process look like for expenses?**
 
