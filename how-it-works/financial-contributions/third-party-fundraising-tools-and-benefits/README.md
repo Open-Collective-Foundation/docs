@@ -13,14 +13,22 @@ Please be sure to review our [**Outside Entities Policy**](../../policies/outsid
 **Note:**
 
 * **You must** [**reach out to us**](mailto:contact@opencollective.foundation) **if you would like to use one of these third-party platforms.** We may already have an account on the platform, in which case we will help you get things set up. It will also speed up the process of getting the funds into your budget.
-* Since you are part of Open Collective Foundation, funds will need to go directly to us and then we’ll make sure they go into your initiative’s budget.
+* Since you are part of Open Collective Foundation, funds will need to go directly to us, and then we’ll make sure they go into your initiative’s budget.
 * Since moving funds from these sites into your balance is a manual process, and due to external platforms’ own unique disbursement processes, the funds will not reach you as quickly as those raised through Open Collective. There will likely be delays.
   * **Unless otherwise specified, we will batch donations arriving from 3rd-party platforms and disburse to your initiative 1x/month.**
 * OCF will charge [our standard fee](../../fees.md) on funds raised on the external sites.
 
 ## Third-Party Tools
 
-The below tools have been used by Open Collective Foundation's initiatives in the past and send us information about which initiative the funds are for.&#x20;
+OCF offers limited support for integrating with 3rd party tools and apps.&#x20;
+
+### Some of our available options:
+
+[nonprofit-discounts.md](../../../what-we-offer/nonprofit-discounts.md "mention")
+
+[emails.md](../../../what-we-offer/emails.md "mention")
+
+The tools below have been used by Open Collective Foundation's initiatives in the past and are available for OCF's hosted groups.
 
 {% tabs %}
 {% tab title="ActBlue" %}
@@ -54,7 +62,7 @@ We will set up your Benevity profile using the information & logo you use on you
 {% endtab %}
 {% endtabs %}
 
-The following are **not** set up to work specifically with fiscally hosted projects and do not report where donated funds are meant to be allocated to.  This means there will be delays in the funds arriving to your account.
+The following are **not** set up to work specifically with fiscally hosted projects and do not report where donated funds are meant to be allocated to.  This means there will be delays in the funds arriving to your account, and you **must** inform us whenever these are used.
 
 {% hint style="warning" %}
 **If you wish to have the raised funds from the below platforms allocated to your fund, you must** [**inform us**](mailto:contact@opencollective.foundation) **about the incoming funds (please include links + screenshots).** Unclaimed funds will be directed to OCF's operating costs.
@@ -74,13 +82,24 @@ GoFundMe [Charity Fundraising](https://www.gofundme.com/start/charity-fundraisin
 
 * Select OpenCollective Foundation as the beneficiary in order for your donors to receive tax-deductible status \[recommended],&#x20;
 * **or** you collect them on your own behalf, and transfer them to your initiative as one lump sum. \[it will not be tax-deductible for your donors]
+* [FAQ](https://docs.opencollective.foundation/faq/contributions-faq#can-we-use-outside-fundraising-platforms-like-gofundme-to-fundraise-for-our-initiative)
 {% endtab %}
 {% endtabs %}
 
-If you use any of these tools, **please** [**email us**](mailto:contact@opencollective.foundation). Also, [let us know](mailto:contact@opencollective.foundation) if you are interested in a platform not listed above and we will see if we can make it work.
+If you use any of these tools, **please** [**email us**](mailto:contact@opencollective.foundation).&#x20;
+
+Also, [let us know](mailto:contact@opencollective.foundation) if you are interested in a platform not listed above and we will see if we can make it work.  If you are requesting an integration with a 3rd party tool, please consider the following:
+
+* not all apps/tools are suitable for fiscal sponsorship arrangements (e.g. they don't allow multiple groups to use the same EIN, they have limited reporting tools that don't indicate to us where funds should be allocated)
+* the tool **must have** a good option for monitoring the contributions (e.g. a dashboard for OCF to review contributions; detailed monthly reports),&#x20;
+  * in some cases,the collective can forward the reports to OCF on a regular basis
+* the tool batches raised funds and make transfers on a periodic basis (e.g. once a month); not with funds arriving 1-at-a-time&#x20;
+* payments **must** be sent as [bank transfers](../credit-card-paypal-bank-transfers.md#bank-transfers) only (and only as per the monthly contribution amount).&#x20;
+* Re: [donation-matching](../donation-matching.md) tools: mandatory fields where any donations matches include the information about which initiative they support,&#x20;
+* The initiative must understand that there will be delays in getting these funds into their Open Collective account due to the manual processing, etc.&#x20;
 
 {% hint style="warning" %}
-[Please email us](mailto:contact@opencollective.foundation) if you are expecting a payment from the third party service so we can look out for it and credit your account.
+[Please email us](mailto:contact@opencollective.foundation) if you are expecting a payment from the third party service so we can look out for it and credit your account in timely fashion.
 {% endhint %}
 
 #### External PayPal Accounts
