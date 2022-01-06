@@ -6,7 +6,7 @@ Hosted initiatives that align with our [impact areas](about/mission-and-values.m
 
 [What is Open Collective](https://docs.opencollective.com/help/about/introduction)? It's is an open-source, online fundraising platform for open and transparent communities. **We provide the tools you need to raise and share your finances in full transparency.** 'Open Collective' founded 'Open Collective Foundation' as part of its mission to help collaborative groups collect and spend money transparently.
 
-_For the latest on our approach to fiscal sponsorship and the solidarity economy, check out _[_Solidarity as our Guiding Principle_](https://blog.opencollective.com/solidarity-as-our-guiding-principle/)_._
+_For the latest on our approach to fiscal sponsorship and the solidarity economy, check out_ [_Solidarity as our Guiding Principle_](https://blog.opencollective.com/solidarity-as-our-guiding-principle/)_._
 
 {% hint style="info" %}
 **Open Collective** is a growing ecosystem. In addition to OCF, in our network, we also have:
@@ -60,7 +60,7 @@ Didn’t find what you are looking for? :mag: Use the Search Bar in the upper ri
 
 :speech\_balloon:Join [our Slack](https://join.slack.com/t/opencollective/shared\_invite/zt-f43qko76-sD8G\~e\_vQCm4TtpIsM4i\~A) and find us in the #ocf channel
 
-:bird: Follow us on [Twitter](https://twitter.com/opencollect)
+:bird: Follow us on [Twitter](https://twitter.com/opencollect) and [Instagram](https://www.instagram.com/opencollectivefoundation/)
 
 :round\_pushpin: Our [mailing address](https://docs.opencollective.foundation/about/official-information-and-documents#address) & [Other Important Docs](https://docs.opencollective.foundation/about/official-information-and-documents)
 
