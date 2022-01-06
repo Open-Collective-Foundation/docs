@@ -88,6 +88,8 @@ GoFundMe [Charity Fundraising](https://www.gofundme.com/start/charity-fundraisin
 
 If you use any of these tools, **please** [**email us**](mailto:contact@opencollective.foundation).&#x20;
 
+\---
+
 Also, [let us know](mailto:contact@opencollective.foundation) if you are interested in a platform not listed above and we will see if we can make it work.  If you are requesting an integration with a 3rd party tool, please consider the following:
 
 * not all apps/tools are suitable for fiscal sponsorship arrangements (e.g. they don't allow multiple groups to use the same EIN, they have limited reporting tools that don't indicate to us where funds should be allocated)
