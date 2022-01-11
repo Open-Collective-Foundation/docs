@@ -6,7 +6,7 @@ The [OpenCollective Foundation Terms of Fiscal Sponsorship](../../getting-starte
 
 ## What are outside accounts?
 
-An outside account is any financial account used by an Initiative (“Initiatives”) hosted by OpenCollective Foundation (“OCF”) that is **not** directly owned and managed by OCF, including Venmo, Cash App, [GoFundMe](../financial-contributions/third-party-fundraising-tools-and-benefits/#third-party-tools), Eventbrite, PayPal accounts, cash boxes, personal bank accounts, business bank accounts, cryptocurrency wallets, or any other means of storing and distributing money.&#x20;
+An outside account is any financial account used by an Initiative (“Initiatives”) hosted by OpenCollective Foundation (“OCF”) that is **not** directly owned and managed by OCF, including Venmo, Cash App, [GoFundMe](../financial-contributions/third-party-fundraising-tools-and-benefits/#third-party-tools), Patreon, Eventbrite, PayPal, accounts, cash boxes, personal bank accounts, business bank accounts, cryptocurrency wallets, or any other means of storing and distributing money.&#x20;
 
 If the outside account is associated with an incorporated entity, also ensure compliance with the [Outside Entities Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-entities-policy).
 
