@@ -8,8 +8,10 @@ description: >-
 # Grantmaking Policy
 
 {% hint style="info" %}
-**For more info on this policy, helpful tips, and advice about equitable grantmaking, see** [**About Grantmaking**](../../what-we-offer/about-grantmaking.md)**.** \
-\
+**For more info on this policy, helpful tips, and advice about equitable grantmaking, see** [**About Grantmaking**](../../what-we-offer/about-grantmaking.md)**.**&#x20;
+
+Please also be aware that this is a new process - we are working with our Initiatives to build out something that works for everyone while still remaining compliant with the law and tax regulations.
+
 If the person you wish to fund can provide receipts before payment and/or is ok with getting a 1099 for this income, they can submit normal expenses instead of going through this grant process.
 
 If you wish to fund another OCF-hosted initiative or donate to another 501(c)(3) entity, you don't need to go through this grant process ([contact us](../../about/contact-us.md) for details about what to do in those cases).
