@@ -40,7 +40,7 @@ Once money enters a 501(c)(3), it has to either be used to further the purpose i
 
 Here are some links and resources to find other kinds of support for co-ops that OCF might not be able to provide.
 
-\[coming soon]
+[Cooperative Incubation](https://www.co-oplaw.org/knowledge-base/cooperative-development/) - Co-opLaw.org
 
 ## Co-op Dreams
 
