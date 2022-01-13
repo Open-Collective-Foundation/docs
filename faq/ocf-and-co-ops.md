@@ -8,11 +8,13 @@ Since [explicitly naming our solidarity economy focus](https://blog.opencollecti
 
 OCF is a 501(c)(3) nonprofit that [fiscally hosts](../what-we-offer/fiscal-hosting.md) initiatives with missions around education, social impact, and civic engagement. We're set up to serve a wide range of groups and activities, but not for everything.
 
-### When it's about education.... yes
+### When it's about education _about_ co-ops.... yes
 
 Are your activities focused on education about co-ops, capacity-building, research, mentorship, and building supportive communities learning about co-ops? Then we'd love to host you!&#x20;
 
 This also includes groups who are in the early stages of organizing around a social impact mission with potentially cooperative aspirations, but haven't yet settled on the structure they want to have (with some caveats... see below).
+
+If you are planning to be an educational business, however, see [below](ocf-and-co-ops.md#when-its-about-business...-probably-no).
 
 ### When it's about collaborative practice... possibly
 
