@@ -31,7 +31,7 @@ Virtual Cards can be issued to OCF’s hosted initiatives for paying things like
 
 * **Name**: Open Collective Foundation
 * **Address**:&#x20;
-  * 340 S. Lemon Avenue, #3717 Walnut, CA 91789-2706
+  * 340 S. Lemon Avenue, #3717 Walnut, California, 91789-2706, USA
 
 
 
