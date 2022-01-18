@@ -27,12 +27,13 @@ Virtual Cards can be issued to OCF’s hosted initiatives for paying things like
 * Virtual cards **may not** be used for [paying/reimbursing people](../payouts.md)-that should be done on the OC platform.
 * These are **virtual** cards, **no physical card will be issued**
 
-#### If you need to input Cardholder contact details:
+#### If you need to input Cardholder contact details/address:
 
-* **Name**: You can use yours
-* **Address**: You can use ours:&#x20;
+* **Name**: Open Collective Foundation
+* **Address**:&#x20;
   * 340 S. Lemon Avenue, #3717 Walnut, CA 91789-2706
-* _If the transaction requires a shipping address, you may want to use a billing address in the same city_&#x20;
+
+
 
 ## Steps:
 
