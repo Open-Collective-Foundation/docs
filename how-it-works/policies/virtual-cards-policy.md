@@ -10,9 +10,9 @@ Virtual Cards can be issued to OCF’s hosted initiatives for paying things like
 
 * Funds are spent only as transactions occur. (Setting up a card does not remove any money from your initiative's budget.)
 * Card limits are automatically linked to your initiative's budget. (This means overspending on the card is not possible).
-* Cards will be issued with a $1000/month budget.
-* If more than $1000/month is required, please request a limit increase.
-  * To receive an increase, initiative must have a budget with corresponding amount, and must demonstrate that a higher limit is necessary
+* Submit a virtual card request with the intended use of the card and the amount budgeted for that. The virtual card with that limit will be set up for your collective.
+* If your collective needs a higher limit on your virtual card please request a limit increase by contacting us at contact@opencollective.foundation.
+  * To receive an increase, initiative must have a budget with corresponding amount, and must demonstrate that a higher limit is necessary.
 * Cards must be used in compliance with our policy below.
 
 ## **Requirements/Policy:**
