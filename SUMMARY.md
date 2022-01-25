@@ -6,7 +6,7 @@
   * [Fiscal Hosting](what-we-offer/fiscal-hosting.md)
   * [Online Platform](what-we-offer/online-platform.md)
   * [Liability Insurance](what-we-offer/liability-insurance.md)
-  * [Employment](what-we-offer/employment.md)
+  * [Employment & Benefits](what-we-offer/employment.md)
   * [Grantmaking](what-we-offer/about-grantmaking.md)
   * [Emails & Google Workspace](what-we-offer/emails.md)
   * [Nonprofit Discounts](what-we-offer/nonprofit-discounts.md)

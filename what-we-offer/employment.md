@@ -1,4 +1,4 @@
-# Employment
+# Employment & Benefits
 
 ## About
 
@@ -16,9 +16,9 @@ Benefits are available to full time employees (30+ hours per week).
 
 Because many initiatives operate under the OCF umbrella, we can access large group health insurance plans only available to employers. This lowers costs an increases available options.
 
-Employees can decide whether or not to sign up for healthcare or other benefits, and the initiative's budget is only charged for benefits if they opt-in. There are a wide range of plans, which vary depending on the employee's place of residence and other factors. Once an employee gets set up and wants to activate health insurance, they can choose from available options.
+Employees can decide whether or not to sign up for healthcare or other benefits, and the initiative's budget is only charged for benefits if they opt-in. Each initative can choose what proportion of benefits costs are paid by the initiative vs out of pocket by its employees.
 
-[More info from our benefits provider](https://justworks.com/features/benefits).
+[**Overview of benefits options**](https://secure.justworks.com/benefits/company\_benefits\_overviews/8011d67a-5191-43c4-b504-072e17b067da/show)****
 
 ### Costs
 
