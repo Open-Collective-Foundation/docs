@@ -1,31 +1,24 @@
 # Virtual Cards Policy
 
-{% hint style="success" %}
-OCF is in the process of changing virtual card providers.  Details for new processes are below. Please understand these are new for us, so there may be some challenges that arise along the way. For any very important/urgent expense, please use our [normal expense processes](../payouts.md).
-{% endhint %}
-
-Virtual Cards can be issued to OCF’s hosted initiatives for paying things like: recurring payments, online resources/tools, subscriptions that can be paid by card, vendors (e.g. wholesale distributors).&#x20;
+Virtual Cards can be issued to OCF’s hosted initiatives for paying online for things like: recurring payments, utility bills, online resources/tools, subscriptions, vendors (e.g. wholesale distributors), etc.
 
 ## How it works
 
 * Funds are spent only as transactions occur. (Setting up a card does not remove any money from your initiative's budget.)
-* Card limits are automatically linked to your initiative's budget. (This means overspending on the card is not possible).
-* Submit a virtual card request with the intended use of the card and the amount budgeted for that. The virtual card with that limit will be set up for your collective.
-* If your collective needs a higher limit on your virtual card please request a limit increase by contacting us at contact@opencollective.foundation.
-  * To receive an increase, initiative must have a budget with corresponding amount, and must demonstrate that a higher limit is necessary.
+* Submit a virtual card request with the intended use of the card **(please specify the names of the services you will use)** and the amount budgeted for that monthly **(e.g. $300/monthly)**. The virtual card with that limit will be set up for your collective.
+* If your collective needs a higher limit on your virtual card please request a limit increase by contacting us at contact@opencollective.foundation **** with the intended use and the amount increase needed.
+  * To receive an increase, initiative must have a budget on their Open Collective account that exceeds the corresponding amount, and must demonstrate that a higher limit is necessary.
 * Cards must be used in compliance with our policy below.
 
 ## **Requirements/Policy:**
 
 * Initiatives must have a minimum of 2 admin members
-* These are **virtual cards.** No physical card will be issued, so these likely cannot be used in-store.
-* Cards can be used for paying things like recurring payments, online resources/tools, any subscription you are paying for with a card, vendors (e.g. wholesale distributors).&#x20;
+* These are **virtual cards.** No physical card will be issued, so these cannot be used in-store.
 * All transactions should comply with normal usage of initiative funds as outlined in our [Terms of Fiscal Sponsorship](../../getting-started/terms.md)
 
 **Limitations:**
 
 * Virtual cards **may not** be used for [paying/reimbursing people](../payouts.md)-that should be done on the OC platform.
-* These are **virtual** cards, **no physical card will be issued**
 
 #### If you need to input Cardholder contact details/address:
 
