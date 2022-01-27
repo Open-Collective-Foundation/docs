@@ -17,6 +17,8 @@ This quick video explains the power of the tech platform:
 We are 1 node in an international network of 600 nonprofits, LLCs, and co-ops around the world that use the same, open source software to create efficiencies with money.
 {% endembed %}
 
+#### Platform Tour & Features
+
 This video intro explains what Open Collective Foundation (OCF) is all about and how to make the most of our services.
 
 {% embed url="https://www.loom.com/share/e7c8245251784196a6dde4f49cb3ab2a" %}
