@@ -12,7 +12,7 @@ Open Collective Foundation (OCF), while primarily focused on supporting US-based
   * Alina Manko - [Twitter](https://twitter.com/c\_observations)[, Instagram](https://www.instagram.com/curious\_observations/), [LinkedIn](https://www.linkedin.com/in/alinamanko/)
   * Kayla Epstein - [Blog](https://blog.opencollective.com/author/kayla/), [LinkedIn](https://www.linkedin.com/in/kaylarepstein/)
   * Ember Buck - [Website](https://ewhitneybuck.wordpress.com), [LinkedIn](https://www.linkedin.com/in/emberbuck/)
-* **Comms Organiser**
+* **Communications Organizer**
   * Bobby Joe Smith III - [Linkedin](https://www.linkedin.com/in/bobby-joe-smith-iii-32165b2a/)
 
 ### **Team Bios:**
