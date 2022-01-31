@@ -1,4 +1,4 @@
-# Legal & Compliance  FAQ
+# Legal & Compliance FAQ
 
 ### **Do we need to set up a bank account?**
 
@@ -37,13 +37,3 @@ Although Open Collective Foundation’s hosted initiatives can do work outside o
 ### **Can we be fiscally sponsored by another group while being hosted by Open Collective Foundation?**
 
 No. Hosted initiatives can only be hosted by OCF for the duration of their time with us.
-
-### **What is the process for leaving Open Collective Foundation?**
-
-While you entered into [an agreement with us](https://docs.opencollective.foundation/getting-started/terms) when you joined OCF, there is no contractual obligation to stay with us, or with any particular fiscal host on the Open Collective platform.
-
-If you decide to transition to another fiscal host that uses the Open Collective platform, the [process is relatively simple](https://docs.opencollective.com/help/collectives/change-fiscal-host). If you [“zero out” the funds in your account](https://docs.opencollective.com/help/collectives/zero-collective-balance) and decide to close it, you can also [archive/delete your initiative](https://docs.opencollective.com/help/collectives/closing-a-collective) if you are ending your initiative.
-
-If you decide to transfer your funds to a fiscal host not on the Open Collective platform or to a new 501(c)(3) entity (one that you have set up or another [fiscal host/sponsor](https://docs.opencollective.foundation/about/fiscal-hosting)), please [reach out to us](mailto:contact@opencollective.foundation)
-
-If you wish to close out with OCF, but still want to use the Open Collective **platform** to manage your initiative's funds, you can become an [independent collective](https://docs.opencollective.com/help/independent-collectives/about-independent-collectives).

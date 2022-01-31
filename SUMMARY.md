@@ -61,3 +61,4 @@
 * [How we're different](faq/how-were-different.md)
 * [Is OCF Right For You?](faq/is-ocf-right-for-you.md)
 * [OCF & Co-ops](faq/ocf-and-co-ops.md)
+* [Leaving OCF](faq/leaving-ocf.md)
