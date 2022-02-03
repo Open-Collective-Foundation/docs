@@ -81,7 +81,7 @@ The following are **not** set up to work specifically with fiscally hosted proje
 GoFundMe [Charity Fundraising](https://www.gofundme.com/start/charity-fundraising)
 
 * Select OpenCollective Foundation as the beneficiary in order for your donors to receive tax-deductible status \[recommended],&#x20;
-* **or** you collect them on your own behalf, and transfer them to your initiative as one lump sum. \[it will not be tax-deductible for your donors]
+* **or** you collect them on your own behalf, and transfer them to your initiative as one lump sum. \[it will not be tax-deductible for your donors. Refer to our [Outside Accounts Policy](../../policies/outside-accounts-policy.md) for details.]
 * [FAQ](https://docs.opencollective.foundation/faq/contributions-faq#can-we-use-outside-fundraising-platforms-like-gofundme-to-fundraise-for-our-initiative)
 {% endtab %}
 {% endtabs %}
