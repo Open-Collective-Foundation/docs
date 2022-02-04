@@ -8,7 +8,7 @@ description: A step-by-step guide to becoming an Initiative with OCF
 
 1. Read through our [full documentation](../../) and [FAQs](broken-reference) and review the [Terms of Fiscal Sponsorship Agreement](../terms.md) (a.k.a. our Terms and Conditions - when you submit your application, you will tick a box to agree to these. This is our Fiscal Sponsorship Agreement/MOA)
 2. Ensure that you are [eligible](../eligibility.md) for fiscal hosting with Open Collective Foundation and are familiar with the Open Collective [Community Guidelines](https://docs.opencollective.com/help/about/community-guidelines)
-3. Be familiar with the the [Restrictions & Limitations](../../how-it-works/policies/#restrictions-and-limitations) of our program
+3. Be familiar with the [Restrictions & Limitations](../../how-it-works/policies/#restrictions-and-limitations) of our program
 4. Review our [Cash Assistance Policy](../../how-it-works/policies/cash-assistance-policy.md), [Outside Entities Policy](../../how-it-works/policies/outside-entities-policy.md), and [Outside Accounts Policy](../../how-it-works/policies/outside-accounts-policy.md) to ensure that OCF's fiscal hosting is right for you
 5. Review our [fee structure](../../how-it-works/fees.md)
 6. Have at least 2 community members ready to add as [admins](https://docs.opencollective.com/help/collectives/core-contributors). Admins have full permissions to change settings, approve expenses, and make financial contributions from the budget balance of your initiative. _**Applications with less than 2 admins will not be accepted.**_
@@ -19,7 +19,7 @@ description: A step-by-step guide to becoming an Initiative with OCF
 * You retain ownership of all your initiative's **intellectual property**.
 * We will hold and manage funds on behalf of your initiative and we won't use them for anything else.
 * If you want to enter into an agreement with anyone else, such as a contract with a vendor or providing a specific service to a sponsor, **you need to get our permission**, because legally the agreement would be with Open Collective Foundation.
-* You initiative **cannot** have multiple fiscal sponsors or [outside bank accounts](../../how-it-works/policies/outside-accounts-policy.md). **All funds must be held in your Open Collective account** in order to accurately represent your budget/activities.
+* Your initiative **cannot** have multiple fiscal sponsors or [outside bank accounts](../../how-it-works/policies/outside-accounts-policy.md). **All funds must be held in your Open Collective account** in order to accurately represent your budget/activities.
 
 ## **The Application**
 
@@ -31,9 +31,9 @@ You can prepare your application by previewing the questions:
 [application-questions.md](application-questions.md)
 {% endcontent-ref %}
 
-The application will have you choose whether you are starting a new collective or applying with an existing one. Then we'll provide you with some more information about being hosted by Open Collective Foundation and ask you to accept our [Terms of Fiscal Sponsorship Agreement](../terms.md). Once you have reviewed our terms, proceed and review our [fee structure](../../how-it-works/fees.md) as well.
+The application will have you choose whether you are starting a new collective or applying with an existing one. If you have never used the Open Collective platform before, you will select 'Create New Collective' where you will be guided through the application and account creation: We'll provide you with some more information about being hosted by Open Collective Foundation and ask you to accept our [Terms of Fiscal Sponsorship Agreement](../terms.md). Once you have reviewed our terms, proceed and review our [fee structure](../../how-it-works/fees.md) as well.
 
-**When you are ready,** you can [go to our profile](https://opencollective.com/foundation) and click [**Apply**](https://www.opencollective.com/foundation/apply)**!** Fill out the [application questions](application-questions.md), accept the Open Collective platform [terms of service](../terms.md), and submit.&#x20;
+**When you are ready,** you can [go to our profile](https://opencollective.com/foundation) and click [**Apply**](https://www.opencollective.com/foundation/apply)**!** Fill out the [application questions](application-questions.md), accept the Open Collective platform [terms of service](../terms.md), and submit.  :bulb: Remember to [add at least 2 community members](https://docs.opencollective.com/help/collectives/collective-settings/core-contributors) to your team!
 
 {% hint style="success" %}
 Everything you enter into the application will be editable later on, so don't worry about making it perfect.
@@ -43,7 +43,7 @@ Everything you enter into the application will be editable later on, so don't wo
 
 :no\_entry\_sign: If your application is rejected, you will be informed as to why. You are welcome to reapply if adjustments are made to align with our requirements. We try to respond to applications within two business days.
 
-:white\_check\_mark: If your initiative is accepted, congratulations! Once you have set up your initiative’s Open Collective page, you can begin accepting contributions (donations). We will reach out to notify you of your acceptance. We will provide you with a copy of your application for your reference (you may want to use the answers you submitted to [expand and customize ](https://docs.opencollective.com/help/collectives/customize-collective)your Open Collective profile) and instructions for [how to get started](broken-reference)!
+:white\_check\_mark: If your initiative is accepted, congratulations! Once you have set up your initiative’s Open Collective page, you can begin accepting contributions (donations). We will reach out to notify you of your acceptance. We will provide you with a copy of your application for your reference (you may want to use the answers you submitted to [expand and customize ](https://docs.opencollective.com/help/collectives/customize-collective)your Open Collective profile) and [instructions for how to get started](../../how-it-works/basics.md).
 
 {% hint style="info" %}
 Be sure to check your Spam folder for correspondence from OCF. Sometimes our emails end up in there.

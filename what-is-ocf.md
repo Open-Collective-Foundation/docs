@@ -4,9 +4,15 @@
 
 Hosted initiatives that align with our [impact areas](about/mission-and-values.md#our-missions-impact-areas) have access to the unique [Open Collective online platform](https://www.opencollective.com) for managing their funds. They can also receive **tax-deductible contributions** through our 501(c)(3) status.
 
-[What is Open Collective](https://docs.opencollective.com/help/about/introduction)? It's is an open-source, online fundraising platform for open and transparent communities. **We provide the tools you need to raise and share your finances in full transparency.** 'Open Collective' founded 'Open Collective Foundation' as part of its mission to help collaborative groups collect and spend money transparently.
+****[**What is Open Collective**](https://docs.opencollective.com/help/about/introduction)**?** It's is an open-source, online fundraising platform for open and transparent communities. **We provide the tools you need to raise and share your finances in full transparency.** 'Open Collective' founded 'Open Collective Foundation' as part of its mission to help collaborative groups collect and spend money transparently.
 
-_For the latest on our approach to fiscal sponsorship and the solidarity economy, check out_ [_Solidarity as our Guiding Principle_](https://blog.opencollective.com/solidarity-as-our-guiding-principle/)_._
+#### This quick video explains the power of the [Open Collective](https://www.opencollective.com) tech platform:
+
+{% embed url="https://youtu.be/SfHeSpoSHTM" %}
+We are 1 node in an international network of 600 nonprofits, LLCs, and co-ops around the world that use the same, open source software to create efficiencies with money.
+{% endembed %}
+
+_For the latest on our approach to fiscal sponsorship and the solidarity economy, check out_ [_Solidarity as our Guiding Principle_](https://blog.opencollective.com/solidarity-as-our-guiding-principle/)_._&#x20;
 
 {% hint style="info" %}
 **Open Collective** is a growing ecosystem. In addition to OCF, in our network, we also have:
@@ -27,9 +33,9 @@ We exist to take care of the difficult administrative aspects of running a 501(c
 
 * Manage finances transparently
 * Receive tax-deductible contributions
-* Pay project expenses
+* [Pay project expenses](how-it-works/payouts.md)
 * Pay your team, contractors, and vendors
-* Receive financial contributions by credit card, PayPal, electronic bank transfer, check, or donor-advised fund
+* [Receive financial contributions](how-it-works/financial-contributions/) by credit card, PayPal, electronic bank transfer, check, or donor-advised fund
 * [And more](what-we-offer/)
 
 Open Collective Foundation can be the home for your initiative’s finances. As your [fiscal host](what-we-offer/fiscal-hosting.md), we can be your legal entity and provide you with the financial tools you need to make an impact on the world! [**Read more about what we offer.**](what-we-offer/)

@@ -39,7 +39,7 @@ Using funds from your initiative’s budget is simple:
      * [**Reimbursements** ](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements)
      * ****[**Invoices**](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices)****
 2. An initiative [admin](https://docs.opencollective.com/help/collectives/core-contributors#roles) (someone on your team) approves it.
-3. OCF's team reviews it (confirms that the expense meets requirements e.g. having a valid receipt).
+3. OCF's team reviews it (confirms that the expense meets requirements e.g. having a valid receipt, amounts match).
 4. They get [paid](https://docs.opencollective.com/help/fiscal-hosts/payouts#what-payment-methods-do-you-support-for-withdrawals).
 
 {% hint style="info" %}
