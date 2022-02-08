@@ -2,7 +2,7 @@
 
 **Open Collective Foundation (OCF)** is a fiscal sponsor (aka fiscal host) ([what's that?](what-we-offer/fiscal-hosting.md)) dedicated to providing a simple, open, lightweight path for charitable initiatives and communities to operate through a 501(c)(3) charitable entity ([what's that?](what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean)).
 
-Hosted initiatives that align with our [impact areas](about/mission-and-values.md#our-missions-impact-areas) have access to the unique [Open Collective online platform](https://www.opencollective.com) for managing their funds. They can also receive **tax-deductible contributions** through our 501(c)(3) status.
+[Hosted initiatives](https://opencollective.com/foundation#category-CONTRIBUTIONS) that align with our [impact areas](about/mission-and-values.md#our-missions-impact-areas) have access to the unique [Open Collective online platform](https://www.opencollective.com) for managing their funds. They can also receive **tax-deductible contributions** through our 501(c)(3) status.
 
 ****[**What is Open Collective**](https://docs.opencollective.com/help/about/introduction)**?** It's is an open-source, online fundraising platform for open and transparent communities. **We provide the tools you need to raise and share your finances in full transparency.** 'Open Collective' founded 'Open Collective Foundation' as part of its mission to help collaborative groups collect and spend money transparently.
 
