@@ -14,9 +14,23 @@ Unfortunately, these services do not currently allow nonprofit accounts.&#x20;
 
 If you work with a mutual aid or solidarity project and must use these apps, please see our [Cash Assistance Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/cash-assistance-policy).&#x20;
 
-### **Do you offer payroll services? Can I have employees?**
+### **Can we pay people for their time?**
 
-Yes! [More info](../what-we-offer/employment.md).
+Yes!&#x20;
+
+Some groups who started out all-volunteer have hesitations when it comes to starting to pay people—especially if their mission is about countering negative impacts of economic exploitation in our capitalist society, which is understandable. It's true that beginning to pay people can change the dynamics, and bring up complicated questions about who gets paid and how much.
+
+However, we encourage initiatives to take these questions and concerns on and have frank conversations as a group about them, because that's a really healthy step to take. Regardless of the conclusion, important thinking and communication will happen. It is possible to pay people in ethical, transparent, accountable, mindful ways.
+
+OCF's mission is about the sustainability of positive impact initiatives. We help groups raise money so they can be resourced to grow and thrive. Often, that is about paying for people's time. While initiatives need to be mindful with their financial resources, human capacity is a resource too, and burning people out is not the way.
+
+OCF won't tell you what to do—it's up to initiatives to make these decisions. But we encourage you to think about the long-term health of your initiative and the well-being and development of the humans who make it all possible.
+
+You can pay people casually as contractors through invoice expenses on your Collective, or if they'll be working on a regular basis, employ them part or full time.
+
+### **Do you offer payroll and employment services?**
+
+Yes! With health insurance and benefits, too. [More info](../what-we-offer/employment.md).
 
 ### What about tax forms?
 
