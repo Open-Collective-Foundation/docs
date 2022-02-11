@@ -6,7 +6,7 @@ The Open Collective platform gives every group we host a page online where you c
 
 * Raise money
 * Manage and pay expenses
-* Display your transapent budget
+* Display your transparent budget
 * Post Updates
 * Host Events
 * and more!
