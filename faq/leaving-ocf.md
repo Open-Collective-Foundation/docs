@@ -8,6 +8,8 @@ There are some practical and technical things to understand about the process of
 
 Details about leaving are spelled out in the 'termination' section of [our terms](https://opencollective.com/foundation/terms).
 
+Had a Benevity account? Please be sure to ping us contact@opencollective.foundation so we can get your Benevity account ownership transferred over.
+
 ### Can we leave OCF?
 
 Yes. We won't lock you in. You can close down your initiative, move to a different fiscal sponsor, or incorporate own entity. You can even [take your Collective with you when you go](leaving-ocf.md#undefined), in many cases. However there are some limitations to be aware of (see below).
