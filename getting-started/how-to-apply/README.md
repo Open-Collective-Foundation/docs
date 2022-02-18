@@ -6,7 +6,7 @@ description: A step-by-step guide to becoming an Initiative with OCF
 
 ## **Before you apply:**
 
-1. Read through our [full documentation](../../) and [FAQs](broken-reference) and review the [Terms of Fiscal Sponsorship Agreement](../terms.md) (a.k.a. our Terms and Conditions - when you submit your application, you will tick a box to agree to these. This is our Fiscal Sponsorship Agreement/MOA)
+1. Read through this [documentation](../../) and [FAQs](broken-reference) and review the [Terms of Fiscal Sponsorship Agreement](../terms.md) (a.k.a. our Terms and Conditions - when you submit your application, you will tick a box to agree to these. This is our Fiscal Sponsorship Agreement/MOA.)
 2. Ensure that you are [eligible](../eligibility.md) for fiscal hosting with Open Collective Foundation and are familiar with the Open Collective [Community Guidelines](https://docs.opencollective.com/help/about/community-guidelines)
 3. Be familiar with the [Restrictions & Limitations](../../how-it-works/policies/#restrictions-and-limitations) of our program
 4. Review our [Cash Assistance Policy](../../how-it-works/policies/cash-assistance-policy.md), [Outside Entities Policy](../../how-it-works/policies/outside-entities-policy.md), and [Outside Accounts Policy](../../how-it-works/policies/outside-accounts-policy.md) to ensure that OCF's fiscal hosting is right for you
@@ -17,8 +17,10 @@ description: A step-by-step guide to becoming an Initiative with OCF
 
 * If your initiative is hosted by the Foundation, donations made through Open Collective are **tax-deductible** for your financial contributors.
 * You retain ownership of all your initiative's **intellectual property**.
-* We will hold and manage funds on behalf of your initiative and we won't use them for anything else.
 * If you want to enter into an agreement with anyone else, such as a contract with a vendor or providing a specific service to a sponsor, **you need to get our permission**, because legally the agreement would be with Open Collective Foundation.
+* Groups hosted by OCF **must** obtain approval in advance from OCF staff **prior** to the purchase of **any large assets** (e.g. cars, property) as these assets would be owned by OCF
+  * See [Situations where we need to be involved](../../how-it-works/policies/#situations-where-we-need-to-be-involved) for more info
+* We will hold and manage funds on behalf of your initiative and we won't use them for anything else.
 * Your initiative **cannot** have multiple fiscal sponsors or [outside bank accounts](../../how-it-works/policies/outside-accounts-policy.md). **All funds must be held in your Open Collective account** in order to accurately represent your budget/activities.
 * **Once funds enter into a 501(c)(3), they must remain in the 501(c)(3) sphere.** This means if your initiative [closes down](../../faq/leaving-ocf.md), your funds cannot be returned, and can either be spent on project expenses or must be transferred to another 501(c)(3) - perhaps another OCF-hosted initiative!
 
