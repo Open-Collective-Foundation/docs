@@ -8,7 +8,7 @@ Open Collective Foundation is a registered 501(c)(3) organization. [Financial co
 
 **Our DLN** is **17053184327027**&#x20;
 
-Our **IRS Determination Letter** (a.k.a. **Acceptance or Tax-exempt letter**), which serves as proof of our nonprofit status in the United States, our **W9**, and California Certificate of Status (commonly known as a Certificate of Good Standing) **** can be found below:
+Our **IRS Determination Letter** (a.k.a. **Acceptance or Tax-exempt letter**), which serves as proof of our nonprofit status in the United States, our **W9**, California Certificate of Status (commonly known as a Certificate of Good Standing), and current Board of Director bios **** can be found below:
 
 {% file src="../.gitbook/assets/open-collective-foundation-irs-determination-letter.pdf" %}
 OCF IRS Determination Letter
@@ -19,6 +19,12 @@ W9
 {% endfile %}
 
 {% file src="../.gitbook/assets/Certificate of Status (California, 2021-04-01).pdf" %}
+Certificate of Status (Certificate of Good Standing)
+{% endfile %}
+
+{% file src="../.gitbook/assets/OCF Board & Bios (02_2022).pdf" %}
+Board Members and their Bios
+{% endfile %}
 
 ### Address
 
