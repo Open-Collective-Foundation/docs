@@ -8,15 +8,17 @@ Open Collective Foundation is a registered 501(c)(3) organization. [Financial co
 
 **Our DLN** is **17053184327027**&#x20;
 
-Our **IRS Determination Letter** (a.k.a. **Acceptance or Tax-exempt letter**), which serves as proof of our nonprofit status in the United States & our **W9** can be found below:
+Our **IRS Determination Letter** (a.k.a. **Acceptance or Tax-exempt letter**), which serves as proof of our nonprofit status in the United States, our **W9**, and California Certificate of Status (commonly known as a Certificate of Good Standing) **** can be found below:
 
 {% file src="../.gitbook/assets/open-collective-foundation-irs-determination-letter.pdf" %}
 OCF IRS Determination Letter
 {% endfile %}
 
-{% file src="../.gitbook/assets/ocf-w9.pdf" %}
+{% file src="../.gitbook/assets/OCF W9.pdf" %}
 W9
 {% endfile %}
+
+{% file src="../.gitbook/assets/Certificate of Status (California, 2021-04-01).pdf" %}
 
 ### Address
 
@@ -40,7 +42,9 @@ OCF Banking Information PDF
 
 You can see our publicly-available Form 990s below, or on [our Guidestar profile](https://www.guidestar.org/profile/81-4004928).
 
-{% file src="../.gitbook/assets/OPEN COLLECTIVE FOUNDATION 2020 990 PUBLIC.PDF" %}
+{% file src="../.gitbook/assets/2020 OpenCollective Foundation 990 (PUBLIC).PDF" %}
+2020 Form 990
+{% endfile %}
 
 {% hint style="info" %}
 _Blank pages (parts of the form not applicable to OCF) have been removed from the file above for ease of reading. If you require a full unredacted version, we're happy to provide one._
