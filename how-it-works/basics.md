@@ -67,7 +67,7 @@ Initiative admins can [set an expense policy](https://docs.opencollective.com/he
 #### OCF uses a Double-Approval Process to pay out expenses:&#x20;
 
 1. Once submitted, expenses need to first be [approved by initiative admins](https://docs.opencollective.com/help/collectives/approving-expenses) and then,
-2. Expenses are processed and paid out by Open Collective Foundation biweekly (on **Mondays and Thursdays**).&#x20;
+2. Expenses are processed and paid out by Open Collective Foundation biweekly on **Mondays and Thursdays**. :earth\_asia: _Our finance team works across multiple time zones, which may mean transaction payments do not process until later in the day._
 
 {% hint style="info" %}
 OCF can [pay out funds](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses#by-what-method-can-i-get-paid) via PayPal and electronic bank transfer via Transferwise.&#x20;
