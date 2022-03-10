@@ -20,6 +20,10 @@ Employees can decide whether or not to sign up for healthcare or other benefits,
 
 [**Overview of benefits options**](https://secure.justworks.com/benefits/company\_benefits\_overviews/8011d67a-5191-43c4-b504-072e17b067da/show)****
 
+#### **Retirement Savings Accounts**
+
+As of April 2022, 401(k) retirement savings accounts are available to all employees (both full- and part-time) of OCF at no cost to the initiative. The process of signing up and setting up Traditional or Roth contributions is simple and straightforward. New employees can access this benefit after 90 days of employment.
+
 ### Costs
 
 The following costs are charged to the initiative budget for employment:
