@@ -5,8 +5,21 @@ Virtual Cards can be issued to OCF’s hosted initiatives for paying online for 
 ## How it works
 
 * Funds are spent only as transactions occur. (Setting up a card does not remove any money from your initiative's budget.)
-* Submit a virtual card request with the intended use of the card **(please specify the names of the services you will use)** and the amount budgeted for that monthly **(e.g. $300/monthly)**. The virtual card with that limit will be set up for your collective.
-* If your collective needs a higher limit on your virtual card please request a limit increase by contacting us at contact@opencollective.foundation **** with the intended use and the amount increase needed.
+* Submit a virtual card request with the intended use of the card and the amount budgeted for that monthly. The virtual card with that limit will be set up for your collective.
+
+{% hint style="success" %}
+**Please include vendor details and pricing details in your request (estimates are ok).**
+
+e.g.:&#x20;
+
+* Zoom Monthly Subscription $50/month&#x20;
+* Uhaul Storage Unit $500/month&#x20;
+* Amazon cleaning supplies $80/month&#x20;
+* Target Household Supplies $20/month&#x20;
+* Total: $650/month
+{% endhint %}
+
+* If, at any point, your collective needs a higher limit on your virtual card please request a limit increase by contacting us at contact@opencollective.foundation **** with the intended use and the amount increase needed.
   * To receive an increase, initiative must have a budget on their Open Collective account that exceeds the corresponding amount, and must demonstrate that a higher limit is necessary.
 * Cards must be used in compliance with our policy below.
 
@@ -23,10 +36,11 @@ Virtual Cards can be issued to OCF’s hosted initiatives for paying online for 
 #### If you need to input Cardholder contact details/address:
 
 * **Name**: Open Collective Foundation
-* **Address**:&#x20;
-  * 340 S. Lemon Avenue, #3717 Walnut, California, 91789-2706, USA
+*   **Address**:&#x20;
 
+    * 340 S. Lemon Avenue, #3717&#x20;
 
+    &#x20;       ****        Walnut, California, 91789-2706, USA
 
 ## Steps:
 
@@ -34,9 +48,9 @@ Virtual Cards can be issued to OCF’s hosted initiatives for paying online for 
 
 1. Initiative admins request the card from OCF
    1. Visit your initiative's page
-   2. Click Actions -> Request a Card
+   2. Click **Actions** -> **Request a Card**
 2. OCF will assign the card (please allow time for processing)
-3. Once assigned, the card assignee will be notified via email and the card's details will appear in the initiative's settings for you to use (in accordance with this policy)
+3. Once assigned, the card assignee will be notified via email.  The card's details will appear in the initiative's **Settings** for admins to use. (in accordance with this policy)
 
 #### ​After a purchase is made:
 
