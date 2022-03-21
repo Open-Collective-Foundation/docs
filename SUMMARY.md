@@ -27,6 +27,7 @@
   * [Donation Matching](how-it-works/financial-contributions/donation-matching.md)
   * [Donor Advised Funds (DAF)](how-it-works/financial-contributions/dafs.md)
   * [Stock Donations](how-it-works/financial-contributions/stock-donations.md)
+  * [Cryptocurrency donations](how-it-works/financial-contributions/cryptocurrency-donations.md)
   * [In-Kind Contributions](how-it-works/financial-contributions/in-kind.md)
   * [Applying for Grants](how-it-works/financial-contributions/grant-funding.md)
   * [3rd-Party Fundraising Tools](how-it-works/financial-contributions/third-party-fundraising-tools-and-benefits/README.md)
