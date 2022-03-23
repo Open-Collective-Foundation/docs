@@ -4,11 +4,19 @@ description: Lobbying, Political Campaign Intervention, and What Your Initiative
 
 # Political Activity
 
-You may have heard that 501(c)(3) organizations are not allowed to be political. That isn't quite correct, but there are limitations on what we, and by extension our sponsored/hosted initiatives, can do. 
+You may have heard that 501(c)(3) organizations are not allowed to be political. That isn't quite correct, but there are limitations on what we, and by extension, our sponsored/hosted initiatives, can do.&#x20;
 
-Specifically, **Initiatives of OCF are not allowed to engage in **[**lobbying**](https://www.irs.gov/charities-non-profits/lobbying)** (e.g., for specific legislation), **[**political campaign intervention**](https://www.irs.gov/charities-non-profits/charitable-organizations/the-restriction-of-political-campaign-intervention-by-section-501c3-tax-exempt-organizations#:\~:text=Under%20the%20Internal%20Revenue%20Code,candidate%20for%20elective%20public%20office.)** (including endorsing candidates).** Breaking these rules could endanger our 501(c)(3) status.
+Specifically, **initiatives hosted by OCF are not allowed to engage in** [**lobbying**](https://www.irs.gov/charities-non-profits/lobbying) **(e.g., for specific legislation), or** [**political campaign intervention**](https://www.irs.gov/charities-non-profits/charitable-organizations/the-restriction-of-political-campaign-intervention-by-section-501c3-tax-exempt-organizations#:\~:text=Under%20the%20Internal%20Revenue%20Code,candidate%20for%20elective%20public%20office.) **(including endorsing candidates).** Breaking these rules could endanger our 501(c)(3) status.
 
-### :no_entry_sign: Lobbying
+{% hint style="info" %}
+Lobbying is about effecting legislation and contacting legislators. Contacting members of the executive branch, or employees of government agencies, _is_ okay since they are not taking part in the legislative process.
+
+:no\_entry: An exception is when an executive branch member is getting involved in lawmaking, e.g., vetoing a bill or drafting a budget.
+
+:bulb: Legislation/lobbying is _often_ partisan, but that's not embedded in the regulations.
+{% endhint %}
+
+### :no\_entry\_sign: Lobbying
 
 Lobbying is **attempting to influence specific legislation**. According to the IRS, a "substantial part" of our activities cannot be lobbying. Although technically 501(c)(3) organizations may be able to engage in lobbying to a _small_ degree, our program does not allow initiatives to engage in it at all.
 
@@ -21,7 +29,7 @@ Examples of lobbying provided by the IRS include the following:
 * Contacting, or urging the public to contact, members or employees of a legislative body for the purpose of proposing, supporting, or opposing legislation
 * Advocating the adoption or rejection of legislation
 
-### :no_entry_sign: Political Campaign Intervention
+### :no\_entry\_sign: Political Campaign Intervention
 
 According to the IRS, Political Campaign Intervention includes:
 
@@ -31,7 +39,7 @@ According to the IRS, Political Campaign Intervention includes:
 
 These activities are completely prohibited for our Initiatives. ([source](https://www.irs.gov/charities-non-profits/charitable-organizations/the-restriction-of-political-campaign-intervention-by-section-501c3-tax-exempt-organizations))
 
-### :white_check_mark: So What Can We Do?
+### :white\_check\_mark: So What Can We Do?
 
 Just because your initiative cannot lobby around specific potential laws or intervene in elections does not mean that it cannot engage in political activity or be involved in public policy. Examples from the IRS of activities that are allowed include the following:
 
@@ -41,7 +49,7 @@ Just because your initiative cannot lobby around specific potential laws or inte
 * Certain voter education activities (including presenting public forums and publishing voter education guides) conducted in a non-partisan manner
 * Activities intended to encourage people to participate in the electoral process, such as voter registration and get-out-the-vote drives, if conducted in a non-partisan manner
 
-Of course, you are entitled to your own political opinions, but you should be careful about expressing such opinions on behalf of your Initiative so that you are not taking a position on a specific election or piece of legislation. 
+Of course, you are entitled to your own political opinions, but you should be careful about expressing such opinions on behalf of your Initiative so that you are not taking a position on a specific election or piece of legislation.&#x20;
 
 {% hint style="info" %}
 If your initiative needs to engage in these sorts of activities in the US, we would recommend exploring other types of organizations, such as 501(c)(4) organizations and PACs. A lawyer will be able to help you figure out what you need.
