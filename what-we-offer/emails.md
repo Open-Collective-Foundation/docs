@@ -4,7 +4,7 @@ Via [Google for Nonprofits](https://www.google.com/nonprofits/), **OCF is able t
 
 Access to many Google services is free, but it costs money to set up email boxes with your own custom domain and get full access to Google Workspace. This is what we're able to offer initiatives for free.
 
-**You need to own your own domain name.** If you don't have one yet, please go to your domain registrar of choice and purchase a domain. You can pay for this from your initiative's budget by submitting a reimbursement [expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) or requesting a [virtual card](../how-it-works/policies/virtual-cards-policy.md).
+**You need to own your own domain name.** If you don't have one yet, please go to your domain registrar of choice and purchase a domain. You can pay for this from your initiative's budget by submitting a reimbursement [expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) or requesting a [virtual card](virtual-cards-policy.md).
 
 {% hint style="warning" %}
 If your domain is already associated with another Google Workspace account, you need to remove it before we can add that domain to OCF's Workspace. This may cause a gap where emails to that domain will bounce during the transition.

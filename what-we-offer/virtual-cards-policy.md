@@ -1,4 +1,8 @@
-# Virtual Cards Policy
+---
+description: Like a credit or debit card linked to your balance
+---
+
+# Virtual Cards
 
 Virtual Cards can be issued to OCF’s hosted initiatives for paying online for things like: recurring payments, utility bills, online resources/tools, subscriptions, vendors (e.g. wholesale distributors), etc.
 
@@ -23,15 +27,15 @@ e.g.:&#x20;
   * To receive an increase, initiative must have a budget on their Open Collective account that exceeds the corresponding amount, and must demonstrate that a higher limit is necessary.
 * Cards must be used in compliance with our policy below.
 
-## **Requirements/Policy:**
+## **Requirements:**
 
 * Initiatives must have a minimum of 2 admin members
 * These are **virtual cards.** No physical card will be issued, so these cannot be used in-store.
-* All transactions should comply with normal usage of initiative funds as outlined in our [Terms of Fiscal Sponsorship](../../getting-started/terms.md)
+* All transactions should comply with normal usage of initiative funds as outlined in our [Terms of Fiscal Sponsorship](../getting-started/terms.md)
 
 **Limitations:**
 
-* Virtual cards **may not** be used for [paying/reimbursing people](../payouts.md)-that should be done on the OC platform.
+* Virtual cards **may not** be used for [paying/reimbursing people](../how-it-works/payouts.md)-that should be done on the OC platform.
 
 #### If you need to input Cardholder contact details/address:
 
@@ -42,7 +46,7 @@ e.g.:&#x20;
 
     &#x20;       ****        Walnut, California, 91789-2706, USA
 
-## Steps:
+## Steps
 
 #### Setup the card:
 

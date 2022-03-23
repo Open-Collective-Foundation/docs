@@ -7,9 +7,11 @@
   * [Online Platform](what-we-offer/online-platform.md)
   * [Liability Insurance](what-we-offer/liability-insurance.md)
   * [Employment & Benefits](what-we-offer/employment.md)
+  * [Virtual Cards](what-we-offer/virtual-cards-policy.md)
   * [Grantmaking](what-we-offer/about-grantmaking.md)
   * [Emails & Google Workspace](what-we-offer/emails.md)
   * [Nonprofit Discounts](what-we-offer/nonprofit-discounts.md)
+  * [Leases](what-we-offer/leases.md)
 
 ## Getting Started
 
@@ -40,7 +42,6 @@
   * [Grantmaking Policy](how-it-works/policies/grantmaking-policy.md)
   * [Outside Entities Policy](how-it-works/policies/outside-entities-policy.md)
   * [Outside Accounts Policy](how-it-works/policies/outside-accounts-policy.md)
-  * [Virtual Cards Policy](how-it-works/policies/virtual-cards-policy.md)
   * [Political Activity](how-it-works/policies/political-activity.md)
 * [Fees](how-it-works/fees.md)
 
