@@ -43,7 +43,7 @@ Open Collective Foundation (OCF), while primarily focused on supporting US-based
 
 ![](../.gitbook/assets/greenkayla.jpg)
 
-**Kayla E (Davis, CA):** has been very fortunate to have travelled and worked in many parts of the world.  Originally from Dallas, TX, she is pleased to find that BBQs with friends are popular pretty much everywhere.  Her professional background ranges from more manual labor, like park ranger, landscaper, and yoga instructor, to clerical, like receptionists and personal assistants. At the end of the day, she simply seeks to help people who help people (and plants, animals, the earth), and she is very excited to be able to support the open source movement. She tries not to take life too seriously, but is not very good at that.
+**Kayla E (Davis, CA):** has been very fortunate to have travelled, worked, and volunteered in many parts of the world.  Her professional background ranges through customer service, teaching, hospitality, landscaping, and lots more. At the end of the day, she simply seeks to help people who help people (and plants, animals, the earth), and she is very excited to be able to support the open source and solidarity economy movements. She tries not to take life too seriously, but is not very good at that.
 
 ![](../.gitbook/assets/rock-headshot.jpeg)
 
