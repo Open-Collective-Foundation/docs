@@ -22,6 +22,7 @@ description: A step-by-step guide to becoming an Initiative with OCF
   * See [Situations where we need to be involved](../../how-it-works/policies/#situations-where-we-need-to-be-involved) for more info
 * We will hold and manage funds on behalf of your initiative and we won't use them for anything else.
 * Your initiative **cannot** have multiple fiscal sponsors or [outside bank accounts](../../how-it-works/policies/outside-accounts-policy.md). **All funds must be held in your Open Collective account** in order to accurately represent your budget/activities.
+* If your initiative's **mission or name ever changes**, you must inform us (and depending on the changes, we may ask you to reapply as a new initiative.)
 * **Once funds enter into a 501(c)(3), they must remain in the 501(c)(3) sphere.** This means if your initiative [closes down](../../faq/leaving-ocf.md), your funds cannot be returned, and can either be spent on project expenses or must be transferred to another 501(c)(3) - perhaps another OCF-hosted initiative!
 
 ## **The Application**
