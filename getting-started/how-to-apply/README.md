@@ -57,7 +57,7 @@ Be sure to check your Spam folder for correspondence from OCF. Sometimes our ema
 
 If you are transitioning from another fiscal host that uses the Open Collective platform, the [process is relatively simple](https://docs.opencollective.com/help/collectives/change-fiscal-host#what-is-the-process-for-changing-fiscal-hosts). If your initiative is currently with another organization that does not use Open Collective, the process will depend on that organization’s requirements, but in a nutshell they can transfer your money over and you can get up and running with OCF.
 
-Please be sure to **communicate your plans** to both OCF _and_ your old fiscal host in advance of your application to ensure a smooth transition. Once you have tied up any loose ends with your current host, they can transfer the funds to us electronically or send it to us by check. We can issue an invoice to them and sign agreements if needed.
+Please be sure to **communicate your plans** to both OCF _and_ your old fiscal host in advance of your application to ensure a smooth transition. Once you have tied up any loose ends with your current host, they can [transfer](../../how-it-works/financial-contributions/) the funds to us electronically or send it to us by check. We can issue an invoice to them and sign agreements if needed.
 
 {% hint style="info" %}
 All funds for your initiative must be transferred to Open Collective Foundation, since initiatives may not hold funds for the project in [any other bank account](../../how-it-works/policies/outside-accounts-policy.md) while hosted by OCF. Our normal [fees](https://docs.opencollective.foundation/how-it-works/fees) apply to funds transferred in.

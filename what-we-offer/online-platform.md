@@ -1,8 +1,12 @@
 # Online Platform
 
+{% hint style="info" %}
+Open Collective _**Foundation**_ uses the Open Collective _**Platform**_ to manage our finances.
+{% endhint %}
+
 ## Open Collective
 
-The Open Collective platform gives every group we host a page online where you can:
+The Open Collective [platform](../what-is-ocf.md#this-quick-video-explains-the-power-of-the-open-collective-tech-platform) gives every group we host a page online where you can:
 
 * Raise money
 * Manage and pay expenses

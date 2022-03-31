@@ -5,7 +5,7 @@ To contribute to an initiative online on the Open Collective Platform via Credit
 Once you choose to contribute from the initiative’s profile, our platform will guide you through the rest of the process, including choosing between credit card, PayPal, and electronic bank transfer (i.e., ACH or wire).
 
 {% hint style="info" %}
-The fastest way to have access to funds is through **Card/PayPal donations** made directly on the Open Collective Platform.
+The fastest way to have access to funds is through **Card/PayPal donations** made directly on the [Open Collective Platform](../../what-we-offer/online-platform.md).
 
 **Bank transfers (e.g. ACH, wire)** are done manually - this means it takes the funds a couple of days to clear (due to bank processing times), and then the allocation of the funds requires additional actions from OCF.  **It is important to allow for a few days (minimum 3 business days) when awaiting donations made via bank transfer.**
 {% endhint %}
