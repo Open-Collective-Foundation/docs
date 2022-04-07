@@ -42,7 +42,7 @@ Our official mailing address:
 OCF Banking Information PDF
 {% endfile %}
 
-**Email address for automatic notifications:** [support@opencollective.com](mailto:support@opencollective.com)
+**Email address for automatic notifications:** [contact us](https://opencollective.com/contact)
 
 ### IRS Form 990s
 
