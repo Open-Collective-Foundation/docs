@@ -29,4 +29,8 @@ While we try to accommodate every request, we work within some limits defined by
 * Payouts must be broken down into individual expenses with details about what the money is for—we can't pay out undifferentiated chunks of money (except in some special cases like donations to another 501(c)(3) nonprofit). See the [outside entities policy](policies/outside-entities-policy.md) for more info.
 * We have certain paperwork requirements due to IRS rules—we have to collect W9 forms in some cases before we can pay someone, we have to sign a grant contracts, etc. If any of these apply to you, we will let you know.
 
+{% hint style="info" %}
+Want to pay someone who's not yet on the platform? Or maybe you know exactly how much you want to disburse to someone? You can [invite someone to submit an expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense). Fill out the payout details for them, they'll receive an email to confirm, and get paid!
+{% endhint %}
+
 Questions about payouts? [Email us](mailto:contact@opencollective.foundation).
