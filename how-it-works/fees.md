@@ -10,7 +10,7 @@ There are **no setup fees, balance minimums, monthly or annual fees**, or any ot
 
 ### How much are the fees?
 
-![](../.gitbook/assets/ocffees.png)
+![](<../.gitbook/assets/OCFfees (1).png>)
 
 For groups who have raised up to $500k:
 

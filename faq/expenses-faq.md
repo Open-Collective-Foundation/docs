@@ -28,6 +28,10 @@ OCF won't tell you what to do—it's up to initiatives to make these decisions. 
 
 You can pay people casually as contractors through invoice expenses on your Collective, or if they'll be working on a regular basis, employ them part or full time.
 
+#### Best practices for invoice expenses
+
+Contractors and vendors should be paid in a timely manner, with a detailed invoice showing when they provided services and at what rate. Expenses without these details may not be approved by the OCF team for payment.
+
 ### **Do you offer payroll and employment services?**
 
 Yes! With health insurance and benefits, too. [More info](../what-we-offer/employment.md).
@@ -59,3 +63,9 @@ As a 501(c)(3) we cannot give out lump sums first and get receipts later.  This 
 Check our [payouts.md](../how-it-works/payouts.md "mention") page for information about all the different ways payouts can be made through OCF.  &#x20;
 
 For large expenses that you cannot pay out-of-pocket, you can also have your vendors and service providers submit their invoices directly via your initiative's page, or you can use the "[invite expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense)" option, where you fill in the details and they recieve an email and then just need to confirm. So vendors can invoice OCF through your page to get paid, and then we pay them directly.
+
+### What about expenses from before we joined OCF?
+
+OCF cannot reimbursement purchases made before OCF approved a Collective's application.&#x20;
+
+On a case-by-case basis, depending on the nature of the work, OCF _might_ be able to pay invoice expenses for services provided during the 30 days preceding approval by OCF. The invoice expense must be submitted and approved within the first 30 days after a Collective joins OCF.
