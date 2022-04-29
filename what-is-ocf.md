@@ -1,10 +1,10 @@
 # What is OCF?
 
-**Open Collective Foundation (OCF)** is a fiscal sponsor (aka fiscal host) ([what's that?](what-we-offer/fiscal-hosting.md)) dedicated to providing a simple, open, lightweight path for charitable Collectives and communities to operate through a 501(c)(3) charitable entity ([what's that?](what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean)).
+**Open Collective Foundation (OCF)** is a fiscal sponsor (aka fiscal host - [what's that?](what-we-offer/fiscal-hosting.md)) dedicated to providing a simple, open, lightweight path for charitable Collectives and communities to operate through a 501(c)(3) charitable entity ([what's that?](what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean)).
 
 [Hosted Collectives](https://opencollective.com/foundation#category-CONTRIBUTIONS) that align with our [impact areas](about/mission-and-values.md#our-missions-impact-areas) have access to the unique [Open Collective online platform](https://www.opencollective.com) for managing their funds. They can also receive **tax-deductible contributions** through our 501(c)(3) status.
 
-****[**What is Open Collective**](https://docs.opencollective.com/help/about/introduction)**?** It's is an open-source, online fundraising platform for open and transparent communities. **We provide the tools you need to raise and share your finances in full transparency.** 'Open Collective' founded 'Open Collective Foundation' as part of its mission to help collaborative groups collect and spend money transparently.
+[**What is Open Collective**](https://docs.opencollective.com/help/about/introduction)**?** It's is an open-source, online fundraising platform for open and transparent communities. **We provide the tools you need to raise and share your finances in full transparency.** 'Open Collective' founded 'Open Collective Foundation' as part of its mission to help collaborative groups collect and spend money transparently.
 
 #### This quick video explains the power of the [Open Collective](https://www.opencollective.com) tech platform:
 
@@ -12,7 +12,7 @@
 We are 1 node in an international network of 600 nonprofits, LLCs, and co-ops around the world that use the same, open source software to create efficiencies with money.
 {% endembed %}
 
-_For the latest on our approach to fiscal sponsorship and the solidarity economy, check out_ [_Solidarity as our Guiding Principle_](https://blog.opencollective.com/solidarity-as-our-guiding-principle/)_._&#x20;
+_For the latest on our approach to fiscal sponsorship and the solidarity economy, check out_ [_Solidarity as our Guiding Principle_](https://blog.opencollective.com/solidarity-as-our-guiding-principle/)_._
 
 {% hint style="info" %}
 **Open Collective** is a growing ecosystem. In addition to OCF, in our network, we also have:
@@ -56,13 +56,13 @@ Ready to get started right now? Find out [How To Apply](getting-started/how-to-a
 Check out [our page on Open Collective](https://opencollective.com/foundation) to see the over 200 [Collectives we host](https://opencollective.com/foundation#category-CONTRIBUTIONS), as well as [our transparent operating budget](https://opencollective.com/foundation#category-BUDGET).
 {% endhint %}
 
-&#x20;💡 If you would like to learn about making tax-deductible financial contributions to our hosted Collectives, see the [Financial Contributions overview](how-it-works/financial-contributions/).
+💡 If you would like to learn about making tax-deductible financial contributions to our hosted Collectives, see the [Financial Contributions overview](how-it-works/financial-contributions/).
 
 ## Contact Us
 
 Didn’t find what you are looking for? :mag: Use the Search Bar in the upper right corner!
 
-&#x20;:love\_letter:Email us at [contact@opencollective.foundation](mailto:contact@opencollective.foundation)
+:love\_letter:Email us at [contact@opencollective.foundation](mailto:contact@opencollective.foundation)
 
 :speech\_balloon:Join [our Slack](https://join.slack.com/t/opencollective/shared\_invite/zt-f43qko76-sD8G\~e\_vQCm4TtpIsM4i\~A) and find us in the #ocf channel
 
@@ -71,5 +71,5 @@ Didn’t find what you are looking for? :mag: Use the Search Bar in the upper ri
 :round\_pushpin: Our [mailing address](https://docs.opencollective.foundation/about/official-information-and-documents#address) & [Other Important Docs](https://docs.opencollective.foundation/about/official-information-and-documents)
 
 {% hint style="success" %}
-_**We’re transparent!**_  View our [budget](https://opencollective.com/foundation/#category-BUDGET) and check out our [blog](https://blog.opencollective.com)!
+_**We’re transparent!**_ View our [budget](https://opencollective.com/foundation/#category-BUDGET) and check out our [blog](https://blog.opencollective.com)!
 {% endhint %}
