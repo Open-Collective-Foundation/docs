@@ -6,7 +6,7 @@ Refer to **** [**our Official Information & Documentation**](../about/official-i
 
 ### **Nonprofit Rates & Discounts** <a href="#nonprofit-rates" id="nonprofit-rates"></a>
 
-Through OCF’s 501(c)(3) status, our initiatives are eligible for a variety of nonprofit rates and benefits. Don’t forget to inquire to vendors and venues about a possible discount! Please note that sales tax exemption rules differ across all 50 states and sometimes municipalities. Therefore, this is not an area where OCF can support projects in accessing and we recommend you seek the support of a local fiscal sponsor where this support is required.
+Through OCF’s 501(c)(3) status, our Collectives are eligible for a variety of nonprofit rates and benefits. Don’t forget to inquire to vendors and venues about a possible discount! Please note that sales tax exemption rules differ across all 50 states and sometimes municipalities. Therefore, this is not an area where OCF can support projects in accessing and we recommend you seek the support of a local fiscal sponsor where this support is required.
 
 ### **Google Workspace**
 

@@ -25,10 +25,10 @@ For more information on donor advised funds, we recommend the following resource
 
 Every donor advised fund has a slightly different process!
 
-* **If your fund can contribute via electronic bank transfer,** please ask them to [initiate a contribution](https://docs.opencollective.com/help/financial-contributors/payments) via the initiative’s page. This is much faster than by check. Should you have the option of having them send an email notification for the transaction, please have it sent to [contact@opencollective.foundation](mailto:contact@opencollective.foundation).
-* **If your fund needs to contribute via check**, please feel free to provide them with [our mailing address](../../about/official-information-and-documents.md#address). The check should be made out to Open Collective Foundation - NOT the name of the initiative you intend to support.
+* **If your fund can contribute via electronic bank transfer,** please ask them to [initiate a contribution](https://docs.opencollective.com/help/financial-contributors/payments) via the Collective’s page. This is much faster than by check. Should you have the option of having them send an email notification for the transaction, please have it sent to [contact@opencollective.foundation](mailto:contact@opencollective.foundation).
+* **If your fund needs to contribute via check**, please feel free to provide them with [our mailing address](../../about/official-information-and-documents.md#address). The check should be made out to Open Collective Foundation - NOT the name of the Collective you intend to support.
 
-No matter which method they use, when you initiate the contribution, please make sure to **include the name of the initiative as the “designation” for this gift** or include it in another available comments or notes field. If there is no place to do this, email us with donation details (Date, Amount, Donor/DAF Name) so that we know where to allocate the funds.
+No matter which method they use, when you initiate the contribution, please make sure to **include the name of the Collective as the “designation” for this gift** or include it in another available comments or notes field. If there is no place to do this, email us with donation details (Date, Amount, Donor/DAF Name) so that we know where to allocate the funds.
 
 Most donor-advised funds are familiar with fiscal sponsorship, but if they have any questions, please feel free to [direct them to us](../../about/contact-us.md) and we will be happy to fill them in.
 

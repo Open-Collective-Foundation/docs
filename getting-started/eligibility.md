@@ -2,18 +2,18 @@
 
 ## Requirements
 
-Open Collective Foundation can fiscally sponsor initiatives that meet the following requirements:
+Open Collective Foundation can fiscally sponsor Collectives that meet the following requirements:
 
 * Activities must align with [our mission](../about/mission-and-values.md#our-mission) & [impact areas](../about/mission-and-values.md#our-missions-impact-areas)
 * Activities must be [charitable](https://www.irs.gov/charities-non-profits/charitable-purposes), to benefit and open to the public (per [IRS requirements](https://www.irs.gov/charities-non-profits/charitable-organizations/exemption-requirements-501c3-organizations) for [501(c)(3)s](../what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean))
 * Activities **cannot** include [lobbying or political campaign intervention](https://docs.opencollective.foundation/how-it-works/political-activity)
-* Initiative must be based in the United States (although activities & expense payouts can be international)
-* Initiative must have [no separate legal existence/entity](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-entities-policy) from OCF
-* Initiative must have a **minimum** of two [admins/team members](https://docs.opencollective.com/help/collectives/core-contributors)
+* Collective must be based in the United States (although activities & expense payouts can be international)
+* Collective must have [no separate legal existence/entity](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-entities-policy) from OCF
+* Collective must have a **minimum** of two [admins/team members](https://docs.opencollective.com/help/collectives/core-contributors)
 
-[🌟](https://emojipedia.org/glowing-star/)Make sure to review our [Terms of Fiscal Sponsorship agreement](https://docs.opencollective.foundation/getting-started/terms), [Processes and Limitations](https://docs.opencollective.foundation/how-it-works/processes-and-limitations), and [overview of fiscal sponsorship and fiscal hosting](https://docs.opencollective.foundation/about/fiscal-hosting) to ensure that your initiative fits with our service. (“Plain English” hints are provided with our Terms to help you decipher the legalese.)
+[🌟](https://emojipedia.org/glowing-star/)Make sure to review our [Terms of Fiscal Sponsorship agreement](https://docs.opencollective.foundation/getting-started/terms), [Processes and Limitations](https://docs.opencollective.foundation/how-it-works/processes-and-limitations), and [overview of fiscal sponsorship and fiscal hosting](https://docs.opencollective.foundation/about/fiscal-hosting) to ensure that your Collective fits with our service. (“Plain English” hints are provided with our Terms to help you decipher the legalese.)
 
-During your time with Open Collective Foundation and on the Open Collective platform, you and anyone involved in the initiative are expected to follow our [**Community Guidelines**](https://docs.opencollective.com/help/about/community-guidelines) and adhere to the platform’s [**Terms of Service**](https://opencollective.com/tos).
+During your time with Open Collective Foundation and on the Open Collective platform, you and anyone involved in the Collective are expected to follow our [**Community Guidelines**](https://docs.opencollective.com/help/about/community-guidelines) and adhere to the platform’s [**Terms of Service**](https://opencollective.com/tos).
 
 ## Not Required
 

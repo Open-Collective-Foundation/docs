@@ -1,10 +1,10 @@
 # Emails & Google Workspace
 
-Via [Google for Nonprofits](https://www.google.com/nonprofits/), **OCF is able to create free email boxes and Workspace accounts for hosted initiatives**, with access to Google apps like Gmail, Docs, Drive, and Calendar.
+Via [Google for Nonprofits](https://www.google.com/nonprofits/), **OCF is able to create free email boxes and Workspace accounts for hosted Collectives**, with access to Google apps like Gmail, Docs, Drive, and Calendar.
 
-Access to many Google services is free, but it costs money to set up email boxes with your own custom domain and get full access to Google Workspace. This is what we're able to offer initiatives for free.
+Access to many Google services is free, but it costs money to set up email boxes with your own custom domain and get full access to Google Workspace. This is what we're able to offer Collectives for free.
 
-**You need to own your own domain name.** If you don't have one yet, please go to your domain registrar of choice and purchase a domain. You can pay for this from your initiative's budget by submitting a reimbursement [expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) or requesting a [virtual card](virtual-cards-policy.md).
+**You need to own your own domain name.** If you don't have one yet, please go to your domain registrar of choice and purchase a domain. You can pay for this from your Collective's budget by submitting a reimbursement [expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) or requesting a [virtual card](virtual-cards-policy.md).
 
 {% hint style="warning" %}
 If your domain is already associated with another Google Workspace account, you need to remove it before we can add that domain to OCF's Workspace. This may cause a gap where emails to that domain will bounce during the transition.
@@ -15,10 +15,10 @@ If your domain is already associated with another Google Workspace account, you 
 ## FAQ
 
 **Do we need a custom domain name?**\
-Yes, your initiative needs to have its own domain name (e.g. coolinitiative.com).
+Yes, your Collective needs to have its own domain name (e.g. coolCollective.com).
 
 **Can I set up free gmail boxes myself?**\
-****Although being hosted by a 501(c)(3) gives your initiative access to that status through OCF, Google doesn't allow fiscally sponsored projects to sign up on their own, so OCF needs to set it up through our account. If you want to manage your own emails, we suggest signing up for free Gmail accounts, or paying for Google Workspace or another email service.
+****Although being hosted by a 501(c)(3) gives your Collective access to that status through OCF, Google doesn't allow fiscally sponsored projects to sign up on their own, so OCF needs to set it up through our account. If you want to manage your own emails, we suggest signing up for free Gmail accounts, or paying for Google Workspace or another email service.
 
 **What's included with the account?**\
 ****Gmail, Contacts, Calendar, Meet, Chat, Drive, and Google Docs.&#x20;

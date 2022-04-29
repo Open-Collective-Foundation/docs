@@ -4,14 +4,14 @@ description: Fiscal Host = Fiscal Sponsor
 
 # Fiscal Hosting
 
-****[**Fiscal hosting**](https://opencollective.com/fiscal-hosting), often referred to as fiscal sponsorship outside the [Open Collective](https://opencollective.com) context, is when an organization **holds funds on behalf of smaller projects** (which we call _initiatives_ or _collectives_) and often also provides administrative services such as financial oversight and management.
+****[**Fiscal hosting**](https://opencollective.com/fiscal-hosting), often referred to as fiscal sponsorship outside the [Open Collective](https://opencollective.com) context, is when an organization **holds funds on behalf of smaller projects** (which we call _Collectives_ or _collectives_) and often also provides administrative services such as financial oversight and management.
 
-Open Collective Foundation [provides fiscal hosting services](./) to US-based initiatives that are aligned with our [mission, values, and impact areas](../about/mission-and-values.md).
+Open Collective Foundation [provides fiscal hosting services](./) to US-based Collectives that are aligned with our [mission, values, and impact areas](../about/mission-and-values.md).
 
-Since OCF is a [501(c)(3) nonprofit organization](fiscal-hosting.md#what-does-501-c-3-mean), our hosted initiatives (through a contractual relationship), are also able to receive tax-deductible contributions without obtaining their own independent 501(c)(3) status - which can be a time- and resource-consuming process).
+Since OCF is a [501(c)(3) nonprofit organization](fiscal-hosting.md#what-does-501-c-3-mean), our hosted Collectives (through a contractual relationship), are also able to receive tax-deductible contributions without obtaining their own independent 501(c)(3) status - which can be a time- and resource-consuming process).
 
 {% hint style="info" %}
-The Open Collective Platform can be used by initiatives who want to be hosted under a fiscal host. It can **also** be used by the hosts themselves! [Learn more.](https://opencollective.com/fiscal-hosting)
+The Open Collective Platform can be used by Collectives who want to be hosted under a fiscal host. It can **also** be used by the hosts themselves! [Learn more.](https://opencollective.com/fiscal-hosting)
 {% endhint %}
 
 ## Fiscal Sponsorship vs. Fiscal Hosting
@@ -28,11 +28,11 @@ One other term you may run into is “fiscal agent.” This term is often mistak
 
 Open Collective Foundation’s fiscal hosting services fit within the [category ](https://www.propelnonprofits.org/wp-content/uploads/2017/12/Fiscal-Sponsorship-models.pdf)of “**comprehensive**,” “**direct**,” or “**Model A**” fiscal sponsorship.
 
-These terms describe situations where a project or organization (what we call an _initiative_) is legally part of a larger organization, the fiscal host. Through this relationship, initiatives can transact financially without needing to legally incorporate.&#x20;
+These terms describe situations where a project or organization (what we call an _Collective_) is legally part of a larger organization, the fiscal host. Through this relationship, Collectives can transact financially without needing to legally incorporate.&#x20;
 
 :bulb:You can think of this type of fiscal host as a sort of “umbrella” organization.
 
-As the fiscal host, we hold our initiatives’ funds in our bank account and are responsible for taxes, accounting, legal compliance, and financial administration. While our hosted initiatives have a great deal of autonomy within the bounds of our [Terms](../getting-started/terms.md), Open Collective Foundation ultimately is responsible for the oversight of initiatives’ funds.
+As the fiscal host, we hold our Collectives’ funds in our bank account and are responsible for taxes, accounting, legal compliance, and financial administration. While our hosted Collectives have a great deal of autonomy within the bounds of our [Terms](../getting-started/terms.md), Open Collective Foundation ultimately is responsible for the oversight of Collectives’ funds.
 
 ## What does 501(c)(3) mean?
 
@@ -49,21 +49,21 @@ Simply Put:
 
 501(c)(3) status is also useful when you are seeking grant funding from US-based charitable foundations. These organizations often restrict their grants to only 501(c)(3) organizations like Open Collective Foundation.&#x20;
 
-**Our hosted initiatives can use OCF’s 501(c)(3) status to apply for special funding from foundations.** From smaller family foundations to enormous international grantmakers, the ability to apply for grants is a big benefit of joining Open Collective Foundation.
+**Our hosted Collectives can use OCF’s 501(c)(3) status to apply for special funding from foundations.** From smaller family foundations to enormous international grantmakers, the ability to apply for grants is a big benefit of joining Open Collective Foundation.
 
 There are other potential benefits to nonprofit status, such as access to [free & discounted services and nonprofit rates](nonprofit-discounts.md).
 
 {% hint style="warning" %}
 Since our collectives are part of Open Collective Foundation, they must abide by restrictions to 501(c)(3) organizations, such as [limitations on political activity](../how-it-works/policies/political-activity.md).&#x20;
 
-All of our hosted initiatives must align with our [mission](../about/mission-and-values.md) in order to be [eligible](../getting-started/eligibility.md) to operate through our 501(c)(3) status.
+All of our hosted Collectives must align with our [mission](../about/mission-and-values.md) in order to be [eligible](../getting-started/eligibility.md) to operate through our 501(c)(3) status.
 {% endhint %}
 
 ### **Open Collective “Foundation”**
 
 The word “foundation” is used in a variety of ways in the United States and, unlike in Europe and elsewhere, the word itself has no specific legal definition. Open Collective Foundation is a **public charity**, not a private foundation or operating foundation.
 
-We are not primarily a grantmaker, and focus on our own operational [mission](../about/mission-and-values.md#our-mission) (that is, enabling our hosted initiatives). You’re welcome to use the word “Foundation” to refer to OCF, but if you’re being asked about our structure for official purposes (e.g. a grant application) the technical term is “**California Public Benefit Corporation**” or “**501(c)(3) nonprofit organization**”. Feel free to [contact us](../about/contact-us.md) if you’re not sure.
+We are not primarily a grantmaker, and focus on our own operational [mission](../about/mission-and-values.md#our-mission) (that is, enabling our hosted Collectives). You’re welcome to use the word “Foundation” to refer to OCF, but if you’re being asked about our structure for official purposes (e.g. a grant application) the technical term is “**California Public Benefit Corporation**” or “**501(c)(3) nonprofit organization**”. Feel free to [contact us](../about/contact-us.md) if you’re not sure.
 
 ## Other Options
 
@@ -73,7 +73,7 @@ We encourage you to read through all these pages (our Documentation), especially
 
 ### ****[**Other fiscal hosts**](https://opencollective.com/hosts) **on Open Collective**
 
-For some initiatives, being hosted by a 501(c)(3) organization may not be the right fit.&#x20;
+For some Collectives, being hosted by a 501(c)(3) organization may not be the right fit.&#x20;
 
 * For example, open-source technology projects should consider [Open Source Collective](https://www.oscollective.org), a 501(c)(6) fiscal host. Europe-based projects can look into [Open Collective Europe](https://opencollective.com/europe).
 * Open Collective Foundation is just [one of many fiscal hosts](https://docs.opencollective.com/help/fiscal-hosts/fiscal-hosts#what-are-some-examples-of-fiscal-hosts) on [Open Collective](https://opencollective.com).
@@ -83,7 +83,7 @@ For some initiatives, being hosted by a 501(c)(3) organization may not be the ri
 There are also fiscal sponsors that operate without the Open Collective platform. Some may be within your sector or offer different services that fit your specific needs. Before you move forward with another fiscal sponsor, make sure to consider whether they are aligned with your mission, whether their technology and processes are smooth and straightforward, and whether they are transparent to their donors and sponsored projects.
 
 {% hint style="info" %}
-[Ten Things to Look for in a Fiscal Sponsor](https://www.transparency-initiative.org/blog/5011/ten-things-to-look-for-in-a-fiscal-sponsor/) - _Transparency and Accountability Initiative_
+[Ten Things to Look for in a Fiscal Sponsor](https://www.transparency-Collective.org/blog/5011/ten-things-to-look-for-in-a-fiscal-sponsor/) - _Transparency and Accountability Collective_
 {% endhint %}
 
 ### **Starting your own 501(c)(3)**
@@ -128,11 +128,11 @@ When you join Open Collective Foundation, your group’s finances are totally tr
 
 ## Further Reading
 
-We definitely encourage you to read more about fiscal hosting to make the most informed decision for your initiative! When you are ready, check out [how to get started with Open Collective Foundation](../getting-started/how-to-apply/).
+We definitely encourage you to read more about fiscal hosting to make the most informed decision for your Collective! When you are ready, check out [how to get started with Open Collective Foundation](../getting-started/how-to-apply/).
 
 * [Fiscal Sponsorship: A Balanced Overview](https://nonprofitquarterly.org/fiscal-sponsorship-a-balanced-overview/), Nonprofit Quarterly
 * _Fiscal Sponsorship: 6 Ways To Do It Right_, by Gregory L. Colvin
 * [What Is Fiscal Sponsorship?](https://www.adlercolvin.com/blog/2012/10/15/what-is-fiscal-sponsorship/), Adler & Colvin
 * [Guidelines for Comprehensive Fiscal Sponsorship](http://s3.amazonaws.com/nnfs/file\_assets/d0758100838a/NNFS%20Guidelines%20for%20Comprehensive%20Fiscal%20Sponsorship.pdf), National Network of Fiscal Sponsors
 
-Feel free to also read [our listing](https://fiscalsponsordirectory.org/?page\_id=8009) or explore other fiscal sponsors on the Fiscal Sponsor Directory. Finding the right fit between an initiative and fiscal sponsor is a two-way street, so we welcome your questions.
+Feel free to also read [our listing](https://fiscalsponsordirectory.org/?page\_id=8009) or explore other fiscal sponsors on the Fiscal Sponsor Directory. Finding the right fit between an Collective and fiscal sponsor is a two-way street, so we welcome your questions.

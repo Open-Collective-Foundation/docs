@@ -9,7 +9,7 @@ description: >-
 
 **Access nonprofit status overnight.**
 
-Open Collective Foundation is a 501(c)(3) [fiscal sponsor](what-we-offer/fiscal-hosting.md) and fiscal host dedicated to providing a simple, open, lightweight path for charitable initiatives and communities to manage their finances.
+Open Collective Foundation is a 501(c)(3) [fiscal sponsor](what-we-offer/fiscal-hosting.md) and fiscal host dedicated to providing a simple, open, lightweight path for charitable Collectives and communities to manage their finances.
 
 {% embed url="https://www.youtube.com/watch?v=269SyUQmL_U" %}
 What is Open Collective Foundation? (2 minute animation)

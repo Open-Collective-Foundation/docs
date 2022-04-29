@@ -1,5 +1,5 @@
 ---
-description: For our hosted initiatives who would like to disburse direct cash assistance
+description: For our hosted Collectives who would like to disburse direct cash assistance
 ---
 
 # Cash Assistance Policy
@@ -14,13 +14,13 @@ For the purposes of this policy, we will refer to the person in the community wh
 
 ### Why do we need this policy?
 
-The Platform is designed to directly interface with Recipients of funds disbursed from initiative (“Initiative” and together “Initiatives”) budgets, through expenses submitted online and paid by bank transfer or PayPal. The Platform collects required data and documentation, and expenses go through an approval process. These steps are an important way that OpenCollective Foundation (“OCF”) fulfills its oversight and compliance role as a 501(c)(3) fiscal sponsor.
+The Platform is designed to directly interface with Recipients of funds disbursed from Collective (“Collective” and together “Collectives”) budgets, through expenses submitted online and paid by bank transfer or PayPal. The Platform collects required data and documentation, and expenses go through an approval process. These steps are an important way that OpenCollective Foundation (“OCF”) fulfills its oversight and compliance role as a 501(c)(3) fiscal sponsor.
 
 However, OCF understands that there may be situations where it’s not possible for Recipients to submit an expense through the Platform and provide the required information. This may be due to a Recipient’s lack of a bank account or internet access, or during responses to emergencies or natural disasters.&#x20;
 
-In these cases, Initiatives sometimes seek to run a cash assistance program, where a Volunteer disburses cash to Recipients and then seeks reimbursement by submitting an expense on the Platform.
+In these cases, Collectives sometimes seek to run a cash assistance program, where a Volunteer disburses cash to Recipients and then seeks reimbursement by submitting an expense on the Platform.
 
-As a 501(c)(3) nonprofit organization, we must provide evidence and data about the use of all funds to the IRS and auditors on an annual basis. Therefore, the purpose of this policy is to set out how OCF can enable Initiatives to run cash assistance programs while still meeting OCF’s compliance obligations and oversight responsibilities.&#x20;
+As a 501(c)(3) nonprofit organization, we must provide evidence and data about the use of all funds to the IRS and auditors on an annual basis. Therefore, the purpose of this policy is to set out how OCF can enable Collectives to run cash assistance programs while still meeting OCF’s compliance obligations and oversight responsibilities.&#x20;
 
 {% hint style="info" %}
 Basically, because we are a 501(c)(3), we have to be compliant with the IRS at all times- this means we are accountable to know where $ comes from and where it goes.&#x20;
@@ -30,54 +30,54 @@ We noticed a lot of our groups want to offer direct cash payments to unbanked re
 
 ### When can cash assistance be used?
 
-Cash assistance should only be used after authorization has been provided by OCF to the Initiative (as outlined in detail below) AND only when there is genuinely no way for the Recipient to submit an expense directly through the Platform. If this isn’t the case, OCF may deny requests to reimburse cash assistance payments.&#x20;
+Cash assistance should only be used after authorization has been provided by OCF to the Collective (as outlined in detail below) AND only when there is genuinely no way for the Recipient to submit an expense directly through the Platform. If this isn’t the case, OCF may deny requests to reimburse cash assistance payments.&#x20;
 
-**Wherever possible, the Recipient must submit an expense directly on the Platform**, for payment via bank transfer or PayPal. Since the Platform is specifically designed to collect the required information, this minimizes the administrative burden for both the Initiative and OCF.&#x20;
+**Wherever possible, the Recipient must submit an expense directly on the Platform**, for payment via bank transfer or PayPal. Since the Platform is specifically designed to collect the required information, this minimizes the administrative burden for both the Collective and OCF.&#x20;
 
 Please note that the [invite expense feature](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense) can enable someone more familiar with the Platform to fill out most of the required information for an expense. Then, the Recipient will get an email and will simply need to confirm. This can result in more people being able to directly submit their own expenses, and should be used where possible.
 
-All transactions over $600 via payment apps [may be taxable](https://www.wptv.com/money/new-irs-rule-for-cash-app-transactions-set-to-go-into-effect-next-year) for the Recipient. Initiatives should exercise judgement when transferring money via these services and use our built-in payment tools when possible.
+All transactions over $600 via payment apps [may be taxable](https://www.wptv.com/money/new-irs-rule-for-cash-app-transactions-set-to-go-into-effect-next-year) for the Recipient. Collectives should exercise judgement when transferring money via these services and use our built-in payment tools when possible.
 
 {% hint style="danger" %}
-Initiatives **may not** disburse cash to Recipients with whom the Volunteer or the Initiative organizers have a relationship or conflict of interest, e.g. family members, business partners, employees, or major donors to the Initiative.
+Collectives **may not** disburse cash to Recipients with whom the Volunteer or the Collective organizers have a relationship or conflict of interest, e.g. family members, business partners, employees, or major donors to the Collective.
 {% endhint %}
 
 ## Process for authorization of cash assistance programs
 
-1. The Initiative submits information to OCF describing the cash assistance program it wishes to run [(see below)](cash-assistance-policy.md#cash-assistance-program-proposal).
+1. The Collective submits information to OCF describing the cash assistance program it wishes to run [(see below)](cash-assistance-policy.md#cash-assistance-program-proposal).
 2. OCF reviews the proposed cash assistance program.
-3. If the program proposal is approved, the Initiative organizer signs the OCF terms of fiscal sponsorship.\*
+3. If the program proposal is approved, the Collective organizer signs the OCF terms of fiscal sponsorship.\*
 4. Volunteers distribute cash payments to Recipients as described in the program proposal, and collect certain information about the transactions (see below).
-5. Volunteers submit a reimbursement expense to the Initiative budget on the Platform, including the required information (see below).
+5. Volunteers submit a reimbursement expense to the Collective budget on the Platform, including the required information (see below).
 6. OCF reviews the reimbursement expense to ensure it contains all of the required information and fits the context of the overall cash assistance program, and then proceeds to reimburse the Volunteer.
 
-\* This refers to the standard [terms of fiscal sponsorship](../../getting-started/terms.md) that all Initiatives agree to when they join OCF. For cash assistance programs, OCF requires a fully signed version instead of just checking a box during signup.
+\* This refers to the standard [terms of fiscal sponsorship](../../getting-started/terms.md) that all Collectives agree to when they join OCF. For cash assistance programs, OCF requires a fully signed version instead of just checking a box during signup.
 
 ### Cash assistance program proposal
 
-To receive approval for a cash assistance program, Initiatives must provide the following information to OCF:
+To receive approval for a cash assistance program, Collectives must provide the following information to OCF:
 
 1. A name for the cash assistance program.
-2. The intended impact—how this helps achieve the charitable mission of the Initiative.
+2. The intended impact—how this helps achieve the charitable mission of the Collective.
 3. The intended Recipients (as a group, i.e. which communities, characteristics, or situations).&#x20;
 4. The criteria or method of selecting Recipients and determining amounts to disburse.
 5. Why cash assistance is necessary (i.e. why Recipients are not able to submit expenses to get paid directly on the platform).
 6. The anticipated amounts to be disbursed, per Recipient or payment, and overall for the program in total.
 7. The timeline for the cash assistance program (start and end dates, or indefinite).
 
-:pushpin:If an Initiative wishes to run multiple cash assistance programs with different answers to the above, the Initiative is required to submit multiple program proposals, each of which will be reviewed and approved separately, as applicable.
+:pushpin:If a Collective wishes to run multiple cash assistance programs with different answers to the above, the Collective is required to submit multiple program proposals, each of which will be reviewed and approved separately, as applicable.
 
 ## How to submit a program proposal
 
-Where possible, OCF prefers Initiatives to post the above information as an Update on the Initiative's page of the Platform in a style appropriate for the community of supporters of that Initiative, for transparency and for ease of referencing program narratives when processing expense reimbursements.&#x20;
+Where possible, OCF prefers Collectives to post the above information as an Update on the Collective's page of the Platform in a style appropriate for the community of supporters of that Collective, for transparency and for ease of referencing program narratives when processing expense reimbursements.&#x20;
 
-If an Initiative does not wish to make a public post for its proposal, it may [submit the information](mailto:contact@opencollective.foundation) to OCF privately.
+If a Collective does not wish to make a public post for its proposal, it may [submit the information](mailto:contact@opencollective.foundation) to OCF privately.
 
 In either case, to submit a proposal, fill out [this form](https://forms.gle/96wT6nzQS2qL8Nwb6), which asks for the link to an Update or for the program details to be filled out.
 
 ### How to submit a reimbursement expense
 
-To get reimbursed for cash assistance payments, Volunteers go to the Initiative’s page on the Platform and select “submit expense”, then select the reimbursement option and proceed to fill out the information required on the “submit expense” form and detailed below.
+To get reimbursed for cash assistance payments, Volunteers go to the Collective’s page on the Platform and select “submit expense”, then select the reimbursement option and proceed to fill out the information required on the “submit expense” form and detailed below.
 
 #### Required info for reimbursement expenses
 
@@ -138,15 +138,15 @@ Volunteers **may** submit multiple cash assistance disbursements in a single rei
 
 ## Outside accounts
 
-If an Initiative uses services like Venmo or Cashapp, Volunteers’ personal bank accounts, or any other account or service outside the Platform, for a cash assistance program or any other purpose, it must be in compliance with OCF’s [Outside Accounts Policy](outside-accounts-policy.md). **Under no circumstances** are Initiatives allowed to receive money to an outside account and distribute it as part of a cash assistance program without first transferring the funds to OCF.
+If a Collective uses services like Venmo or Cashapp, Volunteers’ personal bank accounts, or any other account or service outside the Platform, for a cash assistance program or any other purpose, it must be in compliance with OCF’s [Outside Accounts Policy](outside-accounts-policy.md). **Under no circumstances** are Collectives allowed to receive money to an outside account and distribute it as part of a cash assistance program without first transferring the funds to OCF.
 
 {% hint style="info" %}
-This is because OCF, as a regulated 501(c)(3), **needs** to track that all funds raised and disbursed by our hosted initiatives are being used for compliant charitable purposes.
+This is because OCF, as a regulated 501(c)(3), **needs** to track that all funds raised and disbursed by our hosted Collectives are being used for compliant charitable purposes.
 {% endhint %}
 
 ## Rejecting reimbursements
 
-If any of the required information is missing, or the Initiative’s cash assistance program has not been approved by OCF, reimbursement requests from Volunteers may be denied.
+If any of the required information is missing, or the Collective’s cash assistance program has not been approved by OCF, reimbursement requests from Volunteers may be denied.
 
 ## More Info:
 

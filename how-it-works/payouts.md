@@ -4,7 +4,7 @@ description: How to spend your money
 
 # Payouts
 
-In order to achieve your initiative's mission, you need to spend the money you raise. We are here to facilitate that, and to take care of a lot of the admin for you. OCF functions as your initiative's bank account and we process many kinds of payouts for our hosted groups.
+In order to achieve your Collective's mission, you need to spend the money you raise. We are here to facilitate that, and to take care of a lot of the admin for you. OCF functions as your Collective's bank account and we process many kinds of payouts for our hosted groups.
 
 There are a range of ways to pay out funds from your OCF budget, depending on what you're paying for and who you want to pay. Most payouts happen through [Expenses](basics.md#submitting-expenses) on your Open Collective page, but we have also developed other options to meet the needs of our community in specific circumstances.
 
@@ -21,7 +21,7 @@ There are a range of ways to pay out funds from your OCF budget, depending on wh
 
 While we try to accommodate every request, we work within some limits defined by IRS rules, human capacity of our staff, and technical limitations.
 
-* OCF will only process payouts approved by an admin of the initiative.
+* OCF will only process payouts approved by an admin of the Collective.
 * All expenditures must be allowable under 501(c)(3) regulations.
 * We can only pay people in the US in the vast majority of cases.
 * OCF makes payments via Paypal, bank transfers, and virtual cards only, because these are integrated with the Open Collective platform.&#x20;

@@ -20,15 +20,15 @@ See our [Fees page](https://docs.opencollective.foundation/how-it-works/fees)!
 
 ### **How does paying people work?**
 
-Payees should [submit an expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) in order to receive payment from a hosted initiative.
+Payees should [submit an expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses) in order to receive payment from a hosted Collective.
 
 ### **When are payments processed?**
 
 Expenses are paid [twice a week, on Mondays and Thursdays](https://docs.opencollective.foundation/how-it-works/basics#submitting-expenses).
 
-### **How can people donate to my initiative?**
+### **How can people donate to my Collective?**
 
-Individuals and organizations can contribute to your initiative in a variety of ways, including by credit card, bank transfer, and in-kind donations. See [Financial Contributions](https://docs.opencollective.foundation/how-it-works/financial-contributions) for more information.
+Individuals and organizations can contribute to your Collective in a variety of ways, including by credit card, bank transfer, and in-kind donations. See [Financial Contributions](https://docs.opencollective.foundation/how-it-works/financial-contributions) for more information.
 
 ### **Will our application be approved?**
 

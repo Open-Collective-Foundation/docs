@@ -4,17 +4,17 @@ description: Donating or Accepting Non-Monetary Donations
 
 # In-Kind Contributions
 
-To make an in-kind (a.k.a. non-cash) contribution, please contact the initiative about your intentions. You and the initiative should work together to facilitate the contribution.
+To make an in-kind (a.k.a. non-cash) contribution, please contact the Collective about your intentions. You and the Collective should work together to facilitate the contribution.
 
-Once the contribution has been made, and the contributed items are in the initiative’s possession, the initiative should notify Open Collective Foundation staff. So that we can report accurately on the contribution, please send the following information to [contact@opencollective.foundation](mailto:contact@opencollective.foundation):
+Once the contribution has been made, and the contributed items are in the Collective’s possession, the Collective should notify Open Collective Foundation staff. So that we can report accurately on the contribution, please send the following information to [contact@opencollective.foundation](mailto:contact@opencollective.foundation):
 
-* Name of initiative
+* Name of Collective
 * Name of contributor (whether an individual or organization)
 * Date received
 * Detailed description of goods received
 
 {% hint style="info" %}
-If your initiative will be regularly accepting non-monetary donations, you can also batch them all together and [send OCF](../../about/contact-us.md) a spreadsheet at the end of each month. This will ensure we can keep all of this required information for us for our records.  Feel free to use [this template](https://docs.google.com/spreadsheets/u/2/d/1A8de4z82oCu2cOVtQ5\_5ac5N9RsWqKrsxbCXt6i4B38/copy) if it helps!
+If your Collective will be regularly accepting non-monetary donations, you can also batch them all together and [send OCF](../../about/contact-us.md) a spreadsheet at the end of each month. This will ensure we can keep all of this required information for us for our records.  Feel free to use [this template](https://docs.google.com/spreadsheets/u/2/d/1A8de4z82oCu2cOVtQ5\_5ac5N9RsWqKrsxbCXt6i4B38/copy) if it helps!
 {% endhint %}
 
 ### **Tax-deductibility of in-kind contributions**
@@ -37,7 +37,7 @@ In order to receive a written letter of acknowledgment, please [email OCF](../..
 * [ ] Date the donation was received
 * [ ] First, Last Name of contributor (whether an individual or organization)
 * [ ] Contributor’s contact information (Email preferred)
-* [ ] Name of Initiative
+* [ ] Name of Collective
 * [ ] Detailed description of goods/services donated
 
-If your contribution has not yet been reported by the initiative, please see the procedure for reporting an in-kind contribution above.
+If your contribution has not yet been reported by the Collective, please see the procedure for reporting an in-kind contribution above.

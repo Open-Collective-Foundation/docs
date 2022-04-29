@@ -2,11 +2,11 @@
 
 ## About
 
-Initiatives fiscally hosted by OCF can have employees, with access to benefits like health insurance. Costs related to employment are paid from the initiative's budget, with OCF as the employer.
+Collectives fiscally hosted by OCF can have employees, with access to benefits like health insurance. Costs related to employment are paid from the Collective's budget, with OCF as the employer.
 
 ### How it works
 
-The initiative admins define who to hire (themselves or others), how much to pay in salaries, and the job descriptions. Initiatives decide their own internal management structure, work practices, hours, and other day to day aspects of the job.&#x20;
+The Collective admins define who to hire (themselves or others), how much to pay in salaries, and the job descriptions. Collectives decide their own internal management structure, work practices, hours, and other day to day aspects of the job.&#x20;
 
 OCF ensures legal compliance with employment regulations, and takes care of payroll, liability, taxes, workers comp, and all the paperwork.&#x20;
 
@@ -14,35 +14,35 @@ OCF ensures legal compliance with employment regulations, and takes care of payr
 
 Benefits are available to full time employees (30+ hours per week).
 
-Because many initiatives operate under the OCF umbrella, we can access large group health insurance plans only available to employers. This lowers costs an increases available options.
+Because many Collectives operate under the OCF umbrella, we can access large group health insurance plans only available to employers. This lowers costs an increases available options.
 
-Employees can decide whether or not to sign up for healthcare or other benefits, and the initiative's budget is only charged for benefits if they opt-in. Each initative can choose what proportion of benefits costs are paid by the initiative vs out of pocket by its employees.
+Employees can decide whether or not to sign up for healthcare or other benefits, and the Collective's budget is only charged for benefits if they opt-in. Each initative can choose what proportion of benefits costs are paid by the Collective vs out of pocket by its employees.
 
 [**Overview of benefits options**](https://secure.justworks.com/benefits/company\_benefits\_overviews/8011d67a-5191-43c4-b504-072e17b067da/show)****
 
 #### **Retirement Savings Accounts**
 
-As of April 2022, 401(k) retirement savings accounts are available to all employees (both full- and part-time) of OCF at no cost to the initiative. The process of signing up and setting up Traditional or Roth contributions is simple and straightforward. New employees can access this benefit after 90 days of employment.
+As of April 2022, 401(k) retirement savings accounts are available to all employees (both full- and part-time) of OCF at no cost to the Collective. The process of signing up and setting up Traditional or Roth contributions is simple and straightforward. New employees can access this benefit after 90 days of employment.
 
 ### Costs
 
-The following costs are charged to the initiative budget for employment:
+The following costs are charged to the Collective budget for employment:
 
-* **Wages** (and associated taxes, levies, and fees as required by law) - salary amounts are set by the initiative
+* **Wages** (and associated taxes, levies, and fees as required by law) - salary amounts are set by the Collective
 * **Benefits** - if the employee chooses to opt in
 * **PEO fees** - payroll provider costs ($49 or $99 per month per employee depending on benefits status)
-* **Insurance** - coverage for the initiative under OCF's employer practices liability insurance and related policies (varies depending on initiative activities, but commonly $250 per year)
+* **Insurance** - coverage for the Collective under OCF's employer practices liability insurance and related policies (varies depending on Collective activities, but commonly $250 per year)
 * **Administrative fee** - $50 per employee per month
 
-Costs are automatically deducted monthly from the initiative's budget. Once employment is set up, employees will be paid by direct debit and initiatives do not have to take any action to manage ongoing expenses.
+Costs are automatically deducted monthly from the Collective's budget. Once employment is set up, employees will be paid by direct debit and Collectives do not have to take any action to manage ongoing expenses.
 
 ### Requirements & Policies
 
 * Employees must be located in the US and be allowed to legally work in the US.
 * OCF can currently only support salaried, exempt, part-time or full-time employees, not hourly or manual workers. For other types of work, you may pay people as independent contractors instead (employment laws allowing - [see below](employment.md#worker-classification)).
 * All employees have unlimited PTO and we do not track or pay out PTO.
-* Initiatives must maintain a budget of at least 3x monthly employment costs, to ensure funds are available to pay employees. (For fixed-term employment situations, it may be possible to drop below this threshold toward the end of the contract.)
-* Employees and initiative admins have to agree to the terms of the standard OCF employment agreement ([template](https://docs.google.com/document/d/1T-KYVOAGx74uJXGElVSuAKWOLgmsISJHVCHnwF4s-Xc/edit?usp=sharing)).
+* Collectives must maintain a budget of at least 3x monthly employment costs, to ensure funds are available to pay employees. (For fixed-term employment situations, it may be possible to drop below this threshold toward the end of the contract.)
+* Employees and Collective admins have to agree to the terms of the standard OCF employment agreement ([template](https://docs.google.com/document/d/1T-KYVOAGx74uJXGElVSuAKWOLgmsISJHVCHnwF4s-Xc/edit?usp=sharing)).
 * Employees must agree to follow the policies in the OCF Employee Handbook, which covers things like non-harassment, various kind of statutory leave, health and safety, etc. Each state has slightly different required policies so the handbook varies by state (here is the [New York handbook as an example](https://handbookbuilder.blr.com/ViewHandbook.aspx?id=144Zswg66i9nFJXzqH4kAG6tgu0ZfNN5rExPEKCQ6jge)).
 
 ### Worker Classification
@@ -59,17 +59,17 @@ If you'd like to learn more about classification, read the guide below. It's a c
 
 Here are the steps to employ someone.
 
-1. If they have not already done so previously, initiative admin follows the process to [set up liability insurance](liability-insurance.md) (it can take some time for the insurer to process, so please do this first).
-2. Initiative admin fills out the [Employment Setup Form](https://docs.google.com/forms/d/e/1FAIpQLSdUQThuDQIOODd\_Vi1mU9yC-FYu6USAPIJEfSFEOjMhVnKCSw/viewform) (fill it out once per employee if multiple).
-3. OCF sets up the employment contract and requests signatures from the initiative admin and the employee.
+1. If they have not already done so previously, Collective admin follows the process to [set up liability insurance](liability-insurance.md) (it can take some time for the insurer to process, so please do this first).
+2. Collective admin fills out the [Employment Setup Form](https://docs.google.com/forms/d/e/1FAIpQLSdUQThuDQIOODd\_Vi1mU9yC-FYu6USAPIJEfSFEOjMhVnKCSw/viewform) (fill it out once per employee if multiple).
+3. OCF sets up the employment contract and requests signatures from the Collective admin and the employee.
 4. OCF invites the employee to Justworks, our PEO/payroll system.
 5. The employee starts getting paid by direct debit every 2 weeks.
-6. OCF will debit employment-related costs from the initiative's budget monthly.
+6. OCF will debit employment-related costs from the Collective's budget monthly.
 
 ## Terminating Employment
 
-OCF is an at-will employer, and either OCF or the employee may end the employment relationship at any time. In most circumstances, OCF will terminate employment at the instruction of the initiative admin named as the employee's supervisor in the employment contract.&#x20;
+OCF is an at-will employer, and either OCF or the employee may end the employment relationship at any time. In most circumstances, OCF will terminate employment at the instruction of the Collective admin named as the employee's supervisor in the employment contract.&#x20;
 
-Fixed term employment contracts will expire upon the end date specified, unless they are extended. If the initiative or employee no longer meets the basic [requirements for employment](employment.md#requirements-and-policies), such as lacking budget to cover costs, the employment relationship will end.
+Fixed term employment contracts will expire upon the end date specified, unless they are extended. If the Collective or employee no longer meets the basic [requirements for employment](employment.md#requirements-and-policies), such as lacking budget to cover costs, the employment relationship will end.
 
-Where possible, we ask initiatives to give OCF advance notice, so we can take care of the termination process in a timely manner.&#x20;
+Where possible, we ask Collectives to give OCF advance notice, so we can take care of the termination process in a timely manner.&#x20;

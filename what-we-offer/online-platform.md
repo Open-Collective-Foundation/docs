@@ -23,7 +23,7 @@ To see all this in action, check out [OCF's hosted Collectives](https://opencoll
 
 One of the greatest strengths of our platform is the **full transparency** of both where money comes from and where it goes. When expenses are approved or contributions come through, the balance is updated in real time!&#x20;
 
-:bulb: The ability to see your initiative’s financial position and goals gives credibility to your organization, especially in the early stages, and helps to build an environment of collaboration and trust.
+:bulb: The ability to see your Collective’s financial position and goals gives credibility to your organization, especially in the early stages, and helps to build an environment of collaboration and trust.
 
 With a transparent process, team members and contributors can feel confident that the funds are being put to good use, while **private details like emails, names, and addresses are only visible to administrators**. Financial transparency creates stronger collaboration. Plus, when it’s time to report back to funders, you can just send them a link to your Open Collective profile.
 
