@@ -7,7 +7,7 @@ description: >-
 # Setting Up GitHub Sponsors
 
 {% hint style="warning" %}
-_**PLEASE NOTE**_**:** this documentation is only relevant to initiatives of Open Collective _Foundation_. Most open source projects on the platform are hosted by Open _Source_ Collective.
+_**PLEASE NOTE**_**:** this documentation is only relevant to Collectives of Open Collective _Foundation_. Most open source projects on the platform are hosted by Open _Source_ Collective.
 
 If you are hosted by **Open Source Collective**, **** [please see their documentation](https://docs.oscollective.org/getting-started/github-sponsors) for how to set up GitHub Sponsors.
 {% endhint %}

@@ -2,7 +2,7 @@
 
 ### Nonprofit Status
 
-Open Collective Foundation is a registered 501(c)(3) organization. [Financial contributions](https://docs.opencollective.foundation/how-it-works/financial-contributions) (i.e., [donations](https://docs.opencollective.foundation/about/these-docs)) to Open Collective Foundation for the purpose of our sponsored initiatives are tax-deductible to the extent of the law.
+Open Collective Foundation is a registered 501(c)(3) organization. [Financial contributions](https://docs.opencollective.foundation/how-it-works/financial-contributions) (i.e., [donations](https://docs.opencollective.foundation/about/these-docs)) to Open Collective Foundation for the purpose of our sponsored Collectives are tax-deductible to the extent of the law.
 
 **Our EIN number** (a.k.a. Tax ID) **is 81-4004928**&#x20;
 

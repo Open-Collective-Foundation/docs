@@ -20,11 +20,11 @@ Yes!&#x20;
 
 Some groups who started out all-volunteer have hesitations when it comes to starting to pay people—especially if their mission is about countering negative impacts of economic exploitation in our capitalist society, which is understandable. It's true that beginning to pay people can change the dynamics, and bring up complicated questions about who gets paid and how much.
 
-However, we encourage initiatives to take these questions and concerns on and have frank conversations as a group about them, because that's a really healthy step to take. Regardless of the conclusion, important thinking and communication will happen. It is possible to pay people in ethical, transparent, accountable, mindful ways.
+However, we encourage Collectives to take these questions and concerns on and have frank conversations as a group about them, because that's a really healthy step to take. Regardless of the conclusion, important thinking and communication will happen. It is possible to pay people in ethical, transparent, accountable, mindful ways.
 
-OCF's mission is about the sustainability of positive impact initiatives. We help groups raise money so they can be resourced to grow and thrive. Often, that is about paying for people's time. While initiatives need to be mindful with their financial resources, human capacity is a resource too, and burning people out is not the way.
+OCF's mission is about the sustainability of positive impact Collectives. We help groups raise money so they can be resourced to grow and thrive. Often, that is about paying for people's time. While Collectives need to be mindful with their financial resources, human capacity is a resource too, and burning people out is not the way.
 
-OCF won't tell you what to do—it's up to initiatives to make these decisions. But we encourage you to think about the long-term health of your initiative and the well-being and development of the humans who make it all possible.
+OCF won't tell you what to do—it's up to Collectives to make these decisions. But we encourage you to think about the long-term health of your Collective and the well-being and development of the humans who make it all possible.
 
 You can pay people casually as contractors through invoice expenses on your Collective, or if they'll be working on a regular basis, employ them part or full time.
 
@@ -62,7 +62,7 @@ As a 501(c)(3) we cannot give out lump sums first and get receipts later.  This 
 
 Check our [payouts.md](../how-it-works/payouts.md "mention") page for information about all the different ways payouts can be made through OCF.  &#x20;
 
-For large expenses that you cannot pay out-of-pocket, you can also have your vendors and service providers submit their invoices directly via your initiative's page, or you can use the "[invite expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense)" option, where you fill in the details and they recieve an email and then just need to confirm. So vendors can invoice OCF through your page to get paid, and then we pay them directly.
+For large expenses that you cannot pay out-of-pocket, you can also have your vendors and service providers submit their invoices directly via your Collective's page, or you can use the "[invite expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense)" option, where you fill in the details and they recieve an email and then just need to confirm. So vendors can invoice OCF through your page to get paid, and then we pay them directly.
 
 ### What about expenses from before we joined OCF?
 

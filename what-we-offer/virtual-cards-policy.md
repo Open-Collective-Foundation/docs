@@ -4,21 +4,21 @@ description: Like a credit or debit card linked to your balance
 
 # Virtual Cards
 
-Virtual Cards can be issued to OCF’s hosted initiatives for paying online for things like: recurring payments, utility bills, online resources/tools, subscriptions, vendors (e.g. wholesale distributors), etc.
+Virtual Cards can be issued to OCF’s hosted Collectives for paying online for things like: recurring payments, utility bills, online resources/tools, subscriptions, vendors (e.g. wholesale distributors), etc.
 
 ## How it works
 
-* Funds are spent only as transactions occur. - Setting up a card does not remove any money from your initiative's budget.
+* Funds are spent only as transactions occur. - Setting up a card does not remove any money from your Collective's budget.
 * Submit a virtual card request (either on OCF's page, or on your own) with the intended use of the card and the amount budgeted for that monthly. The virtual card with that limit will be set up for your collective.
 * If, at any point, your collective needs a higher limit on your virtual card please request a limit increase by contacting us at contact@opencollective.foundation **** with the intended use and the amount increase needed.
-  * To receive an increase, initiative must have a budget on their Open Collective account that exceeds the corresponding amount, and must demonstrate that a higher limit is necessary.
+  * To receive an increase, Collective must have a budget on their Open Collective account that exceeds the corresponding amount, and must demonstrate that a higher limit is necessary.
 * Cards must be used in compliance with our policy below.
 
 ## **Requirements:**
 
-* Initiatives must have a minimum of 2 admin members
+* Collectives must have a minimum of 2 admin members
 * These are **virtual cards.** No physical card will be issued, so these cannot be used in-store.
-* All transactions should comply with normal usage of initiative funds as outlined in our [Terms of Fiscal Sponsorship](../getting-started/terms.md)
+* All transactions should comply with normal usage of Collective funds as outlined in our [Terms of Fiscal Sponsorship](../getting-started/terms.md)
 
 **Limitations:**
 
@@ -37,9 +37,9 @@ Virtual Cards can be issued to OCF’s hosted initiatives for paying online for 
 
 #### Setup the card:
 
-1.  Initiative admins request the card from OCF
+1.  Collective admins request the card from OCF
 
-    1. Visit your initiative's page
+    1. Visit your Collective's page
     2. Click **Actions** -> **Request a Card**
     3. **Please include vendor details and pricing details in your request (estimates are ok).**
 
@@ -57,12 +57,12 @@ Virtual Cards can be issued to OCF’s hosted initiatives for paying online for 
 
 2\. OCF will assign the card (please allow time for processing)
 
-3\. Once assigned, the card assignee will be notified via email.  The card's details will appear in the initiative's **Settings** for admins to use. (in accordance with this policy)
+3\. Once assigned, the card assignee will be notified via email.  The card's details will appear in the Collective's **Settings** for admins to use. (in accordance with this policy)
 
 #### ​After a purchase is made:
 
-1. The funds will be withdrawn from your initiative
-2. An "Invitation to submit an expense" will be sent to your initiative admins&#x20;
+1. The funds will be withdrawn from your Collective
+2. An "Invitation to submit an expense" will be sent to your Collective admins&#x20;
    1. Admins will be asked to submit your receipt. **(If the receipt is not submitted within 30 days, the card access will be paused until you do submit the receipt)**.
 
 {% hint style="info" %}

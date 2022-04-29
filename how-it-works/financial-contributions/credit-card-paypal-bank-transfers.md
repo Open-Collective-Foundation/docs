@@ -1,8 +1,8 @@
 # Credit Card, Paypal, Bank transfers
 
-To contribute to an initiative online on the Open Collective Platform via Credit Card, PayPal, or Bank Transfer (a.k.a. ACH or wire transfer), please see [this overview of the process](https://docs.opencollective.com/help/financial-contributors/payments).
+To contribute to an Collective online on the Open Collective Platform via Credit Card, PayPal, or Bank Transfer (a.k.a. ACH or wire transfer), please see [this overview of the process](https://docs.opencollective.com/help/financial-contributors/payments).
 
-Once you choose to contribute from the initiative’s profile, our platform will guide you through the rest of the process, including choosing between credit card, PayPal, and electronic bank transfer (i.e., ACH or wire).
+Once you choose to contribute from the Collective’s profile, our platform will guide you through the rest of the process, including choosing between credit card, PayPal, and electronic bank transfer (i.e., ACH or wire).
 
 {% hint style="info" %}
 The fastest way to have access to funds is through **Card/PayPal donations** made directly on the [Open Collective Platform](../../what-we-offer/online-platform.md).
@@ -18,7 +18,7 @@ You can also download a [PDF with general payment info](../../about/official-inf
 
 You must include the unique ID code as a reference with your bank transfer, so we can match up the transaction.
 
-Once the money has arrived, we will confirm, then the amount will be credited to the initiative’s balance and you will automatically receive a receipt.‌
+Once the money has arrived, we will confirm, then the amount will be credited to the Collective’s balance and you will automatically receive a receipt.‌
 
 When you arrange the transfer, if you have the option of sending an email notification for the transaction, please send it to [contact@opencollective.foundation](mailto:contact@opencollective.foundation).&#x20;
 

@@ -1,5 +1,5 @@
 ---
-description: A step-by-step guide to becoming an Initiative with OCF
+description: A step-by-step guide to becoming a Collective with OCF
 ---
 
 # How to Apply
@@ -11,19 +11,19 @@ description: A step-by-step guide to becoming an Initiative with OCF
 3. Be familiar with the [Restrictions & Limitations](../../how-it-works/policies/#restrictions-and-limitations) of our program
 4. Review our [Cash Assistance Policy](../../how-it-works/policies/cash-assistance-policy.md), [Outside Entities Policy](../../how-it-works/policies/outside-entities-policy.md), and [Outside Accounts Policy](../../how-it-works/policies/outside-accounts-policy.md) to ensure that OCF's fiscal hosting is right for you
 5. Review our [fee structure](../../how-it-works/fees.md)
-6. Have at least 2 community members ready to add as [admins](https://docs.opencollective.com/help/collectives/core-contributors). Admins have full permissions to change settings, approve expenses, and make financial contributions from the budget balance of your initiative. _**Applications with less than 2 admins will not be accepted.**_
+6. Have at least 2 community members ready to add as [admins](https://docs.opencollective.com/help/collectives/core-contributors). Admins have full permissions to change settings, approve expenses, and make financial contributions from the budget balance of your Collective. _**Applications with less than 2 admins will not be accepted.**_
 
 ### :bulb: A**s a reminder:**
 
-* If your initiative is hosted by the Foundation, donations made through Open Collective are **tax-deductible** for your financial contributors.
-* You retain ownership of all your initiative's **intellectual property**.
+* If your Collective is hosted by the Foundation, donations made through Open Collective are **tax-deductible** for your financial contributors.
+* You retain ownership of all your Collective's **intellectual property**.
 * If you want to enter into an agreement with anyone else, such as a contract with a vendor or providing a specific service to a sponsor, **you need to get our permission**, because legally the agreement would be with Open Collective Foundation.
 * Groups hosted by OCF **must** obtain approval in advance from OCF staff **prior** to the purchase of **any large assets** (e.g. cars, property) as these assets would be owned by OCF
   * See [Situations where we need to be involved](../../how-it-works/policies/#situations-where-we-need-to-be-involved) for more info
-* We will hold and manage funds on behalf of your initiative and we won't use them for anything else.
-* Your initiative **cannot** have multiple fiscal sponsors or [outside bank accounts](../../how-it-works/policies/outside-accounts-policy.md). **All funds must be held in your Open Collective account** in order to accurately represent your budget/activities.
-* If your initiative's **mission or name ever changes**, you must inform us (and depending on the changes, we may ask you to reapply as a new initiative.)
-* **Once funds enter into a 501(c)(3), they must remain in the 501(c)(3) sphere.** This means if your initiative [closes down](../../faq/leaving-ocf.md), your funds cannot be returned, and can either be spent on project expenses or must be transferred to another 501(c)(3) - perhaps another OCF-hosted initiative!
+* We will hold and manage funds on behalf of your Collective and we won't use them for anything else.
+* Your Collective **cannot** have multiple fiscal sponsors or [outside bank accounts](../../how-it-works/policies/outside-accounts-policy.md). **All funds must be held in your Open Collective account** in order to accurately represent your budget/activities.
+* If your Collective's **mission or name ever changes**, you must inform us (and depending on the changes, we may ask you to reapply as a new Collective.)
+* **Once funds enter into a 501(c)(3), they must remain in the 501(c)(3) sphere.** This means if your Collective [closes down](../../faq/leaving-ocf.md), your funds cannot be returned, and can either be spent on project expenses or must be transferred to another 501(c)(3) - perhaps another OCF-hosted Collective!
 
 ## **The Application**
 
@@ -47,7 +47,7 @@ Everything you enter into the application will be editable later on, so don't wo
 
 :no\_entry\_sign: If your application is rejected, you will be informed as to why. You are welcome to reapply if adjustments are made to align with our requirements. We try to respond to applications within two business days.
 
-:white\_check\_mark: If your initiative is accepted, congratulations! Once you have set up your initiative’s Open Collective page, you can begin accepting contributions (donations). We will reach out to notify you of your acceptance. We will provide you with a copy of your application for your reference (you may want to use the answers you submitted to [expand and customize ](https://docs.opencollective.com/help/collectives/customize-collective)your Open Collective profile) and [instructions for how to get started](../../how-it-works/basics.md).
+:white\_check\_mark: If your Collective is accepted, congratulations! Once you have set up your Collective’s Open Collective page, you can begin accepting contributions (donations). We will reach out to notify you of your acceptance. We will provide you with a copy of your application for your reference (you may want to use the answers you submitted to [expand and customize ](https://docs.opencollective.com/help/collectives/customize-collective)your Open Collective profile) and [instructions for how to get started](../../how-it-works/basics.md).
 
 {% hint style="info" %}
 Be sure to check your Spam folder for correspondence from OCF. Sometimes our emails end up in there.
@@ -55,10 +55,10 @@ Be sure to check your Spam folder for correspondence from OCF. Sometimes our ema
 
 ## Transitioning to Open Collective
 
-If you are transitioning from another fiscal host that uses the Open Collective platform, the [process is relatively simple](https://docs.opencollective.com/help/collectives/change-fiscal-host#what-is-the-process-for-changing-fiscal-hosts). If your initiative is currently with another organization that does not use Open Collective, the process will depend on that organization’s requirements, but in a nutshell they can transfer your money over and you can get up and running with OCF.
+If you are transitioning from another fiscal host that uses the Open Collective platform, the [process is relatively simple](https://docs.opencollective.com/help/collectives/change-fiscal-host#what-is-the-process-for-changing-fiscal-hosts). If your Collective is currently with another organization that does not use Open Collective, the process will depend on that organization’s requirements, but in a nutshell they can transfer your money over and you can get up and running with OCF.
 
 Please be sure to **communicate your plans** to both OCF _and_ your old fiscal host in advance of your application to ensure a smooth transition. Once you have tied up any loose ends with your current host, they can [transfer](../../how-it-works/financial-contributions/) the funds to us electronically or send it to us by check. We can issue an invoice to them and sign agreements if needed.
 
 {% hint style="info" %}
-All funds for your initiative must be transferred to Open Collective Foundation, since initiatives may not hold funds for the project in [any other bank account](../../how-it-works/policies/outside-accounts-policy.md) while hosted by OCF. Our normal [fees](https://docs.opencollective.foundation/how-it-works/fees) apply to funds transferred in.
+All funds for your Collective must be transferred to Open Collective Foundation, since Collectives may not hold funds for the project in [any other bank account](../../how-it-works/policies/outside-accounts-policy.md) while hosted by OCF. Our normal [fees](https://docs.opencollective.foundation/how-it-works/fees) apply to funds transferred in.
 {% endhint %}

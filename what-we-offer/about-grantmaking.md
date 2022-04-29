@@ -1,19 +1,19 @@
 # Grantmaking
 
-Open Collective Foundation is excited to offer our initiatives the opportunity to give grants to individuals in furtherance of their mission. For all of the details of how it works, make sure to take a look at our [**Grantmaking Policy**](../how-it-works/policies/grantmaking-policy.md).
+Open Collective Foundation is excited to offer our Collectives the opportunity to give grants to individuals in furtherance of their mission. For all of the details of how it works, make sure to take a look at our [**Grantmaking Policy**](../how-it-works/policies/grantmaking-policy.md).
 
 {% hint style="info" %}
-Want to make a grant to a 501(c)(3) organization or contribute to another OCF initiative? You don't need to make a formal grant. Reach out to us and we'll be happy to help.
+Want to make a grant to a 501(c)(3) organization or contribute to another OCF Collective? You don't need to make a formal grant. Reach out to us and we'll be happy to help.
 {% endhint %}
 
 ## How does the grantmaking process work?
 
 This is a basic summary. More details are available in the Grantmaking Policy.
 
-1. An initiative decides to make a grant and selects a grantee - initiatives may create their own process and internal decision-making protocol for grants
-2. The initiative admin fills out the [OCF Grantmaking Proposal](https://docs.google.com/forms/d/e/1FAIpQLSfJ-cHc8KEFvn-OThEEdGpgcsc4s5-GZ7nlXhci28RVr7bf7g/viewform) form
-3. OCF, the initiative, and the grantee sign a contract
-4. The grantee submits grant expenses to the Project set up for the grant within the initiative's Collective, and is paid out that way
+1. An Collective decides to make a grant and selects a grantee - Collectives may create their own process and internal decision-making protocol for grants
+2. The Collective admin fills out the [OCF Grantmaking Proposal](https://docs.google.com/forms/d/e/1FAIpQLSfJ-cHc8KEFvn-OThEEdGpgcsc4s5-GZ7nlXhci28RVr7bf7g/viewform) form
+3. OCF, the Collective, and the grantee sign a contract
+4. The grantee submits grant expenses to the Project set up for the grant within the Collective's Collective, and is paid out that way
 5. Any required reports are submitted via Updates on the Project page (see the [Grantmaking Policy](../how-it-works/policies/grantmaking-policy.md) for details)
 6. OCF handles all the record-keeping and IRS reporting
 
@@ -41,15 +41,15 @@ If those options aren't a good fit _and_ they fit the criteria for a grant, you 
 
 #### Mission/purpose alignment
 
-Grants must fit the IRS definition of charitable purposes, fit OCF's defined charitable purposes, and be aligned with the overall mission of your initiative.
+Grants must fit the IRS definition of charitable purposes, fit OCF's defined charitable purposes, and be aligned with the overall mission of your Collective.
 
-OCF only accepts initiatives that fit within this remit, so if your initiative is hosted by OCF you can safely assume your activities are covered. OCF's purposes are quite broad and are [detailed here](../about/mission-and-values.md#our-missions-impact-areas).
+OCF only accepts Collectives that fit within this remit, so if your Collective is hosted by OCF you can safely assume your activities are covered. OCF's purposes are quite broad and are [detailed here](../about/mission-and-values.md#our-missions-impact-areas).
 
-You have a responsibility to ensure that all funds donated to your initiative go toward your initiative’s mission, including grants. If you have an idea for something completely different, consider expanding your focus or start a new Collective.
+You have a responsibility to ensure that all funds donated to your Collective go toward your Collective’s mission, including grants. If you have an idea for something completely different, consider expanding your focus or start a new Collective.
 
 #### **What do you mean by **_**the IRS definition of charitable purposes**_**?**
 
-Generally, grants by our initiatives have to fit within the exempt purposes set forth in Internal Revenue Code section 501(c)(3): charitable, religious, educational, scientific, literary, testing for public safety, fostering national or international amateur sports competition, and the prevention of cruelty to children or animals.&#x20;
+Generally, grants by our Collectives have to fit within the exempt purposes set forth in Internal Revenue Code section 501(c)(3): charitable, religious, educational, scientific, literary, testing for public safety, fostering national or international amateur sports competition, and the prevention of cruelty to children or animals.&#x20;
 
 The term **charitable** can be confusing. The IRS uses the term in its generally accepted legal sense, and it includes relief of the poor, the distressed, or the underprivileged; advancement of religion; advancement of education or science; erection or maintenance of public buildings, monuments, or works; lessening the burdens of government; lessening neighborhood tensions; eliminating prejudice and discrimination; defending human and civil rights secured by law; and combating community deterioration and juvenile delinquency.
 
@@ -57,7 +57,7 @@ The term **charitable** can be confusing. The IRS uses the term in its generally
 
 In emergencies, rapid response can make a tremendous difference.
 
-The policy we have developed for grantmaking streamlines the process for applicants and initiatives. One added benefit of this is that initiatives can respond quickly to their community's needs. If all the info is submitted and the contract is signed quickly, we can turn around grant payments within a few days.
+The policy we have developed for grantmaking streamlines the process for applicants and Collectives. One added benefit of this is that Collectives can respond quickly to their community's needs. If all the info is submitted and the contract is signed quickly, we can turn around grant payments within a few days.
 
 Traditional grantmaking by large foundations can drag on for months, and usually requires everything about the intended impact and budget be known upfront. OCF's approach to grantmaking enables a lower up-front barrier because we hold the funds as you spend the grant and check each expense instead of requiring a detailed budget ahead of time.&#x20;
 
@@ -69,11 +69,11 @@ Traditionally, grantmaking is an arena of the rich and powerful. OCF's grantmaki
 
 As the Whitman Institute [has written](https://thewhitmaninstitute.org/about/trust-based-philanthropy/), "efforts to create social, political, and economic equity will be more successful if funders proactively work to alleviate power imbalances in the sector by embedding trust, dialogue, and relationship-building in its practices with grantees." By using certain practices, and centering equity, humility, and transparency, grantmakers can build trust with their grantees.
 
-While our hosted initiatives may not be huge foundations, there is still an inherent power imbalance between a grantmaker and its grantees. Our platform and processes minimizes that imbalance: many aspects of [trust-based philanthropy](https://www.trustbasedphilanthropy.org) are baked into the grantmaking process through Open Collective Foundation:
+While our hosted Collectives may not be huge foundations, there is still an inherent power imbalance between a grantmaker and its grantees. Our platform and processes minimizes that imbalance: many aspects of [trust-based philanthropy](https://www.trustbasedphilanthropy.org) are baked into the grantmaking process through Open Collective Foundation:
 
 * All transactions are transparent by default (but grantees can keep their real names private if they wish)
 * The platform makes it easy for grantees to request payouts of funds
-* The application and final reporting processes, defined by the rules IRS, minimize administrative burden for grantees as much as possible, placing initiative admins in a supportive role alongside grantees
+* The application and final reporting processes, defined by the rules IRS, minimize administrative burden for grantees as much as possible, placing Collective admins in a supportive role alongside grantees
 * Grantees have the opportunity to update the grantmaker and the public on their work through Updates
 * It's easy for grantees to extend or adjust their project as required
 
@@ -91,7 +91,7 @@ Trust-based philanthropy, along with advocates within the grantmaking world like
 * Be open and transparent about their decisionmaking process, and solicit feedback
 * Offer ways they can support grantees outside of just financial assistance
 
-We recommend that our initiatives engage with grantees generously and responsibly using many or all of the practices listed above. Have any suggestions? [Let us know!](../about/contact-us.md)
+We recommend that our Collectives engage with grantees generously and responsibly using many or all of the practices listed above. Have any suggestions? [Let us know!](../about/contact-us.md)
 
 ### Participatory grantmaking
 
@@ -106,7 +106,7 @@ Participatory grantmaking takes many forms:
 * Inviting grant applicants to vote for which applicants should be funded
 * And much more!&#x20;
 
-Open Collective Foundation fully supports initiatives' exploration of participatory grantmaking. We invite you to explore available guides and tools to cultivate a process that works for you:
+Open Collective Foundation fully supports Collectives' exploration of participatory grantmaking. We invite you to explore available guides and tools to cultivate a process that works for you:
 
 * [Shared Power, Shared Impact: AJL’s New Grantmaking Process](https://www.ajlfoundation.org/article/shared-power-shared-impact-ajls-new-grantmaking-process)
 * [7 Q\&As about participatory grantmaking](https://civicus.org/index.php/media-resources/news/blog/4349-7-q-as-about-participatory-grantmaking)
@@ -114,4 +114,4 @@ Open Collective Foundation fully supports initiatives' exploration of participat
 
 ## Getting started
 
-If you're an existing initiative ready to start giving grants to individuals as part of your work, head over to our [Grantmaking Policy](../how-it-works/policies/grantmaking-policy.md). Once you've read through the policy and understand the procedures, you can get started! If you have selected a grantee, your next step is to fill out the [OCF Grantmaking Proposal](https://docs.google.com/forms/d/e/1FAIpQLSfJ-cHc8KEFvn-OThEEdGpgcsc4s5-GZ7nlXhci28RVr7bf7g/viewform) form. (A pdf version of the form can be found [here](https://drive.google.com/file/d/1OqpEQhXeYyBYhMWFnM0\_q9WCG\_WokWdM/view).)
+If you're an existing Collective ready to start giving grants to individuals as part of your work, head over to our [Grantmaking Policy](../how-it-works/policies/grantmaking-policy.md). Once you've read through the policy and understand the procedures, you can get started! If you have selected a grantee, your next step is to fill out the [OCF Grantmaking Proposal](https://docs.google.com/forms/d/e/1FAIpQLSfJ-cHc8KEFvn-OThEEdGpgcsc4s5-GZ7nlXhci28RVr7bf7g/viewform) form. (A pdf version of the form can be found [here](https://drive.google.com/file/d/1OqpEQhXeYyBYhMWFnM0\_q9WCG\_WokWdM/view).)

@@ -6,7 +6,7 @@ Since [explicitly naming our solidarity economy focus](https://blog.opencollecti
 
 ## Is OCF a good fit for co-ops? Yes and no.
 
-OCF is a 501(c)(3) nonprofit that [fiscally hosts](../what-we-offer/fiscal-hosting.md) initiatives with missions around education, social impact, and civic engagement. We're set up to serve a wide range of groups and activities, but not for everything.
+OCF is a 501(c)(3) nonprofit that [fiscally hosts](../what-we-offer/fiscal-hosting.md) Collectives with missions around education, social impact, and civic engagement. We're set up to serve a wide range of groups and activities, but not for everything.
 
 ### When it's about education _about_ co-ops.... yes
 
@@ -18,17 +18,17 @@ If you are planning to be an educational business, however, see [below](ocf-and-
 
 ### When it's about collaborative practice... possibly
 
-If your interest in cooperation is about running a social impact initiative collaboratively, and practicing things like managing a budget together, how to make decisions as a group, sharing information, etc, then joining OCF can be a great way to start doing that stuff for real without having to take on heavy burdens involving legal entities and compliance.
+If your interest in cooperation is about running a social impact Collective collaboratively, and practicing things like managing a budget together, how to make decisions as a group, sharing information, etc, then joining OCF can be a great way to start doing that stuff for real without having to take on heavy burdens involving legal entities and compliance.
 
 However, your cooperative practice has to be around a mission that fits [our criteria](../getting-started/eligibility.md), i.e. focused on education, social impact, or civic engagement. If it's cooperation in service of other aims, like building a business, it might not work (see below).
 
 ### When it's about business... probably no
 
-A lot of cooperatives are businesses, and that's great! So much fantastic stuff can happen for people and communities through cooperative commerce. However, as a 501(c)(3) non-profit, that's not what OCF is designed for. Initiatives under our umbrella can do revenue-generating activities, but it all has to be in service to mission focused on education, social impact, or civic engagement.
+A lot of cooperatives are businesses, and that's great! So much fantastic stuff can happen for people and communities through cooperative commerce. However, as a 501(c)(3) non-profit, that's not what OCF is designed for. Collectives under our umbrella can do revenue-generating activities, but it all has to be in service to mission focused on education, social impact, or civic engagement.
 
 ### When it's about ownership... no
 
-The power of the cooperative model is about literal co-ownership in many cases. As a nonprofit, that's not a model that can fit inside OCF. You can practice many aspects of cooperative-style governance within an OCF-hosted initiative, but member or worker _ownership_ is not possible in our structure.
+The power of the cooperative model is about literal co-ownership in many cases. As a nonprofit, that's not a model that can fit inside OCF. You can practice many aspects of cooperative-style governance within an OCF-hosted Collective, but member or worker _ownership_ is not possible in our structure.
 
 ### When it's about incubation... sometimes
 
