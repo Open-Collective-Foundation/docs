@@ -1,7 +1,7 @@
 # Nonprofit Discounts
 
 {% hint style="success" %}
-Refer to **** [**our Official Information & Documentation**](../about/official-information-and-documents.md) if a third-party tool asks you for an address, EIN, bank info, 990, etc.
+Refer to [**our Official Information & Documentation**](../about/official-information-and-documents.md) if a third-party tool asks you for an address, EIN, bank info, 990, etc.
 {% endhint %}
 
 ### **Nonprofit Rates & Discounts** <a href="#nonprofit-rates" id="nonprofit-rates"></a>

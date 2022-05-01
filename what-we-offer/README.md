@@ -28,15 +28,15 @@ Open Collective Foundation [issues 1099s to contracted workers when required](ht
 
 In addition to being your legal and financial home, OCF offers many useful services to its community, and works to connect our Collectives together in solidarity.
 
-* \*\*\*\*[**Monthly Community Forums**](https://opencollective.com/foundation/events): ask questions, give feedback, and support and learn from other Collectives like yours. Connect with our [growing network of hosted Collectives](https://opencollective.com/foundation#category-CONTRIBUTIONS).
+* [**Monthly Community Forums**](https://opencollective.com/foundation/events): ask questions, give feedback, and support and learn from other Collectives like yours. Connect with our [growing network of hosted Collectives](https://opencollective.com/foundation#category-CONTRIBUTIONS).
 * [**Grant application support**](../how-it-works/financial-contributions/grant-funding.md): you choose the grants to apply to and tell your story, we take care of all the compliance paperwork and meet funder requirements for documentation, audited financials, and track record
-* \*\*\*\*[**Employment, payroll, and health benefits**](employment.md): make your Collective your full time job and hire staff
+* [**Employment, payroll, and health benefits**](employment.md): make your Collective your full time job and hire staff
 * [**Liability insurance**](liability-insurance.md): get simple, cost-effective coverage for your group by adding an addendum to our core policies
-* \*\*\*\*[**Free email boxes**](emails.md): we can add your domain to our Google for Nonprofits account and give you free email boxes
+* [**Free email boxes**](emails.md): we can add your domain to our Google for Nonprofits account and give you free email boxes
 * [**Grantmaking**](about-grantmaking.md): make grants to your community - you choose the grantees, we take care of the paperwork
 * [**Cash assistance**](../how-it-works/policies/cash-assistance-policy.md): give money to people who are unbanked and/or lack internet access, who can't provide the normally required paperwork
 * [**Virtual cards**](virtual-cards-policy.md): like a debit card linked to your balance on Open Collective that you can use online
-* \*\*\*\*[**Integration with other funding tools**](../how-it-works/financial-contributions/third-party-fundraising-tools-and-benefits/): like ActBlue & Benevity
+* [**Integration with other funding tools**](../how-it-works/financial-contributions/third-party-fundraising-tools-and-benefits/): like ActBlue & Benevity
 
 ## Is OCF right for you?
 

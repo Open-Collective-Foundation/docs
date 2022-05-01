@@ -4,10 +4,10 @@ description: More ways to raise funds
 
 # 3rd-Party Fundraising Tools
 
-Although [receiving funds through the Open Collective platform](../) is the swiftest, most direct & efficient way to receive funds, OCF’s hosted Collectives can also use some third-party tools to receive funds for their Collective.&#x20;
+Although [receiving funds through the Open Collective platform](../) is the swiftest, most direct & efficient way to receive funds, OCF’s hosted Collectives can also use some third-party tools to receive funds for their Collective.
 
 {% hint style="info" %}
-Please be sure to review our [**Outside Entities Policy**](../../policies/outside-entities-policy.md) and [**Outside Accounts Policy**](../../policies/outside-accounts-policy.md) before moving forward with any of these options&#x20;
+Please be sure to review our [**Outside Entities Policy**](../../policies/outside-entities-policy.md) and [**Outside Accounts Policy**](../../policies/outside-accounts-policy.md) before moving forward with any of these options
 {% endhint %}
 
 **Note:**
@@ -20,7 +20,7 @@ Please be sure to review our [**Outside Entities Policy**](../../policies/outsid
 
 ## Third-Party Tools
 
-OCF offers limited support for integrating with 3rd party tools and apps.&#x20;
+OCF offers limited support for integrating with 3rd party tools and apps.
 
 ### Some of our available options:
 
@@ -34,7 +34,7 @@ The tools below have been used by Open Collective Foundation's Collectives in th
 {% tab title="ActBlue" %}
 * [Why Setup an Account?](https://support.actblue.com/donors/about-actblue/why-do-candidates-and-organizations-use-your-platform/)
 * [Quickstart Guide](https://support.actblue.com/campaigns/help/getting-started/)
-  * ****:bulb: Use [our **EIN**](../../../about/official-information-and-documents.md) **** (81-4004928) when registering in order for your Collective's collected donations to be grouped in OCF’s umbrella.
+  * :bulb: Use [our **EIN**](../../../about/official-information-and-documents.md) (81-4004928) when registering in order for your Collective's collected donations to be grouped in OCF’s umbrella.
 {% endtab %}
 
 {% tab title="Benevity" %}
@@ -42,7 +42,7 @@ The tools below have been used by Open Collective Foundation's Collectives in th
 
 * **Benefits include:**
   * Fund-matching opportunities
-    * many companies use it as their giving portal&#x20;
+    * many companies use it as their giving portal
     * Access to donors
   * Collective becomes searchable on Benevity's website
   * Credits are made into your Collective's budget 1x/month
@@ -50,7 +50,7 @@ The tools below have been used by Open Collective Foundation's Collectives in th
   * **Video**: [Attracting Donors to your Benevity Profile](https://causeshelp.benevity.org/hc/en-us/articles/360000469786-Attracting-Donors-to-Your-Profile)
   * **Webinar**: [Strategies for a Successful Giving Season](https://causeshelp.benevity.org/hc/en-us/articles/360000478943-Charities-Webinar-Strategies-for-a-Successful-Giving-Season)
 
-_Note_: Benevity operates on a monthly disbursement model. All funds designated to your organization in a month are aggregated and issued in one payment at the end of the following month.&#x20;
+_Note_: Benevity operates on a monthly disbursement model. All funds designated to your organization in a month are aggregated and issued in one payment at the end of the following month.
 
 For example, all donations designated to your organization in November will be disbursed around the last week of December.
 
@@ -62,7 +62,7 @@ We will set up your Benevity profile using the information & logo you use on you
 {% endtab %}
 {% endtabs %}
 
-The following are **not** set up to work specifically with fiscally hosted projects and do not report where donated funds are meant to be allocated to.  This means there will be delays in the funds arriving to your account, and you **must** inform us whenever these are used.
+The following are **not** set up to work specifically with fiscally hosted projects and do not report where donated funds are meant to be allocated to. This means there will be delays in the funds arriving to your account, and you **must** inform us whenever these are used.
 
 {% hint style="warning" %}
 **If you wish to have the raised funds from the below platforms allocated to your fund, you must** [**inform us**](mailto:contact@opencollective.foundation) **about the incoming funds (please include links + screenshots).** Unclaimed funds will be directed to OCF's operating costs.
@@ -80,25 +80,25 @@ The following are **not** set up to work specifically with fiscally hosted proje
 {% tab title="GoFundMe" %}
 GoFundMe [Charity Fundraising](https://www.gofundme.com/start/charity-fundraising)
 
-* Select OpenCollective Foundation as the beneficiary in order for your donors to receive tax-deductible status \[recommended],&#x20;
+* Select OpenCollective Foundation as the beneficiary in order for your donors to receive tax-deductible status \[recommended],
 * **or** you collect them on your own behalf, and transfer them to your Collective as one lump sum. \[it will not be tax-deductible for your donors. Refer to our [Outside Accounts Policy](../../policies/outside-accounts-policy.md) for details.]
 * [FAQ](https://docs.opencollective.foundation/faq/contributions-faq#can-we-use-outside-fundraising-platforms-like-gofundme-to-fundraise-for-our-Collective)
 {% endtab %}
 {% endtabs %}
 
-If you use any of these tools, **please** [**email us**](mailto:contact@opencollective.foundation).&#x20;
+If you use any of these tools, **please** [**email us**](mailto:contact@opencollective.foundation).
 
 \---
 
-Also, [let us know](mailto:contact@opencollective.foundation) if you are interested in a platform not listed above and we will see if we can make it work.  If you are requesting an integration with a 3rd party tool, please consider the following:
+Also, [let us know](mailto:contact@opencollective.foundation) if you are interested in a platform not listed above and we will see if we can make it work. If you are requesting an integration with a 3rd party tool, please consider the following:
 
 * not all apps/tools are suitable for fiscal sponsorship arrangements (e.g. they don't allow multiple groups to use the same EIN, they have limited reporting tools that don't indicate to us where funds should be allocated)
-* the tool **must have** a good option for monitoring the contributions (e.g. a dashboard for OCF to review contributions; detailed monthly reports),&#x20;
+* the tool **must have** a good option for monitoring the contributions (e.g. a dashboard for OCF to review contributions; detailed monthly reports),
   * in some cases,the collective can forward the reports to OCF on a regular basis
-* the tool batches raised funds and make transfers on a periodic basis (e.g. once a month); not with funds arriving 1-at-a-time&#x20;
-* payments **must** be sent as [bank transfers](../credit-card-paypal-bank-transfers.md#bank-transfers) only (and only as per the monthly contribution amount).&#x20;
-* Re: [donation-matching](../donation-matching.md) tools: mandatory fields where any donations matches include the information about which Collective they support,&#x20;
-* The Collective must understand that there will be delays in getting these funds into their Open Collective account due to the manual processing, etc.&#x20;
+* the tool batches raised funds and make transfers on a periodic basis (e.g. once a month); not with funds arriving 1-at-a-time
+* payments **must** be sent as [bank transfers](../credit-card-paypal-bank-transfers.md#bank-transfers) only (and only as per the monthly contribution amount).
+* Re: [donation-matching](../donation-matching.md) tools: mandatory fields where any donations matches include the information about which Collective they support,
+* The Collective must understand that there will be delays in getting these funds into their Open Collective account due to the manual processing, etc.
 
 {% hint style="warning" %}
 [Please email us](mailto:contact@opencollective.foundation) if you are expecting a payment from the third party service so we can look out for it and credit your account in timely fashion.
@@ -106,7 +106,7 @@ Also, [let us know](mailto:contact@opencollective.foundation) if you are interes
 
 #### External PayPal Accounts
 
-Since Collectives can receive and spend funds via PayPal from within the Open Collective platform, you **should not** set up an external PayPal account for receiving or spending funds. Please review our [**Outside Accounts Policy**](../../policies/outside-accounts-policy.md) **** for more details.
+Since Collectives can receive and spend funds via PayPal from within the Open Collective platform, you **should not** set up an external PayPal account for receiving or spending funds. Please review our [**Outside Accounts Policy**](../../policies/outside-accounts-policy.md) for more details.
 
 #### Amazon Smile
 
@@ -116,13 +116,13 @@ Unfortunately, OCF cannot direct funds received from Amazon Smile to specific ho
 
 Unfortunately, Venmo, Cash App, and other similar services we are aware of do not currently allow nonprofit accounts. Therefore, your Collective cannot send (or receive) funds from these sources directly through Open Collective.
 
-In the situation where bank transfer and PayPal are not viable transfer methods, an individual on your team can send funds to the intended recipient via one of these services and then submit for reimbursement.&#x20;
+In the situation where bank transfer and PayPal are not viable transfer methods, an individual on your team can send funds to the intended recipient via one of these services and then submit for reimbursement.
 
-In the **Reimbursement**, make sure to include:&#x20;
+In the **Reimbursement**, make sure to include:
 
-* [ ] the **name** of the indirect recipient of the funds and&#x20;
-* [ ] **what they are using those funds for**,&#x20;
-* [ ] if available, the **receipt**(s) for their activities,&#x20;
+* [ ] the **name** of the indirect recipient of the funds and
+* [ ] **what they are using those funds for**,
+* [ ] if available, the **receipt**(s) for their activities,
 * [ ] as well as the **receipt** from the service (e.g. Venmo) that you used to transfer them the funds.
 
 {% hint style="info" %}

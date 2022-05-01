@@ -2,13 +2,13 @@
 
 ### **How can I contact Open Collective Foundation? Where can I go with questions or concerns?**
 
-Email us at [contact@opencollective.foundation](mailto:contact@opencollective.foundation). We will respond as soon as we can!&#x20;
+Email us at [contact@opencollective.foundation](mailto:contact@opencollective.foundation). We will respond as soon as we can!
 
 You can also join [our Slack](https://join.slack.com/t/opencollective/shared\_invite/zt-f43qko76-sD8G\~e\_vQCm4TtpIsM4i\~A) to get in touch with the entire Open Collective community. Check in at the #ocf channel.
 
-### **What is the difference between **_**Open Collective**_** and **_**Open Collective Foundation**_**?**
+### **What is the difference between Open Collective** _and_ **Open Collective Foundation?**
 
-[Open Collective](https://opencollective.com) is the software platform, which is made by a company called Open Collective Inc.  [Open Collective Foundation](https://opencollective.foundation) is a separate 501(c)(3) entity that [uses ](https://opencollective.com/foundation)the platform to provide fiscal hosting services. The two entities are legally completely separate, but share some of the same staff members and [community guidelines](https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines-1).
+[Open Collective](https://opencollective.com) is the software platform, which is made by a company called Open Collective Inc. [Open Collective Foundation](https://opencollective.foundation) is a separate 501(c)(3) entity that [uses ](https://opencollective.com/foundation)the platform to provide fiscal hosting services. The two entities are legally completely separate, but share some of the same staff members and [community guidelines](https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines-1).
 
 ### **What is the difference between fiscal hosting and fiscal sponsorship?**
 

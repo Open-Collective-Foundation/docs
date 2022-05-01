@@ -18,10 +18,10 @@ If your domain is already associated with another Google Workspace account, you 
 Yes, your Collective needs to have its own domain name (e.g. coolCollective.com).
 
 **Can I set up free gmail boxes myself?**\
-****Although being hosted by a 501(c)(3) gives your Collective access to that status through OCF, Google doesn't allow fiscally sponsored projects to sign up on their own, so OCF needs to set it up through our account. If you want to manage your own emails, we suggest signing up for free Gmail accounts, or paying for Google Workspace or another email service.
+Although being hosted by a 501(c)(3) gives your Collective access to that status through OCF, Google doesn't allow fiscally sponsored projects to sign up on their own, so OCF needs to set it up through our account. If you want to manage your own emails, we suggest signing up for free Gmail accounts, or paying for Google Workspace or another email service.
 
 **What's included with the account?**\
-****Gmail, Contacts, Calendar, Meet, Chat, Drive, and Google Docs.&#x20;
+Gmail, Contacts, Calendar, Meet, Chat, Drive, and Google Docs.
 
 **What if someone forgets their password?**\
 Email us the details and we can reset it for them. Same goes for any other email admin issue.

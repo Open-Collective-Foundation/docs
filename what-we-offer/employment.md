@@ -6,9 +6,9 @@ Collectives fiscally hosted by OCF can have employees, with access to benefits l
 
 ### How it works
 
-The Collective admins define who to hire (themselves or others), how much to pay in salaries, and the job descriptions. Collectives decide their own internal management structure, work practices, hours, and other day to day aspects of the job.&#x20;
+The Collective admins define who to hire (themselves or others), how much to pay in salaries, and the job descriptions. Collectives decide their own internal management structure, work practices, hours, and other day to day aspects of the job.
 
-OCF ensures legal compliance with employment regulations, and takes care of payroll, liability, taxes, workers comp, and all the paperwork.&#x20;
+OCF ensures legal compliance with employment regulations, and takes care of payroll, liability, taxes, workers comp, and all the paperwork.
 
 ### Healthcare & Benefits
 
@@ -18,7 +18,7 @@ Because many Collectives operate under the OCF umbrella, we can access large gro
 
 Employees can decide whether or not to sign up for healthcare or other benefits, and the Collective's budget is only charged for benefits if they opt-in. Each initative can choose what proportion of benefits costs are paid by the Collective vs out of pocket by its employees.
 
-[**Overview of benefits options**](https://secure.justworks.com/benefits/company\_benefits\_overviews/8011d67a-5191-43c4-b504-072e17b067da/show)****
+[**Overview of benefits options**](https://secure.justworks.com/benefits/company\_benefits\_overviews/8011d67a-5191-43c4-b504-072e17b067da/show)
 
 #### **Retirement Savings Accounts**
 
@@ -47,7 +47,7 @@ Costs are automatically deducted monthly from the Collective's budget. Once empl
 
 ### Worker Classification
 
-Anyone who wishes to be employed and meets the above requirements is welcome to be employed by OCF. Conversely, there are situations where the law says we must make someone an employee instead of a contractor. Defining whether someone is an employee or an independent contractor is called worker classification.&#x20;
+Anyone who wishes to be employed and meets the above requirements is welcome to be employed by OCF. Conversely, there are situations where the law says we must make someone an employee instead of a contractor. Defining whether someone is an employee or an independent contractor is called worker classification.
 
 There are laws designed to prevent worker exploitation and ensure workers are afforded the protections and benefits of employment where appropriate. Regulations vary by state—someone in California may need to be employed while someone in Texas doing the same work might be allowed to be a contractor.
 
@@ -68,8 +68,8 @@ Here are the steps to employ someone.
 
 ## Terminating Employment
 
-OCF is an at-will employer, and either OCF or the employee may end the employment relationship at any time. In most circumstances, OCF will terminate employment at the instruction of the Collective admin named as the employee's supervisor in the employment contract.&#x20;
+OCF is an at-will employer, and either OCF or the employee may end the employment relationship at any time. In most circumstances, OCF will terminate employment at the instruction of the Collective admin named as the employee's supervisor in the employment contract.
 
 Fixed term employment contracts will expire upon the end date specified, unless they are extended. If the Collective or employee no longer meets the basic [requirements for employment](employment.md#requirements-and-policies), such as lacking budget to cover costs, the employment relationship will end.
 
-Where possible, we ask Collectives to give OCF advance notice, so we can take care of the termination process in a timely manner.&#x20;
+Where possible, we ask Collectives to give OCF advance notice, so we can take care of the termination process in a timely manner.
