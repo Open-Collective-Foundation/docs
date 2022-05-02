@@ -17,7 +17,7 @@ Open Collective’s platform is set up so that your Collective can have autonomy
   * (Purely online fundraising does not need to be reported to us.)
 * If you want to use an **external service or platform** to receive funds that is not covered in these docs, please [let us know](mailto:contact@opencollective.foundation) so we can make sure it is compatible. If you do not reach out ahead of time, it could cause trouble and delay fund transfers.
 * If you want to **sell goods or services**, or **provide anything tangible in return** to someone giving you money (i.e. it’s not purely a donation). There are tax implications including potential sales tax and impacts on tax-deductibility. See [our FAQ](../../faq/contributions-faq.md#can-we-receive-earned-income-i.e.-non-donations-sell-stuff-through-ocf) for more details.
-* If you receive an \*\*\*\* [**in-kind/non-monetary donation**](https://docs.opencollective.foundation/how-it-works/financial-contributions/in-kind)**.**
+* If you receive an [**in-kind/non-monetary donation**](https://docs.opencollective.foundation/how-it-works/financial-contributions/in-kind)**.**
 * If your Collective’s **mission/activities change** from what you submitted in your application.
 
 In any of these situations, or in others where you need assistance, don’t hesitate to [reach out](mailto:support@opencollective.com).
