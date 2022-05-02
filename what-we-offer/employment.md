@@ -10,13 +10,21 @@ The Collective admins define who to hire (themselves or others), how much to pay
 
 OCF ensures legal compliance with employment regulations, and takes care of payroll, liability, taxes, workers comp, and all the paperwork.
 
+Employee onboarding is [simple and straightforward](https://help.justworks.com/hc/en-us/articles/360004431372-Employee-Justworks-Enrollment) using the Justworks web app. Employees will find that app is quite easy to use, and can contact Justworks' 24/7 support via live chat if they have issues with their account.
+
+#### Timecards
+
+Depending on an employee's number of hours, compensation, and state of residence, they may be required by law to submit a timecard. Thankfully, the Justworks app makes it easy for employees to submit hours for approval on a biweekly basis.
+
+We know that tracking every hour can bring up a lot of feelings about work, value, and time, and are happy to be in conversation with OCF employees about how to navigate this requirement, should it apply to their situation. [Reach out](../about/contact-us.md) and we'll find a time to chat.
+
 ### Healthcare & Benefits
 
 Benefits are available to full time employees (30+ hours per week).
 
 Because many Collectives operate under the OCF umbrella, we can access large group health insurance plans only available to employers. This lowers costs an increases available options.
 
-Employees can decide whether or not to sign up for healthcare or other benefits, and the Collective's budget is only charged for benefits if they opt-in. Each initative can choose what proportion of benefits costs are paid by the Collective vs out of pocket by its employees.
+Employees can decide whether or not to sign up for healthcare or other benefits, and the Collective's budget is only charged for benefits if they opt-in. Each collective can choose what proportion of benefits costs are paid by the Collective vs out of pocket by its employees.
 
 [**Overview of benefits options**](https://secure.justworks.com/benefits/company\_benefits\_overviews/8011d67a-5191-43c4-b504-072e17b067da/show)
 
