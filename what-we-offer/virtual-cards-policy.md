@@ -10,14 +10,16 @@ Virtual Cards can be issued to OCF’s hosted Collectives for paying online for 
 
 * Funds are spent only as transactions occur. - Setting up a card does not remove any money from your Collective's budget.
 * Submit a virtual card request (either on OCF's page, or on your own) with the intended use of the card and the amount budgeted for that monthly. The virtual card with that limit will be set up for your collective.
-* If, at any point, your collective needs a higher limit on your virtual card please request a limit increase by contacting us at contact@opencollective.foundation \*\*\*\* with the intended use and the amount increase needed.
-  * To receive an increase, Collective must have a budget on their Open Collective account that exceeds the corresponding amount, and must demonstrate that a higher limit is necessary.
+* If, at any point, your collective needs a higher limit on your virtual card, please request a limit increase by contacting us at contact@opencollective.foundation with the intended use and the amount increase needed.
+  * To receive an increase, Collective must have a budget on their Open Collective account that exceeds the corresponding amount, and must demonstrate that a higher limit is necessary (vendor + amount details).
 * Cards must be used in compliance with our policy below.
 
-## **Requirements:**
+## **Requirements / Policy:**
 
 * Collectives must have a minimum of 2 admin members
 * These are **virtual cards.** No physical card will be issued, so these cannot be used in-store.
+* Collective must have a budget on their Open Collective account that exceeds the corresponding card amount.
+* Receipts must be submitted with 30 days. If a receipt is not submitted within 30 days, the card access will be paused until you do submit the receipt
 * All transactions should comply with normal usage of Collective funds as outlined in our [Terms of Fiscal Sponsorship](../getting-started/terms.md)
 
 **Limitations:**
@@ -53,7 +55,7 @@ Virtual Cards can be issued to OCF’s hosted Collectives for paying online for 
 
     _Total_: $650/month
 
-2\. OCF will assign the card (please allow time for processing)
+2\. OCF will assign the virtual card (please allow time for processing)
 
 3\. Once assigned, the card assignee will be notified via email. The card's details will appear in the Collective's **Settings** for admins to use. (in accordance with this policy)
 
