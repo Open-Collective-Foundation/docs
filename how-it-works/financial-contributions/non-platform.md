@@ -8,7 +8,7 @@ description: Alternate Donation Options
 **PLEASE MAKE YOUR CONTRIBUTION** [**THROUGH THE OPEN COLLECTIVE PLATFORM**](./) **WHEREVER POSSIBLE. Using the platform is the best way to ensure the quickest, smoothest experience.**
 {% endhint %}
 
-If you would like to contribute but would prefer to do so **without** using the Open Collective platform, you will have to manually arrange the payments yourself. Also, **you will need to communicate with us** about your payment so that we can properly allocate it to the intended hosted Collective.&#x20;
+If you would like to contribute but would prefer to do so **without** using the Open Collective platform, you will have to manually arrange the payments yourself. Also, **you will need to communicate with us** about your payment so that we can properly allocate it to the intended hosted Collective.
 
 When you make your contribution, please send all of the following information to us [via email](mailto:contact@opencollective.foundation):
 
@@ -28,3 +28,5 @@ Should you have the option of sending an email notification for the transaction,
 {% endhint %}
 
 **To contribute externally via some other method** please reach out to [contact@opencollective.foundation](mailto:contact@opencollective.foundation) and we will assist you on a case-by-case basis.
+
+Please review our [**Outside Accounts Policy**](../policies/outside-accounts-policy.md) **** for additional information.
