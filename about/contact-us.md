@@ -14,7 +14,7 @@ description: A few ways to reach the OCF Team
 
 :bird: Follow us on [Twitter](https://twitter.com/o\_c\_foundation), [Instagram](https://instagram.com/opencollectivefoundation), [Youtube](https://www.youtube.com/c/OpenCollective), and [Facebook](https://www.facebook.com/ocfshares)
 
-:seedling: Read the latest [Updates from OCF](https://opencollective.com/foundation#category-CONNECT) on our page and on the [Open Collective Blog](https://blog.opencollective.com)
+:seedling: Read the latest [Updates from OCF](https://opencollective.com/foundation#category-CONNECT) on our page and on the [Open Collective Blog](https://blog.opencollective.com/)
 
 :round\_pushpin: Our [mailing address](official-information-and-documents.md#address) & [Other Important Docs](official-information-and-documents.md)
 
@@ -23,5 +23,5 @@ description: A few ways to reach the OCF Team
 
 
 {% hint style="success" %}
-_**We’re transparent!**_  View our [budget](https://opencollective.com/foundation/#category-BUDGET) and check out our [blog](https://blog.opencollective.com)!
+_**We’re transparent!**_  View our [budget](https://opencollective.com/foundation/#category-BUDGET) and check out our [blog](https://blog.opencollective.com/)!
 {% endhint %}

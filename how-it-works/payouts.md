@@ -12,7 +12,7 @@ There are a range of ways to pay out funds from your OCF budget, depending on wh
 * [Invoice:](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) Paying someone for their time or specific services as a vendor or independent contractor, via an Expense.
 * [Virtual card:](../what-we-offer/virtual-cards-policy.md) Like a debit card linked to your Open Collective budget, which you can use to make online purchases. You later upload the receipt to an automatically generated Expense.
 * [Cash assistance:](policies/cash-assistance-policy.md) A process for paying people in cash or through apps who can't directly interact with the OC platform because they are unbanked or lack internet access.
-* [Grant:](policies/grantmaking-policy.md) Become a grantmaker in your community, enabling financial support that's not taxable as income to the grantee, which doesn't require receipts up front. Paid via Grant Expenses (only enabled for approved groups).
+* [Grant:](grantmaking/policy.md) Become a grantmaker in your community, enabling financial support that's not taxable as income to the grantee, which doesn't require receipts up front. Paid via Grant Expenses (only enabled for approved groups).
 * [Payroll:](../what-we-offer/employment.md) Employ someone on an ongoing basis in a formal part-time or full-time role, which can include benefits like health insurance.
 
 ![It may not be pretty, but it shows all the options!](../.gitbook/assets/OCF-payouts.png)
@@ -24,7 +24,7 @@ While we try to accommodate every request, we work within some limits defined by
 * OCF will only process payouts approved by an admin of the Collective.
 * All expenditures must be allowable under 501(c)(3) regulations.
 * We can only pay people in the US in the vast majority of cases.
-* OCF makes payments via Paypal, bank transfers, and virtual cards only, because these are integrated with the Open Collective platform.&#x20;
+* OCF makes payments via Paypal, bank transfers, and virtual cards only, because these are integrated with the Open Collective platform.
 * We can't make direct payments via cashapp, venmo and similar services (because they don't allow nonprofits like OCF to sign up, among other reasons). See the [outside accounts policy](policies/outside-accounts-policy.md) for how to work through external tools.
 * Payouts must be broken down into individual expenses with details about what the money is for—we can't pay out undifferentiated chunks of money (except in some special cases like donations to another 501(c)(3) nonprofit). See the [outside entities policy](policies/outside-entities-policy.md) for more info.
 * We have certain paperwork requirements due to IRS rules—we have to collect W9 forms in some cases before we can pay someone, we have to sign a grant contracts, etc. If any of these apply to you, we will let you know.
