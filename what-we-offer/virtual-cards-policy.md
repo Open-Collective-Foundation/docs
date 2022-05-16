@@ -19,7 +19,8 @@ Virtual Cards can be issued to OCF’s hosted Collectives for paying online for 
 * Collectives must have a minimum of 2 admin members
 * These are **virtual cards.** No physical card will be issued, so these cannot be used in-store.
 * Collective must have a budget on their Open Collective account that exceeds the corresponding card amount.
-* Receipts must be submitted with 30 days. If a receipt is not submitted within 30 days, the card access will be paused until you do submit the receipt
+* Receipts must be submitted within 30 days. If a receipt is not submitted within 30 days, the card access will be paused until you do submit the receipt
+  * The card's Assignee is responsible for collecting and uploading the receipts.&#x20;
 * All transactions should comply with normal usage of Collective funds as outlined in our [Terms of Fiscal Sponsorship](../getting-started/terms.md)
 
 **Limitations:**
