@@ -82,6 +82,7 @@ GoFundMe [Charity Fundraising](https://www.gofundme.com/start/charity-fundraisin
 
 * Select OpenCollective Foundation as the beneficiary in order for your donors to receive tax-deductible status \[recommended],
 * **or** you collect them on your own behalf, and transfer them to your Collective as one lump sum. \[it will not be tax-deductible for your donors. Refer to our [Outside Accounts Policy](../../policies/outside-accounts-policy.md) for details.]
+* If prompted, please send invitations to accept funds to:  contact@opencollective.foundation&#x20;
 * [FAQ](https://docs.opencollective.foundation/faq/contributions-faq#can-we-use-outside-fundraising-platforms-like-gofundme-to-fundraise-for-our-Collective)
 {% endtab %}
 {% endtabs %}
@@ -92,10 +93,10 @@ If you use any of these tools, **please** [**email us**](mailto:contact@opencoll
 
 Also, [let us know](mailto:contact@opencollective.foundation) if you are interested in a platform not listed above and we will see if we can make it work. If you are requesting an integration with a 3rd party tool, please consider the following:
 
-* not all apps/tools are suitable for fiscal sponsorship arrangements (e.g. they don't allow multiple groups to use the same EIN, they have limited reporting tools that don't indicate to us where funds should be allocated)
-* the tool **must have** a good option for monitoring the contributions (e.g. a dashboard for OCF to review contributions; detailed monthly reports),
-  * in some cases,the collective can forward the reports to OCF on a regular basis
-* the tool batches raised funds and make transfers on a periodic basis (e.g. once a month); not with funds arriving 1-at-a-time
+* Not all apps/tools are suitable for fiscal sponsorship arrangements (e.g. they don't allow multiple groups to use the same EIN, they have limited reporting tools that don't indicate to us where funds should be allocated)
+* The tool **must have** a good option for monitoring the contributions (e.g. a dashboard for OCF to review contributions; detailed monthly reports),
+  * in some cases, the collective can forward the reports to OCF on a regular basis
+* The tool batches raised funds and make transfers on a periodic basis (e.g. once a month); not with funds arriving 1-at-a-time
 * payments **must** be sent as [bank transfers](../credit-card-paypal-bank-transfers.md#bank-transfers) only (and only as per the monthly contribution amount).
 * Re: [donation-matching](../donation-matching.md) tools: mandatory fields where any donations matches include the information about which Collective they support,
 * The Collective must understand that there will be delays in getting these funds into their Open Collective account due to the manual processing, etc.
