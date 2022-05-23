@@ -90,7 +90,7 @@ Examples include a person who is financially impoverished as a result of low inc
 
 Under this Policy, OCF will only approve Hardship grants to individuals who meet the relevant IRS definition.
 
-For more details about Hardship Grants, see the[ IRS Publication on Disaster Relief](https://www.irs.gov/pub/irs-pdf/p3833.pdf), beginning on page 8.
+_For more details about Hardship Grants, see the_[ _IRS Publication on Disaster Relief_](https://www.irs.gov/pub/irs-pdf/p3833.pdf)_, beginning on page 8._
 
 #### Award Grants
 
@@ -100,7 +100,7 @@ Award grants do not need to be included in the Grantee's gross income for tax pu
 2. The recipient was selected without any action on their part to enter the contest or proceedings; and
 3. The recipient is not required to render substantial future services as a condition to receiving the prize or award.
 
-For more details about Award Grants, see[ 26 CFR § 1.74-1 - Prizes and awards](https://www.govinfo.gov/content/pkg/CFR-2010-title26-vol2/pdf/CFR-2010-title26-vol2-sec1-74-1.pdf), specifically subsection (b).
+_For more details about Award Grants, see_[ _26 CFR § 1.74-1 - Prizes and awards_](https://www.govinfo.gov/content/pkg/CFR-2010-title26-vol2/pdf/CFR-2010-title26-vol2-sec1-74-1.pdf)_, specifically subsection (b)._
 
 #### Study Grants
 
@@ -121,7 +121,7 @@ An eligible educational institution is one whose primary function is the present
 
 Study grants may only be used for “qualified education expenses” which include expenses for tuition and fees required to enroll at or attend an eligible educational institution and course-related expenses (such as fees, books, supplies, and equipment required for the courses). Study grant funds may not be spent on room and board, travel, research, clerical help, or equipment and other expenses that aren't required for everyone enrolled in the course.
 
-For more details about Study Grants, see[ IRS publication 970](https://www.irs.gov/pub/irs-pdf/p970.pdf), beginning on page 5.
+_For more details about Study Grants, see_[ _IRS publication 970_](https://www.irs.gov/pub/irs-pdf/p970.pdf)_, beginning on page 5._
 
 ### Single-Expense vs. Multi-Expense Grantmaking Programs
 
