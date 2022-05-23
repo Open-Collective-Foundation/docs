@@ -1,5 +1,7 @@
 ---
-description: Information for individuals receiving funds via an OCF Grantmaking Program.
+description: >-
+  Information for individuals receiving funds via an OCF Grantmaking Program.
+  Link to this page using this shortlink: https://bit.ly/ocfgrantee
 ---
 
 # Grantee Guide
