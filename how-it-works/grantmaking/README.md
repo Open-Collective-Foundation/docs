@@ -8,7 +8,11 @@ Want to make a grant to a 501(c)(3) organization or contribute to another OCF Co
 
 ### How does the grantmaking process work?
 
-Read the [Grantmaking Policy](policy.md), and specifically the [Grantmaking Process](policy.md#docs-internal-guid-bac47c71-7fff-104b-7fde-8f4e365593b3) section.
+Read the [Grantmaking Policy](policy.md), and specifically the [Grantmaking Process](policy.md#docs-internal-guid-bac47c71-7fff-104b-7fde-8f4e365593b3) section for a deep dive. Here's a quick tour:
+
+{% embed url="https://www.loom.com/share/92627a515df041f5851406661fe5b899" %}
+Nathan gives a brief overview of OCF's Grantmaking Policy and Process
+{% endembed %}
 
 ## What sorts of things can we make grants for?
 
