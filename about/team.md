@@ -8,7 +8,7 @@ Open Collective Foundation (OCF), while primarily focused on supporting US-based
   * Mike Strode - [Linkedin](https://www.linkedin.com/in/mjstrode/)
   * Caroline Woolard - [Website](https://carolinewoolard.com/past), [Linkedin](https://www.linkedin.com/in/carolinewoolard/)
   * Nathan Hewitt - [Website](https://natehn.com), [Linkedin](https://www.linkedin.com/in/nthnh/)
-* **Support Staff:**&#x20;
+* **Support Staff:**
   * Alina Manko - [Twitter](https://twitter.com/c\_observations)[, Instagram](https://www.instagram.com/curious\_observations/), [LinkedIn](https://www.linkedin.com/in/alinamanko/)
   * Kayla Epstein - [Blog](https://blog.opencollective.com/author/kayla/), [LinkedIn](https://www.linkedin.com/in/kaylarepstein/)
   * Ember Buck - [Website](https://ewhitneybuck.wordpress.com), [LinkedIn](https://www.linkedin.com/in/emberbuck/)
@@ -43,16 +43,10 @@ Open Collective Foundation (OCF), while primarily focused on supporting US-based
 
 ![](../.gitbook/assets/greenkayla.JPG)
 
-**Kayla E (Davis, CA):** has been very fortunate to have travelled, worked, and volunteered in many parts of the world.  Her professional background ranges through customer service, teaching, hospitality, landscaping, and lots more. At the end of the day, she simply seeks to help people who help people (and plants, animals, the earth), and she is very excited to be able to support the open source and solidarity economy movements. She tries not to take life too seriously, but is not very good at that.
+**Kayla E (Davis, CA):** has been very fortunate to have travelled, worked, and volunteered in many parts of the world. Her professional background ranges through customer service, teaching, hospitality, landscaping, and lots more. At the end of the day, she simply seeks to help people who help people (and plants, animals, the earth), and she is very excited to be able to support the open source and solidarity economy movements. She tries not to take life too seriously, but is not very good at that.
 
 ![](<../.gitbook/assets/rock headshot.jpeg>)
 
 **Ember Buck (Tucson, Arizona):** Ember is a queer border activist with a passion for literature, alternative family-building, futurism and space exploration. They have traveled to all continents save Antarctica and have worked across myriad sectors to support locally-led activist and humanitarian Collectives to launch, scale, and increase reach and impact, doing things like grant writing, group facilitation, event coordination and impact reporting. They live with their partner and really cool baby.
-
-### **Board**_**:**_
-
-* **Kaitlin Thaney** is the Executive Director of [Invest in Open Infrastructure](https://investinopen.org), a non-profit Collective dedicated to improving funding and resourcing for open technologies and systems supporting research and scholarship. **** She previously served as the Endowment Director for the [Wikimedia Foundation](https://wikimediafoundation.org), where she led [development of a fund](https://wikimediaendowment.org) to sustain the future of Wikipedia and free knowledge. Prior to joining Wikimedia, Thaney directed the program portfolio for the [Mozilla Foundation](https://foundation.mozilla.org/en/), following her time building the [Mozilla Science Lab](https://science.mozilla.org), a program to serve the open research community. She was on the founding team for [Digital Science](https://www.digital-science.com), where she helped launch and advise programs to serve researchers worldwide, building on her time at [Creative Commons](https://creativecommons.org/about/program-areas/open-science/), where she crafted legal, technical, and social infrastructure for sharing data on the web. She's a Trustee of LYRASIS, a technology and services nonprofit serving higher education, libraries, archives and museums; and [Code for Science & Society](https://codeforscience.org), a fiscal sponsor serving the open source and public interest technology sectors.
-* **Andrew Trask,** Creator & Leader of [OpenMined](https://www.openmined.org); PhD Student at the University of Oxford
-* **Pia Mancini,** [Co-Founder & CEO](https://nonprofitquarterly.org/author/pia-mancini/) at [Open Collective](https://www.opencollective.com)
 
 If you are interested in joining the team, check our [Hiring page](https://opencollective.com/hiring) or [get in touch](mailto:support@opencollective.com).

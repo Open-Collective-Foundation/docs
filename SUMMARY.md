@@ -52,6 +52,8 @@
 * [Mission & Values](about/mission-and-values.md)
 * [Official Info & Docs](about/official-information-and-documents.md)
 * [Team](about/team.md)
+* [Board](about/board/README.md)
+  * [Role of the Board](about/board/role-of-the-board.md)
 * [These Docs](about/these-docs.md)
 * [Contact Us](about/contact-us.md)
 
