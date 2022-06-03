@@ -8,7 +8,11 @@ Mileage expenses for which you seek reimbursement must have been incurred for ch
 
 An eligible “trip” may be a single path from A to B, or a set of multiple stops performed on a single day.&#x20;
 
-Trips made using hired or rented cars are not eligible for mileage reimbursement. Receipts for such services may instead be submitted for standard reimbursement.
+{% hint style="info" %}
+Trips made using hired or rented cars are not eligible for mileage reimbursement.&#x20;
+
+**However,** receipts for such services may instead be submitted for standard reimbursement, and related costs such as gasoline receipts for filling up the hired vehicle can be reimbursed in full. Please submit the gasoline and hired vehicle receipts together within a single Reimbursement Expense.
+{% endhint %}
 
 #### Volunteer Travel
 
@@ -43,11 +47,15 @@ Within 60 days of the trip, volunteers and employees of OCF may submit mileage f
 4. A Collective Admin will review the expense and approve if it meets their requirements.
 5. OCF staff will review the expense and pay it if it meets the requirements of OCF policies.
 
-The current Mileage Form can be found here:
+The current single-trip Mileage Form can be found here:
 
 {% file src="../../.gitbook/assets/ocf_mileage_reimbursement_form_2022.pdf" %}
 
-A new Mileage Form must be submitted for each trip. Multiple Mileage Forms may be submitted in a single expense. Mileage Forms from previous years will not be accepted.
+Or you may use the bulk submission form, either by using [this HelloSign link](https://app.hellosign.com/s/EEC51eFB) or by printing it and filling it out by hand:
+
+{% file src="../../.gitbook/assets/ocf_bulk_mileage reimbursement_form_2022.pdf" %}
+
+Multiple Mileage Forms may be submitted in a single expense. Mileage Forms from previous years will not be accepted.
 
 #### Active Car Insurance
 
