@@ -8,6 +8,8 @@ Mileage expenses for which you seek reimbursement must have been incurred for ch
 
 An eligible “trip” may be a single path from A to B, or a set of multiple stops performed on a single day.&#x20;
 
+Trips made using hired or rented cars are not eligible for mileage reimbursement. Receipts for such services may instead be submitted for standard reimbursement.
+
 #### Volunteer Travel
 
 Volunteers incurring mileage while performing services as part of OCF via a hosted Collective may be reimbursed for qualified mileage, following the [process below](mileage-reimbursement.md#submitting-mileage-for-reimbursement).
