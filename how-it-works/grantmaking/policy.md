@@ -270,7 +270,7 @@ We will work with Grantees and Collective Admins to adapt to situations on a cas
 
 **Required Documentation for Award Grants**
 
-* No further documentation is required for Award grants, beyond that already contained in the Grant Proposal and Grant Agreement. See below for the Report requirements for Award grants.
+* No further documentation is required for Award grants, beyond that already contained in the Grant Proposal and Grant Agreement.
 
 **Required Documentation for Study Grants**
 
