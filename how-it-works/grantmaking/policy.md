@@ -304,7 +304,7 @@ For [multi-expense grants](policy.md#single-expense-vs.-multi-expense-grantmakin
 
 ## Grant Cleanup <a href="#docs-internal-guid-097d0d1c-7fff-1d3e-e670-5ecd290472e2" id="docs-internal-guid-097d0d1c-7fff-1d3e-e670-5ecd290472e2"></a>
 
-Once all funds in a multi-expense Project are disbursed, or a single-expense Grantmaking Program comes to a close, the Project can be [archived](https://docs.opencollective.com/help/collectives/collective-settings/closing-a-collective#archive-a-collective=). Before doing so, Collective Admins must ensure that all required [Documentation](policy.md#docs-internal-guid-6e3a40f4-7fff-6d24-be14-d62a35c6fba7) is uploaded and all required [Reports](policy.md#docs-internal-guid-5989e867-7fff-9e78-ddfb-4e8aa7893cfb) have been submitted.
+Once all funds in a multi-expense Project are disbursed, or a single-expense Grantmaking Program comes to a close, the Project can be [archived](https://docs.opencollective.com/help/collectives/projects#zeroing-a-balance-and-closing-a-project=). Before doing so, Collective Admins must ensure that all required [Documentation](policy.md#docs-internal-guid-6e3a40f4-7fff-6d24-be14-d62a35c6fba7) is uploaded and all required [Reports](policy.md#docs-internal-guid-5989e867-7fff-9e78-ddfb-4e8aa7893cfb) have been submitted.
 
 ### Returning Funds
 
