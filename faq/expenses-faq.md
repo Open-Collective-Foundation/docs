@@ -10,13 +10,13 @@ Please see [Submitting Expenses](https://docs.opencollective.com/help/expenses-a
 
 ### **Can we send or receive funds via Venmo or Cash App?**
 
-Unfortunately, these services do not currently allow nonprofit accounts.&#x20;
+Unfortunately, these services do not currently allow nonprofit accounts.
 
-If you work with a mutual aid or solidarity project and must use these apps, please see our [Cash Assistance Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/cash-assistance-policy).&#x20;
+If you work with a mutual aid or solidarity project and must use these apps, please see our [Cash Assistance Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/cash-assistance-policy).
 
 ### **Can we pay people for their time?**
 
-Yes!&#x20;
+Yes!
 
 Some groups who started out all-volunteer have hesitations when it comes to starting to pay people—especially if their mission is about countering negative impacts of economic exploitation in our capitalist society, which is understandable. It's true that beginning to pay people can change the dynamics, and bring up complicated questions about who gets paid and how much.
 
@@ -44,7 +44,7 @@ When you submit an expense that puts you over the $600 threshold, you will be se
 
 Expenses will not be paid out to you until you submit the tax form.
 
-If you don’t meet the $600 threshold, simply report your earnings as miscellaneous self-employment income when you file your taxes as described above.&#x20;
+If you don’t meet the $600 threshold, simply report your earnings as miscellaneous self-employment income when you file your taxes as described above.
 
 Please note: If you are paid via Paypal, OCF will not issue you a 1099 because Paypal is responsible for that. So you will not be asked for a tax form if paid via Paypal. However, Paypal only sends out 1099s when >$20,000 is invoiced. This means you will not get a 1099 from Paypal or OCF if you receive less than $20,000 total from Paypal.
 
@@ -58,14 +58,37 @@ Details such as attachments, comments, the private note section, and the payout 
 
 ### How can we pay for large expenses that we cannot 'pay out-of-pocket and then get reimbursed later'?
 
-As a 501(c)(3) we cannot give out lump sums first and get receipts later.  This is because, with the IRS regulations for a charitable nonprofit, we have to be able to track all funds that come in and go out of our accounts.&#x20;
+As a 501(c)(3) we cannot give out lump sums first and get receipts later. This is because, with the IRS regulations for a charitable nonprofit, we have to be able to track all funds that come in and go out of our accounts.
 
-Check our [payouts.md](../how-it-works/payouts.md "mention") page for information about all the different ways payouts can be made through OCF.  &#x20;
+Check our [payouts.md](../how-it-works/payouts.md "mention") page for information about all the different ways payouts can be made through OCF.
 
 For large expenses that you cannot pay out-of-pocket, you can also have your vendors and service providers submit their invoices directly via your Collective's page, or you can use the "[invite expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense)" option, where you fill in the details and they recieve an email and then just need to confirm. So vendors can invoice OCF through your page to get paid, and then we pay them directly.
 
+### **Can we buy an automobile or real estate for charitable use?**
+
+No. Unfortunately, we do not have the administrative capability to handle these sorts of major assets. For other complicated transactions, it's always best to reach out in advance and talk it through with us.
+
+{% hint style="info" %}
+What about a bicycle? What about a lease? [Contact us.](../about/contact-us.md) We'll talk it through.
+{% endhint %}
+
+### What automobile or bicycle expenses can you reimburse?
+
+We primarily reimburse personal automobile costs incurred while doing Collective work via our [Mileage Reimbursement Policy](../how-it-works/policies/mileage-reimbursement.md). Thus, we cannot reimburse for personal automobile expenses such as repairs, gas fill-ups, insurance, or registration. These are supposed to be accounted for within the mileage reimbursement rate, which is set by the IRS on an annual basis.
+
+If you **rent** or **hire** a car for Collective charitable purposes, you cannot submit for mileage reimbursement, but you can submit gasoline fill-up receipts and other related expenses, alongside the cost of the rental. If you plan to enter into a contracted longer-term rental or lease, you must [involve us in the contract process](../how-it-works/policies/#situations-where-we-need-to-be-involved). (We cannot "rent" a volunteer's personal vehicle.)
+
+{% hint style="info" %}
+We reimburse bicycle travel at the same rate as automobile travel, using the same process. \
+![:bike:](https://a.slack-edge.com/production-standard-emoji-assets/13.0/apple-medium/1f6b2@2x.png)
+{% endhint %}
+
+If a bicycle is used exclusively for Collective charitable purposes, we can reimburse repairs and other costs.
+
+_Individuals driving an automobile for Collective purposes must have valid automobile insurance._
+
 ### What about expenses from before we joined OCF?
 
-OCF cannot reimbursement purchases made before OCF approved a Collective's application.&#x20;
+OCF cannot reimbursement purchases made before OCF approved a Collective's application.
 
 On a case-by-case basis, depending on the nature of the work, OCF _might_ be able to pay invoice expenses for services provided during the 30 days preceding approval by OCF. The invoice expense must be submitted and approved within the first 30 days after a Collective joins OCF.

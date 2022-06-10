@@ -2,7 +2,7 @@
 
 OCF seeks to support Collectives to have the greatest potential impact. If you've got a concern or issue, please bring it to us so we can try to help. We're always trying to learn and improve.
 
-If staying with OCF can support you to achieve your Collective's best impact, then we want you to stay. If moving on is what's right for the mission, then that's what should happen.&#x20;
+If staying with OCF can support you to achieve your Collective's best impact, then we want you to stay. If moving on is what's right for the mission, then that's what should happen.
 
 There are some practical and technical things to understand about the process of leaving OCF.
 
@@ -16,13 +16,13 @@ Yes. We won't lock you in. You can close down your Collective, move to a differe
 
 ### Is it a bad thing if an Collective leaves?
 
-If we have failed to live up to expectations or alienated someone, that's bad. **** Or, if an Collective engages in misconduct or breaks policies to the point we can't let them stay, that's bad. Both of these 'failure' modes are exceedingly rare.
+If we have failed to live up to expectations or alienated someone, that's bad. \*\*\*\* Or, if an Collective engages in misconduct or breaks policies to the point we can't let them stay, that's bad. Both of these 'failure' modes are exceedingly rare.
 
 In the vast majority of cases, Collectives leave because they are evolving. They need something we can't provide, have founded their own nonprofit, or are winding down the whole project. We don't think these situations are necessarily bad. Projects naturally go through phases and we want to support them through.
 
 ### Can we take our money with us when we go?
 
-OCF is limited by the regulations regarding 501(c)(3) nonprofits—this means we can usually only [transfer money to another 501(c)(3)](leaving-ocf.md#undefined).&#x20;
+OCF is limited by the regulations regarding 501(c)(3) nonprofits—this means we can usually only [transfer money to another 501(c)(3)](leaving-ocf.md#undefined).
 
 Once we give a tax deductible receipt for donated funds, we have to ensure they are only spent on allowed 501(c)(3) purposes. We can do that either by holding the funds for you as you spend them down, or by transfering them to another 501(c)(3) entity who is bound to follow the same rules.
 
@@ -47,6 +47,8 @@ The only exception is if you've founded your own non-profit and applied for 501(
 ### Archiving your Collective
 
 If you want to shut your Collective down completely, you first need to zero the budget. You can do this by submitting expenses or donating the money to another OCF Collective. Once the balance is at zero, go to settings > advanced > archive.
+
+After you have zeroed out your balance, if you are no longer going to use the Open Collective platform, it is a best practice to "archive" your collective.
 
 [More about archiving/deleting Collectives.](https://docs.opencollective.com/help/collectives/collective-settings/closing-a-collective)
 

@@ -6,12 +6,18 @@ This mileage reimbursement policy (“Policy”) allows volunteers of fiscally h
 
 Mileage expenses for which you seek reimbursement must have been incurred for charitable purposes, meaning you must have incurred this mileage while performing services as an employee or volunteer of OCF via the Collective.
 
+{% hint style="info" %}
+We reimburse bicycle travel at the same rate as automobile travel.&#x20;
+{% endhint %}
+
 An eligible “trip” may be a single path from A to B, or a set of multiple stops performed on a single day.&#x20;
 
 {% hint style="info" %}
-Trips made using hired or rented cars are not eligible for mileage reimbursement.&#x20;
+Trips made using hired or rented vehicles are not eligible for mileage reimbursement.&#x20;
 
 **However,** receipts for such services may instead be submitted for standard reimbursement, and related costs such as gasoline receipts for filling up the hired vehicle can be reimbursed in full. Please submit the gasoline and hired vehicle receipts together within a single Reimbursement Expense.
+
+(We cannot "rent" a volunteer's personal vehicle.)
 {% endhint %}
 
 #### Volunteer Travel
@@ -57,9 +63,9 @@ Or you may use the bulk submission form, either by using [this HelloSign link](h
 
 Multiple Mileage Forms may be submitted in a single expense. Mileage Forms from previous years will not be accepted.
 
-#### Active Car Insurance
+#### Active Automobile Insurance
 
-Volunteers, employees, and contractors incurring mileage while performing services for OCF Collectives must have active car insurance.&#x20;
+Volunteers, employees, and contractors incurring mileage while performing services for OCF Collectives using an automobile must have active automobile insurance.&#x20;
 
 ### Returning Excess Funds
 
