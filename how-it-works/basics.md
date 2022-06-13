@@ -10,6 +10,14 @@ Once you [apply to join Open Collective Foundation](../getting-started/how-to-ap
 :tada: Welcome!
 {% endhint %}
 
+## Top 5 things to remember
+
+1. Contact us if you need to sign _any_ contracts or agreements, or have any questions about services or policies.
+2. Check [Official Info and Docs](https://docs.opencollective.foundation/about/official-information-and-documents) for all of the necessary paperwork that comes up in grant applications.
+3. Always upload receipts for your [virtual card](../what-we-offer/virtual-cards-policy.md) purchases within 30 days, or the card will be deactivated.
+4. Use the [Updates](https://docs.opencollective.com/help/collectives/communication#updates) feature to post general, mid-year, and annual updates or action alerts to your donor community. We require at least one update per year.
+5. FAQs about how to submit expenses (i.e. get paid or spend money) are [here](../faq/expenses-faq.md).
+
 ## Open Collective
 
 {% hint style="info" %}
