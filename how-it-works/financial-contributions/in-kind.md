@@ -4,10 +4,6 @@ description: Donating or Accepting Non-Monetary Donations
 
 # In-Kind Contributions
 
-{% hint style="warning" %}
-We cannot receive automobiles or real estate.
-{% endhint %}
-
 To make an in-kind (a.k.a. non-cash) contribution, please contact the Collective about your intentions. You and the Collective should work together to facilitate the contribution.
 
 Once the contribution has been made, and the contributed items are in the Collective’s possession, the Collective should notify Open Collective Foundation staff. So that we can report accurately on the contribution, please send the following information to [contact@opencollective.foundation](mailto:contact@opencollective.foundation):
@@ -19,6 +15,10 @@ Once the contribution has been made, and the contributed items are in the Collec
 
 {% hint style="info" %}
 If your Collective will be regularly accepting non-monetary donations, you can also batch them all together and [send OCF](../../about/contact-us.md) a spreadsheet at the end of each month. This will ensure we can keep all of this required information for us for our records. Feel free to use [this template](https://docs.google.com/spreadsheets/u/2/d/1A8de4z82oCu2cOVtQ5\_5ac5N9RsWqKrsxbCXt6i4B38/copy) if it helps!
+{% endhint %}
+
+{% hint style="warning" %}
+We cannot receive automobiles or real estate. If you want to give an automobile or property to a Collective admin, you may, but it will belong to them, not OCF, and we will not be able to provide a receipt.
 {% endhint %}
 
 ### **Tax-deductibility of in-kind contributions**
