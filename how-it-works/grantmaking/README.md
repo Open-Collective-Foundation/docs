@@ -1,3 +1,9 @@
+---
+description: >-
+  Information for OCF-Hosted Groups who would like to issue out grants to
+  recipients.
+---
+
 # Grantmaking
 
 Open Collective Foundation is excited to offer our Collectives the opportunity to give grants to individuals in furtherance of their mission. For all of the details of how it works, make sure to take a look at our [**Grantmaking Policy**](policy.md).
