@@ -20,9 +20,9 @@ Also, check out our [Third-Party Fundraising Tools page](https://docs.opencollec
 
 ### Can we raise funds for a specific individual through OCF?
 
-Since we are a charity, we are not allowed to earmark incoming funds for a specific individual. This means that fundraisers meant _only_ to support a specific individual are not compatible with the rules of the IRS.
+Since we are a charity, we are not allowed to earmark incoming funds for a specific individual. This means that fundraisers meant _only_ to support a specific individual, like many you would see on a platform like GoFundMe, are not compatible with the rules of the IRS.
 
-That said, Collectives may raise funds for a general purpose, for example supporting people in a community affected by a storm or forest fire, and then support those individuals that are part of what we call an "indefinite chritable class" - an indefinite (i.e., limitless, though not necessarily infinite) number of people in need of support.
+That said, Collectives may raise funds for a general purpose, for example supporting people in a community affected by a storm or forest fire, and then support those individuals that are part of what we call an "indefinite charitable class" - an indefinite (i.e., limitless, though not necessarily infinite) number of people in need of support.
 
 Funds can also be raised in order to pay contractors or [employees](../what-we-offer/employment.md) for their work.
 
