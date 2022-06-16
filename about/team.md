@@ -13,7 +13,8 @@ Open Collective Foundation (OCF), while primarily focused on supporting US-based
   * Kayla Epstein - [Blog](https://blog.opencollective.com/author/kayla/), [LinkedIn](https://www.linkedin.com/in/kaylarepstein/)
   * Ember Buck - [Website](https://ewhitneybuck.wordpress.com), [LinkedIn](https://www.linkedin.com/in/emberbuck/)
 * **Communications Organizer**
-  * Bobby Joe Smith III - [Linkedin](https://www.linkedin.com/in/bobby-joe-smith-iii-32165b2a/)
+  * Sadé Swift - [Website](https://cardsbyde.com/our-team)
+  * Alfie Marsland - [Design](https://althemiamarsland.com/)
 
 ### **Team Bios:**
 
