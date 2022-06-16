@@ -20,11 +20,17 @@ Also, check out our [Third-Party Fundraising Tools page](https://docs.opencollec
 
 ### Can we raise funds for a specific individual through OCF?
 
-Since we are a charity, we are not allowed to earmark incoming funds for a specific individual. This means that fundraisers meant _only_ to support a specific individual, like many you would see on a platform like GoFundMe, are not compatible with the rules of the IRS.
+Individuals can receive funds from OCF through [a variety of ways](../how-it-works/payouts.md). But can funds be raised specifically for a specific person or set of people?
+
+Since we are a charity, we are not allowed to "earmark" incoming funds for a specific individual. This means that fundraisers meant _only_ to support a specific individual, like many you would sometimes see on a platform like GoFundMe, are not compatible with the rules of the IRS.
 
 That said, Collectives may raise funds for a general purpose, for example supporting people in a community affected by a storm or forest fire, and then support those individuals that are part of what we call an "indefinite charitable class" - an indefinite (i.e., limitless, though not necessarily infinite) number of people in need of support.
 
-Funds can also be raised in order to pay contractors or [employees](../what-we-offer/employment.md) for their work.
+Some related notes:
+
+* Funds can also be raised in order to pay contractors or [employees](../what-we-offer/employment.md) for their work
+* An individual's story can serve as an example recipient, but it should be clear that funds are going into a pot of funds for hardship relief (for example), not just for that person
+* Collectives can also facilitate direct relief from a donor to a receipient in need, as long as the funds are never in the Collective or OCF's hands. In this situation, it should also be made clear that we cannot offer a tax receipt or tax-deductibility
 
 ### **Can we receive earned income (i.e., non-donations) sell stuff through OCF?**
 
