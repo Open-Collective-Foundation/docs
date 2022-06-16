@@ -2,7 +2,7 @@
 
 ### **What if a contributor wants their contribution to be anonymous?**
 
-Tell them about our incognito contribution feature! Or they can also make a [guest contribution](https://docs.opencollective.com/help/financial-contributors/guest-contributions). You can also now [differentiate ](https://opencollective.com/opencollective/updates/new-legal-and-display-name-settings)your public display name from your private legal name.&#x20;
+Tell them about our incognito contribution feature! Or they can also make a [guest contribution](https://docs.opencollective.com/help/financial-contributors/guest-contributions). You can also now [differentiate ](https://opencollective.com/opencollective/updates/new-legal-and-display-name-settings)your public display name from your private legal name.
 
 ### **What if a financial contributor is unable or not comfortable with submitting their credit card information online?**
 
@@ -14,9 +14,17 @@ If a donor is not comfortable with online credit card transactions, they can sen
 
 ### **Can we use outside fundraising platforms, like GoFundMe, to fundraise for our Collective?**
 
-In most cases, yes! As long as the funds are transferred into your Open Collective account in a timely manner (30 days). Please note, that most of the time, donations not made on the Open Collective platform will not receive the tax- deduction. For more details, please review our [Outside Accounts Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-accounts-policy).&#x20;
+In most cases, yes! As long as the funds are transferred into your Open Collective account in a timely manner (30 days). Please note, that most of the time, donations not made on the Open Collective platform will not receive the tax- deduction. For more details, please review our [Outside Accounts Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-accounts-policy).
 
 Also, check out our [Third-Party Fundraising Tools page](https://docs.opencollective.foundation/how-it-works/third-party-fundraising-tools-and-benefits) for more options and details about GoFundMe.
+
+### Can we raise funds for a specific individual through OCF?
+
+Since we are a charity, we are not allowed to earmark incoming funds for a specific individual. This means that fundraisers meant _only_ to support a specific individual are not compatible with the rules of the IRS.
+
+That said, Collectives may raise funds for a general purpose, for example supporting people in a community affected by a storm or forest fire, and then support those individuals that are part of what we call an "indefinite chritable class" - an indefinite (i.e., limitless, though not necessarily infinite) number of people in need of support.
+
+Funds can also be raised in order to pay contractors or [employees](../what-we-offer/employment.md) for their work.
 
 ### **Can we receive earned income (i.e., non-donations) sell stuff through OCF?**
 
@@ -56,6 +64,6 @@ See our instructions on how to cancel recurring or ongoing donations, subscripti
 
 [Get in touch with us](mailto:contact@opencollective.foundation) and we will be happy to talk through possibilities.
 
-### Where's my money?&#x20;
+### Where's my money?
 
 Ping us! We often receive money into our bank account without any indication of where it should go. (This is why it's so important to include the name of the Collective on any correpondances/checks/transfer that gets sent to OCF). We don't use/disperse that money anywhere, it just sits in our account until someone claims it, so just send us a message (in [slack ](http://slack.opencollective.com)or [email](mailto:%20contact@opencollective.foundation)) with screenshots/receipts that include the dollar amount & the Collective name, so that we may get your funds to you.
