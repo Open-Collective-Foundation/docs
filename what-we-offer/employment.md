@@ -44,6 +44,10 @@ The following costs are charged to the Collective budget for employment:
 
 Costs are automatically deducted monthly from the Collective's budget. Once employment is set up, employees will be paid by direct debit and Collectives do not have to take any action to manage ongoing expenses.
 
+{% hint style="info" %}
+If a potential employee engages in work where there is a risk of injury, such as a performing artist or other physical laborer, we will need to review whether they can be covered under our workers' compensation insurance. If this described your situation, please [reach out](../about/contact-us.md) to discuss it with us.
+{% endhint %}
+
 ### Requirements & Policies
 
 * Employees must be located in the US and be allowed to legally work in the US.
