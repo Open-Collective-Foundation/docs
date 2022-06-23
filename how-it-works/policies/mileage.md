@@ -42,15 +42,11 @@ Individuals employed by OCF through Justworks may submit expenses for qualified 
 
 Contractors providing services to OCF Collectives are not eligible for mileage expense payment. They should track their own mileage over the course of the year and consult with a tax advisor about proper processes for deducting such mileage on their tax return.&#x20;
 
-### Mileage Expense Rates
+### Mileage Expense Rate
 
-Mileage expense rates are set by the IRS on (at least) an annual basis:
+The mileage expense rate is set by the IRS on (at least) an annual basis:
 
-* **$0.62 per mile**
-
-{% hint style="info" %}
-If you do not receive payment via Justworks, you are not an employee of OCF.
-{% endhint %}
+✨ **$0.62 per mile** ✨
 
 ### Submitting Mileage Expenses
 
