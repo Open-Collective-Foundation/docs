@@ -6,12 +6,12 @@ description: A step-by-step guide to becoming a Collective with OCF
 
 ## **Before you apply:**
 
-1. Read through this [documentation](../../) and [FAQs](broken-reference) and review the [Terms of Fiscal Sponsorship Agreement](../terms.md) (a.k.a. our Terms and Conditions - when you submit your application, you will tick a box to agree to these. This is our Fiscal Sponsorship Agreement/MOA.)
+1. Read through this [documentation](../../) and [FAQs](broken-reference/) and review the [Terms of Fiscal Sponsorship Agreement](../terms.md) (a.k.a. our Terms and Conditions - when you submit your application, you will tick a box to agree to these. This is our Fiscal Sponsorship Agreement/MOA.)
 2. Ensure that you are [eligible](../eligibility.md) for fiscal hosting with Open Collective Foundation and are familiar with the Open Collective [Community Guidelines](https://docs.opencollective.com/help/about/community-guidelines)
 3. Be familiar with the [Restrictions & Limitations](../../how-it-works/policies/#restrictions-and-limitations) of our program
 4. Review our [Cash Assistance Policy](../../how-it-works/policies/cash-assistance-policy.md), [Outside Entities Policy](../../how-it-works/policies/outside-entities-policy.md), and [Outside Accounts Policy](../../how-it-works/policies/outside-accounts-policy.md) to ensure that OCF's fiscal hosting is right for you
 5. Review our [fee structure](../../how-it-works/fees.md)
-6. Have at least 2 community members ready to add as [admins](https://docs.opencollective.com/help/collectives/core-contributors). Admins have full permissions to change settings, approve expenses, and make financial contributions from the budget balance of your Collective. _**Applications with less than 2 admins will not be accepted.**_
+6. Have at least 2 community members ready to add as [Admins](https://docs.opencollective.com/help/collectives/core-contributors). Admins have full permissions to change settings, approve expenses, and make financial contributions from the budget balance of your Collective. _**Applications with less than 2 admins will not be accepted.**_
 
 ### :bulb: A**s a reminder:**
 
@@ -37,13 +37,13 @@ You can prepare your application by previewing the questions:
 
 The application will have you choose whether you are starting a new collective or applying with an existing one. If you have never used the Open Collective platform before, you will select 'Create New Collective' where you will be guided through the application and account creation: We'll provide you with some more information about being hosted by Open Collective Foundation and ask you to accept our [Terms of Fiscal Sponsorship Agreement](../terms.md). Once you have reviewed our terms, proceed and review our [fee structure](../../how-it-works/fees.md) as well.
 
-**When you are ready,** you can [go to our profile](https://opencollective.com/foundation) and click [**Apply**](https://www.opencollective.com/foundation/apply)**!** Fill out the [application questions](application-questions.md), accept the Open Collective platform [terms of service](../terms.md), and submit.  :bulb: Remember to [add at least 2 community members](https://docs.opencollective.com/help/collectives/collective-settings/core-contributors) to your team!
+**When you are ready,** you can [go to our profile](https://opencollective.com/foundation) and click [**Apply**](https://www.opencollective.com/foundation/apply)**!** Fill out the [application questions](application-questions.md), accept the Open Collective platform [terms of service](../terms.md), and submit. :bulb: Remember to [add at least 2 community members](https://docs.opencollective.com/help/collectives/collective-settings/core-contributors) to your team!
 
 {% hint style="success" %}
 Everything you enter into the application will be editable later on, so don't worry about making it perfect.
 {% endhint %}
 
-:question: If we have questions about your application, we may reach out to you to schedule a chat or request additional materials.&#x20;
+:question: If we have questions about your application, we may reach out to you to schedule a chat or request additional materials.
 
 :no\_entry\_sign: If your application is rejected, you will be informed as to why. You are welcome to reapply if adjustments are made to align with our requirements. We try to respond to applications within two business days.
 

@@ -9,7 +9,7 @@ So that you can draft your responses, the following information is requested in 
 * Your Collective’s location (must be based in the U.S. Check [here ](https://www.opencollective.com/hosts)for international hosting options.)
 * Your name
 * Your email address
-  * :white\_check\_mark: In order to get approved to be hosted, your Collective's profile will **need** to include a minimum of 2 community members
+  * :white\_check\_mark: In order to get approved to be hosted, your Collective's profile will **need** to include a minimum of 2 community members with 'Admin' roles
 * The name of your Collective
 * Website and / or social media links (proof of activities)
 * You will also have the opportunity to choose your own unique URL.
@@ -19,7 +19,7 @@ Then we will ask the following questions:
 1. How long has your Collective been running? (We accept new and long-running projects.)
 2. If you have begun fundraising, how much money have you raised so far?
 3. How much money do you want to fundraise?
-4. Who do you expect to fund you?&#x20;
+4. Who do you expect to fund you?
 5. What does your Collective do? (250 characters max)
 6. Please explain how your Collective furthers one or more of our [mission impact areas](../../about/mission-and-values.md#our-missions-impact-areas). (250 characters max)
 
