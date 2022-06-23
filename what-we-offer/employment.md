@@ -85,3 +85,7 @@ OCF is an at-will employer, and either OCF or the employee may end the employmen
 Fixed term employment contracts will expire upon the end date specified, unless they are extended. If the Collective or employee no longer meets the basic [requirements for employment](employment.md#requirements-and-policies), such as lacking budget to cover costs, the employment relationship will end.
 
 Where possible, we ask Collectives to give OCF advance notice, so we can take care of the termination process in a timely manner.
+
+{% hint style="info" %}
+Please be aware that benefits such as FSAs and HSAs, among others, may not be transferable to a new employer. [Reach out to us](../about/contact-us.md) with questions about this, as every situation is different.
+{% endhint %}

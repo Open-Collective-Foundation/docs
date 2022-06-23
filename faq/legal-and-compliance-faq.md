@@ -16,6 +16,10 @@ If you have questions about your own personal tax situation, we recommend reachi
 
 Sales taxes are administered on the state and local level, but we're happy to apply or complete a certificate for your state or area, provided that we are eligible. [Reach out to us](mailto:contact@opencollective.foundation) and we'll look into it!
 
+{% hint style="info" %}
+We are currently exempt from sales tax in New York and Texas. We are not exempt in Colorado. As of June 2022, our application in Illinois is still under review.
+{% endhint %}
+
 Only direct purchases, such as those via the platform or via Virtual Card, are eligible for sales tax exemption. Purchases that would be reimbursed are not eligible.
 
 ### **Will OCF own our intellectual property?**

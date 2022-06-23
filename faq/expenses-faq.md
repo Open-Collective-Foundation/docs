@@ -74,7 +74,7 @@ What about a bicycle? What about a lease? [Contact us.](../about/contact-us.md) 
 
 ### What automobile or bicycle expenses can you reimburse?
 
-We primarily reimburse personal automobile costs incurred while doing Collective work via our [Mileage Reimbursement Policy](../how-it-works/policies/mileage-reimbursement.md). Thus, we cannot reimburse for personal automobile expenses such as repairs, gas fill-ups, insurance, or registration. These are supposed to be accounted for within the mileage reimbursement rate, which is set by the IRS on an annual basis.
+We primarily reimburse personal automobile costs incurred while doing Collective work via our [Mileage Reimbursement Policy](../how-it-works/policies/mileage.md). Thus, we cannot reimburse for personal automobile expenses such as repairs, gas fill-ups, insurance, or registration. These are supposed to be accounted for within the mileage reimbursement rate, which is set by the IRS on an annual basis.
 
 If you **rent** or **hire** a car for Collective charitable purposes, you cannot submit for mileage reimbursement, but you can submit gasoline fill-up receipts and other related expenses, alongside the cost of the rental. If you plan to enter into a contracted longer-term rental or lease, you must [involve us in the contract process](../how-it-works/policies/#situations-where-we-need-to-be-involved). (We cannot "rent" a volunteer's personal vehicle.)
 

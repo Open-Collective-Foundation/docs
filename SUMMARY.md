@@ -40,7 +40,7 @@
   * [Grantmaking Policy](how-it-works/grantmaking/policy.md)
   * [Grantee Guide](how-it-works/grantmaking/grantee-guide.md)
 * [Policies](how-it-works/policies/README.md)
-  * [Mileage Reimbursement Policy](how-it-works/policies/mileage-reimbursement.md)
+  * [Mileage Expense Policy](how-it-works/policies/mileage.md)
   * [Cash Assistance Policy](how-it-works/policies/cash-assistance-policy.md)
   * [Outside Entities Policy](how-it-works/policies/outside-entities-policy.md)
   * [Outside Accounts Policy](how-it-works/policies/outside-accounts-policy.md)
