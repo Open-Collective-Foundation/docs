@@ -54,8 +54,8 @@ Within 60 days of the trip, volunteers and employees of OCF may submit mileage e
 
 1. Complete the [OCF Mileage Expense Form](https://forms.gle/QVPwHSe6kMW8ZNbbA). Your submission should be sent to you automatically via email.
 2. [Submit an expense](../payouts.md) to the Collective, calculating the proper amount by multiplying the rate ([shown above](mileage.md#mileage-expense-rates)) by the total mileage and uploading a (pdf/printed) copy of your Expense Form submission as documentation.
-   * Volunteers should submit an **Invoice** expense, uploading the form submission copy as an "invoice."
-   * Employees should submit a **Reimbursement** expense, uploading the form submission copy as a "receipt."
+   * Volunteers should submit an **Invoice** expense, uploading the form submission copy as an "invoice." Set the description as "mileage expense." Multiple mileage form submissions maybe uploaded in a single invoice expense.
+   * Employees should submit a **Reimbursement** expense, uploading the form submission copy as a "receipt." Multiple mileage form submissions maybe uploaded in a single reimbursement expense.
 3. A Collective Admin will review the expense and approve if it meets their requirements.
 4. OCF staff will review the expense and pay it if it meets the requirements of OCF policies.
 
