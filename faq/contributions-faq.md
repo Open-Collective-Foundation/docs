@@ -24,7 +24,7 @@ Individuals can receive funds from OCF through [a variety of ways](../how-it-wor
 
 Since we are a charity, we are not allowed to "earmark" incoming funds for a specific individual. This means that fundraisers meant _only_ to support a specific individual, like many you would sometimes see on a platform like GoFundMe, are not compatible with the rules of the IRS.
 
-That said, Collectives may raise funds for a general purpose, for example supporting people in a community affected by a storm or forest fire, and then support those individuals that are part of what we call an "indefinite charitable class" - an indefinite (i.e., limitless, though not necessarily infinite) number of people in need of support.
+That said, Collectives may raise funds for a general purpose, for example supporting people in a community affected by a storm or forest fire, and then support those individuals that are part of what we call an "[indefinite charitable class](https://www.irs.gov/charities-non-profits/charitable-organizations/disaster-relief-meaning-of-charitable-class)" - an indefinite (i.e., limitless, though not necessarily infinite) number of people in need of support.
 
 Some related notes:
 
