@@ -214,6 +214,8 @@ If the Grantee will be receiving funds via PayPal and will be zeroing out the Pr
 
 A [Grant Proposal form](https://forms.gle/9u1HMdw1xYvTNq3e8) must be submitted by a Collective Admin for each individual Grantee ([printable/downloadable version here](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M9Neg20-zKzu0MhF2d2%2Fuploads%2FujELAyaEOPqjiXxDx1Nq%2Focf\_grant\_proposal\_questions.pdf?alt=media\&token=7a48fa5f-2e36-4bbd-828a-8ba0fb1c2eda)). The Grant Proposal will be appended to the Grant Agreement.
 
+We can also provide you with a partially prefilled version of the form to make this as smooth and easy as possible.
+
 {% hint style="info" %}
 For Multi-Expense grants, make sure to remove `?status=projectCreated` from end of the URL when submitting it.
 {% endhint %}
