@@ -14,9 +14,15 @@ If a donor is not comfortable with online credit card transactions, they can sen
 
 ### **Can we use outside fundraising platforms, like GoFundMe, to fundraise for our Collective?**
 
-In most cases, yes! As long as the funds are transferred into your Open Collective account in a timely manner (30 days). Please note, that most of the time, donations not made on the Open Collective platform will not receive the tax- deduction. For more details, please review our [Outside Accounts Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-accounts-policy).
+In most cases, yes! As long as the funds are transferred into your Open Collective account in a timely manner (30 days). Please note, that most of the time, donations not made on the Open Collective platform will not receive the tax-deduction. For more details, please review our [Outside Accounts Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-accounts-policy).
 
 Also, check out our [Third-Party Fundraising Tools page](https://docs.opencollective.foundation/how-it-works/third-party-fundraising-tools-and-benefits) for more options and details about GoFundMe.
+
+### **What should I do if I receive funds outside of the platform?**
+
+As laid out in our [Terms](https://docs.google.com/document/u/2/d/e/2PACX-1vQ\_fs7IOojAHaMBKYtaJetlTXJZLnJ7flIWkwxUSQtTkWUMtwFYC2ssb-ooBnT-Ldl6wbVhNQiCkSms/pub) (Exhibit A, no. 6), when you receive funds outside of the platform, you must immediately [transfer them to your account with Open Collective Foundation](https://docs.opencollective.foundation/about/official-info). Please let us know when you do so, and we will then manually add the funds to your budget. You [cannot hold funds outside of your budget at any time](https://docs.opencollective.foundation/how-it-works/processes-and-limitations).
+
+If you are using a third-party fundraising platform, please see the [Third-Party Tools and Benefits page](https://docs.opencollective.foundation/how-it-works/third-party-fundraising-tools-and-benefits) for information on specific platforms.
 
 ### Can we raise funds for a specific individual through OCF?
 
@@ -30,11 +36,11 @@ Some related notes:
 
 * Funds can also be raised in order to pay contractors or [employees](../what-we-offer/employment.md) for their work
 * An individual's story can serve as an example recipient, but it should be clear that funds are going into a pot of funds for hardship relief (for example), not just for that person
-* Collectives can also facilitate direct relief from a donor to a receipient in need, as long as the funds are never in the Collective or OCF's hands. In this situation, it should also be made clear that we cannot offer a tax receipt or tax-deductibility
+* Collectives can also facilitate direct relief from a donor to a recipient in need, as long as the funds are never in the Collective or OCF's hands. In this situation, it should also be made clear that we cannot offer a tax receipt or tax-deductibility
 
 ### **Can we receive earned income (i.e., non-donations) sell stuff through OCF?**
 
-CF cannot provide tax deductibility for merch sales at this time.
+OCF cannot provide tax deductibility for merch sales at this time.
 
 From our [Outside Entities Policy](../how-it-works/policies/outside-entities-policy.md#examples-of-generally-permitted-use-of-outside-entities):
 
@@ -42,25 +48,33 @@ From our [Outside Entities Policy](../how-it-works/policies/outside-entities-pol
 
 ### **Can we offer financial contributors something in return for their donation?**
 
-If your Collective intends to sell or provide free goods or services in exchange for donations (a.k.a. partial deductibility), [you must](https://docs.opencollective.foundation/how-it-works/processes-and-limitations) [inform us](mailto:contact@opencollective.foundation) and get our permission in advance.
+OC Foundation does not currently have support for these types of partially-deductible donations.
+
+Items with no meaningful monetary value (e.g. stickers or pens), may be given to donors in return for a donation. Other items may be given to donors as long as they are also given to other community members free of charge, independent of whether or not they donated.
 
 ### Can we run a raffle or other game of chance to raise money?
 
 Due to state-by-state regulations and significant reporting requirements, OCF's Collectives cannot run raffles.
 
-### **What should I do if I receive funds outside of the platform?**
+### Can my collective charge a fee for services we offer?
 
-As laid out in our [Terms](https://docs.google.com/document/u/2/d/e/2PACX-1vQ\_fs7IOojAHaMBKYtaJetlTXJZLnJ7flIWkwxUSQtTkWUMtwFYC2ssb-ooBnT-Ldl6wbVhNQiCkSms/pub) (Exhibit A, no. 6), when you receive funds outside of the platform, you must immediately [transfer them to your account with Open Collective Foundation](https://docs.opencollective.foundation/about/official-info). Please let us know when you do so, and we will then manually add the funds to your budget. You [cannot hold funds outside of your budget at any time](https://docs.opencollective.foundation/how-it-works/processes-and-limitations).
+From an IRS perspective, our hosted collectives _may_ offer a fee for service. However, it needs to be at a discounted rate, and clearly be nonprofit-oriented.  The Collective's primary mission should still be charitable in nature, not focused on the paid services.&#x20;
 
-If you are using a third-party fundraising platform, please see the [Third-Party Tools and Benefits page](https://docs.opencollective.foundation/how-it-works/third-party-fundraising-tools-and-benefits) for information on specific platforms.
+See also:
 
-### **Can my Collective donate to another hosted Collective?**
+[outside-entities-policy.md](../how-it-works/policies/outside-entities-policy.md "mention")
 
-Collectives [can easily give to other Collectives](https://docs.opencollective.com/help/financial-contributors/collective-to-collective) hosted by Open Collective Foundation. (If you want to give to an Collective with another fiscal host there are [some extra steps](https://docs.opencollective.com/help/financial-contributors/collective-to-collective#across-different-fiscal-hosts).)
+[eligibility.md](../getting-started/eligibility.md "mention")
+
+&#x20;If your group would like to do this, please [reach out to us](https://opencollective.com/foundation/contact) first.
 
 ### Can my group offer memberships/accept membership fees?
 
 The platform has a '[Tier](https://docs.opencollective.com/help/collectives/collective-settings/tiers-goals#tiers)' type for membership fees. If all output/impact from an Collective is for 'members only', then it wouldn’t be for public benefit and therefore would not be [eligible ](../getting-started/eligibility.md)for fiscal hosting under OCF.
+
+### **Can my Collective donate to another hosted Collective?**
+
+Collectives [can easily give to other Collectives](https://docs.opencollective.com/help/financial-contributors/collective-to-collective) hosted by Open Collective Foundation. (If you want to give to a Collective with another fiscal host there are [some extra steps](https://docs.opencollective.com/help/financial-contributors/collective-to-collective#across-different-fiscal-hosts).)
 
 ### **How do I cancel recurring donations/subscriptions/payments?**
 
@@ -72,4 +86,4 @@ See our instructions on how to cancel recurring or ongoing donations, subscripti
 
 ### Where's my money?
 
-Ping us! We often receive money into our bank account without any indication of where it should go. (This is why it's so important to include the name of the Collective on any correpondances/checks/transfer that gets sent to OCF). We don't use/disperse that money anywhere, it just sits in our account until someone claims it, so just send us a message (in [slack ](http://slack.opencollective.com)or [email](mailto:%20contact@opencollective.foundation)) with screenshots/receipts that include the dollar amount & the Collective name, so that we may get your funds to you.
+Ping us! We often receive money into our bank account without any indication of where it should go. (This is why it's so important to include the name of the Collective on any correpondences/checks/transfer that gets sent to OCF). We don't use/disperse that money anywhere, it just sits in our account until someone claims it, so just send us a message (in [slack ](http://slack.opencollective.com)or [email](mailto:%20contact@opencollective.foundation)) with screenshots/receipts that include the dollar amount & the Collective name, so that we may get your funds to you.
