@@ -26,7 +26,7 @@ OCF's mission is about the sustainability of positive impact Collectives. We hel
 
 OCF won't tell you what to do—it's up to Collectives to make these decisions. But we encourage you to think about the long-term health of your Collective and the well-being and development of the humans who make it all possible.
 
-You can pay people casually as contractors through invoice expenses on your Collective, or if they'll be working on a regular basis, employ them part or full time.
+You can pay people casually as contractors through invoice expenses on your Collective, or if they'll be working on a regular basis, [employ them](../what-we-offer/employment.md) part or full time.
 
 #### Best practices for invoice expenses
 
