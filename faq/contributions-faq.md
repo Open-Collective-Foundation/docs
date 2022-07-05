@@ -56,18 +56,6 @@ Items with no meaningful monetary value (e.g. stickers or pens), may be given to
 
 Due to state-by-state regulations and significant reporting requirements, OCF's Collectives cannot run raffles.
 
-### Can my collective charge a fee for services we offer?
-
-From an IRS perspective, our hosted collectives _may_ offer a fee for service. However, it needs to be at a discounted rate, and clearly be nonprofit-oriented.  The Collective's primary mission should still be charitable in nature, not focused on the paid services.&#x20;
-
-See also:
-
-[outside-entities-policy.md](../how-it-works/policies/outside-entities-policy.md "mention")
-
-[eligibility.md](../getting-started/eligibility.md "mention")
-
-&#x20;If your group would like to do this, please [reach out to us](https://opencollective.com/foundation/contact) first.
-
 ### Can my group offer memberships/accept membership fees?
 
 The platform has a '[Tier](https://docs.opencollective.com/help/collectives/collective-settings/tiers-goals#tiers)' type for membership fees. If all output/impact from an Collective is for 'members only', then it wouldn’t be for public benefit and therefore would not be [eligible ](../getting-started/eligibility.md)for fiscal hosting under OCF.
