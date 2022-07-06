@@ -43,9 +43,9 @@ A lot of our work is behind the scenes, so to understand why we have to charge f
 * The largest expense is **staff**, and people are the most valuable part of our organization.\
   \
   [Our team](../about/team.md) reviews applications to join OCF, processes expense requests, provides user support, responds to your questions and feedback, writes the blog and newsletter, handles partnerships and contracts with funders, assists with grant applications, maintains this documentation, spreads the word about OCF, and continuously improves our features and services. And lots more!\\
-* OCF shares part of our revenue with **Open Collective**, which makes the software platform that enables everything we do. We have a close partnership so that the platform can continue to evolve\\
-* We need **professional services**, such as lawyers, accountants, and developers. There are a lot of legal, financial, and technical tasks and responsibilities involved in running OCF.\\
-* **Compliance** is an important part of being a 501(c)(3) and fiscal sponsor. It's our job to ensure that all money is used legitimately for public benefit. There are a lot of regulations and laws we have to follow. We have to file taxes with the IRS and undergo extensive independent audits.\\
+* OCF shares part of our revenue with **Open Collective**, which makes the software platform that enables everything we do. We have a close partnership so that the platform can continue to evolve.
+* We need **professional services**, such as lawyers, accountants, and developers. There are a lot of legal, financial, and technical tasks and responsibilities involved in running OCF.
+* **Compliance** is an important part of being a 501(c)(3) and fiscal sponsor. It's our job to ensure that all money is used legitimately for public benefit. There are a lot of regulations and laws we have to follow. We have to file taxes with the IRS and undergo extensive independent audits.
 * There are also **operational costs** like software subscriptions, office expenses, maintaining our website, etc.
 
 {% hint style="info" %}
