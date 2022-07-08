@@ -15,7 +15,7 @@ Although OCF has donors from all over the world, our mission and impact is prima
 * Making grants or in-kind contributions to a non-US individual or organization, or “Model C”-type grantor-grantee fiscal sponsorship, except in approved exceptional cases of international humanitarian aid; and
 * Initiatives focused on an international location/cause that are wholly led by American residents without demonstrated connections to that place or local project co-leaders.
 
-OCF may be able to make special arrangements with highly-aligned international projects seeking funding only available to 501(c)(3) public charities. If you are such an international project working in the solidarity economy, [contact us](../about/contact-us.md) to discuss potential options.
+OCF may be able to make special arrangements with highly-aligned international projects seeking funding only available to 501(c)(3) public charities. If you are such an international project working in the solidarity economy, [contact us](../../about/contact-us.md) to discuss potential options.
 
 {% hint style="info" %}
 Humanitarian aid is not easily defined. We generally understand it using the lens of the International Red Cross and Red Crescent Movement’s [seven fundamental principles](https://www.icrc.org/sites/default/files/topic/file\_plus\_list/4046-the\_fundamental\_principles\_of\_the\_international\_red\_cross\_and\_red\_crescent\_movement.pdf): humanity, impartiality, neutrality, independence, voluntary service, unity, and universality.
