@@ -20,7 +20,7 @@ Yes!
 
 Some groups who started out all-volunteer have hesitations when it comes to starting to pay people—especially if their mission is about countering negative impacts of economic exploitation in our capitalist society, which is understandable. It's true that beginning to pay people can change the dynamics, and bring up complicated questions about who gets paid and how much.
 
-However, we encourage Collectives to take these questions and concerns on and have frank conversations as a group about them, because that's a really healthy step to take. Regardless of the conclusion, important thinking and communication will happen. It is possible to pay people in ethical, transparent, accountable, mindful ways.
+However, we encourage Collectives to take these questions and concerns on and have frank conversations as a group about them, because that's a really healthy step to take. Regardless of the conclusion, important thinking and communication will happen. It is possible to pay people in ethical, transparent, accountable, and mindful ways.
 
 OCF's mission is about the sustainability of positive impact Collectives. We help groups raise money so they can be resourced to grow and thrive. Often, that is about paying for people's time. While Collectives need to be mindful with their financial resources, human capacity is a resource too, and burning people out is not the way.
 
@@ -62,7 +62,7 @@ As a 501(c)(3) we cannot give out lump sums first and get receipts later. This i
 
 Check our [payouts.md](../how-it-works/payouts.md "mention") page for information about all the different ways payouts can be made through OCF.
 
-For large expenses that you cannot pay out-of-pocket, you can also have your vendors and service providers submit their invoices directly via your Collective's page, or you can use the "[invite expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense)" option, where you fill in the details and they recieve an email and then just need to confirm. So vendors can invoice OCF through your page to get paid, and then we pay them directly.
+For large expenses that you cannot pay out-of-pocket, you can also have your vendors and service providers submit their invoices directly via your Collective's page, or you can use the "[invite expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense)" option, where you fill in the details and they receive an email and then just need to confirm. So vendors can invoice OCF through your page to get paid, and then we pay them directly.
 
 ### **Can we buy an automobile or real estate for charitable use?**
 
@@ -89,6 +89,10 @@ _Individuals driving an automobile for Collective purposes must have valid autom
 
 ### What about expenses from before we joined OCF?
 
-OCF cannot reimbursement purchases made before OCF approved a Collective's application.
+OCF cannot reimburse purchases made before OCF approved a Collective's application.
 
 On a case-by-case basis, depending on the nature of the work, OCF _might_ be able to pay invoice expenses for services provided during the 30 days preceding approval by OCF. The invoice expense must be submitted and approved within the first 30 days after a Collective joins OCF.
+
+### Can an OCF-hosted group use raised money for paying bail or strike funds?&#x20;
+
+Yes, hosted collectives can do this. Please be sure to talk to us about the specifics of the process in your local community, and make sure that our expense processes can fit your needs
