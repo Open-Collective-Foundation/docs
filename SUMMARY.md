@@ -45,6 +45,7 @@
   * [Outside Entities Policy](how-it-works/policies/outside-entities-policy.md)
   * [Outside Accounts Policy](how-it-works/policies/outside-accounts-policy.md)
   * [Political Activity](how-it-works/policies/political-activity.md)
+* [International Activity Policy](how-it-works/international-activity-policy.md)
 * [Fees](how-it-works/fees.md)
 
 ## About
