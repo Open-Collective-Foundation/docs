@@ -58,7 +58,7 @@ Due to state-by-state regulations and significant reporting requirements, OCF's 
 
 ### Can my group offer memberships/accept membership fees?
 
-The platform has a '[Tier](https://docs.opencollective.com/help/collectives/collective-settings/tiers-goals#tiers)' type for membership fees. If all output/impact from an Collective is for 'members only', then it wouldn’t be for public benefit and therefore would not be [eligible ](../getting-started/eligibility.md)for fiscal hosting under OCF.
+The platform has a '[Tier](https://docs.opencollective.com/help/collectives/collective-settings/tiers-goals#tiers)' type for membership fees. If all output/impact from a Collective is for 'members only', then it wouldn’t be for public benefit and therefore would not be [eligible ](../getting-started/eligibility.md)for fiscal hosting under OCF.
 
 ### **Can my Collective donate to another hosted Collective?**
 
