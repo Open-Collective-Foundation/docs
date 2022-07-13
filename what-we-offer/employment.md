@@ -10,7 +10,7 @@ The Collective admins define who to hire (themselves or others), how much to pay
 
 OCF ensures legal compliance with employment regulations, and takes care of payroll, liability, taxes, workers comp, and all the paperwork.
 
-Employee onboarding is [simple and straightforward](https://help.justworks.com/hc/en-us/articles/360004431372-Employee-Justworks-Enrollment) using the Justworks web app. Employees will find that app is quite easy to use, and can contact Justworks' 24/7 support via live chat if they have issues with their account.
+Employee onboarding is simple and straightforward using the Justworks web app. Employees will find that app is quite easy to use, and can contact Justworks' 24/7 support via live chat if they have issues with their account.
 
 #### Timecards
 
