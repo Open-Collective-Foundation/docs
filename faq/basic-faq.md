@@ -34,7 +34,11 @@ Individuals and organizations can contribute to your Collective in a variety of 
 
 Open Collective Foundation hosts a variety of projects meeting our [eligibility requirements](../getting-started/eligibility.md).&#x20;
 
-A few example focuses include solidarity and mutual aid, community fridges and food justice, community gardens and farms, humanitarian aid, education, bail funds, climate justice, environmental justice, poverty and homelessness, the arts, technology, job training, civic engagement, privacy, the solidarity economy, community tech, digital infrastructure, independent journalism, community radio and media, time banking, and _much_ much more.
+A few example focuses include solidarity and mutual aid, community fridges and food justice, community gardens and farms, humanitarian aid, education, bail funds, climate justice, environmental justice, poverty and homelessness, labor, the arts, technology, job training, civic engagement, privacy, the solidarity economy, community tech, digital infrastructure, independent journalism, community radio and media, time banking, and _much_ much more.
+
+{% hint style="info" %}
+OCF supports Collectives to build power within BIPOC, low-income, Womxn, LGBTQIA+, rural, immigrant, and many other other vibrant communities. Feel free to review our [Mission and Values](../about/mission-and-values.md), [Community Guidelines](https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines), and [Guiding Principle](https://blog.opencollective.com/solidarity-as-our-guiding-principle/) for more on our approach.
+{% endhint %}
 
 ### **Will our application be approved?**
 
