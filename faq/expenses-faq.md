@@ -87,12 +87,12 @@ If a bicycle is used exclusively for Collective charitable purposes, we can reim
 
 _Individuals driving an automobile for Collective purposes must have valid automobile insurance._
 
+### Can an OCF-hosted group use raised money for paying bail or strike funds?&#x20;
+
+Yes, hosted collectives can do this. Please be sure to talk to us about the specifics of the payment processes in your local community, and make sure that our expense processes (such as using a virtual card) can fit your needs, especially in terms of timing.
+
 ### What about expenses from before we joined OCF?
 
 OCF cannot reimburse purchases made before OCF approved a Collective's application.
 
 On a case-by-case basis, depending on the nature of the work, OCF _might_ be able to pay invoice expenses for services provided during the 30 days preceding approval by OCF. The invoice expense must be submitted and approved within the first 30 days after a Collective joins OCF.
-
-### Can an OCF-hosted group use raised money for paying bail or strike funds?&#x20;
-
-Yes, hosted collectives can do this. Please be sure to talk to us about the specifics of the process in your local community, and make sure that our expense processes can fit your needs
