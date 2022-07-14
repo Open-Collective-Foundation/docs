@@ -14,6 +14,8 @@ Unfortunately, these services do not currently allow nonprofit accounts.
 
 If you work with a mutual aid or solidarity project and must use these apps, please see our [Cash Assistance Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/cash-assistance-policy).
 
+If your group has been fundraising using Venmo or Cash App, please review our [Outside Accounts](https://docs.opencollective.foundation/how-it-works/policies/outside-accounts-policy) policy to ensure compliance.
+
 ### **Can we pay people for their time?**
 
 Yes!

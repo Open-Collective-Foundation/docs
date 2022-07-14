@@ -1,9 +1,3 @@
----
-description: >-
-  Information for OCF-Hosted Collectives who will be applying for grants or
-  receiving grant funding
----
-
 # Grants FAQ
 
 ### Where do I find OCF's official information for an external grant we are applying for?
@@ -12,11 +6,11 @@ description: >-
 [official-information-and-documents.md](../about/official-information-and-documents.md)
 {% endcontent-ref %}
 
-Please be sure to have any correspondence sent to [contact@opencollective.foundation](mailto:%20contact@opencollective.foundation) and be sure to include the name of the Collective.
+Please be sure to have any correspondance sent to [contact@opencollective.foundation](mailto:%20contact@opencollective.foundation) and be sure to include the name of the Collective.
 
 For details about employee gift-matching programs, check [here](../how-it-works/financial-contributions/donation-matching.md).
 
-### Where can we get an MOU (Memorandum of Understanding)?
+### Where can we get an MOU (Memorandum of understanding)?
 
 You can send our [Terms of Fiscal Sponsorship](../getting-started/terms.md) document over when someone requests a fiscal sponsorship agreement (you agree to this when you tick the box when you sign up with us.)
 
@@ -26,4 +20,4 @@ If you have a specific document that needs to be signed, please send it over to 
 
 ### **Can my Collective apply for government grants?**
 
-Sometimes. If all that's needed is [proof of 501(c)(3) status](../about/official-information-and-documents.md#nonprofit-status), then yes. If special audits and more specific support is necessary, then unfortunately, no. We may be able to make exceptions, but it would be case-by-case. You can always [reach out](mailto:%20contact@opencollective.foundation) to check.
+Sometimes. If all that's needed is [proof of 501(c)(3) status](../about/official-information-and-documents.md#nonprofit-status), then yes. If special audits and more specific support is necessary, then unfortunately, no.  We may be able to make exceptions, but it would be case-by-case. You can always [reach out](mailto:%20contact@opencollective.foundation) to check.
