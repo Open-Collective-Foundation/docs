@@ -20,7 +20,7 @@ _For the latest on our approach to fiscal sponsorship and the solidarity economy
 * [Open Source Collective](https://www.oscollective.org) (OSC) which is a fiscal host for [open source](https://opensource.com/resources/what-open-source) projects
 * [All For Climate](https://allforclimate.earth) hosts climate action movement groups in Europe
 * [Open Collective Europe](https://opencollective.com/europe) host all kinds of Collectives across Europe
-* [Open Collective NZ ](https://opencollective.com/ocnz)is a fundholder for kiwi projects, communities, and Collectives
+* [Open Collective NZ ](https://opencollective.com/ocnz)is a fundholder for Kiwi projects, communities, and Collectives
 * [Social Change Nest](https://opencollective.com/the-social-change-nest) hosts community impact groups in the UK
 * [Many more fiscal hosts](https://opencollective.com/hosts) using the OC platform to provide similar services to their communities
 {% endhint %}
@@ -29,7 +29,7 @@ _For the latest on our approach to fiscal sponsorship and the solidarity economy
 
 We exist to take care of the difficult administrative aspects of running a 501(c)(3) so that—instead of a bunch of compliance headaches—you can focus on impact work in your community! You don’t even need to set up a legal entity or bank account.
 
-:bulb: Through Open Collective Foundation, you can:
+**Through Open Collective Foundation, you can:**
 
 * Manage finances transparently
 * Receive tax-deductible contributions
@@ -38,7 +38,7 @@ We exist to take care of the difficult administrative aspects of running a 501(c
 * [Receive financial contributions](how-it-works/financial-contributions/) by credit card, PayPal, electronic bank transfer, check, or donor-advised fund
 * [And more](what-we-offer/)
 
-Open Collective Foundation can be the home for your Collective’s finances. As your [fiscal host](what-we-offer/fiscal-hosting.md), we can be your legal entity and provide you with the financial tools you need to make an impact on the world! [**Read more about what we offer.**](what-we-offer/)
+Open Collective Foundation can be the home for your Collective’s finances. As your [fiscal host](what-we-offer/fiscal-hosting.md), we can be your legal entity and provide you with the financial tools you need to make an impact on the world! [Read more about **what we offer.**](what-we-offer/)
 
 {% content-ref url="what-we-offer/" %}
 [what-we-offer](what-we-offer/)
@@ -53,14 +53,14 @@ Ready to get started right now? Find out [How To Apply](getting-started/how-to-a
 [Open Collective Foundation](https://opencollective.com/foundation)’s hosted Collectives are totally transparent about how their funds are used, taking the pain out of financial reporting for both you and your grant recipients. Our platform also ensures that your donated funds go to our hosted Collectives quickly and easily so they can get down to the business of serving their community.
 
 {% hint style="info" %}
-Check out [our page on Open Collective](https://opencollective.com/foundation) to see the over 200 [Collectives we host](https://opencollective.com/foundation#category-CONTRIBUTIONS), as well as [our transparent operating budget](https://opencollective.com/foundation#category-BUDGET).
+Check out [our page on Open Collective](https://opencollective.com/foundation) to see the over 300 [Collectives we host](https://opencollective.com/foundation#category-CONTRIBUTIONS), as well as [our transparent operating budget](https://opencollective.com/foundation#category-BUDGET).
 {% endhint %}
 
 💡 If you would like to learn about making tax-deductible financial contributions to our hosted Collectives, see the [Financial Contributions overview](how-it-works/financial-contributions/).
 
 ## Contact Us
 
-Didn’t find what you are looking for? :mag: Use the Search Bar in the upper right corner!
+Didn’t find what you are looking for? :mag: Use the Search Bar in the upper right corner.
 
 :love\_letter:Email us at [contact@opencollective.foundation](mailto:contact@opencollective.foundation)
 

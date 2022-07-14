@@ -12,6 +12,8 @@ If a donor is not comfortable with online credit card transactions, they can sen
 
 [Reach out to us](mailto:contact@opencollective.foundation) - we are happy to procure an invoice of this kind when requested. Please provide: Donor name, Email, Collective Name, & Donation amount (+ screenshots/links) for context.
 
+This is primarily done only for amounts >$1000. For amounts below this, please create your own [invoices ](../how-it-works/payouts.md)using the platform.
+
 ### **Can we use outside fundraising platforms, like GoFundMe, to fundraise for our Collective?**
 
 In most cases, yes! As long as the funds are transferred into your Open Collective account in a timely manner (30 days). Please note, that most of the time, donations not made on the Open Collective platform will not receive the tax-deduction. For more details, please review our [Outside Accounts Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-accounts-policy).

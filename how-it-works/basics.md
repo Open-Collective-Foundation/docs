@@ -12,7 +12,7 @@ Once you [apply to join Open Collective Foundation](../getting-started/how-to-ap
 
 ## Top 5 things to remember
 
-1. Contact us if you need to sign _any_ contracts or agreements, or have any questions about services or policies.
+1. [Contact us](../about/contact-us.md) if you need to sign _any_ contracts or agreements, or have any questions about services or policies.&#x20;
 2. Check [Official Info and Docs](https://docs.opencollective.foundation/about/official-information-and-documents) for all of the necessary paperwork that comes up in grant applications.
 3. Always upload receipts for your [virtual card](../what-we-offer/virtual-cards-policy.md) purchases within 30 days, or the card will be deactivated.
 4. Use the [Updates](https://docs.opencollective.com/help/collectives/communication#updates) feature to post general, mid-year, and annual updates or action alerts to your donor community. We require at least one update per year.
@@ -46,7 +46,7 @@ Using funds from your Collective’s budget is simple:
    * There are 2 main types of Expenses: (For all payout options available, check [our Payouts page](payouts.md).)
      * [**Reimbursements**](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements)
      * [**Invoices**](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices)
-2. An Collective [admin](https://docs.opencollective.com/help/collectives/core-contributors#roles) (someone on your team) approves it.
+2. A Collective [Admin](https://docs.opencollective.com/help/collectives/core-contributors#roles) (someone on your team) approves it.
 3. OCF's team reviews it (confirms that the expense meets requirements e.g. having a valid receipt, amounts match).
 4. They get [paid](https://docs.opencollective.com/help/fiscal-hosts/payouts#what-payment-methods-do-you-support-for-withdrawals).
 
