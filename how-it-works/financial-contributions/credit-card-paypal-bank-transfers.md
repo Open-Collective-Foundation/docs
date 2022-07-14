@@ -7,20 +7,24 @@ Once you choose to contribute from the Collective’s profile, our platform will
 {% hint style="info" %}
 The fastest way to have access to funds is through **Card/PayPal donations** made directly on the [Open Collective Platform](../../what-we-offer/online-platform.md).
 
-**Bank transfers (e.g. ACH, wire)** are done manually - this means it takes the funds a couple of days to clear (due to bank processing times), and then the allocation of the funds requires additional actions from OCF.  **It is important to allow for a few days (minimum 3 business days) when awaiting donations made via bank transfer.**
+**Bank transfers (e.g. ACH, wire)** are done manually - this means it takes the funds a couple of days to clear (due to bank processing times), and then the allocation of the funds requires additional actions from OCF. **It is important to allow for a few days (minimum 3 business days) when awaiting donations made via bank transfer.**
 {% endhint %}
 
 ### **Bank Transfers**
 
 If you select to make a contribution via bank transfer, you will automatically be given bank transfer instructions, on screen and by email, along with a unique reference ID code.
 
-You can also download a [PDF with general payment info](../../about/official-information-and-documents.md#financial-information).&#x20;
+You can also download a [PDF with general payment info](../../about/official-information-and-documents.md#financial-information).
 
 You must include the unique ID code as a reference with your bank transfer, so we can match up the transaction.
 
 Once the money has arrived, we will confirm, then the amount will be credited to the Collective’s balance and you will automatically receive a receipt.‌
 
-When you arrange the transfer, if you have the option of sending an email notification for the transaction, please send it to [contact@opencollective.foundation](mailto:contact@opencollective.foundation).&#x20;
+When you arrange the transfer, if you have the option of sending an email notification for the transaction, please send it to [contact@opencollective.foundation](mailto:contact@opencollective.foundation).
+
+{% hint style="info" %}
+The easiest way to pay via bank account is probably using a PayPal account that is connected to your bank.
+{% endhint %}
 
 ### **Giving Anonymously**
 
