@@ -36,8 +36,22 @@ Yes. But be aware that all of OCF’s transactions are denominated in USD and wi
 
 ### **Can you host groups that are based outside of the United States?**
 
-Although Open Collective Foundation’s hosted Collectives can do work outside of the US, their operations must currently be based in the US. There are a number of [other hosts using the Open Collective platform](https://opencollective.com/hosts), based all over the world.
+Please review our [International Activity Policy](../how-it-works/policies/international.md).
 
 ### **Can we be fiscally sponsored by another group while being hosted by Open Collective Foundation?**
 
 No. Hosted Collectives can only be hosted by OCF for the duration of their time with us.
+
+### I'm fiscally hosted by OCF. How should I describe our relationship?
+
+For US-based donors, you can use the following text:
+
+> COLLECTIVE is a fiscally sponsored project of Open Collective Foundation, a 501(c)(3) public charity.&#x20;
+
+You can also use the following snippets if needed, for donors and foundations:
+
+> Contributions for the charitable purposes of COLLECTIVE must be made payable to “OpenCollective Foundation” only and are tax-deductible to the extent permitted by law.
+
+> Open Collective Foundation will receive grants for the charitable purposes of COLLECTIVE and provide oversight to ensure that grant funds are used in accordance with applicable grant agreements.
+
+Hope fully these are helpful, and you can add your own personal flare. (Whatever you do, do _not_ use the term "fiscal agent," as that means something completely different.)
