@@ -27,13 +27,6 @@ Virtual Cards can be issued to OCF’s hosted Collectives for paying online for 
 
 * Virtual cards **may not** be used for [paying/reimbursing people](../how-it-works/payouts.md) -that should be done on the OC platform.
 
-#### If you need to input Cardholder contact details/address:
-
-* **Name**: Open Collective Foundation
-* **Address**:
-  * 340 S. Lemon Avenue, #3717
-  * Walnut, California, 91789-2706, USA
-
 ## Steps
 
 #### Setup the card:
@@ -69,3 +62,21 @@ Virtual Cards can be issued to OCF’s hosted Collectives for paying online for 
 {% hint style="info" %}
 Looking for the email that asks for the receipt upload? The 'Subject' in your email inbox will be "Action Required: Submit receipt for card expense".
 {% endhint %}
+
+## FAQ
+
+### What Name & Address do I use for cardholder contact details?
+
+* **Name**: Open Collective Foundation
+*   **Address**:
+
+    340 S. Lemon Avenue, #3717
+
+    Walnut, California, 91789-2706, USA
+* _Sometimes, if you are having physical items mailed, they will expect the zip codes to match.  In these cases, you can use your own address/zip code._
+
+### My Collective's card has been compromised. How do I dispute a charge?
+
+Please reach out to us contact@opencollective.foundation as soon as you notice the false charge(s).  Please provide any context and screenshots to help us make your claim.
+
+Timing will be 30-90 days.
