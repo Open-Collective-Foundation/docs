@@ -26,6 +26,7 @@ Virtual Cards can be issued to OCF’s hosted Collectives for paying online for 
 **Limitations:**
 
 * Virtual cards **may not** be used for [paying/reimbursing people](../how-it-works/payouts.md) -that should be done on the OC platform.
+* Virtual cards are intended to be used only by Collective Admins/Team Members. e.g. A recipient may not use a virtual card to purchase groceries for themselves.
 
 ## Steps
 
