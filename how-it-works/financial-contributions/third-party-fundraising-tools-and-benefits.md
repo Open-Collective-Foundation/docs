@@ -4,10 +4,10 @@ description: More ways to raise funds
 
 # 3rd-Party Fundraising Tools
 
-Although [receiving funds through the Open Collective platform](../) is the swiftest, most direct & efficient way to receive funds, OCF’s hosted Collectives can also use some third-party tools to receive funds for their Collective.
+Although [receiving funds through the Open Collective platform](./) is the swiftest, most direct & efficient way to receive funds, OCF’s hosted Collectives can also use some third-party tools to receive funds for their Collective.
 
 {% hint style="info" %}
-Please be sure to review our [**Outside Entities Policy**](../../policies/outside-entities-policy.md) and [**Outside Accounts Policy**](../../policies/outside-accounts-policy.md) before moving forward with any of these options
+Please be sure to review our [**Outside Entities Policy**](../policies/outside-entities-policy.md) and [**Outside Accounts Policy**](../policies/outside-accounts-policy.md) before moving forward with any of these options
 {% endhint %}
 
 **Note:**
@@ -16,7 +16,7 @@ Please be sure to review our [**Outside Entities Policy**](../../policies/outsid
 * Since you are part of Open Collective Foundation, funds will need to go directly to us, and then we’ll make sure they go into your Collective’s budget.
 * Since moving funds from these sites into your balance is a manual process, and due to external platforms’ own unique disbursement processes, the funds will not reach you as quickly as those raised through Open Collective. There will likely be delays.
   * **Unless otherwise specified, we will batch donations arriving from 3rd-party platforms and disburse to your Collective 1x/month.**
-* OCF will charge [our standard fee](../../fees.md) on funds raised on the external sites.
+* OCF will charge [our standard fee](../fees.md) on funds raised on the external sites.
 
 ## Third-Party Tools
 
@@ -24,9 +24,9 @@ OCF offers limited support for integrating with 3rd party tools and apps.
 
 ### Some of our available options:
 
-[nonprofit-discounts.md](../../../what-we-offer/nonprofit-discounts.md "mention")
+[nonprofit-discounts.md](../../what-we-offer/nonprofit-discounts.md "mention")
 
-[emails.md](../../../what-we-offer/emails.md "mention")
+[emails.md](../../what-we-offer/emails.md "mention")
 
 The tools below have been used by Open Collective Foundation's Collectives in the past and are available for OCF's hosted groups.
 
@@ -34,7 +34,7 @@ The tools below have been used by Open Collective Foundation's Collectives in th
 {% tab title="ActBlue" %}
 * [Why Setup an Account?](https://support.actblue.com/donors/about-actblue/why-do-candidates-and-organizations-use-your-platform/)
 * [Quickstart Guide](https://support.actblue.com/campaigns/help/getting-started/)
-  * :bulb: Use [our **EIN**](../../../about/official-information-and-documents.md) (81-4004928) when registering in order for your Collective's collected donations to be grouped in OCF’s umbrella.
+  * :bulb: Use [our **EIN**](../../about/official-information-and-documents.md) (81-4004928) when registering in order for your Collective's collected donations to be grouped in OCF’s umbrella.
 {% endtab %}
 
 {% tab title="Benevity" %}
@@ -54,10 +54,10 @@ _Note_: Benevity operates on a monthly disbursement model. All funds designated 
 
 For example, all donations designated to your organization in November will be disbursed around the last week of December.
 
-Also, the reporting tools from Benevity are fairly limited (cannot view donor details/dates).
+Also, the reporting tools from Benevity are fairly limited (cannot always view donor details/dates).
 
 {% hint style="info" %}
-We will set up your Benevity profile using the information & logo you use on your OC page. If there is alternative/additional information you would like to present, please be sure to specify and we will be sure to include it.
+We will set up your Benevity profile using the information & logo you use on your OC page. If there is alternative/additional information you would like to present, please specify, and we will be sure to include it.
 {% endhint %}
 {% endtab %}
 {% endtabs %}
@@ -81,7 +81,7 @@ The following are **not** set up to work specifically with fiscally hosted proje
 GoFundMe [Charity Fundraising](https://www.gofundme.com/start/charity-fundraising)
 
 * Select OpenCollective Foundation as the beneficiary in order for your donors to receive tax-deductible status \[recommended],
-* **or** you collect them on your own behalf, and transfer them to your Collective as one lump sum. \[it will not be tax-deductible for your donors. Refer to our [Outside Accounts Policy](../../policies/outside-accounts-policy.md) for details.]
+* **or** you collect them on your own behalf, and transfer them to your Collective as one lump sum. \[it will not be tax-deductible for your donors. Refer to our [Outside Accounts Policy](../policies/outside-accounts-policy.md) for details.]
 * If prompted, please send invitations to accept funds to:  contact@opencollective.foundation&#x20;
 * [FAQ](https://docs.opencollective.foundation/faq/contributions-faq#can-we-use-outside-fundraising-platforms-like-gofundme-to-fundraise-for-our-Collective)
 {% endtab %}
@@ -91,33 +91,19 @@ If you use any of these tools, **please** [**email us**](mailto:contact@opencoll
 
 \---
 
-Also, [let us know](mailto:contact@opencollective.foundation) if you are interested in a platform not listed above and we will see if we can make it work. If you are requesting an integration with a 3rd party tool, please consider the following:
+### External PayPal Accounts
 
-* Not all apps/tools are suitable for fiscal sponsorship arrangements (e.g. they don't allow multiple groups to use the same EIN, they have limited reporting tools that don't indicate to us where funds should be allocated)
-* The tool **must have** a good option for monitoring the contributions (e.g. a dashboard for OCF to review contributions; detailed monthly reports),
-  * in some cases, the collective can forward the reports to OCF on a regular basis
-* The tool batches raised funds and make transfers on a periodic basis (e.g. once a month); not with funds arriving 1-at-a-time
-* payments **must** be sent as [bank transfers](../credit-card-paypal-bank-transfers.md#bank-transfers) only (and only as per the monthly contribution amount).
-* Re: [donation-matching](../donation-matching.md) tools: mandatory fields where any donations matches include the information about which Collective they support,
-* The Collective must understand that there will be delays in getting these funds into their Open Collective account due to the manual processing, etc.
+Since Collectives can receive and spend funds via PayPal from within the Open Collective platform, you **should not** set up an external PayPal account for receiving or spending funds. Please review our [**Outside Accounts Policy**](../policies/outside-accounts-policy.md) for more details.
 
-{% hint style="warning" %}
-[Please email us](mailto:contact@opencollective.foundation) if you are expecting a payment from the third party service so we can look out for it and credit your account in timely fashion.
-{% endhint %}
+### Amazon Smile
 
-#### External PayPal Accounts
-
-Since Collectives can receive and spend funds via PayPal from within the Open Collective platform, you **should not** set up an external PayPal account for receiving or spending funds. Please review our [**Outside Accounts Policy**](../../policies/outside-accounts-policy.md) for more details.
-
-#### Amazon Smile
-
-Unfortunately, OCF cannot direct funds received from Amazon Smile to specific hosted Collectives. Collectives should not use Amazon Smile to raise money for their work.
+OCF cannot direct funds received from Amazon Smile to specific hosted Collectives. Collectives should not use Amazon Smile to raise money for their work.
 
 ### **Venmo and Cash App**
 
-Unfortunately, Venmo, Cash App, and other similar services we are aware of do not currently allow nonprofit accounts. Therefore, your Collective cannot send (or receive) funds from these sources directly through Open Collective.
+Unfortunately, [Venmo, Cash App,](https://docs.opencollective.foundation/faq/expenses-faq#can-we-send-or-receive-funds-via-venmo-or-cash-app) and other similar services do not currently allow nonprofit accounts. Therefore, your Collective cannot send (or receive) funds from these sources directly through Open Collective.
 
-In the situation where bank transfer and PayPal are not viable transfer methods, an individual on your team can send funds to the intended recipient via one of these services and then submit for reimbursement.
+In the situation where bank transfer and PayPal are not viable transfer methods, an individual on your team can send funds to the intended recipient via one of these services and then submit for [reimbursement](../payouts.md).
 
 In the **Reimbursement**, make sure to include:
 
@@ -126,6 +112,28 @@ In the **Reimbursement**, make sure to include:
 * [ ] if available, the **receipt**(s) for their activities,
 * [ ] as well as the **receipt** from the service (e.g. Venmo) that you used to transfer them the funds.
 
+### Github Sponsors
+
+Please reach out directly to Github's [support](http://url100.around.co/ls/click?upn=Ve2f-2FLodSFIkXBMESSfFGmNY4VgXEOvuJO5pWSwE9UyMwkzezkjAVJGMUEx2w15UTULc\_cq7CyJpVqhiHMvlG5QfXmhe-2F3dzKt4opsAZ25hnuffMHKYrwEDYxa-2FF5K6tv4KABjDsTfSMQm7eme3i1xr-2B1jEo9sS2Pn63l0JP9zQ-2BErgRnYVx4uDDtiX4CiY5-2FyBHh7yOLkscYpufs8XrmSHVA-2FkPuYoHKjRJKlaY7gM9bm9VH9eZvHkkpfm4e9HC4eifshalLjJMUcBLpmQSDbJbWxfeZuiTSLa-2BYsMk-2BhMav98-2FmTXIT-2BgUZ1FPGkJT9or24XxqRfYSmEBKZDkLEP90ZJ8a3BZ1bKgdZO2kBkmRYxMsXdDYFSrP3-2FlhR9pdqdrNrGmy7sNSfOWUvSygdA-2BcvGPH0sFKbwsVahXlu-2FtTwWGvQdK9sfL5dot2kFZbHiLtB1kADzNDULuRaVidxCg0EH9L-2FSuJDqWzdTQ6GJkNH8KE-3D) and their support staff can help assign OCF as your fiscal host.
+
+{% hint style="warning" %}
+[Please email us](mailto:contact@opencollective.foundation) if you are expecting a payment from the third party service so we can look out for it and credit your account in timely fashion.
+{% endhint %}
+
+\---
+
+### Other 3rd Party Tools
+
+[Let us know](mailto:contact@opencollective.foundation) if you are interested in a platform not listed above and we will see if we can make it work. If you are requesting an integration with a 3rd party tool, please consider the following:
+
+* Not all apps/tools are suitable for fiscal sponsorship arrangements (e.g. they don't allow multiple groups to use the same EIN, they have limited reporting tools that don't indicate to us where funds should be allocated)
+* The tool **must have** a good option for monitoring the contributions (e.g. a dashboard for OCF to review contributions; detailed monthly reports),
+  * in some cases, the collective can forward the reports to OCF on a regular basis
+* The tool must batch raised funds and make transfers on a periodic basis (e.g. once a month); not with funds arriving 1-at-a-time
+* Payments **must** be sent as [bank transfers](credit-card-paypal-bank-transfers.md#bank-transfers) only (and only as per the monthly contribution amount)
+* Re: [donation-matching](donation-matching.md) tools: mandatory fields where any donations matches include the information about which Collective they support,
+* The Collective must understand that there will be delays in getting these funds into their Open Collective account due to the manual processing, etc.
+
 {% hint style="info" %}
-**All** funds for your Collective **must** be held in your budget with Open Collective Foundation. Read about the [limitations of our fiscal hosting service](../../policies/#restrictions-and-limitations), as well as our [Outside Accounts Policy](../../policies/outside-accounts-policy.md). If you would like to make direct cash payments out to recipients, please review our [Cash Assistance Policy](../../policies/cash-assistance-policy.md).
+**All** funds for your Collective **must** be held in your budget with Open Collective Foundation. Read about the [limitations of our fiscal hosting service](../policies/#restrictions-and-limitations), as well as our [Outside Accounts Policy](../policies/outside-accounts-policy.md). If you would like to make direct cash payments out to recipients, please review our [Cash Assistance Policy](../policies/cash-assistance-policy.md).
 {% endhint %}

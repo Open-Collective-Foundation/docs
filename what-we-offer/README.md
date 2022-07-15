@@ -36,7 +36,7 @@ In addition to being your legal and financial home, OCF offers many useful servi
 * [**Grantmaking**](../how-it-works/grantmaking/): make grants to your community - you choose the grantees, we take care of the paperwork
 * [**Cash assistance**](../how-it-works/policies/cash-assistance-policy.md): give money to people who are unbanked and/or lack internet access, who can't provide the normally required paperwork
 * [**Virtual cards**](virtual-cards-policy.md): like a debit card linked to your balance on Open Collective that you can use online
-* [**Integration with other funding tools**](../how-it-works/financial-contributions/third-party-fundraising-tools-and-benefits/): like ActBlue & Benevity
+* [**Integration with other funding tools**](../how-it-works/financial-contributions/third-party-fundraising-tools-and-benefits.md): like ActBlue & Benevity
 
 ## Is OCF right for you?
 
