@@ -27,3 +27,12 @@ If you have a specific document that needs to be signed, please send it over to 
 ### **Can my Collective apply for government grants?**
 
 Sometimes. If all that's needed is [proof of 501(c)(3) status](../about/official-information-and-documents.md#nonprofit-status), then yes. If special audits and more specific support is necessary, then unfortunately, no. We may be able to make exceptions, but it would be case-by-case. You can always [reach out](mailto:%20contact@opencollective.foundation) to check.
+
+### Expecting incoming grant funds?
+
+Send us an email contact@opencollective.foundation with the following:
+
+* Date of funds transfer
+* Name of donor
+* Amount of grant
+* Designation (which group) so we know where to allocate funds
