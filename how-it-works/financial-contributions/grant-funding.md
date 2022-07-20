@@ -4,10 +4,10 @@
 
 The opportunity to apply for grants is one of the biggest benefits of being hosted by a [501(c)(3) organization](../../what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean) like Open Collective Foundation.
 
-When drafting grant applications, you will likely need info like our [EIN number, address, and maybe even our banking information](../../about/official-information-and-documents.md). You may also need to [upload our IRS Determination Letter](../../about/official-information-and-documents.md#nonprofit-status). Please check the [Official Information and Documents](../../about/official-information-and-documents.md) page first, and if the application asks for info or documentation not listed there (such as our most recent audit, 990, or other budget documents), [reach out](../../about/contact-us.md) and we will endeavor to put it together for you. &#x20;
+When drafting grant applications, you will likely need info like our [EIN number, address, and maybe even our banking information](../../about/official-information-and-documents.md). You may also need to [upload our IRS Determination Letter](../../about/official-information-and-documents.md#nonprofit-status). Please check the [Official Information and Documents](../../about/official-information-and-documents.md) page first, and if the application asks for info or documentation not listed there (such as our most recent audit, 990, or other budget documents), [reach out](../../about/contact-us.md) and we will endeavor to put it together for you.
 
 {% hint style="info" %}
-Some applications will ask for a document describing the fiscal sponsorship relationship. If they do, you can send them our [Terms of Fiscal Sponsorship](../../getting-started/terms.md) (you agree to these when you sign up with us.)&#x20;
+Some applications will ask for a document describing the fiscal sponsorship relationship. If they do, you can send them our [Terms of Fiscal Sponsorship](../../getting-started/terms.md) (you agree to these when you sign up with us.)
 
 If they ask for a signed MOU (Memorandum of Understanding), email us at [contact@opencollective.foundation](mailto:%20contact@opencollective.foundation) to request one. Please be sure to include you Collective's name in the request.
 {% endhint %}
@@ -40,7 +40,9 @@ Since grant [contracts are legal agreements between the funder and Open Collecti
 If your Collective is receiving funds from a large grantmaker, they may require your Collective to have liability insurance. [That's something we can help with!](../../what-we-offer/liability-insurance.md)
 {% endhint %}
 
-If they provide you with an ACH form (for payments via bank transfer) or ask for [our mailing address](../../about/official-information-and-documents.md#address) (to [contribute via check](checks.md)), you can send that information to them. **If it needs to be signed by an Open Collective Foundation team member,** [**send it to us**](../../about/contact-us.md) **via email.** Once we have received and processed the contribution, you will see the funds in your Collective’s budget.
+If they provide you with an ACH form (for payments via bank transfer) or ask for [our mailing address](../../about/official-information-and-documents.md#address) (to [contribute via check](checks.md)), you can send that information to them. **If it needs to be signed by an Open Collective Foundation team member,** [**send it to us**](../../about/contact-us.md) **via email.**
+
+You should also [send an email](../../faq/grants-faq.md#expecting-incoming-grant-funds) when the funds are en route so our finance team can look out for them. Once we have received and processed the contribution, you will see the funds in your Collective’s budget.
 
 {% hint style="warning" %}
 **All checks must be made out to Open Collective Foundation**. We cannot accept checks that are made out to your Collective’s name or an individual person.
@@ -52,7 +54,7 @@ Checks not made out to us will have to be returned to the funder and we will req
 
 Like all fundraising relationships, it is important to cultivate and maintain (a.k.a. “steward”) your connections with funders.
 
-At the most basic level, make sure to thank them! The Open Collective platform automates some of this by displaying your financial contributors on your page, and sending email notifications related to transactions, but a personal touch can be great. Other features that can be useful are [automated thank-you tweets](https://docs.opencollective.com/help/collectives/integrations#twitter-integration) to contributors and mentioning funders in [Updates](https://docs.opencollective.com/help/collectives/communication#updates) about your activities.&#x20;
+At the most basic level, make sure to thank them! The Open Collective platform automates some of this by displaying your financial contributors on your page, and sending email notifications related to transactions, but a personal touch can be great. Other features that can be useful are [automated thank-you tweets](https://docs.opencollective.com/help/collectives/integrations#twitter-integration) to contributors and mentioning funders in [Updates](https://docs.opencollective.com/help/collectives/communication#updates) about your activities.
 
 {% hint style="info" %}
 Admins of an Collective can download a file containing their [contributors](https://docs.opencollective.com/help/collectives/data-export#export-csv) (donors) from the Settings Menu>Export
@@ -73,4 +75,3 @@ See also:
 {% content-ref url="../../faq/grants-faq.md" %}
 [grants-faq.md](../../faq/grants-faq.md)
 {% endcontent-ref %}
-

@@ -1,11 +1,11 @@
-# Cryptocurrency donations
+# Crypto Donations
 
 ## How to pay with crypto
 
-Right now this is a manual process.&#x20;
+Right now this is a manual process.
 
-1. Donor [emails us](https://opencollective.com/redirect?url=mailto%3Acontact%40opencollective.foundation) saying to which Collective and in which cryptocurrency they want to donate.&#x20;
-2. We check with the Collective to see if they approve (some Collectives do not want to receive crypto).&#x20;
+1. Donor [emails us](https://opencollective.com/redirect?url=mailto%3Acontact%40opencollective.foundation) saying to which Collective and in which cryptocurrency they want to donate.
+2. We check with the Collective to see if they approve (some Collectives do not want to receive crypto).
 3. If so, we provide a wallet address to the donor.
 4. Donor makes the transfer.
 5. OCF receives the crypto and immediately sells it for dollars.
@@ -16,10 +16,8 @@ It’s manual, so the above steps can take some time to complete. If there’s s
 
 ## Benefits
 
-For contributors, donating crypto to a 501(c)(3) nonprofit like OCF has serious tax benefits. You receive a tax deduction for the value of the crypto, and avoid the capital gains tax you would otherwise have to pay when selling. OCF sells the crypto tax-free and gives the proceeds to the Collective. This means a bigger tax deduction for you and more money for the Collective.\
+For contributors, donating crypto to a 501(c)(3) nonprofit like OCF has serious tax benefits. You receive a tax deduction for the value of the crypto, and avoid the capital gains tax you would otherwise have to pay when selling. OCF sells the crypto tax-free and gives the proceeds to the Collective. This means a bigger tax deduction for you and more money for the Collective.
 
+For Collectives, crypto opens up another donation channel and resource pool. Over a trillion dollars worth of crypto is out there in the world, and many people holding it want to do good. This option makes giving more convenient and enticing. We take care of the often messy and confusing aspects of managing crypto transactions, so you don't have to necessarily understand all the details about how blockchains work.
 
-For Collectives, crypto opens up another donation channel and resource pool. Over a trillion dollars worth of crypto is out there in the world, and many people holding it want to do good. This option makes giving more convenient and enticing. We take care of the often messy and confusing aspects of managing crypto transactions, so you don't have to necessarily understand all the details about how blockchains work.\
-
-
-Contributing crypto directly to OCF also cuts out payment processor middlemen, meaning all the money can go to the Collectives instead of some being siphoned off to credit card processors or other fees.&#x20;
+Contributing crypto directly to OCF also cuts out payment processor middlemen, meaning all the money can go to the Collectives instead of some being siphoned off to credit card processors or other fees.
