@@ -1,5 +1,7 @@
 # Applying for Grants
 
+_Check our_ [_Grants FAQ_](../../faq/grants-faq.md) _for commonly asked questions._
+
 ## Grant Applications
 
 The opportunity to apply for grants is one of the biggest benefits of being hosted by a [501(c)(3) organization](../../what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean) like Open Collective Foundation.
@@ -30,7 +32,7 @@ Some large (e.g., federal) government programs also have extremely complicated a
 OCF does not currently have a DUNS number because we are a virtual organization (yes, this is a very outdated government policy). We are actively working on rectifying this.
 {% endhint %}
 
-## Grant Contracts and Receiving Funds
+## Grant Contracts and [Receiving Funds](./)
 
 If your grant application has been approved, congratulations! The first thing the funder is likely to do is provide a grant contract that needs to be signed.
 
@@ -42,10 +44,10 @@ If your Collective is receiving funds from a large grantmaker, they may require 
 
 If they provide you with an ACH form (for payments via bank transfer) or ask for [our mailing address](../../about/official-information-and-documents.md#address) (to [contribute via check](checks.md)), you can send that information to them. **If it needs to be signed by an Open Collective Foundation team member,** [**send it to us**](../../about/contact-us.md) **via email.**
 
-You should also [send an email](../../faq/grants-faq.md#expecting-incoming-grant-funds) when the funds are en route so our finance team can look out for them. Once we have received and processed the contribution, you will see the funds in your Collective’s budget.
+Please be sure to [send an email](../../faq/grants-faq.md#expecting-incoming-grant-funds) to us when the funds are en route so our finance team can look out for them. Once we have received and processed the contribution, you will see the funds in your Collective’s budget.
 
 {% hint style="warning" %}
-**All checks must be made out to Open Collective Foundation**. We cannot accept checks that are made out to your Collective’s name or an individual person.
+**All** [**checks** ](checks.md)**must be made out to Open Collective Foundation**. We cannot accept checks that are made out to your Collective’s name or an individual person.
 
 Checks not made out to us will have to be returned to the funder and we will request a new check. This will delay the funds’ arrival into your budget. Your Collective’s name should be in the memo line, or in the accompanying letter. The check _must_ be made payable to Open Collective Foundation.
 {% endhint %}
