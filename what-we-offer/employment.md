@@ -26,7 +26,7 @@ Because many Collectives operate under the OCF umbrella, we can access large gro
 
 Employees can decide whether or not to sign up for healthcare or other benefits, and the Collective's budget is only charged for benefits if they opt-in. Each collective can choose what proportion of benefits costs are paid by the Collective vs out of pocket by its employees.
 
-[**Overview of benefits options**](https://secure.justworks.com/benefits/company\_benefits\_overviews/8011d67a-5191-43c4-b504-072e17b067da/show)
+****[**Overview of benefits options**](https://secure.justworks.com/benefits/company\_benefits\_overviews/8911c6c6-f2f0-469e-bee9-31847ffaca5b/show)****
 
 #### **Retirement Savings Accounts**
 
