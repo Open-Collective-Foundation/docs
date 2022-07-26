@@ -17,7 +17,7 @@ If you have questions about your own personal tax situation, we recommend reachi
 Sales taxes are administered on the state and local level, but we're happy to apply or complete a certificate for your state or area, provided that we are eligible. [Reach out to us](mailto:contact@opencollective.foundation) and we'll look into it!
 
 {% hint style="info" %}
-We are currently exempt from sales tax in New York and Texas. We are not exempt in Colorado. As of June 2022, our application in Illinois is still under review.
+We are currently exempt from sales tax in Massachusetts, New York, and Texas. We are not exempt in Colorado. As of June 2022, our application in Illinois is still under review.
 {% endhint %}
 
 Only direct purchases, such as those via the platform or via Virtual Card, are eligible for sales tax exemption. Purchases that would be reimbursed are not eligible.
@@ -54,4 +54,4 @@ You can also use the following snippets if needed, for donors and foundations:
 
 > Open Collective Foundation will receive grants for the charitable purposes of COLLECTIVE and provide oversight to ensure that grant funds are used in accordance with applicable grant agreements.
 
-Hope fully these are helpful, and you can add your own personal flare. (Whatever you do, do _not_ use the term "fiscal agent," as that means something completely different.)
+Hopefully these are helpful, and you can add your own personal flare. (Whatever you do, do _not_ use the term "fiscal agent," as that means something completely different.)
