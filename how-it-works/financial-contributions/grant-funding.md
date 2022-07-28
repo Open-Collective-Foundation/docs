@@ -8,6 +8,8 @@ The opportunity to apply for grants is one of the biggest benefits of being host
 
 When drafting grant applications, you will likely need info like our [EIN number, address, and maybe even our banking information](../../about/official-information-and-documents.md). You may also need to [upload our IRS Determination Letter](../../about/official-information-and-documents.md#nonprofit-status). Please check the [Official Information and Documents](../../about/official-information-and-documents.md) page first, and if the application asks for info or documentation not listed there (such as our most recent audit, 990, or other budget documents), [reach out](../../about/contact-us.md) and we will endeavor to put it together for you.
 
+If you need an approximate running total of our operational budget, that can be found on[ our OC Dashboard along with our current balance](https://opencollective.com/foundation#category-BUDGET).&#x20;
+
 {% hint style="info" %}
 Some applications will ask for a document describing the fiscal sponsorship relationship. If they do, you can send them our [Terms of Fiscal Sponsorship](../../getting-started/terms.md) (you agree to these when you sign up with us.)
 
