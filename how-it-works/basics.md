@@ -67,7 +67,7 @@ Collective admins can [set an expense policy](https://docs.opencollective.com/he
 
 {% hint style="success" %}
 * Individuals and organizations can request payment from an Collective by [submitting an expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses).
-* Collective admins also have the option of drafting an expense and then [**sending an invitation** to someone else to complete and submit it](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense).
+* Collective admins also have the option of drafting an expense and then [**sending an invitation** to someone else to complete and submit it](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses/nviting-a-third-party-to-submit-an-expense).
   * _This is a great option for those admins who know already know exactly how much they want to pay/reimburse someone, and just want to invite them to the platform._
 * Sometimes a **third type of expense, "Request a Grant"** will appear on an Collective's page. This is because that Collective has submitted a grant proposal in order to be able to offer grants. More info [here](https://docs.opencollective.foundation/how-it-works/about-grantmaking).
 {% endhint %}

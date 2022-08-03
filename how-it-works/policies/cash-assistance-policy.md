@@ -16,25 +16,25 @@ For the purposes of this policy, we will refer to the person in the community wh
 
 The Platform is designed to directly interface with Recipients of funds disbursed from Collective (“Collective” and together “Collectives”) budgets, through expenses submitted online and paid by bank transfer or PayPal. The Platform collects required data and documentation, and expenses go through an approval process. These steps are an important way that OpenCollective Foundation (“OCF”) fulfills its oversight and compliance role as a 501(c)(3) fiscal sponsor.
 
-However, OCF understands that there may be situations where it’s not possible for Recipients to submit an expense through the Platform and provide the required information. This may be due to a Recipient’s lack of a bank account or internet access, or during responses to emergencies or natural disasters.&#x20;
+However, OCF understands that there may be situations where it’s not possible for Recipients to submit an expense through the Platform and provide the required information. This may be due to a Recipient’s lack of a bank account or internet access, or during responses to emergencies or natural disasters.
 
 In these cases, Collectives sometimes seek to run a cash assistance program, where a Volunteer disburses cash to Recipients and then seeks reimbursement by submitting an expense on the Platform.
 
-As a 501(c)(3) nonprofit organization, we must provide evidence and data about the use of all funds to the IRS and auditors on an annual basis. Therefore, the purpose of this policy is to set out how OCF can enable Collectives to run cash assistance programs while still meeting OCF’s compliance obligations and oversight responsibilities.&#x20;
+As a 501(c)(3) nonprofit organization, we must provide evidence and data about the use of all funds to the IRS and auditors on an annual basis. Therefore, the purpose of this policy is to set out how OCF can enable Collectives to run cash assistance programs while still meeting OCF’s compliance obligations and oversight responsibilities.
 
 {% hint style="info" %}
-Basically, because we are a 501(c)(3), we have to be compliant with the IRS at all times- this means we are accountable to know where $ comes from and where it goes.&#x20;
+Basically, because we are a 501(c)(3), we have to be compliant with the IRS at all times- this means we are accountable to know where $ comes from and where it goes.
 
 We noticed a lot of our groups want to offer direct cash payments to unbanked recipients, so we created this policy to try to accommodate that. Most fiscal hosts do not allow direct cash assistance payments because the funds are too difficult to track.
 {% endhint %}
 
 ### When can cash assistance be used?
 
-Cash assistance should only be used after authorization has been provided by OCF to the Collective (as outlined in detail below) AND only when there is genuinely no way for the Recipient to submit an expense directly through the Platform. If this isn’t the case, OCF may deny requests to reimburse cash assistance payments.&#x20;
+Cash assistance should only be used after authorization has been provided by OCF to the Collective (as outlined in detail below) AND only when there is genuinely no way for the Recipient to submit an expense directly through the Platform. If this isn’t the case, OCF may deny requests to reimburse cash assistance payments.
 
-**Wherever possible, the Recipient must submit an expense directly on the Platform**, for payment via bank transfer or PayPal. Since the Platform is specifically designed to collect the required information, this minimizes the administrative burden for both the Collective and OCF.&#x20;
+**Wherever possible, the Recipient must submit an expense directly on the Platform**, for payment via bank transfer or PayPal. Since the Platform is specifically designed to collect the required information, this minimizes the administrative burden for both the Collective and OCF.
 
-Please note that the [invite expense feature](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense) can enable someone more familiar with the Platform to fill out most of the required information for an expense. Then, the Recipient will get an email and will simply need to confirm. This can result in more people being able to directly submit their own expenses, and should be used where possible.
+Please note that the [invite expense feature](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses/nviting-a-third-party-to-submit-an-expense) can enable someone more familiar with the Platform to fill out most of the required information for an expense. Then, the Recipient will get an email and will simply need to confirm. This can result in more people being able to directly submit their own expenses, and should be used where possible.
 
 All transactions over $600 via payment apps [may be taxable](https://www.wptv.com/money/new-irs-rule-for-cash-app-transactions-set-to-go-into-effect-next-year) for the Recipient. Collectives should exercise judgement when transferring money via these services and use our built-in payment tools when possible.
 
@@ -59,7 +59,7 @@ To receive approval for a cash assistance program, Collectives must provide the 
 
 1. A name for the cash assistance program.
 2. The intended impact—how this helps achieve the charitable mission of the Collective.
-3. The intended Recipients (as a group, i.e. which communities, characteristics, or situations).&#x20;
+3. The intended Recipients (as a group, i.e. which communities, characteristics, or situations).
 4. The criteria or method of selecting Recipients and determining amounts to disburse.
 5. Why cash assistance is necessary (i.e. why Recipients are not able to submit expenses to get paid directly on the platform).
 6. The anticipated amounts to be disbursed, per Recipient or payment, and overall for the program in total.
@@ -69,7 +69,7 @@ To receive approval for a cash assistance program, Collectives must provide the 
 
 ## How to submit a program proposal
 
-Where possible, OCF prefers Collectives to post the above information as an Update on the Collective's page of the Platform in a style appropriate for the community of supporters of that Collective, for transparency and for ease of referencing program narratives when processing expense reimbursements.&#x20;
+Where possible, OCF prefers Collectives to post the above information as an Update on the Collective's page of the Platform in a style appropriate for the community of supporters of that Collective, for transparency and for ease of referencing program narratives when processing expense reimbursements.
 
 If a Collective does not wish to make a public post for its proposal, it may [submit the information](mailto:contact@opencollective.foundation) to OCF privately.
 
@@ -83,20 +83,20 @@ To get reimbursed for cash assistance payments, Volunteers go to the Collective�
 
 Cash assistance reimbursement expense requests from Volunteers need to include certain information at different amount levels (in addition to the standard information required when submitting an expense, such as the Volunteer’s payout method details).
 
-| Amount disbursed and reimbursed per volunteer per year | Information required (see :white\_check\_mark:  below for descriptions) |
-| ------------------------------------------------------ | ----------------------------------------------------------------------- |
-| < $250                                                 | 1 + 2 or 3                                                              |
-| $250-$600                                              | 1 + 3                                                                   |
-| $600-$5,000                                            | 1 + 3 + 4                                                               |
-| > $5000                                                | 1 + 3 + 4 + 5                                                           |
+| Amount disbursed and reimbursed per volunteer per year | Information required (see :white\_check\_mark: below for descriptions) |
+| ------------------------------------------------------ | ---------------------------------------------------------------------- |
+| < $250                                                 | 1 + 2 or 3                                                             |
+| $250-$600                                              | 1 + 3                                                                  |
+| $600-$5,000                                            | 1 + 3 + 4                                                              |
+| > $5000                                                | 1 + 3 + 4 + 5                                                          |
 
 {% hint style="info" %}
-&#x20;Note: These thresholds are per year, per volunteer; **not** per reimbursement or per cash assistance payment or per cash assistance program.
+Note: These thresholds are per year, per volunteer; **not** per reimbursement or per cash assistance payment or per cash assistance program.
 {% endhint %}
 
 #### :white\_check\_mark: **Information Required for Reimbursement Expenses:**
 
-1.  Data per cash assistance disbursement:&#x20;
+1.  Data per cash assistance disbursement:
 
     a. Name of recipient
 
@@ -126,9 +126,9 @@ Cash assistance reimbursement expense requests from Volunteers need to include c
 
 The Platform is designed for transparency, so it’s important to keep in mind what will be made public. Do not put a Recipient’s private info in public areas:
 
-**Public**: Expense titles, description, and amounts.&#x20;
+**Public**: Expense titles, description, and amounts.
 
-**Private**: Attached receipts, private notes (a text box you can write in at the time of submission), and comments (which you can post after submission).&#x20;
+**Private**: Attached receipts, private notes (a text box you can write in at the time of submission), and comments (which you can post after submission).
 
 Therefore, we ask for Recipient details to be on the receipt attachment or in a note or comment on the expense.
 
@@ -150,4 +150,4 @@ If any of the required information is missing, or the Collective’s cash assist
 
 ## More Info:
 
-Read our [Policies Update / Watch our Webinar](https://opencollective.com/foundation/updates/policies-webinar-notes-and-recording) to learn more.&#x20;
+Read our [Policies Update / Watch our Webinar](https://opencollective.com/foundation/updates/policies-webinar-notes-and-recording) to learn more.
