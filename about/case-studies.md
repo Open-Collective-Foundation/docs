@@ -1,5 +1,5 @@
 ---
-description: OurCollectives finding success on the platform and in their communities
+description: Our Collectives finding success on the platform and in their communities
 ---
 
 # Case Studies
