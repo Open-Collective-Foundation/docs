@@ -6,9 +6,9 @@ description: Lobbying, Political Campaign Intervention, and What Your Collective
 
 You may have heard that 501(c)(3) organizations are not allowed to be political. That isn't quite correct, but there are limitations on what we, and by extension, our sponsored/hosted Collectives, can do.
 
-* [ ] [**A Mini Course Produced by the IRS: Political Campaigns and Charities & the Ban on Political Campaign Intervention**](https://www.stayexempt.irs.gov/home/existing-organizations/political-campaigns-and-charities)****
-
 Specifically, **Collectives hosted by OCF are not allowed to engage in** [**lobbying**](https://www.irs.gov/charities-non-profits/lobbying) **(e.g., for specific legislation), or** [**political campaign intervention**](https://www.irs.gov/charities-non-profits/charitable-organizations/the-restriction-of-political-campaign-intervention-by-section-501c3-tax-exempt-organizations) **(including endorsing candidates).** Breaking these rules could endanger our 501(c)(3) status.
+
+* [ ] [**A Mini Course Produced by the IRS: Political Campaigns and Charities & the Ban on Political Campaign Intervention**](https://www.stayexempt.irs.gov/home/existing-organizations/political-campaigns-and-charities)****
 
 {% hint style="info" %}
 Lobbying is about effecting legislation and contacting legislators. Contacting members of the executive branch, or employees of government agencies, _is_ okay since they are not taking part in the legislative process.
