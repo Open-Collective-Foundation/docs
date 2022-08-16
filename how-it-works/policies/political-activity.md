@@ -4,9 +4,11 @@ description: Lobbying, Political Campaign Intervention, and What Your Collective
 
 # Political Activity
 
-You may have heard that 501(c)(3) organizations are not allowed to be political. That isn't quite correct, but there are limitations on what we, and by extension, our sponsored/hosted Collectives, can do.&#x20;
+You may have heard that 501(c)(3) organizations are not allowed to be political. That isn't quite correct, but there are limitations on what we, and by extension, our sponsored/hosted Collectives, can do.
 
-Specifically, **Collectives hosted by OCF are not allowed to engage in** [**lobbying**](https://www.irs.gov/charities-non-profits/lobbying) **(e.g., for specific legislation), or** [**political campaign intervention**](https://www.irs.gov/charities-non-profits/charitable-organizations/the-restriction-of-political-campaign-intervention-by-section-501c3-tax-exempt-organizations#:\~:text=Under%20the%20Internal%20Revenue%20Code,candidate%20for%20elective%20public%20office.) **(including endorsing candidates).** Breaking these rules could endanger our 501(c)(3) status.
+* [ ] [**A Mini Course Produced by the IRS: Political Campaigns and Charities & the Ban on Political Campaign Intervention**](https://www.stayexempt.irs.gov/home/existing-organizations/political-campaigns-and-charities)****
+
+Specifically, **Collectives hosted by OCF are not allowed to engage in** [**lobbying**](https://www.irs.gov/charities-non-profits/lobbying) **(e.g., for specific legislation), or** [**political campaign intervention**](https://www.irs.gov/charities-non-profits/charitable-organizations/the-restriction-of-political-campaign-intervention-by-section-501c3-tax-exempt-organizations) **(including endorsing candidates).** Breaking these rules could endanger our 501(c)(3) status.
 
 {% hint style="info" %}
 Lobbying is about effecting legislation and contacting legislators. Contacting members of the executive branch, or employees of government agencies, _is_ okay since they are not taking part in the legislative process.
@@ -49,7 +51,7 @@ Just because your Collective cannot lobby around specific potential laws or inte
 * Certain voter education activities (including presenting public forums and publishing voter education guides) conducted in a non-partisan manner
 * Activities intended to encourage people to participate in the electoral process, such as voter registration and get-out-the-vote drives, if conducted in a non-partisan manner
 
-Of course, you are entitled to your own political opinions, but you should be careful about expressing such opinions on behalf of your Collective so that you are not taking a position on a specific election or piece of legislation.&#x20;
+Of course, you are entitled to your own political opinions, but you should be careful about expressing such opinions on behalf of your Collective so that you are not taking a position on a specific election or piece of legislation.
 
 {% hint style="info" %}
 If your Collective needs to engage in these sorts of activities in the US, we would recommend exploring other types of organizations, such as 501(c)(4) organizations and PACs. A lawyer will be able to help you figure out what you need.

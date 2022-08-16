@@ -6,8 +6,6 @@ description: Our Collectives finding success on the platform and in their commun
 
 ### Inspirational Stories from some of the hundreds of OCF-Hosted Collectives
 
-* Kola Nut Collaborative - a Timebanking initiative run by OCF's very own Mike Strode
-* Community Forum Spotlight on Black Banjo Reclamation Project&#x20;
 * [**1K Project: Peer-to-Peer Help For Ukraine**](https://blog.opencollective.com/1kproject/)****
 * ****[**Sunnyside & Woodside Mutual Aid** (SWMA) Feature](https://www.nycfoodpolicy.org/mutual-aid-and-solidarity-in-sunnyside-and-woodside/) from Hunter College
 * [**Community Forum Spotlight**](https://drive.google.com/file/d/1YK-CQjhf1Gy6H4c6vZ4RvjJoe1x\_SshN/view) **on** [**The Missing Piece**](https://opencollective.com/missingpiece) - Emotional CPR - _talk starts at 36:40_&#x20;
