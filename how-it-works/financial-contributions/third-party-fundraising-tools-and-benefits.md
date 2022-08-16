@@ -62,6 +62,12 @@ We will set up your Benevity profile using the information & logo you use on you
 {% endtab %}
 {% endtabs %}
 
+### Expecting a Donation Match?&#x20;
+
+More info here: [donation-matching.md](donation-matching.md "mention")
+
+\-----
+
 The following are **not** set up to work specifically with fiscally hosted projects and do not report where donated funds are meant to be allocated to. This means there will be delays in the funds arriving to your account, and you **must** inform us whenever these are used.
 
 {% hint style="warning" %}
