@@ -45,3 +45,9 @@ In order to receive a written letter of acknowledgment, please [email OCF](../..
 * [ ] Detailed description of goods/services donated
 
 If your contribution has not yet been reported by the Collective, please see the procedure for reporting an in-kind contribution above.
+
+{% hint style="info" %}
+_What of the value of the donation changes after the acknowledgement letter is sent?_ \
+__\
+__Donors are responsible for determining tax deductibility and/or obtaining a valuation. The dollar figure provided in the letter is for donor recognition purposes only.
+{% endhint %}
