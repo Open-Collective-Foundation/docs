@@ -1,7 +1,3 @@
----
-description: As of July 2020
----
-
 # Terms of Fiscal Sponsorship
 
 Before you host your Collective with Open Collective Foundation, make sure to review our [Terms of Fiscal Sponsorship Agreement](https://docs.google.com/document/u/2/d/e/2PACX-1vQ\_fs7IOojAHaMBKYtaJetlTXJZLnJ7flIWkwxUSQtTkWUMtwFYC2ssb-ooBnT-Ldl6wbVhNQiCkSms/pub), the legal agreement that defines the relationship between OCF and a hosted Collective.

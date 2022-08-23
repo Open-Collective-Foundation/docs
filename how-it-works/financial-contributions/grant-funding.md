@@ -30,8 +30,8 @@ Some large (e.g., federal) government programs also have extremely complicated a
 
 :white\_check\_mark: If you are interested in a government grant, please [reach out to us](../../about/contact-us.md) early in the process so we can determine whether or not we will be able to apply.
 
-{% hint style="warning" %}
-OCF does not currently have a DUNS number because we are a virtual organization (yes, this is a very outdated government policy). We are actively working on rectifying this.
+{% hint style="success" %}
+OCF's DUNS number is **123050316**.
 {% endhint %}
 
 ## Grant Contracts and [Receiving Funds](./)
