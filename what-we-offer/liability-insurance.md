@@ -1,6 +1,6 @@
 # Liability Insurance
 
-[contact-us.md](../about/contact-us.md "mention")Through our insurance provider, [Nonprofits Insurance Alliance](https://insurancefornonprofits.org), Open Collective Foundation can offer our Collectives access to liability insurance and other types of coverage.
+Through our insurance provider, [Nonprofits Insurance Alliance](https://insurancefornonprofits.org), Open Collective Foundation can offer our Collectives access to liability insurance and other types of coverage.
 
 Per our [Terms of Fiscal Sponsorship](../getting-started/terms.md), only Collectives that sign up for insurance coverage are covered under OCF's policies.
 
