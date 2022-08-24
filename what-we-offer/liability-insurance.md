@@ -20,6 +20,7 @@ Please note: this page does not include information about health insurance, only
 ### What kinds of insurance are available?
 
 * General Liability
+* Directors and Officers Liability
 * EPLI (for employment situations)
 * Improper Sexual Conduct and Physical Abuse Liability
 * Social Service Professional Liability
@@ -57,7 +58,7 @@ There are certain enhanced risk factors where OCF may require extra insurance, s
 
 ### How much does it cost?
 
-The base General Liability cost is $250 per year, renewing August 18 of each year. Something to be aware of is that this cost is not prorated, so the cost will still be $250 mid-cycle. If the insurance underwriters determine that your Collective is riskier than usual, or if the scale of the Collective;'s work is quite large, the cost may be higher, so we cannot guarantee that the base cast will stay at $250 per year, although we have typically not seen this cost go above $600. (Collectives are also included in our Accident and Commercial Umbrella insurance coverages at no additional cost.)
+The base General Liability cost is $250 per year, renewing August 18 of each year. Something to be aware of is that this cost is not prorated, so the cost will still be $250 mid-cycle. If the insurance underwriters determine that your Collective is riskier than usual, or if the scale of the Collective's work is quite large, the cost may be higher, so we cannot guarantee that the base cost will stay at $250 per year, although we have typically not seen this cost go above $600. (Collectives are also included in our Accident and Commercial Umbrella insurance coverages at no additional cost.)
 
 Most Collectives are also added to our Non-Owned Auto coverage. This is typically another $25 per year (we've seen it be as high as $50 per year for larger Collectives), and it appears that this is sometimes prorated when added mid-year.&#x20;
 
