@@ -39,7 +39,6 @@ The following costs are charged to the Collective budget for employment:
 * **Wages** (and associated taxes, levies, and fees as required by law) - salary amounts are set by the Collective
 * **Benefits** - if the employee chooses to opt in
 * **PEO fees** - payroll provider costs ($49 or $99 per month per employee depending on benefits status)
-* **Insurance** - coverage for the Collective under OCF's employer practices liability insurance and related policies (varies depending on Collective activities, but commonly $250 per year)
 * **Administrative fee** - $50 per employee per month
 
 Costs are automatically deducted monthly from the Collective's budget. Once employment is set up, employees will be paid by direct debit and Collectives do not have to take any action to manage ongoing expenses.
@@ -47,6 +46,10 @@ Costs are automatically deducted monthly from the Collective's budget. Once empl
 {% hint style="info" %}
 If a potential employee engages in work where there is a risk of injury, such as a performing artist or other physical laborer, we will need to review whether they can be covered under our workers' compensation insurance. If this described your situation, please [reach out](../about/contact-us.md) to discuss it with us.
 {% endhint %}
+
+#### Related costs: liability insurance
+
+Additionally, any Collective that employs people will be required to sign up for insurance under OCF. For information on costs (which are per-Collective, rather than per employee) and processes, see [the insurance page of our documentation](liability-insurance.md).
 
 ### Requirements & Policies
 
