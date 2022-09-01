@@ -14,7 +14,7 @@ Open Collective Foundation (OCF), while primarily focused on supporting US-based
   * Ember Buck - [Website](https://ewhitneybuck.wordpress.com), [LinkedIn](https://www.linkedin.com/in/emberbuck/)
 * **Communications Organizer**
   * Sadé Swift - [Website](https://cardsbyde.com/our-team)
-  * Alfie Marsland - [Design](https://althemiamarsland.com/)
+  * Alfie Marsland - [Website](https://althemiamarsland.com/)
 
 ### **Team Bios:**
 
