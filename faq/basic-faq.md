@@ -49,3 +49,14 @@ OCF supports Collectives to build power within BIPOC, low-income, Womxn, LGBTQIA
 ### **Will our application be approved?**
 
 As long as your group is legitimate, meets all of the [eligibility requirements](https://docs.opencollective.foundation/getting-started/eligibility), is aligned with one of our [impact areas](https://docs.opencollective.foundation/about/mission-and-values), and has no conflict with the [T](https://docs.opencollective.foundation/getting-started/terms)[erms](https://docs.opencollective.foundation/getting-started/terms) or [limitations](https://docs.opencollective.foundation/how-it-works/processes-and-limitations) of our program, you can expect to be approved. We will follow up with you via email if we have any questions or concerns about your application.
+
+### Transferring in from a different fiscal sponsor?
+
+If your application is approved and you want to move from a previous fiscal sponsorship agreement into Open Collective Foundation's hosting:
+
+Since our hosted groups [can only be hosted by OCF](https://docs.opencollective.foundation/faq/legal-and-compliance-faq#can-we-be-fiscally-sponsored-by-another-group-while-being-hosted-by-open-collective-foundation), you should
+
+1. Dissolve your previous fiscal sponsorship agreement
+2. Provide the bank documentation to the previous fiscal sponsor so that they know where to send the money.  [All the ways of sending money to your Open Collective account can be found here](https://docs.opencollective.foundation/how-it-works/financial-contributions) (You can pass this page onto your previous sponsor).
+3. Inform us that the money is en route contact@opencollective.foundation so that we can check incoming funds and add the funds to your collective upon arrival.
+4. An additional (less common step) is that we may need to sign a grant transfer agreement if a large amount of funds is coming from an active grant, but that should be initiated by the funder.

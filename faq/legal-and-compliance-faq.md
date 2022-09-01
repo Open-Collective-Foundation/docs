@@ -40,7 +40,7 @@ Please review our [International Activity Policy](../how-it-works/policies/inter
 
 ### **Can we be fiscally sponsored by another group while being hosted by Open Collective Foundation?**
 
-No. Hosted Collectives can only be hosted by OCF for the duration of their time with us.
+No. Hosted Collectives can only be hosted by OCF for the duration of their time with us.  See our [outside-entities-policy.md](../how-it-works/policies/outside-entities-policy.md "mention") and [outside-accounts-policy.md](../how-it-works/policies/outside-accounts-policy.md "mention") for additional details.
 
 ### I'm fiscally hosted by OCF. How should I describe our relationship?
 
