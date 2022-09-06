@@ -36,16 +36,31 @@ As of April 2022, 401(k) retirement savings accounts are available to all employ
 
 The following costs are charged to the Collective budget for employment:
 
-* **Wages** (and associated taxes, levies, and fees as required by law) - salary amounts are set by the Collective
+* **Wages** - salary amounts are set by the Collective
+* **Payroll taxes, levies, and fees** as required by law - [see below](employment.md#undefined)
 * **Benefits** - if the employee chooses to opt in
 * **PEO fees** - payroll provider costs ($49 or $99 per month per employee depending on benefits status)
 * **Administrative fee** - $50 per employee per month
+
+Collectives with employees are also [required to have liability insurance through our program](employment.md#related-costs-liability-insurance).
 
 Costs are automatically deducted monthly from the Collective's budget. Once employment is set up, employees will be paid by direct debit and Collectives do not have to take any action to manage ongoing expenses.
 
 {% hint style="info" %}
 If a potential employee engages in work where there is a risk of injury, such as a performing artist or other physical laborer, we will need to review whether they can be covered under our workers' compensation insurance. If this described your situation, please [reach out](../about/contact-us.md) to discuss it with us.
 {% endhint %}
+
+#### Payroll taxes
+
+Associated taxes, levies, and fees include but are not limited to the below (as of 2022):
+
+| Type of tax                        | Cost                                     |
+| ---------------------------------- | ---------------------------------------- |
+| Social security                    | 6.2% (on up to $147k in a calendar year) |
+| Medicare                           | 1.45%                                    |
+| Federal unemployment tax (FUTA)    | 0.6% (on up to $7,000 earned)            |
+| State unemployment insurance (SUI) | varies                                   |
+| Other misc. charges (e.g., MCTMT)  | variable                                 |
 
 #### Related costs: liability insurance
 
