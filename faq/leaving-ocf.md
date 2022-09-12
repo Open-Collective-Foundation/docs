@@ -10,6 +10,8 @@ Details about leaving are spelled out in the 'termination' section of [our terms
 
 Had a Benevity account? Please be sure to ping us contact@opencollective.foundation so we can get your Benevity account ownership transferred over.
 
+### Exit Interview
+
 Project admins are encouraged to [schedule an exit interview](https://calendly.com/openmike/exit-interview) to support us in evaluating and improving our fiscal sponsorship program with your feedback. During this exit interview, we will also offer space for a retrospective on your time with OCF (What did we do well? What could we have done better?) followed by a brief assessment of your transition plan where we offer feedback on transition strategies and best practices.
 
 If you are moving to a new fiscal sponsor:
