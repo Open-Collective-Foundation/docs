@@ -37,7 +37,7 @@ Open Collective Foundation hosts a variety of projects meeting our [eligibility 
 A few example focuses include:
 
 * solidarity and mutual aid, community fridges and food justice, community gardens and farms, land justice, time banking, abolition, the solidarity economy,
-* humanitarian aid, bail funds, poverty and homelessness, climate justice, environmental justice, civil rights, immigrant rights,
+* humanitarian aid, pandemic response, bail funds, poverty and homelessness, climate justice, environmental justice, civil rights, immigrant rights,
 * education, research, labor, the arts, job training, civic engagement, privacy,&#x20;
 * independent journalism, community radio and media, technology, community tech, digital infrastructure, governance,
 * and _much_ much more.
