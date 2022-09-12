@@ -37,6 +37,6 @@ On behalf of our Collectives, thank you for your support! We highly value all of
 In addition to receiving funds via the above donation methods, hosted Collectives can:
 
 * [Apply for grants from institutional funders](grant-funding.md)
-* [Use 3rd-party fundraising tools](third-party-fundraising-tools-and-benefits/)
+* [Use 3rd-party fundraising tools](third-party-fundraising-tools-and-benefits.md)
 * [Coordinate fully manual off-platform donations](non-platform.md)
 * [Other ways to give](other-ways-to-give.md)

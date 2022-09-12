@@ -159,7 +159,7 @@ The key restrictions imposed on your activity include the requirement that they 
 
 Despite OCF restrictions on your operations, remember that while you remain fiscally sponsored, you can still develop your internal governance structure, which is separate from your legal entity and tax status.
 
-![Graphic courtesy of the Sustainable Economies Law Center](<../.gitbook/assets/Screen Shot 2021-10-04 at 5.11.15 PM.png>)
+![Graphic courtesy of the Sustainable Economies Law Center](../.gitbook/assets/screen-shot-2021-10-04-at-5.11.15-pm.png)
 
 ## Alternatives
 
