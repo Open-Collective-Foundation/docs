@@ -10,14 +10,22 @@ Details about leaving are spelled out in the 'termination' section of [our terms
 
 Had a Benevity account? Please be sure to ping us contact@opencollective.foundation so we can get your Benevity account ownership transferred over.
 
-If starting your own 501(c)(3), we will also offer you the option of an exit interview. During this exit interview, we will offer space for a retrospective on your time with OCF (What did we do well? What could we have done better?) followed by a brief assessment of your transition plan where we offer feedback on transition strategies and best practices.
+Project admins are encouraged to [schedule an exit interview](https://calendly.com/openmike/exit-interview) to support us in evaluating and improving our fiscal sponsorship program with your feedback. During this exit interview, we will also offer space for a retrospective on your time with OCF (What did we do well? What could we have done better?) followed by a brief assessment of your transition plan where we offer feedback on transition strategies and best practices.
 
-**Things To Consider**
+If you are moving to a new fiscal sponsor:
+
+* Have you evaluated the services you currently use at OCF to ensure that they are offered by your new fiscal sponsor?
+* Have you determined whether you will maintain your Open Collective dashboard for transparent budgeting?
+* Have you considered how you will manage transitioning your recurring donations through the platform?
+* Have you obtained their IRS determination letter and bank details to submit for final distribution?
+
+If starting your own 501(c)(3):
 
 * Have you identified legal and accounting advisors for your org? Our minimum recommendation would be a CPA and attorney, but orgs with larger budgets might also require a CFO firm.
 * Have you considered a payroll provider to support with onboarding, payroll, and benefits?
 * Have you set up an accounting system such as Xero or QuickBooks to support you with managing your books? OCF hosted projects can continue to use OC as an [independent collective](https://docs.opencollective.com/help/independent-collectives/about-independent-collectives) even after transitioning from fiscal sponsorship.
 * Do you need an example of an employee manual to support in developing your own?
+* Have you obtained an IRS determination letter and bank details to submit for final distribution?
 
 ### Can we leave OCF?
 
