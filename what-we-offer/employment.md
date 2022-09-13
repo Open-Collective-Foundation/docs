@@ -16,6 +16,8 @@ Employee onboarding is simple and straightforward using the Justworks web app. E
 
 Depending on an employee's number of hours, compensation, and state of residence, they may be required by law to submit a timecard. Thankfully, the Justworks app makes it easy for employees to submit hours for approval on a biweekly basis.
 
+The timecards are biweekly, from Sunday the beginning of the first week through Saturday at the end of the second week. Payment for that pay period is the following Friday.
+
 We know that tracking every hour can bring up a lot of feelings about work, value, and time, and are happy to be in conversation with OCF employees about how to navigate this requirement, should it apply to their situation. [Reach out](../about/contact-us.md) and we'll find a time to chat.
 
 ### Healthcare & Benefits
@@ -61,6 +63,15 @@ Associated taxes, levies, and fees include but are not limited to the below (as 
 | Federal unemployment tax (FUTA)    | 0.6% (on up to $7,000 earned)            |
 | State unemployment insurance (SUI) | varies                                   |
 | Other misc. charges (e.g., MCTMT)  | variable                                 |
+
+#### Billing cycle
+
+OCF bills Collectives for employment costs on a monthly basis. Payroll, however, is every two weeks, on Fridays. The way these two timelines interact can be confusing. Here are some things to keep in mind:
+
+* Timecards for hourly employees are [entered biweekly](employment.md#timecards), covering the two full weeks (Sunday to Saturday) preceding the Friday payday. Sometimes this means that payment for work occurring entirely in one month with not be billed until the following one.
+* Some months will have three paydays, rather than two.
+
+If you have any questions, feel free to [reach out](../about/contact-us.md) and we will sort it out.
 
 #### Related costs: liability insurance
 
