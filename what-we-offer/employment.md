@@ -82,7 +82,7 @@ Depending on an individual's location and number of work hours per week, they ma
 * Pre-tax commuter benefits
 * The option to sign up and pay for employee-paid short term disability, long term disability, or supplemental life and AD\&D insurances
 
-### Costs
+## Costs
 
 The following costs are charged to the Collective budget for employment:
 
@@ -97,7 +97,7 @@ Collectives with employees are also [required to have liability insurance throug
 Costs are automatically deducted monthly from the Collective's budget. Once employment is set up, employees will be paid by direct debit and Collectives do not have to take any action to manage ongoing expenses.
 
 {% hint style="info" %}
-If a potential employee engages in work where there is a risk of injury, such as a performing artist or other physical laborer, we will need to review whether they can be covered under our workers' compensation insurance. If this described your situation, please [reach out](../about/contact-us.md) to discuss it with us.
+If a potential employee engages in work where there is a risk of injury, such as a performing artist or other physical laborer, we will need to review whether they can be covered under our workers' compensation insurance. If this describes your situation, please [reach out](../about/contact-us.md) to discuss it with us.
 {% endhint %}
 
 #### Medical, dental, and vision insurance costs
@@ -120,12 +120,12 @@ Collectives must offer the same health insurance contribution level for all Coll
 
 The per-employee **monthly** health insurance general cost ranges are estimated as follows (as of 2022 - these tend to increase 5-10% year-to-year, unfortunately - _yes_, this system is messed up):
 
-| Type of coverage  | Medical      | Dental   | Vision  |
-| ----------------- | ------------ | -------- | ------- |
-| Employee only     | $400-$600    | $16-$53  | $7      |
-| Employee + spouse | $800-$1,250  | $32-$112 | $14     |
-| Employee + kids   | $725-$1,200  | $36-$125 | $12-$15 |
-| Family            | $1,10-$1,750 | $52-$186 | $20-$22 |
+| Type of coverage  | Medical       | Dental   | Vision  |
+| ----------------- | ------------- | -------- | ------- |
+| Employee only     | $400-$600     | $16-$53  | $7      |
+| Employee + spouse | $800-$1,250   | $32-$112 | $14     |
+| Employee + kids   | $725-$1,200   | $36-$125 | $12-$15 |
+| Family            | $1,100-$1,750 | $52-$186 | $20-$22 |
 
 {% hint style="warning" %}
 Ensure that you are able to bring on employees no matter their family situation. It is **not** legal to take applicants' family situation into account when making hiring decisions.
@@ -156,7 +156,7 @@ If you have any questions, feel free to [reach out](../about/contact-us.md) and 
 
 Additionally, any Collective that employs people will be required to sign up for insurance under OCF. For information on costs (which are per-Collective, rather than per employee) and processes, see [the insurance page of our documentation](liability-insurance.md).
 
-### Requirements & Policies
+## Requirements & Policies
 
 * Employees must be located in the US and be allowed to legally work in the US.
 * OCF can currently only support salaried, exempt, part-time or full-time employees, not hourly or manual workers. For other types of work, you may pay people as independent contractors instead (employment laws allowing - [see below](employment.md#worker-classification)).
@@ -211,7 +211,7 @@ If you'd like to learn more about classification, read the guide below. It's a c
 
 {% file src="../.gitbook/assets/Independent_Contractor_Classification_Guide.pdf" %}
 
-## Set up Employment
+## Setting up Employment
 
 Here are the steps to employ someone.
 
