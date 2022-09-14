@@ -10,6 +10,8 @@ The Collective admins define who to hire (themselves or others), how much to pay
 
 OCF ensures legal compliance with employment regulations, and takes care of payroll, liability, taxes, workers comp, and all the paperwork.
 
+OCF can only employ people in the US, who are eligible for work in the United States. People not meeting this requirement may be eligible to be paid as contractors.
+
 Employee onboarding is simple and straightforward using the Justworks web app. Employees will find that app is quite easy to use, and can contact Justworks' 24/7 support via live chat if they have issues with their account.
 
 #### Timecards
@@ -163,11 +165,25 @@ Additionally, any Collective that employs people will be required to sign up for
 
 #### What not to ask or bring up in an interview
 
-Here are a few things which you _must not_ bring up in your hiring process:
+Here are a few things which you _**must not**_ bring up in your hiring process:
 
-* Age (or ways of attaining this info, such as asking for their graduation year)
-* Whether or not they own their home, who they live with, what their relationship is with the people they live with
-* Arrest record
+* Racial or ethnic identity
+* Religion or creed
+* Political&#x20;
+* Sex, orientation, or gender identity
+* Ability/disability, height, weight, etc.: you may only accurately describe the job and ask whether they can perform all its functions
+* Age (or ways of attaining this info, such as asking for their graduation year, when they started working, when they plan to retire)
+* Financial health, credit score, current salary/pay
+* Societal status or club membership (e.g., sorority/fraternity, country club, local society membership); you may only ask about professional organization membership
+* Whether or not they own their home or own a car
+* Who they live with, marriage or relationship status, whether they have changed their name, their maiden name; whether or not they have children, whether they are pregnant or trying, whether they want children, what their relationship is with the people they live with, the names of any relatives, or who their emergency contact will be (only ask for the contact after they are hired)
+* Arrest record, as arrests do not equate to convictions; you may ask about convictions in areas that are specifically relevant to the position, and tread carefully, as this can easily slip into racial discrimination
+* Anything regarding military discharge or non-US military service; you may only ask about how any experience may be relevant to the job
+* Citizenship or national origin; you may only ask if they are legally eligible to work in the US
+* Whether they speak languages other than English, unless it is relevant to the position
+* Individual or family health history or other genetic information, or whether they have any recent health issues
+
+If the interviewee brings these items up of their own accord, it may be best to steer the conversation away from it at your earliest convenience.
 
 ### Worker Classification
 
