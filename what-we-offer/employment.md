@@ -28,11 +28,24 @@ Because many Collectives operate under the OCF umbrella, we can access large gro
 
 Employees can decide whether or not to sign up for healthcare or other benefits, and the Collective's budget is only charged for benefits if they opt-in. Each collective can choose what proportion of benefits costs are paid by the Collective vs out of pocket by its employees.
 
+Some employees will have limited options depending on their state or zip code. We recommend that employees living in rural areas reach out to us in advance so that we can determine their eligibility.
+
 ****[**Overview of benefits options**](https://secure.justworks.com/benefits/company\_benefits\_overviews/8911c6c6-f2f0-469e-bee9-31847ffaca5b/show)****
 
 #### **Retirement Savings Accounts**
 
 As of April 2022, 401(k) retirement savings accounts are available to all employees (both full- and part-time) of OCF at no cost to the Collective. The process of signing up and setting up Traditional or Roth contributions is simple and straightforward. New employees can access this benefit after 90 days of employment.
+
+#### Wellness perks and ancillary benefits
+
+Depending on an individual's location and number of work hours per week, they may have access to additional benefits through the Justworks platform. Examples include:
+
+* One free video therapy session per month and unlimited messaging on Talkspace
+* Free membership in One Medical primary care (note: One Medical was recently purchased by Amazon and is still expanding from its initial roster of large US cities)
+* Free membership in HealthAdvocate, which helps people navigate the US healthcare system
+* Free membership in Teladoc (although there are still costs for appointments)
+* Pre-tax commuter benefits
+* The option to sign up and pay for employee-paid short term disability, long term disability, or supplemental life and AD\&D insurances
 
 ### Costs
 
@@ -113,7 +126,7 @@ OCF is an at-will employer, and either OCF or the employee may end the employmen
 
 Fixed term employment contracts will expire upon the end date specified, unless they are extended. If the Collective or employee no longer meets the basic [requirements for employment](employment.md#requirements-and-policies), such as lacking budget to cover costs, the employment relationship will end.
 
-Where possible, we ask Collectives to give OCF advance notice, so we can take care of the termination process in a timely manner.
+Where possible, **we ask Collectives to give OCF as much advance notice as possible**, so we can take care of the termination process in a timely manner.
 
 {% hint style="info" %}
 Please be aware that benefits such as FSAs and HSAs, among others, may not be transferable to a new employer. [Reach out to us](../about/contact-us.md) with questions about this, as every situation is different.
