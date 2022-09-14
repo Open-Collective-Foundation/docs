@@ -37,6 +37,8 @@ Some examples of the health plans employees will be able to choose from include:
 * POS plans with deductibles between $3,000-$4,000; out-of-pocket maxes between $5,500-$6,850; co-insurance between 10%-20%; and out-of-network deductibles between $6,000-$8,000
 * EPO plans with deductibles between $0-$4,000; out-of-pocket maxes between $4,500-$6,850, and co-insurance between 0%-20% (EPO plans have no out-of-network deductible)
 
+Some plans have access to HSAs and/or FSAs. Read more about those [here](https://www.justworks.com/blog/slideshow-whats-difference-between-hsa-and-fsa).
+
 We also have additional medical plans for employees in some specific states, where required. The [costs](employment.md#undefined) for each plan vary. Plans change year-to-year, so please feel free to [reach out](../about/contact-us.md) for information on the current offerings.
 
 {% hint style="warning" %}
@@ -163,6 +165,8 @@ Additionally, any Collective that employs people will be required to sign up for
 * Employees and Collective admins have to agree to the terms of the standard OCF employment agreement ([template](https://docs.google.com/document/d/1T-KYVOAGx74uJXGElVSuAKWOLgmsISJHVCHnwF4s-Xc/edit?usp=sharing)).
 * Employees must agree to follow the policies in the OCF Employee Handbook, which covers things like non-harassment, various kind of statutory leave, health and safety, etc. Each state has slightly different required policies so the handbook varies by state (here is the [New York handbook as an example](https://handbookbuilder.blr.com/ViewHandbook.aspx?id=144Zswg66i9nFJXzqH4kAG6tgu0ZfNN5rExPEKCQ6jge)).
 
+### Discrimination
+
 #### What not to ask or bring up in an interview
 
 Here are a few things which you _**must not**_ bring up in your hiring process:
@@ -184,6 +188,18 @@ Here are a few things which you _**must not**_ bring up in your hiring process:
 * Individual or family health history or other genetic information, or whether they have any recent health issues
 
 If the interviewee brings these items up of their own accord, it may be best to steer the conversation away from it at your earliest convenience.
+
+#### Equal Opportunity statement
+
+Open Collective Foundation is an Equal Opportunity Employer that does not discriminate on the basis of actual or perceived race, color, creed, religion, national origin, ancestry, citizenship status, age, sex or gender (including pregnancy, childbirth and pregnancy- related conditions), gender identity or expression (including transgender status), sexual orientation, marital status, military service and veteran status, physical or mental disability, genetic information, or any other characteristic protected by applicable federal, state or local laws and ordinances. We are dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities, access to facilities and programs, and general treatment during employment.
+
+The Foundation will endeavor to make a reasonable accommodation of an otherwise qualified applicant or employee related to an individual’s: physical or mental disability; sincerely held religious beliefs and practices; and/or any other reason required by applicable law, unless doing so would impose an undue hardship upon the Foundation's operations.&#x20;
+
+Any applicant or employee who needs an accommodation in order to perform the essential functions of the job should contact Executive Director to request such an accommodation. The individual should specify what accommodation is needed to perform the job and submit supporting documentation explaining the basis for the requested accommodation, to the extent permitted and in accordance with applicable law. The Foundation then will review and analyze the request, including engaging in an interactive process with the employee or applicant, to identify if such an accommodation can be made. The Foundation will evaluate requested accommodations, and as appropriate, identify other possible accommodations, if any. The individual will be notified of The Foundation's decision regarding the request within a reasonable period. The Foundation treats all medical information submitted as part of the accommodation process in a confidential manner.
+
+Any employees with questions or concerns about equal employment opportunities in the workplace are encouraged to bring these issues to the attention of Executive Director. The Foundation will not allow any form of retaliation against individuals who raise issues of equal employment opportunity. If employees feel they have been subjected to any such retaliation, they should contact Executive Director. To ensure our workplace is free of artificial barriers, violation of this policy including any improper retaliatory conduct will lead to discipline, up to and including discharge. All employees must cooperate with 5 all investigations conducted pursuant to this policy.
+
+Further anti-harassment and anti-discrimination policies are outlined in the [Community Guidelines](https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines) for the Open Collective platform which are prescribed for all members of the Open Collective ecosystem including fiscal hosts such as OCF.
 
 ### Worker Classification
 
