@@ -16,25 +16,56 @@ Employee onboarding is simple and straightforward using the Justworks web app. E
 
 Depending on an employee's number of hours, compensation, and state of residence, they may be required by law to submit a timecard. Thankfully, the Justworks app makes it easy for employees to submit hours for approval on a biweekly basis.
 
-The timecards are biweekly, from Sunday the beginning of the first week through Saturday at the end of the second week. Payment for that pay period is the following Friday.
+The timecards are biweekly, from Sunday the beginning of the first week through Saturday at the end of the second week. Payment for that pay period is the following Friday. Timecards are generally approved by our team, but we can also provide a manager on the Collective team with timecard approval privileges within Justworks when requested.
 
 We know that tracking every hour can bring up a lot of feelings about work, value, and time, and are happy to be in conversation with OCF employees about how to navigate this requirement, should it apply to their situation. [Reach out](../about/contact-us.md) and we'll find a time to chat.
 
-### Healthcare & Benefits
+### Health insurance benefits
 
-Benefits are available to full time employees (30+ hours per week).
+Benefits are available to full time employees (30+ hours per week), including coverage for spouses, kids, or family.
 
 Because many Collectives operate under the OCF umbrella, we can access large group health insurance plans only available to employers. This lowers costs an increases available options.
 
-Employees can decide whether or not to sign up for healthcare or other benefits, and the Collective's budget is only charged for benefits if they opt-in. Each collective can choose what proportion of benefits costs are paid by the Collective vs out of pocket by its employees.
+Employees can decide whether or not to sign up for healthcare or other benefits, and the Collective's budget is only charged for benefits if they opt-in.&#x20;
 
+#### Plan options
+
+Some examples of the health plans employees will be able to choose from include:
+
+* POS plans with deductibles between $3,000-$4,000; out-of-pocket maxes between $5,500-$6,850; co-insurance between 10%-20%; and out-of-network deductibles between $6,000-$8,000
+* EPO plans with deductibles between $0-$4,000; out-of-pocket maxes between $4,500-$6,850, and co-insurance between 0%-20% (EPO plans have no out-of-network deductible)
+
+We also have additional medical plans for employees in some specific states, where required. The [costs](employment.md#undefined) for each plan vary. Plans change year-to-year, so please feel free to [reach out](../about/contact-us.md) for information on the current offerings.
+
+{% hint style="warning" %}
 Some employees will have limited options depending on their state or zip code. We recommend that employees living in rural areas reach out to us in advance so that we can determine their eligibility.
+{% endhint %}
 
-****[**Overview of benefits options**](https://secure.justworks.com/benefits/company\_benefits\_overviews/8911c6c6-f2f0-469e-bee9-31847ffaca5b/show)****
+Dental and vision insurances are available for all employees selecting benefits, with 2-3 different options for each.
+
+#### Timing
+
+Existing employees enroll (or end their enrollment) in health insurances each year during [Open Enrollment](https://www.justworks.com/lp/open-enrollment), which takes place in September or early October, selecting plans for themselves and their dependents that will take effect November 1. They can also make new selections or end their enrollment when a [Qualifying Life Event](https://help.justworks.com/hc/en-us/articles/360004530151-Qualifying-Life-Events) occurs (if this is you, [contact Justworks directly](https://help.justworks.com/hc/en-us/categories/115000362691-I-m-an-Employee)).
+
+{% hint style="success" %}
+Not sure about what to choose during Open Enrollment?[ Read this guide from Justworks](https://help.justworks.com/hc/en-us/articles/360004481352-Open-Enrollment-FAQs).
+{% endhint %}
+
+New employees' health insurance will take effect beginning the first day of the month following their first day. They will make their selections during something called "New Hire Open Enrollment," a 30 day window from their original start date. (Even if they make their selections after the 1st of the month, the "effective date" - after which they can make claims - will still be the 1st of the month following following their first day.) There is no "'[waiting period](https://help.justworks.com/hc/en-us/articles/360027745131-Waiting-Periods-)" for access to health insurance.
+
+{% hint style="warning" %}
+We recommend that employees planning to start on the 1st of a month and needing health insurance **set a start date that is the last day of the previous month** so that their health insurance is effective on the 1st, rather than a month later.
+{% endhint %}
+
+### Other benefits
 
 #### **Retirement Savings Accounts**
 
-As of April 2022, 401(k) retirement savings accounts are available to all employees (both full- and part-time) of OCF at no cost to the Collective. The process of signing up and setting up Traditional or Roth contributions is simple and straightforward. New employees can access this benefit after 90 days of employment.
+As of April 2022, 401(k) retirement savings accounts are available to all employees (both full- and part-time) of OCF at no cost to the Collective. The process of signing up with Slavic401k and setting up Traditional or Roth contributions is simple and straightforward within the Justworks platform. Enrolled employees will receive regular email updates about their balance, along with a quarterly account snapshot by mail.
+
+{% hint style="info" %}
+New employees can access this benefit after 90 days of employment.
+{% endhint %}
 
 #### Wellness perks and ancillary benefits
 
@@ -53,7 +84,7 @@ The following costs are charged to the Collective budget for employment:
 
 * **Wages** - salary amounts are set by the Collective
 * **Payroll taxes, levies, and fees** as required by law - [see below](employment.md#undefined)
-* **Benefits** - if the employee chooses to opt in
+* **Medical, dental, and vision insurance benefits** - if the employee chooses to opt in
 * **PEO fees** - payroll provider costs ($49 or $99 per month per employee depending on benefits status)
 * **Administrative fee** - $50 per employee per month
 
@@ -63,6 +94,37 @@ Costs are automatically deducted monthly from the Collective's budget. Once empl
 
 {% hint style="info" %}
 If a potential employee engages in work where there is a risk of injury, such as a performing artist or other physical laborer, we will need to review whether they can be covered under our workers' compensation insurance. If this described your situation, please [reach out](../about/contact-us.md) to discuss it with us.
+{% endhint %}
+
+#### Medical, dental, and vision insurance costs
+
+OCF and its Collectives cover 100% of employees' medical, dental, and vision insurance. When bringing on a new employee, health insurance is one of the most difficult expenses to plan for, since there is a significant range between the cheapest and most expensive options.
+
+To help alleviate this tension, OCF allows Collectives to choose how much they would like to cover of employees' spouse/family/kids health insurance (medical, dental, and vision). Until November 1, 2022, the options are 50% or 100% for spouse/family/kids. After November 1, 2022, the options for spouse/family/kids are:
+
+* 25% or the legal minimum, sometimes up to 50%
+* 50%
+* 75%
+* 90%
+* 100%
+
+There is also one additional option: 90% across the board, including employee costs, for all insurances. This is what we offer to the OCF core team.
+
+{% hint style="warning" %}
+Collectives must offer the same health insurance contribution level for all Collective employees. This is to ensure that there is no discrimination.
+{% endhint %}
+
+The per-employee **monthly** health insurance general cost ranges are estimated as follows (as of 2022 - these tend to increase 5-10% year-to-year, unfortunately - _yes_, this system is messed up):
+
+| Type of coverage  | Medical      | Dental   | Vision  |
+| ----------------- | ------------ | -------- | ------- |
+| Employee only     | $400-$600    | $16-$53  | $7      |
+| Employee + spouse | $800-$1,250  | $32-$112 | $14     |
+| Employee + kids   | $725-$1,200  | $36-$125 | $12-$15 |
+| Family            | $1,10-$1,750 | $52-$186 | $20-$22 |
+
+{% hint style="warning" %}
+Ensure that you are able to bring on employees no matter their family situation. It is **not** legal to take applicants' family situation into account when making hiring decisions.
 {% endhint %}
 
 #### Payroll taxes
@@ -99,6 +161,14 @@ Additionally, any Collective that employs people will be required to sign up for
 * Employees and Collective admins have to agree to the terms of the standard OCF employment agreement ([template](https://docs.google.com/document/d/1T-KYVOAGx74uJXGElVSuAKWOLgmsISJHVCHnwF4s-Xc/edit?usp=sharing)).
 * Employees must agree to follow the policies in the OCF Employee Handbook, which covers things like non-harassment, various kind of statutory leave, health and safety, etc. Each state has slightly different required policies so the handbook varies by state (here is the [New York handbook as an example](https://handbookbuilder.blr.com/ViewHandbook.aspx?id=144Zswg66i9nFJXzqH4kAG6tgu0ZfNN5rExPEKCQ6jge)).
 
+#### What not to ask or bring up in an interview
+
+Here are a few things which you _must not_ bring up in your hiring process:
+
+* Age (or ways of attaining this info, such as asking for their graduation year)
+* Whether or not they own their home, who they live with, what their relationship is with the people they live with
+* Arrest record
+
 ### Worker Classification
 
 Anyone who wishes to be employed and meets the above requirements is welcome to be employed by OCF. Conversely, there are situations where the law says we must make someone an employee instead of a contractor. Defining whether someone is an employee or an independent contractor is called worker classification.
@@ -119,6 +189,10 @@ Here are the steps to employ someone.
 4. OCF invites the employee to Justworks, our PEO/payroll system.
 5. The employee starts getting paid by direct debit every 2 weeks.
 6. OCF will debit employment-related costs from the Collective's budget monthly.
+
+#### Using Justworks
+
+Employees will be able to manage many aspects of their employment from [within the Justworks platform](https://secure.justworks.com/login). This includes setting pronouns and choosing whether or not to display their birthday to other employees (the default for this feature is "on."
 
 ## Terminating Employment
 
