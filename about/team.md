@@ -12,6 +12,7 @@ Open Collective Foundation (OCF), while primarily focused on supporting US-based
   * Alina Manko - [Twitter](https://twitter.com/c\_observations)[, Instagram](https://www.instagram.com/curious\_observations/), [LinkedIn](https://www.linkedin.com/in/alinamanko/)
   * Kayla Epstein - [Blog](https://blog.opencollective.com/author/kayla/), [LinkedIn](https://www.linkedin.com/in/kaylarepstein/)
   * Ember Buck - [Website](https://ewhitneybuck.wordpress.com), [LinkedIn](https://www.linkedin.com/in/emberbuck/)
+  * Shannon Wray - [Linkedin](https://www.linkedin.com/in/shannonwray/)&#x20;
 * **Communications Organizer**
   * Sadé Swift - [Website](https://cardsbyde.com/our-team)
   * Alfie Marsland - [Website](https://althemiamarsland.com/)
