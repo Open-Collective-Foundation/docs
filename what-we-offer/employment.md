@@ -169,7 +169,7 @@ Here are a few things which you _**must not**_ bring up in your hiring process:
 
 * Racial or ethnic identity
 * Religion or creed
-* Political&#x20;
+* Political party identitification
 * Sex, orientation, or gender identity
 * Ability/disability, height, weight, etc.: you may only accurately describe the job and ask whether they can perform all its functions
 * Age (or ways of attaining this info, such as asking for their graduation year, when they started working, when they plan to retire)
