@@ -10,9 +10,13 @@ The Collective admins define who to hire (themselves or others), how much to pay
 
 OCF ensures legal compliance with employment regulations, and takes care of payroll, liability, taxes, workers comp, and all the paperwork.
 
-OCF can only employ people in the US, who are eligible for work in the United States. People not meeting this requirement may be eligible to be paid as contractors.
+#### Using Justworks
 
-Employee onboarding is simple and straightforward using the Justworks web app. Employees will find that app is quite easy to use, and can contact Justworks' 24/7 support via live chat if they have issues with their account.
+OCF uses a PEO, or Professional Employer Organization, called **Justworks** to manage its employees and HR operations.&#x20;
+
+Employees will be able to manage many aspects of their employment from [within the Justworks platform](https://secure.justworks.com/login). This includes setting pronouns and choosing whether or not to display their birthday to other employees (the default for this feature is "on").
+
+Employee onboarding is simple and straightforward using the Justworks web app. Employees can also contact Justworks' 24/7 support via live chat if they have issues with their account.
 
 #### Timecards
 
@@ -218,13 +222,9 @@ Here are the steps to employ someone.
 1. If they have not already done so previously, Collective admin follows the process to [set up liability insurance](liability-insurance.md) (it can take some time for the insurer to process, so please do this first).
 2. Collective admin fills out the [Employment Setup Form](https://docs.google.com/forms/d/e/1FAIpQLSdUQThuDQIOODd\_Vi1mU9yC-FYu6USAPIJEfSFEOjMhVnKCSw/viewform) (fill it out once per employee if multiple).
 3. OCF sets up the employment contract and requests signatures from the Collective admin and the employee.
-4. OCF invites the employee to Justworks, our PEO/payroll system.
+4. OCF invites the employee to Justworks, our PEO/payroll system. OCF staff will request [I-9 documentation](https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents) from the employees to prove US work eligibility, as required by law.
 5. The employee starts getting paid by direct debit every 2 weeks.
 6. OCF will debit employment-related costs from the Collective's budget monthly.
-
-#### Using Justworks
-
-Employees will be able to manage many aspects of their employment from [within the Justworks platform](https://secure.justworks.com/login). This includes setting pronouns and choosing whether or not to display their birthday to other employees (the default for this feature is "on."
 
 ## Terminating Employment
 
