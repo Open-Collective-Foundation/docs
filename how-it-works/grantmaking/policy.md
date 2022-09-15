@@ -182,6 +182,15 @@ The logistical process for grantmaking through OCF is as follows:
 
 Each step of the grantmaking process is described in detail below.
 
+{% hint style="warning" %}
+Uh oh! There is a lot of terminology that starts with the letter "P." Let's break it down:
+
+* **Process**: the overall thing we are doing, distributing grant funds
+* **Project**: a tool on the Open Collective platform for allocating funds within a Collective, which we use for grants
+* **Program**: a set of grants with similar characteristics, where we can basically "copy and paste" the basics of into each new grant (you only use the "Program" form when you want to start giving out a new type of grants)
+* **Proposal**: the information specific to each individual grant, submitted for each individual grant/grantee
+{% endhint %}
+
 ### Submit a Grantmaking Program <a href="#docs-internal-guid-f441fd89-7fff-c629-3bb7-fcdadf8ad419" id="docs-internal-guid-f441fd89-7fff-c629-3bb7-fcdadf8ad419"></a>
 
 When a Collective chooses to begin distributing grants, the first step is to submit a Grantmaking Program through [the Google Form](https://forms.gle/hw24AnLUiQZBwvmW8) ([pdf with all questions here](https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-M9Neg20-zKzu0MhF2d2%2Fuploads%2FlKfq7oElk99dr3If97oG%2Focf\_grantmaking\_program\_questions.pdf?alt=media\&token=b0bd52cc-31ca-4676-bb69-b1e44ba76032)). The Grantmaking Program submission will be appended to the Grant Agreement.
