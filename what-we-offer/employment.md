@@ -20,9 +20,9 @@ Employee onboarding is simple and straightforward using the Justworks web app. E
 
 #### Timecards
 
-Depending on an employee's number of hours, compensation, and state of residence, they may be required by law to submit a timecard. Thankfully, the Justworks app makes it easy for employees to submit hours for approval on a biweekly basis.
+Depending on an employee's number of hours, compensation, and state of residence, they may be required by law to submit a timecard. Thankfully, the Justworks app makes it easy for employees to submit hours for approval.
 
-The timecards are biweekly, from Sunday the beginning of the first week through Saturday at the end of the second week. Payment for that pay period is the following Friday. Timecards are generally approved by our team, but we can also provide a manager on the Collective team with timecard approval privileges within Justworks when requested.
+Timecards are biweekly, from Sunday the beginning of the first week through Saturday at the end of the second week. Payment for that pay period is the following Friday. Timecards are generally approved by our team, but we can also provide a manager on the Collective team with timecard approval privileges within Justworks when requested.
 
 We know that tracking every hour can bring up a lot of feelings about work, value, and time, and are happy to be in conversation with OCF employees about how to navigate this requirement, should it apply to their situation. [Reach out](../about/contact-us.md) and we'll find a time to chat.
 
@@ -39,7 +39,7 @@ Employees can decide whether or not to sign up for healthcare or other benefits,
 Some examples of the health plans employees will be able to choose from include:
 
 * POS plans with deductibles between $3,000-$4,000; out-of-pocket maxes between $5,500-$6,850; co-insurance between 10%-20%; and out-of-network deductibles between $6,000-$8,000
-* EPO plans with deductibles between $0-$4,000; out-of-pocket maxes between $4,500-$6,850, and co-insurance between 0%-20% (EPO plans have no out-of-network deductible)
+* EPO plans with deductibles between $0-$4,000; out-of-pocket maxes between $4,500-$6,850; and co-insurance between 0%-20% (EPO plans have no out-of-network deductible)
 
 Some plans have access to HSAs and/or FSAs. Read more about those [here](https://www.justworks.com/blog/slideshow-whats-difference-between-hsa-and-fsa).
 
@@ -179,12 +179,12 @@ Here are a few things which you _**must not**_ bring up in your hiring process:
 * Religion or creed
 * Political party identitification
 * Sex, orientation, or gender identity
-* Ability/disability, height, weight, etc.: you may only accurately describe the job and ask whether they can perform all its functions
+* Ability/disability, height, weight, etc: you may only accurately describe the job and ask whether they can perform all its functions
 * Age (or ways of attaining this info, such as asking for their graduation year, when they started working, when they plan to retire)
 * Financial health, credit score, current salary/pay
 * Societal status or club membership (e.g., sorority/fraternity, country club, local society membership); you may only ask about professional organization membership
 * Whether or not they own their home or own a car
-* Who they live with, marriage or relationship status, whether they have changed their name, their maiden name; whether or not they have children, whether they are pregnant or trying, whether they want children, what their relationship is with the people they live with, the names of any relatives, or who their emergency contact will be (only ask for the contact after they are hired)
+* Who they live with, marriage or relationship status, whether they have changed their name, their maiden name, whether or not they have children, whether they are pregnant or trying, whether they want children, what their relationship is with the people they live with, the names of any relatives, or who their emergency contact will be (only ask for the contact after they are hired)
 * Arrest record, as arrests do not equate to convictions; you may ask about convictions in areas that are specifically relevant to the position, and tread carefully, as this can easily slip into racial discrimination
 * Anything regarding military discharge or non-US military service; you may only ask about how any experience may be relevant to the job
 * Citizenship or national origin; you may only ask if they are legally eligible to work in the US
