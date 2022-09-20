@@ -28,6 +28,10 @@ description: A step-by-step guide to becoming a Collective with OCF
 * If your Collective's **mission or name ever changes**, you must inform us (and depending on the changes, we may ask you to reapply as a new Collective.)
 * **Once funds enter into a 501(c)(3), they must remain in the 501(c)(3) sphere.** This means if your Collective [closes down](../../faq/leaving-ocf.md), your funds cannot be returned, and can either be spent on project expenses or must be transferred to another 501(c)(3) - perhaps another OCF-hosted Collective!
 
+{% hint style="info" %}
+All this information is available in our [terms.md](../terms.md "mention") Agreement. You agree to these terms by ticking a box when you submit your application (also called your Collective Profile page) for hosting under OCF.
+{% endhint %}
+
 ## **The Application**
 
 Applying to be hosted by Open Collective Foundation takes only minutes!
