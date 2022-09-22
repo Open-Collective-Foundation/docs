@@ -60,9 +60,9 @@ There are certain enhanced risk factors where OCF may require extra insurance, s
 
 The base General Liability cost is $250 per year, renewing August 18 of each year. Something to be aware of is that this cost is not prorated, so the cost will still be $250 mid-cycle. If the insurance underwriters determine that your Collective is riskier than usual, or if the scale of the Collective's work is quite large, the cost may be higher, so we cannot guarantee that the base cost will stay at $250 per year, although we have typically not seen this cost go above $600. (Collectives are also included in our Accident and Commercial Umbrella insurance coverages at no additional cost.)
 
-Most Collectives are also added to our Non-Owned Auto coverage. This is typically another $25 per year (we've seen it be as high as $50 per year for larger Collectives), and it appears that this is sometimes prorated when added mid-year.&#x20;
+All Collectives are also added to our Non-Owned Auto coverage. This is typically another $25 per year (we've seen it be as high as $50 per year for larger Collectives), and this is sometimes prorated when added mid-year.&#x20;
 
-If your Collective has employees, it will be added to our Directors & Officers policy, with an annual cost of up to $250 per year. Historically, this is only charged when we renew our policy every August, and not when Collectives sign-up mid-year, but we will keep an eye on this as that could change.
+If your Collective has employees, it will be added to our Directors & Officers policy, with an annual cost of at least $250 per year. Historically, this is only charged when we renew our policy every August, and not when Collectives sign-up mid-year, but we will keep an eye on this as that could change. Directors and officers coverage is the type of coverage that is most expensive for collectives, as they add new employees. The exact renewal cost for this is not known until we go through the renewal process each year.
 
 Special events and circumstances like hiking trips, fundraising events ($50-$200 each depending on risk), and additional Collective premises (see [Processes for insured Collectives](liability-insurance.md#undefined) below) may have their own associated costs. And Collectives may also have additional costs for other coverages, such as those listed [above](liability-insurance.md#what-kinds-of-insurance-are-available).
 
@@ -119,6 +119,10 @@ Here is the template agreement:
 
 {% file src="../.gitbook/assets/Use of leased premises agreement.pdf" %}
 
+### Additional insureds
+
+If a contract requires that another party be added as an additional insured, simply send it to us along with the name and address of the additional insured and we can request the required documentation from our brokers.
+
 ### Annual renewal update
 
 On an annual basis, we will send out a required survey to insured Collectives collecting information we need to complete our insurance renewal. This information includes:
@@ -127,5 +131,7 @@ On an annual basis, we will send out a required survey to insured Collectives co
 * Premises updates, if any (although we prefer to learn of this in real time)
 * Confirming that all volunteers and employees driving on behalf of the Collective have car insurance, where relevant
 * Other changes in activities
+
+We will also ensure that your collective has a high enough budget for anticipated insurance renewal costs.
 
 OCF began offering insurance to Collectives in 2021, so the above processes will change over time! Thank you for your understanding, and please [let us know](../about/contact-us.md) if you have any questions.
