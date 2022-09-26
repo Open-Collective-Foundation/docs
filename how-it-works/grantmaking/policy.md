@@ -245,11 +245,11 @@ In cases where a multi-expense grant has not been completed by the end of the ti
 
 ### Submit Expenses and Documentation <a href="#docs-internal-guid-b71bdfba-7fff-b355-ace5-20ebba3ecf92" id="docs-internal-guid-b71bdfba-7fff-b355-ace5-20ebba3ecf92"></a>
 
-Once all parties have signed the Grant Agreement, expenses may be submitted via the Grantee, either by their Collective or via an [expense invitation](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses/inviting-a-third-party-to-submit-an-expense) from a Collective Admin. Grants without a fully-signed and properly completed Grant Agreement and required [Documentation](policy.md#docs-internal-guid-6e3a40f4-7fff-6d24-be14-d62a35c6fba7) will not be processed.
+Once all parties have signed the Grant Agreement, expenses may be submitted via the Grantee, either by their Collective or via an [expense invitation](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses/inviting-a-third-party-to-submit-an-expense) from a Collective Admin (_note_: this shows an "invoice" expense, but as per below, you should send an expense invitation for a "request grant" expense). Grants without a fully-signed and properly completed Grant Agreement and required [Documentation](policy.md#docs-internal-guid-6e3a40f4-7fff-6d24-be14-d62a35c6fba7) will not be processed.
 
 #### Expenses
 
-**All grant payments to Grantees are made via grant expenses,** which are submitted by the Grantee on the Open Collective platform using the “Request Grant” expense option. Invoice expenses and reimbursement expenses (the other expense types available on the platform) are not accepted for grant payments.
+**All grant payments to Grantees are made via grant ("Request Grant") expenses,** which are submitted by the Grantee on the Open Collective platform using the “Request Grant” expense option. Invoice expenses and reimbursement expenses (the other expense types available on the platform) are not accepted for grant payments.
 
 ![](https://lh3.googleusercontent.com/KUteq-YQ5tL6yHcOQR3K1IhdzdfzdtLzX9BPrwcFJZLmWCv2ujZKVPeFCuyrruBQ7juojTnPrfvLSM81rM2u0kMlsu0eTjDtT67Z0ROfitc3qzytDNG7LNXr4nbAf97dni0fRXUJvrDhMa3W)
 
