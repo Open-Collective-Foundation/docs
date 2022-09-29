@@ -14,7 +14,7 @@ OCF ensures legal compliance with employment regulations, and takes care of payr
 
 OCF uses a PEO, or Professional Employer Organization, called **Justworks** to manage its employees and HR operations.&#x20;
 
-Employees will be able to manage many aspects of their employment from [within the Justworks platform](https://secure.justworks.com/login), or through apps for [iOS](https://apps.apple.com/app/apple-store/id1485245462) and [Android](https://play.google.com/store/apps/details?id=com.clockwork\_mobile). This includes setting pronouns and choosing whether or not to display their birthday to other employees (the default for this feature is "on").
+Employees will be able to manage many aspects of their employment from [within the Justworks platform](https://secure.justworks.com/login), or through apps for [iOS](https://apps.apple.com/app/apple-store/id1485245462) and [Android](https://play.google.com/store/apps/details?id=com.clockwork\_mobile) (_note_: the app cannot do everything that is available on the website, such as choosing a health insurance plan). This includes setting pronouns and choosing whether or not to display their birthday to other employees (the default for this feature is "on").
 
 Employee onboarding is simple and straightforward using the Justworks web app. Employees can also contact Justworks' 24/7 support (they tend to be particularly helpful via live chat on their website - click the bubble in the lower right corner) if they have issues with their account.
 
@@ -53,7 +53,9 @@ Dental and vision insurances are available for all employees selecting benefits,
 
 #### Timing
 
-Existing employees enroll (or end their enrollment) in health insurances each year during [Open Enrollment](https://www.justworks.com/lp/open-enrollment), which takes place in September or early October, selecting plans for themselves and their dependents that will take effect November 1. They can also make new selections or end their enrollment when a [Qualifying Life Event](https://help.justworks.com/hc/en-us/articles/360004530151-Qualifying-Life-Events) occurs (if this is you, [contact Justworks directly](https://help.justworks.com/hc/en-us/categories/115000362691-I-m-an-Employee)).
+Existing employees enroll (or end their enrollment) in health insurances each year during [Open Enrollment](https://www.justworks.com/lp/open-enrollment), which takes place in September or early October, selecting plans for themselves and their dependents that will take effect November 1. (New employees that join In August or September may find it confusing that they are asked to sign up for healthcare twice in quick succession - once for the current plan year, and once for the upcoming one.)
+
+Employees can also make new selections or end their enrollment when a [Qualifying Life Event](https://help.justworks.com/hc/en-us/articles/360004530151-Qualifying-Life-Events) occurs (if this is you, [contact Justworks directly](https://help.justworks.com/hc/en-us/categories/115000362691-I-m-an-Employee)).
 
 {% hint style="success" %}
 Not sure about what to choose during Open Enrollment?[ Read this guide from Justworks](https://help.justworks.com/hc/en-us/articles/360004481352-Open-Enrollment-FAQs).
@@ -158,7 +160,7 @@ If you have any questions, feel free to [reach out](../about/contact-us.md) and 
 
 #### Related costs: liability insurance
 
-Additionally, any Collective that employs people will be required to sign up for insurance under OCF. For information on costs (which are per-Collective, rather than per employee) and processes, see [the insurance page of our documentation](liability-insurance.md).
+Additionally, any Collective that employs people will be required to sign up for insurance under OCF. For information on costs and processes, see [the insurance page of our documentation](liability-insurance.md).
 
 ## Requirements & Policies
 
