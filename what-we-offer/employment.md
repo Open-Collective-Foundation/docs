@@ -165,6 +165,7 @@ Additionally, any Collective that employs people will be required to sign up for
 ## Requirements & Policies
 
 * Employees must be located in the US and be allowed to legally work in the US.
+* Employees must be 18 years of age or older. We are not able to employ minors at this time.
 * OCF can currently only support salaried, exempt, part-time or full-time employees, not hourly or manual workers. For other types of work, you may pay people as independent contractors instead (employment laws allowing - [see below](employment.md#worker-classification)).
 * All employees have unlimited PTO and we do not track or pay out PTO.
 * Collectives must maintain a budget of at least 3x monthly employment costs, to ensure funds are available to pay employees. (For fixed-term employment situations, it may be possible to drop below this threshold toward the end of the contract.)
@@ -179,7 +180,7 @@ Here are a few things which you _**must not**_ bring up in your hiring process:
 
 * Racial or ethnic identity
 * Religion or creed
-* Political party identitification
+* Political party identification
 * Sex, orientation, or gender identity
 * Ability/disability, height, weight, etc: you may only accurately describe the job and ask whether they can perform all its functions
 * Age (or ways of attaining this info, such as asking for their graduation year, when they started working, when they plan to retire)
@@ -187,7 +188,7 @@ Here are a few things which you _**must not**_ bring up in your hiring process:
 * Societal status or club membership (e.g., sorority/fraternity, country club, local society membership); you may only ask about professional organization membership
 * Whether or not they own their home or own a car
 * Who they live with, marriage or relationship status, whether they have changed their name, their maiden name, whether or not they have children, whether they are pregnant or trying, whether they want children, what their relationship is with the people they live with, the names of any relatives, or who their emergency contact will be (only ask for the contact after they are hired)
-* Arrest record, as arrests do not equate to convictions; you may ask about convictions in areas that are specifically relevant to the position, and tread carefully, as this can easily slip into racial discrimination
+* Arrest record, as arrests do not equate to convictions; you may only ask about convictions in areas that are specifically relevant to the position, but tread very carefully, as this can easily slip into discrimination based on race or socio-economic status (we are all better than the worst thing we have ever done)
 * Anything regarding military discharge or non-US military service; you may only ask about how any experience may be relevant to the job
 * Citizenship or national origin; you may only ask if they are legally eligible to work in the US
 * Whether they speak languages other than English, unless it is relevant to the position
