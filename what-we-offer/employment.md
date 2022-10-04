@@ -158,9 +158,21 @@ OCF bills Collectives for employment costs on a monthly basis. Payroll, however,
 
 If you have any questions, feel free to [reach out](../about/contact-us.md) and we will sort it out.
 
+#### Budgeting for employment
+
+Give the above costs (excluding insurance below) and the intricacies of [the billing cycle](employment.md#billing-cycle), you may be wondering how to budget for employees by month. Here's a calculation that can give you a _rough_ idea of the costs:
+
+1. Find the total annual pay for any part-time employees by multiplying their _hourly rate_ by _hours per week_ by 52 weeks. Add those totals together.
+2. Add that total to the annual salaries of any full-time employees.
+3. Multiply that by 1.08, to _try_ (it is not perfect) to account for taxes and fees
+4. Divide by 12 to get a monthly cost
+5. Add on expected [monthly health insurance contributions](employment.md#medical-dental-and-vision-insurance-costs) for each full-time employee (this may be a wide range if you have not hired yet)
+
+This will get you a rough estimate! Don't hold us to it.
+
 #### Related costs: liability insurance
 
-Additionally, any Collective that employs people will be required to sign up for insurance under OCF. For information on costs and processes, see [the insurance page of our documentation](liability-insurance.md).
+Additionally, any Collective that employs people will be required to sign up for insurance under OCF. There does tend to be an additional yearly cost, per employee, but the exact cost varies. For more information on costs and processes, see the costs section of [the insurance page of our documentation](liability-insurance.md).
 
 ## Requirements & Policies
 
