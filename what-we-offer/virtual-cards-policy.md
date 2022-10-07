@@ -9,7 +9,10 @@ Virtual Cards can be issued to OCF’s hosted Collectives for paying online for 
 ## How it works
 
 * Funds are spent only as transactions occur. - Setting up a card does not remove any money from your Collective's budget.
-* Submit a virtual card request (either on OCF's page, or on your own) with the intended use of the card and the amount budgeted for that monthly. The virtual card with that limit will be set up for your collective.
+* Submit a virtual card request (either on OCF's page, or on your own) with the intended use of the card and the amount budgeted for that monthly&#x20;
+  * Please include Vendor + Amounts (rough estimates are fine) in your card request.&#x20;
+  * The virtual card with that limit will be set up for your collective.
+* Monthly Virtual Card Limits will be reset on the 1st of each month
 * If, at any point, your collective needs a higher limit on your virtual card, please request a limit increase by contacting us at contact@opencollective.foundation with the intended use and the amount increase needed.
   * To receive an increase, Collective must have a budget on their Open Collective account that exceeds the corresponding amount, and must demonstrate that a higher limit is necessary (vendor + amount details).
 * Cards must be used in compliance with our policy below.
