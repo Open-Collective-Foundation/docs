@@ -135,3 +135,11 @@ On an annual basis, we will send out a required survey to insured Collectives co
 We will also ensure that your collective has a high enough budget for anticipated insurance renewal costs.
 
 OCF began offering insurance to Collectives in 2021, so the above processes will change over time! Thank you for your understanding, and please [let us know](../about/contact-us.md) if you have any questions.
+
+### Ending coverage
+
+Collectives will remain on our coverage until they leave OCF or request to be removed. Active Collectives will be automatically included in our insurance renewal in August of each year, and [will be charged](liability-insurance.md#how-much-does-it-cost) accordingly.
+
+If your Collective leaves OCF, we will remove you from our policy.
+
+If you no longer need liability coverage, please [reach out](../about/contact-us.md) and we will discuss the process of removing you, provided we agree that it is no longer required for your Collective.
