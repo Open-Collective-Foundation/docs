@@ -68,7 +68,9 @@ For large expenses that you cannot pay out-of-pocket, you can also have your ven
 
 ### **Can we buy an automobile or real estate for charitable use?**
 
-No. Unfortunately, we do not have the administrative capability to handle these sorts of major assets. For other complicated transactions, it's always best to reach out in advance and talk it through with us.
+No. Due to our [Model A](https://docs.opencollective.foundation/faq/is-ocf-right-for-you#model-a-fiscal-sponsorship-model) Fiscal Sponsorship, all large assets like these would not be owned by the hosted collective, but would instead be owned by Open Collective Foundation.&#x20;
+
+Since this type of ownership could get quite complicated for us to manage, unfortunately, we do not have the administrative capability to handle these sorts of major assets. For other complicated transactions, it's always best to reach out in advance and talk it through with us.
 
 {% hint style="info" %}
 What about a bicycle? What about a lease? [Contact us.](../about/contact-us.md) We'll talk it through.
