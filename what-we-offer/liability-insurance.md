@@ -74,7 +74,7 @@ For special situations outside the norm, or if you have any questions, [contact 
 
 ### How do I sign up?
 
-If you are interested in getting insurance for your Collective, please [fill out this form](https://forms.gle/PvoEijL4zhxr1gKZ8). We will then send you an addendum to our Terms for e-signature (this is the signal that we received your submission) and, once that is signed, we will send your information to the insurance company.
+If you are interested in getting insurance for your Collective, please [fill out this form](https://forms.gle/PvoEijL4zhxr1gKZ8). We will then send you [an addendum to our Terms](https://docs.google.com/document/d/e/2PACX-1vRh7W8CS3BD6IFO7bUiy4vnz\_C1wgAuAiSsle00\_8-ZbNoIE\_Ad7EO2-tSE4CYKbydJ\_9bYtuud0ocZ/pub) for e-signature (this is the signal that we received your submission) and, once that is signed, we will send your information to the insurance company.
 
 #### Timing
 
