@@ -18,7 +18,7 @@ description: A step-by-step guide to becoming a Collective with OCF
 * If your Collective is hosted by the Foundation, donations made through Open Collective are **tax-deductible** for your financial contributors.
 * You retain ownership of all your Collective's **intellectual property**.
 * If you want to enter into an agreement with anyone else, such as a contract with a vendor or providing a specific service to a sponsor, **you need to get our permission**, because legally the agreement would be with Open Collective Foundation.
-* Groups hosted by OCF **must** obtain approval in advance from OCF staff **prior** to the purchase of **any large assets** (e.g. cars, property) as these assets would be owned by OCF
+* Groups hosted by OCF **must** obtain approval in advance from OCF staff **prior** to the purchase of **any large assets** (e.g. [cars, property](../../faq/expenses-faq.md#can-we-buy-an-automobile-or-real-estate-for-charitable-use)) as these assets would be owned by OCF
   * See [Situations where we need to be involved](../../how-it-works/policies/#situations-where-we-need-to-be-involved) for more info
 * We will hold and manage funds on behalf of your Collective and we won't use them for anything else.
 * We charge [fees ](../../how-it-works/fees.md)on all incoming donations for our services.
