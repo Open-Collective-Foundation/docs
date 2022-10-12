@@ -236,7 +236,7 @@ Here are the steps to employ someone.
 
 1. If they have not already done so previously, Collective admin follows the process to [set up liability insurance](liability-insurance.md) (it can take some time for the insurer to process, so please do this first).
 2. Collective admin fills out the [Employment Setup Form](https://docs.google.com/forms/d/e/1FAIpQLSdUQThuDQIOODd\_Vi1mU9yC-FYu6USAPIJEfSFEOjMhVnKCSw/viewform) (fill it out once per employee if multiple).
-3. OCF sets up the employment contract and requests signatures from the Collective admin and the employee.
+3. OCF sets up the employment contract ([example](https://docs.google.com/document/d/e/2PACX-1vR8ZtkkzDh1l\_mpGMO6sMIL3Ccv3HpG0DqMQA0C2mjAd5dK-B7UnmICd-w5zWeDO-Gq10Q\_AYybvd-u/pub)) and requests signatures from the Collective admin and the employee.
 4. OCF invites the employee to Justworks, our PEO/payroll system. OCF staff will request [I-9 documentation](https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents) from the employees to prove US work eligibility, as required by law.
 5. The employee starts getting paid by direct debit every 2 weeks.
 6. OCF will debit employment-related costs from the Collective's budget monthly.
