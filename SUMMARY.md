@@ -56,6 +56,7 @@
 * [Governance](about/board/README.md)
   * [Board members](about/governance/board-members.md)
   * [Role of the Board](about/board/role-of-the-board.md)
+  * [Bylaws](about/governance/bylaws.md)
 * [These Docs](about/these-docs.md)
 * [Case Studies](about/case-studies.md)
 * [Contact Us](about/contact-us.md)

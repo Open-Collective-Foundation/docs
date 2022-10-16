@@ -38,22 +38,8 @@ OCF has developed its definition of the role of board members to include the fol
 
 #### Risk & compliance oversight
 
-* Oversees the annual audit process
+* Participate in overseeing the annual audit process
 * Review OCF’s policies and processes for compliance and risk management
 * Provide guidance to help operational decision-making align with compliance requirements
 * Give feedback to iteratively improve reporting and information flows to flag risks
 * Apply your knowledge of best practice and regulations to keep us on the right track
-
-#### Other responsibilities
-
-* Recruits and approves new directors, ensure the board has the right mix of skills and representation
-* Approves the ED role (function and person)
-* Approves any loans (though we have not taken any so far)
-* Approves extraordinary expenses&#x20;
-* Decides on board compensation
-
-### Committees
-
-* Risk management, audit, and finance
-* Board development
-
