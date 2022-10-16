@@ -8,4 +8,4 @@
 * **Angie Kim,** President and CEO for the [Center for Cultural Innovation](https://www.cciarts.org/) (CCI)
 * **Hafidha Acuay,** Managing Director of [PeoplesHub](https://peopleshub.org/people/)\
   \
-  _Learn about the_ [_role of the board_](role-of-the-board.md)_._
+  _Learn about the_ [_role of the board_](../board/role-of-the-board.md)_._
