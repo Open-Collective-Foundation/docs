@@ -50,10 +50,12 @@
 ## About
 
 * [Mission & Values](about/mission-and-values.md)
+* [Solidarity: our guiding principle](about/solidarity-our-guiding-principle.md)
 * [Official Info & Docs](about/official-information-and-documents.md)
 * [Team](about/team.md)
-* [Board](about/board/README.md)
-  * [Role of the Board](about/board/role-of-the-board.md)
+* [Governance](about/governance/README.md)
+  * [Board members](about/governance/board-members.md)
+  * [Role of the Board](about/governance/role-of-the-board.md)
 * [These Docs](about/these-docs.md)
 * [Case Studies](about/case-studies.md)
 * [Contact Us](about/contact-us.md)

@@ -1,6 +1,6 @@
-# Board
+# Board members
 
-Current members of OCF's board of directors
+#### Current members of OCF's board of directors
 
 * **Pia Mancini,** Co-Founder & CEO of [Open Collective](https://www.opencollective.com)
 * **Andrew Trask,** Creator & Leader of [OpenMined](https://www.openmined.org)
