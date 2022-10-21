@@ -151,7 +151,7 @@ Associated taxes, levies, and fees include but are not limited to the below (as 
 
 #### Billing cycle
 
-OCF bills Collectives for employment costs on a monthly basis. Payroll, however, is every two weeks, on Fridays. The way these two timelines interact can be confusing. Here are some things to keep in mind:
+OCF bills Collectives for employment costs on a monthly basis, at the end of the month. Payroll, however, is every two weeks, on Fridays. The way these two timelines interact can be confusing. Here are some things to keep in mind:
 
 * Timecards for hourly employees are [entered biweekly](employment.md#timecards), covering the two full weeks (Sunday to Saturday) preceding the Friday payday. Sometimes this means that payment for work occurring entirely in one month with not be billed until the following one.
 * Some months will have three paydays, rather than two.
@@ -240,7 +240,7 @@ Here are the steps to employ someone.
 4. OCF invites the employee to Justworks, our PEO/payroll system. They must complete the signup process.
 5. OCF staff will request [I-9 documentation](https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents) from the employee to prove US work eligibility, as required by law, and confirm it in Justworks.
 6. The employee starts getting paid by direct deposit [every two weeks](employment.md#timing).
-7. OCF will debit employment-related costs from the Collective's budget [on a monthly basis](employment.md#timing).
+7. OCF will debit employment-related costs from the Collective's budget [on a monthly basis](employment.md#billing-cycle).
 
 ## Terminating Employment
 
