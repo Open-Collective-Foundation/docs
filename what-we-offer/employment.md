@@ -251,5 +251,5 @@ Fixed term employment contracts will expire upon the end date specified, unless 
 Where possible, **we ask Collectives to give OCF as much advance notice as possible**, so we can take care of the termination process in a timely manner.
 
 {% hint style="info" %}
-Please be aware that benefits such as FSAs and HSAs, among others, may not be transferable to a new employer. [Reach out to us](../about/contact-us.md) with questions about this, as every situation is different.
+Please be aware that benefits such as FSAs, among others, may not be transferable to a new employer. [Reach out to us](../about/contact-us.md) with questions about this, as every situation is different.
 {% endhint %}
