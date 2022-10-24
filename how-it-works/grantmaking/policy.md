@@ -5,7 +5,7 @@
 **This grantmaking policy (“Policy”) enables fiscally hosted collectives (“Collectives”) under the umbrella of OpenCollective Foundation (“OCF”) to become grantmakers in their communities,** a variation from traditional grantmaking where a foundation or other grantmaking institution makes a grant directly to a grantee.
 
 {% hint style="info" %}
-**Note:** If the person you wish to fund can provide receipts before payment and/or is okay with getting an IRS Form 1099 for this income, they can submit normal expenses instead of going through this grant process.
+**Note:** If the person you wish to fund can provide receipts before payment and/or is okay with getting an IRS Form 1099 for this income, they can often submit normal expenses for hardship-type expenses instead of going through the full grant process.
 
 If you wish to fund another OCF-hosted Collective or donate to another 501(c)(3) entity, you don't need to go through this grant process (contact us for details about what to do in those cases).
 {% endhint %}
