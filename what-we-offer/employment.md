@@ -43,7 +43,7 @@ Some examples of the health plans employees will be able to choose from include:
 
 Some plans have access to HSAs and/or FSAs. Read more about those [here](https://www.justworks.com/blog/slideshow-whats-difference-between-hsa-and-fsa).
 
-We also have additional medical plans for employees in some specific states, where required. The [costs](employment.md#undefined) for each plan vary. Plans change year-to-year, so please feel free to [reach out](../about/contact-us.md) for information on the current offerings.
+We also have additional medical plans for employees in some specific states, where required. The [costs](https://secure.justworks.com/benefits/company\_benefits\_overviews/ab8298a5-284e-49ee-b095-c503b0faf9f5/show) for each plan vary. Plans change year-to-year, so please feel free to [reach out](../about/contact-us.md) for information on the current offerings.
 
 {% hint style="warning" %}
 Some employees will have limited options depending on their state or zip code. We recommend that employees living in rural areas reach out to us in advance so that we can determine their eligibility.
