@@ -22,8 +22,8 @@ Slack offers discounts through TechSoup, and Techsoup is not compatible with fis
 
 ### Loomio
 
-Loomio is able to offer a discounted rate to groups hosted by Open Collective Foundation of $6/month (normally $25) per month. To access this discount, groups should complete the following steps.
+In partnership with Loomio, we are able to offer groups hosted by Open Collective Foundation free access to the platform for their group. To enable this service, groups should complete the following steps.
 
 1. Create a group on Loomio using the steps outlined [here](https://help.loomio.com/en/user\_manual/groups/starting\_a\_group/index.html).
-2. Complete a [signup form](https://docs.google.com/forms/d/e/1FAIpQLSetp4H9FiSFhgw-z\_2qo1ON9YSh-9lINn3IBYC0kj9nNl5log/viewform) to tell OCF details about your Loomio instance
-3. OCF will connect your Loomio instance to our subscription which should eliminate any trial notifications.
+2. Complete the [signup form](https://docs.google.com/forms/d/e/1FAIpQLSetp4H9FiSFhgw-z\_2qo1ON9YSh-9lINn3IBYC0kj9nNl5log/viewform) to tell OCF some details about your Loomio group.
+3. OCF will connect your Loomio group to our subscription which should eliminate trial notifications.
