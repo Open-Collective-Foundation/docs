@@ -6,7 +6,8 @@ description: Our Collectives finding success on the platform and in their commun
 
 ### Inspirational Stories from some of the [hundreds of OCF-Hosted Collectives](https://opencollective.com/foundation#category-CONTRIBUTIONS):
 
-* ****[**Updates We Love** Summer 2022](https://blog.opencollective.com/ocf-updates-we-love-summer-2022/) - Featuring Updates from OCF-hosted Collectives
+*
+* [**Updates We Love** Summer 2022](https://blog.opencollective.com/ocf-updates-we-love-summer-2022/) - Featuring Updates from OCF-hosted Collectives
 * [**1K Project: Peer-to-Peer Help For Ukraine**](https://blog.opencollective.com/1kproject/)****
 * ****[**Sunnyside & Woodside Mutual Aid** (SWMA) Feature](https://www.nycfoodpolicy.org/mutual-aid-and-solidarity-in-sunnyside-and-woodside/) from Hunter College
 * [**Community Forum Spotlight**](https://drive.google.com/file/d/1YK-CQjhf1Gy6H4c6vZ4RvjJoe1x\_SshN/view) **on** [**The Missing Piece**](https://opencollective.com/missingpiece) - Emotional CPR - _talk starts at 36:40_&#x20;
