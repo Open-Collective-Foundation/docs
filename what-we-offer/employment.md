@@ -69,7 +69,23 @@ We recommend that employees planning to start on the 1st of a month and needing 
 
 ### Other benefits
 
-#### **Retirement Savings Accounts**
+#### **Paid time off**
+
+OCF employees have unlimited paid time off for vacation or sick time, and floating holidays. As such, employees do not accrue time off, so OCF will not compensate unused vacation leave at any time, including at termination.
+
+{% hint style="info" %}
+Unlimited vacation is not as good for employees as it sounds, and OCF has employed it solely for accounting reasons. It is more likely that an employee will take _less_ vacation as a result, rather than more, because employees often do not feel like they have vacation days to use. For this reason, depending on your team culture, it can be useful to set an informal minimum number of vacation days that employees are encouraged to take.
+{% endhint %}
+
+Employees, for their part **are obligated to:**&#x20;
+
+1. Avoid abusing this policy by taking time off that negatively impacts the job or the Collective
+2. Communicate and collaborate with their team to ensure everyone takes leave without disrupting operations
+3. Plan to delegate, postpone or otherwise manage projects that will be affected by their time off
+4. Notify a Collective Admin at least two weeks in advance for vacations
+5. Notify a Collective Admin as soon as it is reasonable to do so if taking leave for illness or caring responsibilities
+
+**Retirement Savings Accounts**
 
 As of April 2022, 401(k) retirement savings accounts are available to all employees (both full- and part-time) of OCF at no cost to the Collective. The process of signing up with Slavic401k and setting up Traditional or Roth contributions is simple and straightforward within the Justworks platform. Enrolled employees will receive regular email updates about their balance, along with a quarterly account snapshot by mail.
 
