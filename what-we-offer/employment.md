@@ -41,9 +41,11 @@ Some examples of the health plans employees will be able to choose from include:
 * POS plans with deductibles between $3,000-$4,000; out-of-pocket maxes between $5,500-$6,850; co-insurance between 10%-20%; and out-of-network deductibles between $6,000-$8,000
 * EPO plans with deductibles between $0-$4,000; out-of-pocket maxes between $4,500-$6,850; and co-insurance between 0%-20% (EPO plans have no out-of-network deductible)
 
+_For more detailed information on the coverage, please see_ [_this overview_](https://secure.justworks.com/benefits/company\_benefits\_overviews/e8feb3ca-7761-4467-863c-9985a95fc27a/show) _(this overview shows 100% employer contributions; to see how costs to employees can vary, see our discussion of health insurance costs_ [_below_](employment.md#medical-dental-and-vision-insurance-costs)_)._
+
 Some plans have access to HSAs and/or FSAs. Read more about those [here](https://www.justworks.com/blog/slideshow-whats-difference-between-hsa-and-fsa).
 
-We also have additional medical plans for employees in some specific states, where required. The [costs](https://secure.justworks.com/benefits/company\_benefits\_overviews/ab8298a5-284e-49ee-b095-c503b0faf9f5/show) for each plan vary. Plans change year-to-year, so please feel free to [reach out](../about/contact-us.md) for information on the current offerings.
+We also have additional medical plans for employees in some specific states, where required. The costs for each plan vary - [see a breakdown below](employment.md#medical-dental-and-vision-insurance-costs). Plans change year-to-year, so please feel free to [reach out](../about/contact-us.md) for information on the current offerings.
 
 {% hint style="warning" %}
 Some employees will have limited options depending on their state or zip code. We recommend that employees living in rural areas reach out to us in advance so that we can determine their eligibility.
@@ -126,15 +128,15 @@ If a potential employee engages in work where there is a risk of injury, such as
 
 OCF and its Collectives cover 100% of employees' medical, dental, and vision insurance. When bringing on a new employee, health insurance is one of the most difficult expenses to plan for, since there is a significant range between the cheapest and most expensive options.
 
-To help alleviate this tension, OCF allows Collectives to choose how much they would like to cover of employees' spouse/family/kids health insurance (medical, dental, and vision). Until November 1, 2022, the options are 50% or 100% for spouse/family/kids. After November 1, 2022, the options for spouse/family/kids are:
+To help alleviate this tension, OCF allows Collectives to choose how much they would like to cover of employees' spouse/family/kids health insurance (medical, dental, and vision). The current options for spouse/family/kids are:
 
-* 25% or the legal minimum, sometimes up to 50%
-* 50%
-* 75%
-* 90%
-* 100%
+* [25% or the legal minimum, sometimes up to 50%](https://secure.justworks.com/benefits/company\_benefits\_overviews/9168a93c-6443-4a1f-b82f-efc4f9474705/show)
+* [50%](https://secure.justworks.com/benefits/company\_benefits\_overviews/f510317d-05f1-4d3a-a49f-46cee9d5a0ec/show)
+* [75%](https://secure.justworks.com/benefits/company\_benefits\_overviews/d7290a73-4223-443f-a418-30b7fde7be8b/show)
+* [90%](https://secure.justworks.com/benefits/company\_benefits\_overviews/a2e2dee2-d3c7-45d8-a619-4c1a3f18deec/show)
+* [100%](https://secure.justworks.com/benefits/company\_benefits\_overviews/e8feb3ca-7761-4467-863c-9985a95fc27a/show)
 
-There is also one additional option: 90% across the board, including employee costs, for all insurances. This is what we offer to the OCF core team.
+There is also one additional option: [90% across the board](https://secure.justworks.com/benefits/company\_benefits\_overviews/8f957b1a-e870-47e6-9b04-e42fab2d47bd/show), including employee costs, for all insurances. This is what we offer to the OCF core team.
 
 {% hint style="warning" %}
 Collectives must offer the same health insurance contribution level for all Collective employees. This is to ensure that there is no discrimination.
