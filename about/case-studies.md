@@ -6,7 +6,7 @@ description: Our Collectives finding success on the platform and in their commun
 
 ### Inspirational Stories from some of the [hundreds of OCF-Hosted Collectives](https://opencollective.com/foundation#category-CONTRIBUTIONS):
 
-*
+* [**Homeschooling with Modulo**](https://blog.opencollective.com/homeschooling-with-modulo/)**:** Reinventing education, Empowering Parents, Inspiring Kids
 * [**Updates We Love** Summer 2022](https://blog.opencollective.com/ocf-updates-we-love-summer-2022/) - Featuring Updates from OCF-hosted Collectives
 * [**1K Project: Peer-to-Peer Help For Ukraine**](https://blog.opencollective.com/1kproject/)****
 * ****[**Sunnyside & Woodside Mutual Aid** (SWMA) Feature](https://www.nycfoodpolicy.org/mutual-aid-and-solidarity-in-sunnyside-and-woodside/) from Hunter College
