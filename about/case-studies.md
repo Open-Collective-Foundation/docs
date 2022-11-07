@@ -33,3 +33,7 @@ description: Our Collectives finding success on the platform and in their commun
 * Use the [Updates](https://docs.opencollective.com/help/collectives/communication#updates) feature, and we may add in our next Updates we Love blog post
 * Ping us in slack, and we can arrange an interview with your collective
 * Share with us any published stories of success, and we'll add them in&#x20;
+
+{% hint style="success" %}
+[View all our Hosted Collectives here](https://opencollective.com/foundation#category-CONTRIBUTE) :heart:
+{% endhint %}
