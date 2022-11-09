@@ -42,7 +42,7 @@ Yes! With health insurance and benefits, too. [More info](../what-we-offer/emplo
 
 Open Collective Foundation must collect[ tax forms](https://docs.opencollective.com/help/expenses-and-getting-paid/tax-information#info-for-expense-submitters-getting-paid) for any individual who **invoices** (this does not apply to **reimbursements** or **payroll)** over $600 in year. Those individuals will be automatically issued a 1099. [Here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/Filing-IRS-Form-W-9/INF19741.html)'s a good explanation of how W-9s work for independent contractors, and there's more info on what a 1099 is [here](https://turbotax.intuit.com/tax-tools/tax-tips/Self-Employment-Taxes/What-is-an-IRS-1099-Form-/INF14810.html).
 
-When you submit an expense that puts you over the $600 threshold, you will be sent an email with a link to complete your tax form online. This email will come from HelloWorks, the system we use to handle the forms.
+When you submit an expense that puts you over the $600 threshold, you will be sent an email with a link to complete your tax form online. This email will come from Dropbox Forms, the system we use to handle the forms.
 
 Expenses will not be paid out to you until you submit the tax form.
 
