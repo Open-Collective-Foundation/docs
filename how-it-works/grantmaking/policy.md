@@ -1,4 +1,4 @@
-# Grantmaking Policy
+# Individual Grantmaking Policy
 
 ## Introduction <a href="#docs-internal-guid-7b5952e1-7fff-6d8f-dec6-33a696c7e867" id="docs-internal-guid-7b5952e1-7fff-6d8f-dec6-33a696c7e867"></a>
 
@@ -7,7 +7,7 @@
 {% hint style="info" %}
 **Note:** If the person you wish to fund can provide receipts before payment and/or is okay with getting an IRS Form 1099 for this income, they can often submit normal expenses for hardship-type expenses instead of going through the full grant process.
 
-If you wish to fund another OCF-hosted Collective or donate to another 501(c)(3) entity, you don't need to go through this grant process (contact us for details about what to do in those cases).
+If you wish to fund another OCF-hosted Collective or donate to another 501(c)(3) entity, you don't need to go through this grant process. See [Other Grants](other-grants.md) for more info.
 {% endhint %}
 
 Grants, in the context of this Policy, mean financial gifts from a Collective hosted by OCF to an individual (the “Grantee”), which further the Collective’s mission and align with the[ overall mission of OCF](https://docs.opencollective.foundation/about/mission-and-values).
