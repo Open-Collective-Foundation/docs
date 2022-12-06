@@ -57,4 +57,4 @@ OCF will make every effort to communicate with Collectives to help them understa
 
 Read our [Policies Update / Watch our Webinar](https://opencollective.com/foundation/updates/policies-webinar-notes-and-recording) to learn more.
 
-Read[#is-ocf-right-for-you](../../what-we-offer/#is-ocf-right-for-you "mention") to learn more about OCF's fiscal sponsorship model.
+Read [is-ocf-right-for-you.md](../../faq/is-ocf-right-for-you.md "mention") to learn more about OCF's fiscal sponsorship model.
