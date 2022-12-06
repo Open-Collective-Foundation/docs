@@ -49,6 +49,16 @@ Open Collective Foundation (OCF), while primarily focused on supporting US-based
 
 ![](<../.gitbook/assets/rock headshot.jpeg>)
 
-**Ember Buck (Tucson, Arizona):** Ember is a queer border activist with a passion for literature, alternative family-building, futurism and space exploration. They have traveled to all continents save Antarctica and have worked across myriad sectors to support locally-led activist and humanitarian Collectives to launch, scale, and increase reach and impact, doing things like grant writing, group facilitation, event coordination and impact reporting. They live with their partner and really cool baby.
+**Ember Buck (Wellington, New Zealand):** Ember is a queer border activist with a passion for literature, alternative family-building, futurism and space exploration. They have traveled to all continents save Antarctica and have worked across myriad sectors to support locally-led activist and humanitarian Collectives to launch, scale, and increase reach and impact, doing things like grant writing, group facilitation, event coordination and impact reporting. They live with their partner and really cool baby.
+
+<figure><img src="../.gitbook/assets/Screenshot 2022-12-06 at 7.36.03 PM.png" alt=""><figcaption></figcaption></figure>
+
+**Sadé Swift (United States):** Sadé Swift is a Black Queer artist who has been organizing for the last 10+ years. They love bridging the gap between communications and community which was how they landed at the Open Collective Foundation, by way of beautiful work they did  with art.coop last year. Sade is a proud worker owner and co-founder of two worker-owned cooperative businesses, [Cards by De](https://cardsbyde.com/), a stationery cooperative and [Rebellious Root,](https://www.rebelliousroot.com/) a consulting cooperative working towards justice and social change through training, curriculum design and intentional conversations. They are dedicated to building an abolitionist cooperative future with intention, community, and love
+
+<figure><img src="../.gitbook/assets/Screenshot 2022-12-06 at 7.36.26 PM.png" alt=""><figcaption></figcaption></figure>
+
+**Alfie Marsland (Baltimore MD (Piscataway Land))**: Alfie is a queer artist and graphic designer, and their love for visual communication brought them to this very position. They love working for OCF because the graphic design practice they want belongs outside the setting of a commercial consumer realm. With OCF they get to produce graphic design that has a strong social impact.
+
+
 
 If you are interested in joining the team, check our [Hiring page](https://opencollective.com/hiring) or [get in touch](mailto:support@opencollective.com).
