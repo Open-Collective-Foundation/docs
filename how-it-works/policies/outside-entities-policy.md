@@ -72,6 +72,4 @@ If you operate or desire to form your own legal entity for your Collective, you 
 
 :loud\_sound: Read our [Policies Update / Watch our Webinar](https://opencollective.com/foundation/updates/policies-webinar-notes-and-recording) to learn more about this policy.
 
-❓ Read[#is-ocf-right-for-you](../../what-we-offer/#is-ocf-right-for-you "mention") learn more about OCF's fiscal sponsorship model.
-
 :bulb: If you wish to use your own entity and bank account to manage funds on Open Collective, you may not need a fiscal host. [Learn more](https://docs.opencollective.com/help/fiscal-hosts/become-a-fiscal-host).
