@@ -22,7 +22,7 @@ description: A few ways to reach the OCF Team
 
 🎟  Request platform support at [support@oscollective.org](mailto:support@opencollective.com)
 
-:speech\_balloon: Join [our Slack](https://join.slack.com/t/opencollective/shared\_invite/zt-f43qko76-sD8G\~e\_vQCm4TtpIsM4i\~A) to get in touch with the entire Open Collective community (& join in the #ocf channel)
+:speech\_balloon: Join [our Slack](https://join.slack.com/t/opencollective/shared\_invite/zt-1l5fttt3q-z1u8fTi4uGXSqEymcxpoig) to get in touch with the entire Open Collective community (& join in the #ocf channel)
 
 #### Reporting a Platform Issue
 
