@@ -6,7 +6,7 @@ description: A step-by-step guide to becoming a Collective with OCF
 
 ## **Before you apply:**
 
-1. Read through this [documentation](../../) and [FAQs](broken-reference/) and review the [Terms of Fiscal Sponsorship Agreement](../terms.md) (a.k.a. our Terms and Conditions - when you submit your application, you will tick a box to agree to these. This is our Fiscal Sponsorship Agreement/MOA.)
+1. Read through this [documentation](../../) and [FAQs](https://docs.opencollective.foundation/faq/basic-faq) and review the [Terms of Fiscal Sponsorship Agreement](../terms.md) (a.k.a. our Terms and Conditions - when you submit your application, you will tick a box to agree to these. This is our Fiscal Sponsorship Agreement/MOA.)
 2. Ensure that you are [eligible](../eligibility.md) for fiscal hosting with Open Collective Foundation and are familiar with the Open Collective [Community Guidelines](https://docs.opencollective.com/help/about/community-guidelines)
 3. Be familiar with the [Restrictions & Limitations](../../how-it-works/policies/#restrictions-and-limitations) of our program
 4. Review our [Cash Assistance Policy](../../how-it-works/policies/cash-assistance-policy.md), [Outside Entities Policy](../../how-it-works/policies/outside-entities-policy.md), and [Outside Accounts Policy](../../how-it-works/policies/outside-accounts-policy.md) to ensure that OCF's fiscal hosting is right for you
