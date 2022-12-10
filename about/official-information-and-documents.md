@@ -24,7 +24,7 @@ W9
 Certificate of Status (Certificate of Good Standing)
 {% endfile %}
 
-{% file src="../.gitbook/assets/OCF Board & Bios (02_2022).pdf" %}
+{% file src="../.gitbook/assets/OCF Board & Bios (11_2022).pdf" %}
 Board Members and their Bios
 {% endfile %}
 
@@ -34,9 +34,9 @@ Our official mailing address:
 
 > Open Collective Foundation 501(c)(3)
 >
-> 340 S. Lemon Avenue, #3717
+> 440 N. Barranca Avenue, #3717
 >
-> Walnut, CA 91789
+> Covina, CA 91723
 
 ## ​Financial Information
 
