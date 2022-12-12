@@ -16,7 +16,7 @@ OCF uses a PEO, or Professional Employer Organization, called **Justworks** to m
 
 Employees will be able to manage many aspects of their employment from [within the Justworks platform](https://secure.justworks.com/login), or through apps for [iOS](https://apps.apple.com/app/apple-store/id1485245462) and [Android](https://play.google.com/store/apps/details?id=com.clockwork\_mobile) (_note_: the app cannot do everything that is available on the website, such as choosing a health insurance plan). This includes setting pronouns and choosing whether or not to display their birthday to other employees (the default for this feature is "on").
 
-Employee onboarding is simple and straightforward using the Justworks web app. Employees can also contact Justworks' 24/7 support (they tend to be particularly helpful via live chat on their website - click the bubble in the lower right corner) if they have issues with their account.
+Employee onboarding is simple and straightforward using the Justworks web app. Employees can also contact Justworks' 24/7 support (they tend to be particularly helpful ~~via live chat~~ [over the phone](https://www.justworks.com/features/support)) if they have issues with their account.
 
 #### Timecards
 
