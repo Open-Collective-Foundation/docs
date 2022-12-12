@@ -71,3 +71,9 @@ Additional financial documents, including the most up-to-date budget information
 {% hint style="info" %}
 You'll notice the size of OCF's budget has scaled up a lot since our 2018 and 2019 tax filings. We grew 10x in 2020 and continue to scale up! [See our transparent budget here](https://opencollective.com/foundation#category-BUDGET).
 {% endhint %}
+
+### Looking for our Fiscal Sponsorship Agreement?
+
+It's downloadable here: [terms.md](../getting-started/terms.md "mention")
+
+You agree to the 'Terms' by checking a box when you submit your application to be hosted by OCF.
