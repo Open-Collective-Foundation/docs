@@ -74,9 +74,7 @@ Looking for the email that asks for the receipt upload? The 'Subject' in your em
 * **Name**: Open Collective Foundation
 *   **Address**:
 
-    340 S. Lemon Avenue, #3717
-
-    Walnut, California, 91789-2706, USA
+    440 N Barranca Ave #3717 Covina, CA 91723&#x20;
 * _Sometimes, if you are having physical items mailed, they will expect the zip codes to match.  In these cases, you can use your own address/zip code._
 
 ### My Collective's card has been compromised. How do I dispute a charge?
