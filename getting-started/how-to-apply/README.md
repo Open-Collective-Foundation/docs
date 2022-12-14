@@ -24,7 +24,8 @@ description: A step-by-step guide to becoming a Collective with OCF
 * We charge [fees ](../../how-it-works/fees.md)on all incoming donations for our services.
   * [what-we-offer](../../what-we-offer/ "mention")
   * [is-ocf-right-for-you.md](../../faq/is-ocf-right-for-you.md "mention")
-* Your Collective **cannot** have multiple fiscal sponsors or [outside bank accounts](../../how-it-works/policies/outside-accounts-policy.md). **All funds must be held in your Open Collective account** in order to accurately represent your budget/activities.
+* Your Collective **cannot** have multiple fiscal sponsors, [legal entities](../../how-it-works/policies/outside-entities-policy.md), or [outside bank accounts](../../how-it-works/policies/outside-accounts-policy.md). **All funds must be held in your Open Collective account** in order to accurately represent your budget/activities.
+  * If you plan to raise funds outside of Open Collective (e.g. GoFundMe), please [contact our team](../../about/contact-us.md) to ensure we are able to receive those contributions. Review our [Third Party Fundraising Tools](https://docs.opencollective.foundation/how-it-works/financial-contributions/third-party-fundraising-tools-and-benefits) for more details.
 * If your Collective's **mission or name ever changes**, you must inform us (and depending on the changes, we may ask you to reapply as a new Collective.)
 * **Once funds enter into a 501(c)(3), they must remain in the 501(c)(3) sphere.** This means if your Collective [closes down](../../faq/leaving-ocf.md), your funds cannot be returned, and can either be spent on project expenses or must be transferred to another 501(c)(3) - perhaps another OCF-hosted Collective!
 
