@@ -8,7 +8,9 @@ description: >-
 
 En primer lugar, ¡enhorabuena! Has sido seleccionado para recibir fondos de un Colectivo que utiliza Open Collective Foundation como "patrocinador fiscal" ([¿qué es eso?](https://docs.opencollective.foundation/what-we-offer/fiscal-hosting)). A continuación encontrarás algunas indicaciones para el resto del proceso de subvención.
 
+{% hint style="info" %}
 Si quieres profundizar más, también puedes consultar la [Política de Subvenciones completa](https://docs.opencollective.foundation/how-it-works/grantmaking/policy).
+{% endhint %}
 
 ### 1. Acuerdo de Subvención
 
