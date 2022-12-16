@@ -39,6 +39,7 @@
   * [Individual Grantmaking Policy](how-it-works/grantmaking/policy.md)
   * [Other Grants](how-it-works/grantmaking/other-grants.md)
   * [Grantee Guide](how-it-works/grantmaking/grantee-guide.md)
+  * [Guía del Beneficiario](how-it-works/grantmaking/guia-del-beneficiario.md)
 * [Policies](how-it-works/policies/README.md)
   * [Cash Assistance Policy](how-it-works/policies/cash-assistance-policy.md)
   * [International Activity Policy](how-it-works/policies/international.md)

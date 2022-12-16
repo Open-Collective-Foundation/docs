@@ -28,6 +28,8 @@ Funds are paid out using the [OpenCollective.com platform](https://opencollectiv
 
 Once the Grant Agreement has been signed, you will either receive an "expense invitation" from the Collective Admin (which is encouraged for people unfamiliar with the [Open Collective platform](https://opencollective.com)) or will need to [submit an Expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses).&#x20;
 
+When you click on the link to OpenCollective.com in your email, you may be taken to the English version of the platform. To change the language to Spanish, scroll down to the bottom and use the drop-down menu at the very bottom of the page to change the language to Spanish.
+
 The platform should guide you through the process of setting things up, but [let us know](../../about/contact-us.md) if you have any trouble. The Collective and a member of the OCF team will review the Expense before paying funds out to you. Expenses can be paid out to you via bank transfer or PayPal.
 
 #### Hardship Grant Documentation
