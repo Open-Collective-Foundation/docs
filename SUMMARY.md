@@ -51,9 +51,9 @@
 
 ## About
 
+* [Official Info & Docs](about/official-information-and-documents.md)
 * [Mission & Values](about/mission-and-values.md)
 * [Solidarity: our guiding principle](about/solidarity-our-guiding-principle.md)
-* [Official Info & Docs](about/official-information-and-documents.md)
 * [Team](about/team.md)
 * [Governance](about/board/README.md)
   * [Board members](about/governance/board-members.md)

@@ -1,5 +1,15 @@
 # Official Info & Docs
 
+### Address
+
+Our official mailing address:
+
+> Open Collective Foundation 501(c)(3)
+>
+> 440 N. Barranca Avenue, #3717
+>
+> Covina, CA 91723
+
 ### Nonprofit Status
 
 Open Collective Foundation is a registered 501(c)(3) organization. [Financial contributions](https://docs.opencollective.foundation/how-it-works/financial-contributions) (i.e., [donations](https://docs.opencollective.foundation/about/these-docs)) to Open Collective Foundation for the purpose of our sponsored Collectives are tax-deductible to the extent of the law.
@@ -24,19 +34,7 @@ W9
 Certificate of Status (Certificate of Good Standing)
 {% endfile %}
 
-{% file src="../.gitbook/assets/OCF Board & Bios (11_2022).pdf" %}
-Board Members and their Bios
-{% endfile %}
 
-### Address
-
-Our official mailing address:
-
-> Open Collective Foundation 501(c)(3)
->
-> 440 N. Barranca Avenue, #3717
->
-> Covina, CA 91723
 
 ## ​Financial Information
 
@@ -50,13 +48,11 @@ OCF Banking Information PDF
 
 You can see our publicly-available Form 990s below, or on [our Guidestar profile](https://www.guidestar.org/profile/81-4004928).
 
+{% file src="../.gitbook/assets/Open Collective 2021 990 - Public.pdf" %}
+
 {% file src="../.gitbook/assets/2020-oc-foundation-990-public-copy.pdf" %}
 2020 Form 990
 {% endfile %}
-
-{% hint style="info" %}
-_Blank pages (parts of the form not applicable to OCF) have been removed from the file above for ease of reading. If you require a full unredacted version, we're happy to provide one._
-{% endhint %}
 
 {% file src="../.gitbook/assets/2019-oc-foundation-990-final-tax-return.pdf" %}
 2019 Form 990
