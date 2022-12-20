@@ -67,6 +67,8 @@ If you are transitioning from another fiscal host that uses the Open Collective 
 
 Please be sure to **communicate your plans** to both OCF _and_ your old fiscal host in advance of your application to ensure a smooth transition. Once you have tied up any loose ends with your current host, they can [transfer](../../how-it-works/financial-contributions/) the funds to us electronically or send it to us by check. We can issue an invoice to them and sign agreements if needed.
 
+Due to the nature of the work involved in accepting funds into OCF, our normal [Fees](../../how-it-works/fees.md) will still apply to any incoming funds - including an initial funds transfer.&#x20;
+
 {% hint style="info" %}
 All funds for your Collective must be transferred to Open Collective Foundation, since Collectives may not hold funds for the project in [any other bank account](../../how-it-works/policies/outside-accounts-policy.md) while hosted by OCF. Our normal [fees](https://docs.opencollective.foundation/how-it-works/fees) apply to funds transferred in.
 {% endhint %}
