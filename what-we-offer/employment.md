@@ -238,6 +238,10 @@ Any employees with questions or concerns about equal employment opportunities in
 
 Further anti-harassment and anti-discrimination policies are outlined in the [Community Guidelines](https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines) for the Open Collective platform which are prescribed for all members of the Open Collective ecosystem including fiscal hosts such as OCF.
 
+### Handbooks
+
+OCF has separate handbooks per state of residence. They may be viewed by employees here: [https://bit.ly/ocfhandbooks](https://bit.ly/ocfhandbooks)
+
 ### Worker Classification
 
 Anyone who wishes to be employed and meets the above requirements is welcome to be employed by OCF. Conversely, there are situations where the law says we must make someone an employee instead of a contractor. Defining whether someone is an employee or an independent contractor is called worker classification.
