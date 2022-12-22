@@ -32,7 +32,8 @@ Please make sure to review our [Terms of Fiscal Sponsorship](../../getting-start
 
 * Collectives funds must be used **solely** for your sponsored **charitable activities**. Funds used for any other purpose, such as private profit, will need to be paid back. (_Note_: this does not mean that you cannot be [paid for your labor](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses#how-do-i-get-paid-from-a-collective).)
 * Funds **cannot** be used to support breaking the law.
-* OCF cannot sponsor Collectives for which religion is a key focus of their mission, that seek to spread any particular religion, or that require beneficiaries to hold certain religious beliefs.
+* OCF cannot sponsor Collectives for which religion is a key focus of their mission, that seek to spread any particular religion, or that require members or beneficiaries to hold certain religious beliefs.&#x20;
+  * Further, Collectives may not have a "congregation," host religious services, have a core recognized creed and/or form of worship, or otherwise resemble a “church” [as defined by the IRS](http://www.irs.gov/pub/irs-pdf/p1828.pdf).
 * Collectives **may not hold funds for the project in any other bank account** while hosted by OCF. All funds for your Collective should be hosted with us. Review our [Outside Accounts Policy](outside-accounts-policy.md) for more details.
 
 {% hint style="info" %}
