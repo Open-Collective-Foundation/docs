@@ -32,8 +32,8 @@ Please make sure to review our [Terms of Fiscal Sponsorship](../../getting-start
 
 * Collectives funds must be used **solely** for your sponsored **charitable activities**. Funds used for any other purpose, such as private profit, will need to be paid back. (_Note_: this does not mean that you cannot be [paid for your labor](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses#how-do-i-get-paid-from-a-collective).)
 * Funds **cannot** be used to support breaking the law.
-* Collectives **may not hold funds for the project in any other bank account** while hosted by OCF. All funds for your Collective should be hosted with us. Review our [Outside Accounts Policy](outside-accounts-policy.md) for more details.
 * OCF cannot sponsor Collectives for which religion is a key focus of their mission, that seek to spread any particular religion, or that require beneficiaries to hold certain religious beliefs.
+* Collectives **may not hold funds for the project in any other bank account** while hosted by OCF. All funds for your Collective should be hosted with us. Review our [Outside Accounts Policy](outside-accounts-policy.md) for more details.
 
 {% hint style="info" %}
 _Note_ : You can maintain another bank account for **other** projects and activities that may be somewhat related. They need to be fully distinct, with **different names and purposes**, and **funds must remain completely separate**. Money cannot be regularly flowing back and forth between the two accounts/entities. You will also need to define a very clear scope for your Open Collective funding and activities that is **fully separated** from any other ones.
