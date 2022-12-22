@@ -16,6 +16,10 @@ description: A few ways to reach the OCF Team
 
 :e-mail: How to [send a check](../how-it-works/financial-contributions/#check-contributions) to OCF
 
+{% hint style="info" %}
+Our small but mighty team is here to help you Monday to Friday across multiple timezones. We aim to respond to inquiries within 3 business days.
+{% endhint %}
+
 #### Talking to a Person
 
 &#x20;:love\_letter: Email any OCF-specific questions to [contact@opencollective.foundation](mailto:contact@opencollective.foundation)
