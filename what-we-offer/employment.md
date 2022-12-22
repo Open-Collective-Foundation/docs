@@ -194,7 +194,7 @@ Additionally, any Collective that employs people will be required to sign up for
 
 ## Requirements & Policies
 
-* Employees must be located in the US and be allowed to legally work in the US.
+* Employees must be located in the US and be allowed to legally work in the US. (We are not currently able to employ people in US territories such as PR.)
 * Employees must be 18 years of age or older. We are not able to employ minors at this time.
 * OCF can currently only support salaried, exempt, part-time or full-time employees, not hourly or manual workers. For other types of work, you may pay people as independent contractors instead (employment laws allowing - [see below](employment.md#worker-classification)).
 * All employees have unlimited PTO and we do not track or pay out PTO.
