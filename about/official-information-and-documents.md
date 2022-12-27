@@ -6,7 +6,7 @@ Our official mailing address:
 
 > Open Collective Foundation 501(c)(3)
 >
-> 440 N. Barranca Avenue, #3717
+> 440 N. Barranca Avenue #3717
 >
 > Covina, CA 91723
 
@@ -48,7 +48,7 @@ OCF Banking Information PDF
 
 You can see our publicly-available Form 990s below, or on [our Guidestar profile](https://www.guidestar.org/profile/81-4004928).
 
-{% file src="../.gitbook/assets/Open Collective 2021 990 - Public.pdf" %}
+{% file src="../.gitbook/assets/Open Collective Foundation 2021 990 - Public.pdf" %}
 
 {% file src="../.gitbook/assets/2020-oc-foundation-990-public-copy.pdf" %}
 2020 Form 990

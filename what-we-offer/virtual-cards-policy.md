@@ -72,9 +72,7 @@ Looking for the email that asks for the receipt upload? The 'Subject' in your em
 ### What Name & Address do I use for cardholder contact details?
 
 * **Name**: Open Collective Foundation
-*   **Address**:
-
-    440 N Barranca Ave #3717 Covina, CA 91723&#x20;
+* **Address:** 440 N Barranca Ave #3717, Covina, CA 91723&#x20;
 * _Sometimes, if you are having physical items mailed, they will expect the zip codes to match.  In these cases, you can use your own address/zip code._
 
 ### My Collective's card has been compromised. How do I dispute a charge?

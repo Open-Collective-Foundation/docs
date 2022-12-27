@@ -27,9 +27,9 @@ will be _significantly_ delayed in arriving to your OC account.
 
 > **Open Collective Foundation 501(c)(3)**
 >
-> **340 S. Lemon Avenue #3717**
+> **440 N. Barranca Avenue #3717**
 >
-> **Walnut, CA 91789**
+> **Covina, CA 91723**
 
 2\. Then send an email to [contact@opencollective.foundation](mailto:contact@opencollective.foundation) with the following information:
 
