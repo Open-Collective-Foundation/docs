@@ -41,6 +41,7 @@ Sometimes. If all that's needed is [proof of 501(c)(3) status](../about/official
 Send us an email contact@opencollective.foundation with the following:
 
 * Date of funds transfer
-* Name of donor
+* Name of funder
 * Amount of grant
+* Disbursement method (e.g. check, bank transfer)
 * Designation (which group) so we know where to allocate funds
