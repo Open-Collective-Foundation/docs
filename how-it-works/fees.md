@@ -14,10 +14,10 @@ There are **no setup fees, balance minimums, monthly or annual fees**, or any ot
 
 For groups who have raised up to $500k:
 
-* **5%** **fee on each incoming contribution made via credit card** through your page on Open Collective. These transactions are automated.
-* **8% via all other means (like bank transfers and checks).** This reflects the manual processing we need to do for such transactions.
+* **5%** **fee on each incoming contribution made via credit card or another method** through your page on Open Collective. These transactions are automated.
+* **8% via all other means (like non-platform bank transfers and checks).** This reflects the manual processing we need to do for such transactions.
 
-:seedling: If your Collective raises funds beyond a certain threshold (above $500k; then above $1 million), the fees on **bank transfers & checks** start to go down. We charge
+:seedling: If your Collective raises funds beyond a certain threshold (above $500k; then above $1 million), the fees on non-platform **bank transfers & checks** start to go down. We charge
 
 * **6%** for between $500k and $1 million raised, and
 * **4%** if you have raised over $1M
