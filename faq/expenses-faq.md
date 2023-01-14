@@ -28,11 +28,15 @@ OCF's mission is about the sustainability of positive impact Collectives. We hel
 
 OCF won't tell you what to do—it's up to Collectives to make these decisions. But we encourage you to think about the long-term health of your Collective and the well-being and development of the humans who make it all possible.
 
-You can pay people casually as contractors through invoice expenses on your Collective, or if they'll be working on a regular basis, [employ them](../what-we-offer/employment.md) part or full time.
+You can pay people casually as contractors through invoice expenses on your Collective, or **if they'll be working on a regular basis,** [**employ them**](../what-we-offer/employment.md) **part or full time.** If workers would like to benefit from paid time off and health insurance, we recommend that you reach out to us about [employment through OCF](../what-we-offer/employment.md).
 
 #### Best practices for invoice expenses
 
 Contractors and vendors should be paid in a timely manner, with a detailed invoice showing when they provided services and at what rate. Expenses without these details may not be approved by the OCF team for payment.
+
+#### As a contractor, can I take a sabbatical?
+
+Collectives' contractors are not eligible for long-term paid time off at OCF. If you are in a particular situation where you feel an exception should be made, [feel free to reach out and discuss it with us](../about/contact-us.md).
 
 ### **Do you offer payroll and employment services?**
 
