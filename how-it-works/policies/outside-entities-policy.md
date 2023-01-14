@@ -38,12 +38,12 @@ Outside entities _may_ be allowed if **all** the following criteria are met:
 * **Any contracts between OCF Collectives and outside entities must be reviewed and signed by OCF staff** (hosted Collectives are not legal entities that can enter contracts independently, nor are Collective participants authorized to act as agents of OCF for legal purposes).
 
 {% hint style="success" %}
-The Collective's name **should not** include the name of the outside entity
+The Collective's name **should clearly distinguish between** the collective and the outside entity.
 {% endhint %}
 
 ## :ballot\_box\_with\_check: **Examples of generally permitted use of outside entities:**
 
-* An entity seeking to run a charity program associated with their brand but separated from its commercial operations.
+* An entity seeking to run a charity program (fitting within OCF's [mission](../../about/mission-and-values.md)) associated with their brand but separated from its commercial operations. _Reminder: the Collective and the outside entity must have **completely separate and distinct names, missions, activities, and budgets**._
 * A dormant entity that was previously used for 501(c)(3) activities prior to joining OCF, as long as it’s not active during the term of OCF fiscal sponsorship.
 * Contracting an entity owned by or associated with Collective participants to provide legitimate services genuinely related to furthering the Collective’s charitable mission, as long as a signed services contract between the entity and OCF is in place.
 * Spending down a grant held by a previous 501(c)(3) fiscal sponsor where it’s not possible to move the funds to OCF (as long as OCF is made aware, in writing).
