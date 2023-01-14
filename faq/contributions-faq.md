@@ -45,7 +45,7 @@ Some related notes:
 This question must be answered in several parts:
 
 1. **Earned** income from goods or services provided is never tax-deductible for the contributor.
-2. The Open Collective platform is generally not useful for e-commerce (selling goods). Additionally, such activity may be seen as taxable income by the IRS. Thus, we recommend selling things outside of the platform as an individual and then donating the proceeds to your Collective.&#x20;
+2. The Open Collective platform is generally not useful for e-commerce (selling goods). We recommend selling things outside of the platform as an individual and then donating the proceeds to your Collective. (If you would like to try connecting OCF to an e-commerce site, we may not be able to credit your funds to your account. We can only make it work on a case by case basis. For more on this, see [here](../how-it-works/financial-contributions/third-party-fundraising-tools-and-benefits.md).)
 3. If you would like to offer donors goods in exchange for their donation, see [below](contributions-faq.md#can-we-offer-financial-contributors-something-in-return-for-their-donation).
 4. OCF Collectives may provide services in exchange for money as long as those services are at the core of the Collective's mission, charitable in nature, and fit within OCF's [mission and values](../about/mission-and-values.md). No side hustles! These should only be close to the core of what you do.&#x20;
 5. To receive earned income for a service program through the Open Collective platform, Collectives should set up a new [Tier](https://docs.opencollective.com/help/collectives/collective-settings/tiers-goals#tiers) named after the program, selecting the "Payment receipt" option. Only earned income should be received through that Tier.&#x20;
@@ -58,10 +58,6 @@ _The OCF Payment Receipt, unlike the Donation Receipt, reads as follows:_
 _For more on selling goods, see our_ [_Outside Entities Policy_](../how-it-works/policies/outside-entities-policy.md#examples-of-generally-permitted-use-of-outside-entities)_:_
 
 > Collectives may sell products or services through a distinct and separate outside entity where the proceeds are then donated to a Collective under OCF (as long as buyers are made aware that their purchase is not a direct donation and isn’t tax deductible, and that the Collective **and** the outside entity are separate and distinct).
-
-{% hint style="info" %}
-On a related note, just doing something for free does not on its own make an activity charitable. The activity must have a broader goal in terms of impact and public benefit in order to be considered charitable activity.
-{% endhint %}
 
 ### **Can we offer financial contributors something in return for their donation?**
 
