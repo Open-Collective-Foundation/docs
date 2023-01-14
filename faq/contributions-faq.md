@@ -40,13 +40,28 @@ Some related notes:
 * An individual's story can serve as an example recipient, but it should be clear that funds are going into a pot of funds for hardship relief (for example), not just for that person
 * Collectives can also facilitate direct relief from a donor to a recipient in need, as long as the funds are never in the Collective or OCF's hands. In this situation, it should also be made clear that we cannot offer a tax receipt or tax-deductibility
 
-### **Can we receive earned income (i.e., non-donations) sell stuff through OCF?**
+### **Can we receive earned income (i.e., non-donations) or sell stuff through OCF?**
 
-OCF cannot provide tax deductibility for merch sales at this time.
+This question must be answered in several parts:
 
-From our [Outside Entities Policy](../how-it-works/policies/outside-entities-policy.md#examples-of-generally-permitted-use-of-outside-entities):
+1. **Earned** income from goods or services provided is never tax-deductible for the contributor.
+2. The Open Collective platform is generally not useful for e-commerce (selling goods). Additionally, such activity may be seen as taxable income by the IRS. Thus, we recommend selling things outside of the platform as an individual and then donating the proceeds to your Collective.&#x20;
+3. If you would like to offer donors goods in exchange for their donation, see [below](contributions-faq.md#can-we-offer-financial-contributors-something-in-return-for-their-donation).
+4. OCF Collectives may provide services in exchange for money as long as those services are at the core of the Collective's mission, charitable in nature, and fit within OCF's [mission and values](../about/mission-and-values.md). No side hustles! These should only be close to the core of what you do.&#x20;
+5. To receive earned income for a service program through the Open Collective platform, Collectives should set up a new [Tier](https://docs.opencollective.com/help/collectives/collective-settings/tiers-goals#tiers) named after the program, selecting the "Payment receipt" option. Only earned income should be received through that Tier.&#x20;
+6. Any earned income sent directly to our bank account should be flagged as such via [email](../about/contact-us.md) with the [relevant details](../how-it-works/financial-contributions/credit-card-paypal-bank-transfers.md#bank-transfers).
+
+_The OCF Payment Receipt, unlike the Donation Receipt, reads as follows:_
+
+> While Open Collective Foundation is a 501(c)(3) nonprofit, goods and services may have been provided in exchange for this payment, and it may not be tax deductible. Consult your tax advisor if you have any questions about the tax deductibility of this transaction.
+
+_For more on selling goods, see our_ [_Outside Entities Policy_](../how-it-works/policies/outside-entities-policy.md#examples-of-generally-permitted-use-of-outside-entities)_:_
 
 > Collectives may sell products or services through a distinct and separate outside entity where the proceeds are then donated to a Collective under OCF (as long as buyers are made aware that their purchase is not a direct donation and isn’t tax deductible, and that the Collective **and** the outside entity are separate and distinct).
+
+{% hint style="info" %}
+On a related note, just doing something for free does not on its own make an activity charitable. The activity must have a broader goal in terms of impact and public benefit in order to be considered charitable activity.
+{% endhint %}
 
 ### **Can we offer financial contributors something in return for their donation?**
 
