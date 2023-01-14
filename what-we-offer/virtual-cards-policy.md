@@ -28,8 +28,10 @@ Virtual Cards can be issued to OCF’s hosted Collectives for paying online for 
 
 **Limitations:**
 
-* Virtual cards **may not** be used for [paying/reimbursing people](../how-it-works/payouts.md) -that should be done on the OC platform.
-* Virtual cards are intended to be used only by Collective Admins/Team Members. e.g. A recipient may not use a virtual card to purchase groceries for themselves.
+* Virtual cards **may not** be used for [paying/reimbursing people](../how-it-works/payouts.md) or contractors - that should be done on the OC platform.
+* Virtual cards **may not** be used for paying LLCs or sole proprietorship businesses more than $599 in a calendar year. For $600 or more in a calendar year, the business **must** invoice
+* Virtual cards are intended to be used only by Collective Admins/Team Members. This means that program recipients may not use a virtual card to purchase groceries for themselves.
+* Virtual cards may not be used to pay rent on behalf of Collectives or program recipients without prior approval from OCF staff, to ensure that all contracts are properly in place.
 
 ## Steps
 
