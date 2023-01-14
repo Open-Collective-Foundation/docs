@@ -41,6 +41,10 @@ According to the IRS, Political Campaign Intervention includes:
 
 These activities are completely prohibited for our Collectives. ([source](https://www.irs.gov/charities-non-profits/charitable-organizations/the-restriction-of-political-campaign-intervention-by-section-501c3-tax-exempt-organizations))
 
+{% hint style="danger" %}
+If you or another member of your team is running for office, you must schedule a meeting with us to go over this policy and put procedures in place to ensure that OCF and campaign activities remain completely separate.
+{% endhint %}
+
 ### :white\_check\_mark: So What Can We Do?
 
 Just because your Collective cannot lobby around specific potential laws or intervene in elections does not mean that it cannot engage in political activity or be involved in public policy. Examples from the IRS of activities that are allowed include the following:
@@ -48,7 +52,7 @@ Just because your Collective cannot lobby around specific potential laws or inte
 * Conducting educational meetings,
 * Preparing and distributing educational materials
 * Otherwise considering public policy issues in an educational manner
-* Certain voter education activities (including presenting public forums and publishing voter education guides) conducted in a non-partisan manner
+* Certain voter education activities (including presenting public forums and publishing voter education guides) conducted in a non-partisan manner (no partisan organizations way be co-sponsors!)
 * Activities intended to encourage people to participate in the electoral process, such as voter registration and get-out-the-vote drives, if conducted in a non-partisan manner
 
 Of course, you are entitled to your own political opinions, but you should be careful about expressing such opinions on behalf of your Collective so that you are not taking a position on a specific election or piece of legislation.
