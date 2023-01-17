@@ -44,8 +44,8 @@ Some related notes:
 
 This question must be answered in several parts:
 
-1. **Earned** income from goods or services provided is never tax-deductible for the contributor.
-2. The Open Collective platform is generally not useful for e-commerce (selling goods). Additionally, such activity may be seen as taxable income by the IRS. Thus, we recommend selling things outside of the platform as an individual and then donating the proceeds to your Collective.&#x20;
+1. **Earned** income from goods or services provided is never tax-deductible for the contributor/payer who is receiving the goods/services. Only donations to charities are tax-deductible, because nothing is received in return.
+2. The Open Collective platform is generally not useful for e-commerce (selling goods). Additionally, such activity may be seen as taxable income by the IRS. Thus, we recommend selling things outside of the platform as an individual and then donating the proceeds to your Collective. Selling goods is generally not a charitable activity anyway.
 3. If you would like to offer donors goods in exchange for their donation, see [below](contributions-faq.md#can-we-offer-financial-contributors-something-in-return-for-their-donation).
 4. OCF Collectives may provide services in exchange for money as long as those services are at the core of the Collective's mission, charitable in nature, and fit within OCF's [mission and values](../about/mission-and-values.md). No side hustles! These should only be close to the core of what you do.&#x20;
 5. To receive earned income for a service program through the Open Collective platform, Collectives should set up a new [Tier](https://docs.opencollective.com/help/collectives/collective-settings/tiers-goals#tiers) named after the program, selecting the "Payment receipt" option. Only earned income should be received through that Tier.&#x20;

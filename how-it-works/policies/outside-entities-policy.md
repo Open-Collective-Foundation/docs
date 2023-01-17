@@ -38,7 +38,7 @@ Outside entities _may_ be allowed if **all** the following criteria are met:
 * **Any contracts between OCF Collectives and outside entities must be reviewed and signed by OCF staff** (hosted Collectives are not legal entities that can enter contracts independently, nor are Collective participants authorized to act as agents of OCF for legal purposes).
 
 {% hint style="success" %}
-The Collective's name **should clearly distinguish between** the collective and the outside entity.
+The Collective's name **should clearly distinguish between** the collective and the outside entity. It should be clear to donors, the public, and the IRS that the charitable project and the for-profit entity are completely separate. We recommend saying so online so that there is no confusion.
 {% endhint %}
 
 ## :ballot\_box\_with\_check: **Examples of generally permitted use of outside entities:**
