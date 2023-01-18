@@ -60,6 +60,10 @@ There are certain enhanced risk factors where OCF may require extra insurance, s
 
 The base General Liability cost is $250 per year, renewing August 18 of each year. Something to be aware of is that this cost is not prorated, so the cost will still be $250 mid-cycle. If the insurance underwriters determine that your Collective is riskier than usual, or if the scale of the Collective's work is quite large, the cost may be higher, so we cannot guarantee that the base cost will stay at $250 per year, although we have typically not seen this cost go above $600. (Collectives are also included in our Accident and Commercial Umbrella insurance coverages at no additional cost.)
 
+{% hint style="info" %}
+**Note:** even though we have a nonprofit insurance provider, they still have to engage in certain ways with for-profit insurance providers and their large price hikes. They also are not immune to inflation. Thus, we expect to see costs to go up year-over-year.
+{% endhint %}
+
 All Collectives are also added to our Non-Owned Auto coverage. This is typically another $25 per year (we've seen it be as high as $50 per year for larger Collectives), and this is sometimes prorated when added mid-year.&#x20;
 
 If your Collective has employees, it will be added to our Directors & Officers policy. Directors and officers coverage is the type of coverage that is most expensive for collectives, as they add new employees. While the initial cost when you join mid-year is typically $250 for the whole Collective, when our plan renews in August it tends to be more expensive. In 2022, the cost of Directors & Officers insurance was about $325 per employee, but we cannot guarantee that this cost will hold for 2023. We do not know the exact renewal cost until we go through the renewal process in August of each year, so please leave space in your budget.
