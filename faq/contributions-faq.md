@@ -40,6 +40,8 @@ Some related notes:
 * An individual's story can serve as an example recipient, but it should be clear that funds are going into a pot of funds for hardship relief (for example), not just for that person
 * Collectives can also facilitate direct relief from a donor to a recipient in need, as long as the funds are never in the Collective or OCF's hands. In this situation, it should also be made clear that we cannot offer a tax receipt or tax-deductibility
 
+For questions whether you can _spend_ funds on a specific individual, see [this related Expenses FAQ question](expenses-faq.md#can-we-give-to-a-non-charity-gofundme-or-other-fundraiser-can-we-make-a-one-off-donation-to-an-indiv).
+
 ### **Can we receive earned income (i.e., non-donations) or sell stuff through OCF?**
 
 This question must be answered in several parts:
