@@ -99,11 +99,11 @@ _Individuals driving an automobile for Collective purposes must have valid autom
 
 Yes, hosted collectives can do this. Please be sure to talk to us about the specifics of the payment processes in your local community, and make sure that our expense processes (such as using a virtual card) can fit your needs, especially in terms of timing.
 
-### Can we give to a non-charity GoFundMe or other fundraiser? Can we make a one-off donation to an individual in need?
+### Can OCF-hosted Collectives give to a non-charity GoFundMe or other fundraiser? Can we make a one-off donation to an individual in need?
 
-We can only make donations through GoFundMe or other such platforms to other 501(c)(3) public charities. In order to do so, OCF staff will need to review the organization's IRS Determination Letter.
+We can only make donations through GoFundMe or other similar platforms to other 501(c)(3) public charities. In order to do so, OCF staff will need to review the organization's IRS Determination Letter. (Please request it from the 501(c)(3) recipient and send it to us at contact@opencollective.foundation)
 
-Donations to individuals should fit within an existing [Grantmaking](../how-it-works/grantmaking/) or [Cash Assistance](../how-it-works/policies/cash-assistance-policy.md) program. Collectives should not make one-off donations to individuals outside of one of these programs, but Collectives are encouraged to consider creating such processes to support people undergoing hardship in their communities.
+Donations to individuals should fit within an existing [Grantmaking](../how-it-works/grantmaking/) or [Cash Assistance](../how-it-works/policies/cash-assistance-policy.md) program. Collectives should not make one-off donations to individuals outside of one of these programs, but Collectives are encouraged to consider creating a Grantmaking or Cash Assistance program to support people undergoing hardship in their communities.
 
 ### What about expenses from before we joined OCF?
 
