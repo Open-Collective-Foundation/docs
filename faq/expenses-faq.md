@@ -101,9 +101,9 @@ Yes, hosted collectives can do this. Please be sure to talk to us about the spec
 
 ### Can OCF-hosted Collectives give to a non-charity GoFundMe or other fundraiser? Can we make a one-off donation to an individual in need?
 
-We can only make donations through GoFundMe or other similar platforms to other 501(c)(3) public charities. In order to do so, OCF staff will need to review the organization's IRS Determination Letter. (Please request it from the 501(c)(3) recipient and send it to us at contact@opencollective.foundation)
-
 Donations to individuals should fit within an existing [Grantmaking](../how-it-works/grantmaking/) or [Cash Assistance](../how-it-works/policies/cash-assistance-policy.md) program. Collectives should not make one-off donations to individuals outside of one of these programs, but Collectives are encouraged to consider creating a Grantmaking or Cash Assistance program to support people undergoing hardship in their communities.
+
+Collectives may only make donations through GoFundMe or other similar platforms to other **501(c)(3) public charities**. For donations to such charities over $5,000, OCF staff will need to review the organization's IRS Determination Letter. (Please request it from the 501(c)(3) recipient and send it to us at contact@opencollective.foundation.)
 
 ### What about expenses from before we joined OCF?
 
