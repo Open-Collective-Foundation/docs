@@ -60,15 +60,15 @@ Sadé Swift is a Black Queer artist who has been organizing for the last 10+ yea
 
 Alfie is a queer artist and graphic designer, and their love for visual communication brought them to this very position. They love working for OCF because the graphic design practice they want belongs outside the setting of a commercial consumer realm. With OCF they get to produce graphic design that has a strong social impact. [Website](https://althemiamarsland.com/), [Instagram](https://www.instagram.com/alfie.marsland/)
 
-**Salwa Raza (New York, USA), support staff**
+**Salwa Raza (New York, USA), Support Staff**
 
 Salwa comes to us from being Operations Manager at Drivers Cooperative, a startup platform cooperative. Their career trajectory began from a childhood rooted in community organizing in the South Asian communities of South Florida. They are grounded in worker solidarity and collective care.
 
-**Dawn Matlak (Madison, USA), operations coordinator**
+**Dawn Matlak (Madison, USA), Operations Coordinator**
 
 Dawn has deep and lengthy experience within purpose-driven collectives and nonprofits, and their work in finance has been centered around solidarity, accessibility, and uprooting some of the typical “business as usual” style.
 
-**Katie Adamides (Rochester, USA), director of operations**
+**Katie Adamides (Rochester, USA), Director of Operations**
 
 Katie is an activist with a growth mindset and an openness to new tools that led her to become a lawyer, policy advocate, and eventually, nonprofit leader. She wants to use her career to share power with fellow activists struggling for a better future. Her strength is non-hierarchical leadership and organizational development in decentralized structures.
 
