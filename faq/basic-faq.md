@@ -81,3 +81,5 @@ Since our hosted groups [can only be hosted by OCF](https://docs.opencollective.
 2. Provide the bank documentation to the previous fiscal sponsor so that they know where to send the money.  [All the ways of sending money to your Open Collective account can be found here](https://docs.opencollective.foundation/how-it-works/financial-contributions) (You can pass this page onto your previous sponsor).
 3. Inform us that the money is en route contact@opencollective.foundation so that we can check incoming funds and add the funds to your collective upon arrival.
 4. An additional (less common step) is that we may need to sign a grant transfer agreement if a large amount of funds is coming from an active grant, but that should be initiated by the funder.
+
+We can't offer discounts on moving balances over from another fiscal sponsor, and normal fees apply to incoming funds regardless of source ([more info](../how-it-works/fees.md#can-we-have-a-discount)).
