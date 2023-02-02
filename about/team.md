@@ -60,6 +60,8 @@ Sadé Swift is a Black Queer artist who has been organizing for the last 10+ yea
 
 Alfie is a queer artist and graphic designer, and their love for visual communication brought them to this very position. They love working for OCF because the graphic design practice they want belongs outside the setting of a commercial consumer realm. With OCF they get to produce graphic design that has a strong social impact. [Website](https://althemiamarsland.com/), [Instagram](https://www.instagram.com/alfie.marsland/)
 
+<figure><img src="../.gitbook/assets/IMG_2056_1_200x200.jpg" alt=""><figcaption></figcaption></figure>
+
 **Salwa Raza (New York, USA), Support Staff**
 
 Salwa comes to us from being Operations Manager at Drivers Cooperative, a startup platform cooperative. Their career trajectory began from a childhood rooted in community organizing in the South Asian communities of South Florida. They are grounded in worker solidarity and collective care.
