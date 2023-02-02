@@ -68,6 +68,8 @@ Salwa comes to us from being Operations Manager at Drivers Cooperative, a startu
 
 Dawn has deep and lengthy experience within purpose-driven collectives and nonprofits, and their work in finance has been centered around solidarity, accessibility, and uprooting some of the typical “business as usual” style.
 
+<figure><img src="../.gitbook/assets/IMG_3106 copy (1).jpg" alt=""><figcaption></figcaption></figure>
+
 **Katie Adamides (Rochester, USA), director of operations**
 
 Katie (she/they) is an activist with an openness to new tools that led them to become a lawyer, policy advocate, and eventually, nonprofit leader. They want to use their career to share power with fellow activists struggling for a better future. Before returning to her hometown of Rochester, Katie lived and worked in Dinétah (Navajo Nation), the San Francisco Bay Area, Los Angeles, and New York City. To learn more about Katie's journey to nonprofit leadership, check out her[ interview with Cal Alumni Magazine](https://alumni.berkeley.edu/california-magazine/2022-spring/snapp-chats/). [LinkedIn](http://linkedin.com/in/katie-adamides-424b0915)
