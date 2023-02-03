@@ -62,7 +62,7 @@ Alfie is a queer artist and graphic designer, and their love for visual communic
 
 <figure><img src="../.gitbook/assets/IMG_2056_1_200x200.jpg" alt=""><figcaption></figcaption></figure>
 
-**Salwa Raza (New York, USA), Support Staff**
+**Salwa R (New York, USA), support staff**
 
 Salwa comes to us from being Operations Manager at Drivers Cooperative, a startup platform cooperative. Their career trajectory began from a childhood rooted in community organizing in the South Asian communities of South Florida. They are grounded in worker solidarity and collective care.
 
