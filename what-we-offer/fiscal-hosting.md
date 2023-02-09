@@ -8,7 +8,7 @@ description: Fiscal Host = Fiscal Sponsor
 
 Open Collective Foundation [provides fiscal hosting services](./) to US-based Collectives that are aligned with our [mission, values, and impact areas](../about/mission-and-values.md).
 
-Since OCF is a [501(c)(3) nonprofit organization](fiscal-hosting.md#what-does-501-c-3-mean), our hosted Collectives (through a contractual relationship), are also able to receive tax-deductible contributions without obtaining their own independent 501(c)(3) status - which can be a time- and resource-consuming process).
+Since OCF is a [501(c)(3) nonprofit organization](fiscal-hosting.md#what-does-501-c-3-mean), our hosted Collectives (through a contractual relationship), are also able to receive tax-deductible contributions without obtaining their own independent 501(c)(3) status - which can be a time- and resource-consuming process.
 
 {% hint style="info" %}
 The Open Collective Platform can be used by Collectives who want to be hosted under a fiscal host. It can **also** be used by the hosts themselves! [Learn more.](https://opencollective.com/fiscal-hosting)
