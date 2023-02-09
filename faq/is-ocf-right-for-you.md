@@ -4,13 +4,13 @@ description: An objective and detailed legal analysis
 
 # Is OCF Right For You?
 
-An Collective considering joining OCF had a lawyer do a formal review of whether it would be a good fit, which resulted in a very useful list of things all prospective Collectives might wish to consider.
+A Collective considering joining OCF had a lawyer do a formal review of whether it would be a good fit, which resulted in a very useful list of things all prospective Collectives might wish to consider.
 
 We feel sharing this analysis openly can benefit all parties, as it's an objective and impartial in-depth review. Everyone is better off if Collectives understand what joining OCF entails, and we are happy to refer projects to alternatives if OCF is not the best fit for them.
 
 This particular Collective ended up deciding to join OCF and it worked out great, but each Collective is unique.
 
-## Model A Fiscal Sponsorship Model
+## "Model A" Fiscal Sponsorship Model
 
 OCF offers "Model A" fiscal sponsorship, also known as a "comprehensive" or "direct" fiscal sponsor agreement.
 
@@ -67,7 +67,7 @@ This means that OCF will report all grants and donations received on OCF's own f
 
 ### **Ease of exit**
 
-If an Collective decides to form its own separate legal entity, it will be easy to exit your fiscal sponsorship agreement with OCF. You simply must, according to Provision 6 of the fiscal sponsorship agreement, give OCF 30 days notice.
+If a Collective decides to form its own separate legal entity, it will be easy to exit your fiscal sponsorship agreement with OCF. You simply must, according to Provision 6 of the fiscal sponsorship agreement, give OCF 30 days notice.
 
 Your choices for any remaining assets are:
 
@@ -117,9 +117,9 @@ In addition, OCF requires you to reach out to them if you engage in any of the f
 
 * If you want to [make grants](../how-it-works/grantmaking/policy.md) and/or provide [cash assistance](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/cash-assistance-policy);
 * If you engage in offline or in-person fundraising;
-* If you want to use an external service or platform to receive funds (e.g. Kickstarter, Patreon);
-* If you want to sell goods or services, or provide anything tangible in return to someone giving you money (i.e. it’s not purely a donation);
-* If you receive an in-kind/non-monetary donation.
+* If you want to use an [external service or platform](https://docs.opencollective.foundation/how-it-works/financial-contributions/third-party-fundraising-tools-and-benefits) to receive funds (e.g. Kickstarter, Patreon);
+* If you want to [sell goods or services](https://docs.opencollective.foundation/faq/contributions-faq#can-we-receive-earned-income-i.e.-non-donations-or-sell-stuff-through-ocf), or provide anything tangible in return to someone giving you money (i.e. it’s not purely a donation);
+* If you receive an [in-kind/non-monetary donation](https://docs.opencollective.foundation/how-it-works/financial-contributions/in-kind).
 
 ### Required review of all contracts with third parties
 
