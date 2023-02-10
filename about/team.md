@@ -66,9 +66,13 @@ Alfie is a queer artist and graphic designer, and their love for visual communic
 
 Salwa comes to us from being Operations Manager at Drivers Cooperative, a startup platform cooperative. Their career trajectory began from a childhood rooted in community organizing in the South Asian communities of South Florida. They are grounded in worker solidarity and collective care.
 
+
+
+<figure><img src="../.gitbook/assets/dawn profile pic.jpg" alt=""><figcaption></figcaption></figure>
+
 **Dawn Matlak (Madison, USA), Operations Coordinator**
 
-Dawn has deep and lengthy experience within purpose-driven collectives and nonprofits, and their work in finance has been centered around solidarity, accessibility, and uprooting some of the typical “business as usual” style.
+Dawn (they/them) loves to talk about money, specifically redistributing & accounting for it. Their work is driven by deep ethics of care in our relationships and communities, which often disrupts concepts of professionalism and capitalism in workspaces. Dawn began learning collective, nonprofit, & cooperative business finances 11 years ago, with the intention of managing the tasks that many shy away from in movement work. They recently came to OCF after working for Diverse & Resilient and Public Allies Milwaukee.
 
 <figure><img src="../.gitbook/assets/IMG_3106 copy (1).jpg" alt=""><figcaption></figcaption></figure>
 
