@@ -11,7 +11,7 @@ Once the contribution has been made, and the contributed items are in the Collec
 * Name of Collective
 * Name of contributor (whether an individual or organization)
 * Date received
-* Detailed description of goods received
+* Detailed description of goods received&#x20;
 
 {% hint style="info" %}
 If your Collective will be regularly accepting non-monetary donations, you can also batch them all together and [send OCF](../../about/contact-us.md) a spreadsheet at the end of each month. This will ensure we can keep all of this required information for us for our records. Feel free to use [this template](https://docs.google.com/spreadsheets/u/2/d/1A8de4z82oCu2cOVtQ5\_5ac5N9RsWqKrsxbCXt6i4B38/copy) if it helps!
@@ -23,14 +23,14 @@ We cannot receive automobiles or real estate. If you want to give an automobile 
 
 ### **Tax-deductibility of in-kind contributions**
 
-Please be aware that the value of a contributor’s time or services is unfortunately not tax-deductible [in the eyes of the IRS](https://www.irs.gov/pub/irs-pdf/p526.pdf). However valuable, pro-bono or volunteer services, professional or not, are typically not tax-deductible charitable contributions.
+Please be aware that the value of a contributor’s time or services is unfortunately not tax-deductible [in the eyes of the IRS](https://www.irs.gov/pub/irs-pdf/p526.pdf). However valuable, pro-bono or volunteer services, professional or not, and discounted services, are typically not tax-deductible charitable contributions.
 
 For a contribution to be tax-deductible, there needs to be a transfer of ownership. Open Collective Foundation can only provide tax receipts for tax-deductible contributions.‌
 
 _**A couple of examples:**_
 
-* Allowing someone to rent an item or space for free would not qualify as a tax-deductible contribution, since it is a service given free of charge, but itself not a financial contribution
-* Giving an organization a gift card for services can count as a charitable contribution, since the gift card is then held by the organization
+* Allowing someone to rent an item or space for free or at a discount would not qualify as a tax-deductible contribution, since it is a service given free of charge, but itself not a financial contribution
+* Giving an organization a gift card for services can count as a charitable contribution, since the actual gift card, itself, is then held by the organization
 
 ### **Tax receipts/acknowledgment letters for in-kind contributions**
 
