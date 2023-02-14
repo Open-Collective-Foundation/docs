@@ -20,18 +20,13 @@ Please note: this page does not include information about health insurance, only
 ### What kinds of insurance are available?
 
 * General Liability
-* Directors and Officers Liability
-* EPLI (for employment situations)
-* Improper Sexual Conduct and Physical Abuse Liability
+* Directors and Officers Liability (including EPLI)
 * Social Service Professional Liability
 * Employee Benefits Liability
-* Business Auto Liability
-* Non-Owned/Hired Auto Liability
 * Umbrella Liability
-* Auto Physical Damage
-* Businessowners Property
-* Inland Marine
-* Employee/Volunteer Dishonesty
+* Accident Liability
+
+If you need another type of insurance, please contact us about availability.
 
 {% hint style="info" %}
 We cannot insure employees' or volunteers' personal vehicles. In cases where employees and volunteers use personal vehicles for Collective purposes, they are required to have car insurance.
