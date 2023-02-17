@@ -32,11 +32,7 @@ If you need another type of insurance, please contact us about availability.
 We cannot insure employees' or volunteers' personal vehicles. In cases where employees and volunteers use personal vehicles for Collective purposes, they are required to have car insurance.
 {% endhint %}
 
-_See more details about_ [_types of insurance_](https://insurancefornonprofits.org/coverages/list-of-coverages/)_._
-
-See this document for an overview of OCF's core policy coverage:
-
-{% file src="../.gitbook/assets/Summary of Insurance OCF.pdf" %}
+_See more details about_ [_types of insurance_](https://insurancefornonprofits.org/coverages/list-of-coverages/) _from our insurance company._
 
 ### Is signing up for insurance required?
 
