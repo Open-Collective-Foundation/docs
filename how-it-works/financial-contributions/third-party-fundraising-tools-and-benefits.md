@@ -107,7 +107,9 @@ OCF cannot direct funds received from Amazon Smile to specific hosted Collective
 
 ### **Venmo and Cash App**
 
-Unfortunately, [Venmo, Cash App,](https://docs.opencollective.foundation/faq/expenses-faq#can-we-send-or-receive-funds-via-venmo-or-cash-app) and other similar services do not currently allow nonprofit accounts. Therefore, your Collective cannot send (or receive) funds from these sources directly through Open Collective.
+Unfortunately, [Venmo, Cash App,](https://docs.opencollective.foundation/faq/expenses-faq#can-we-send-or-receive-funds-via-venmo-or-cash-app) and other similar services do not currently allow nonprofit accounts. Therefore, your Collective cannot send (or receive) funds from these sources directly through Open Collective. &#x20;
+
+If you raise funds on your own using using these methods, please be sure to follow the processes described in our [Outside Accounts Policy](https://docs.opencollective.foundation/how-it-works/policies/outside-accounts-policy) (and inform donors that donations made through these channels will not be tax-deductible).
 
 In the situation where bank transfer and PayPal are not viable transfer methods, an individual on your team can send funds to the intended recipient via one of these services and then submit for [reimbursement](../payouts.md).
 
