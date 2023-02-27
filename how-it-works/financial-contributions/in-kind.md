@@ -42,7 +42,7 @@ In order to receive a written letter of acknowledgment, please [email OCF](../..
 * [ ] First, Last Name of contributor (whether an individual or organization)
 * [ ] Contributor’s contact information (Email preferred)
 * [ ] Name of Collective
-* [ ] Detailed description of goods/services donated
+* [ ] Detailed description of goods donated
 
 If your contribution has not yet been reported by the Collective, please see the procedure for reporting an in-kind contribution above.
 
