@@ -9,7 +9,7 @@ In order to achieve your Collective's mission, you need to spend the money you r
 There are a range of ways to pay out funds from your OCF budget, depending on what you're paying for and who you want to pay. Most payouts happen through [Expenses](basics.md#submitting-expenses) on your Open Collective page, but we have also developed other options to meet the needs of our community in specific circumstances.
 
 * [Reimbursement:](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements) Someone makes a purchase, then uploads the receipt to get paid back via an Expense.
-* [Invoice:](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) Paying someone for their time or specific services as a vendor or independent contractor, via an Expense.
+* [Invoice:](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) Paying someone for their time, specific services, or products/goods as a vendor or independent contractor, via an Expense.
 * [Virtual card:](../what-we-offer/virtual-cards-policy.md) Like a debit card linked to your Open Collective budget, which you can use to make online purchases. You later upload the receipt to an automatically generated Expense.
 * [Cash assistance:](policies/cash-assistance-policy.md) A process for paying people in cash or through apps who can't directly interact with the OC platform because they are unbanked or lack internet access.
 * [Grant:](grantmaking/policy.md) Become a grantmaker in your community, enabling financial support that's not taxable as income to the grantee, which doesn't require receipts up front. Paid via Grant Expenses (only enabled for approved groups).
