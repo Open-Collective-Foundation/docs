@@ -32,7 +32,7 @@ We noticed a lot of our groups want to offer direct cash payments to unbanked re
 
 Cash assistance should only be used after authorization has been provided by OCF to the Collective (as outlined in detail below) AND only when there is genuinely no way for the Recipient to submit an expense directly through the Platform. If this isn’t the case, OCF may deny requests to reimburse cash assistance payments.
 
-**Wherever possible, the Recipient must submit an expense directly on the Platform**, for payment via bank transfer or PayPal. Since the Platform is specifically designed to collect the required information, this minimizes the administrative burden for both the Collective and OCF.
+**Wherever possible, the Recipient should submit an expense directly on the Platform instead of going through cash assistance**. Cash assistance is for people who can't provide receipts, don't have a bank account they can get paid into, or otherwise can't submit their own expense. Please note, such expenses need to include receipts for reimbursement, such as a paid phone bill, and can't be a request for cash. If they need cash upfront, please proceed with the cash assistance process below, or [consider making a grant](../grantmaking/).&#x20;
 
 Please note that the [invite expense feature](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses/nviting-a-third-party-to-submit-an-expense) can enable someone more familiar with the Platform to fill out most of the required information for an expense. Then, the Recipient will get an email and will simply need to confirm. This can result in more people being able to directly submit their own expenses, and should be used where possible.
 
