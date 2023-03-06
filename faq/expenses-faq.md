@@ -34,9 +34,15 @@ You can pay people casually as contractors through invoice expenses on your Coll
 
 Contractors and vendors should be paid in a timely manner, with a detailed invoice showing when they provided services and at what rate. Expenses without these details may not be approved by the OCF team for payment.
 
-#### As a contractor, can I take a sabbatical?
+#### As a contractor, can I take paid leave?
 
-Collectives' contractors are not eligible for long-term paid time off at OCF. If you are in a particular situation where you feel an exception should be made, [feel free to reach out and discuss it with us](../about/contact-us.md).
+Independent contractors are generally not given paid leave, as this is normally a benefit of employment. If you wish to give benefits like paid leave, [make the worker an employee](../what-we-offer/employment.md) instead.&#x20;
+
+#### What can and cannot be paid out via an invoice expense?
+
+Invoices are to pay people for goods and services that further the Collective's mission. This includes tangible items (e.g., a food distribution project might pay an invoice from a food supply company), people's time (hours worked by contractors doing work for the Collective), or services (e.g., paying a designer to make you a logo, renting a venue for an event). Invoices must include a specific accounting of the goods or services being paid for, such as hours, tasks, and items.
+
+We cannot pay for people's expenses in advance via invoices, such as a request for $100 for a phone bill or help with rent. We can reimburse those expenses if the payee can provide a valid receipt, but if they aren't able to pay upfront and get reimbursed with a receipt, you should instead support them through [making a grant](../how-it-works/grantmaking/) or [cash assistance](../how-it-works/policies/cash-assistance-policy.md). &#x20;
 
 ### **Do you offer payroll and employment services?**
 
