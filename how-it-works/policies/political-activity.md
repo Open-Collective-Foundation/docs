@@ -60,21 +60,7 @@ Just because your Collective cannot lobby around specific potential laws or inte
 * Certain voter education activities (including presenting public forums and publishing voter education guides) conducted in a non-partisan manner (no partisan organizations way be co-sponsors!)
 * Activities intended to encourage people to participate in the electoral process, such as voter registration and get-out-the-vote drives, if conducted in a non-partisan manner
 
-{% hint style="info" %}
-* Generally, **it's best to avoid naming specific legislation and instead focus on the educational message**. Anytime specific legislation is mentioned, it raises lobbying questions that we 501(c)(3)'s need to be careful about.
-* When posting on social media: if your collective has elected officials as followers and you are making statements urging support of specific legislation that can end up unintentionally lobbying.
-* _Examples_:
-  * :no\_entry\_sign: Your collective may not, for example, link to a news piece that spells out why Bill No. 1234 is anti-trans and tell followers to urge elected officials to vote no.
-  * :white\_check\_mark:Trans liberation content everywhere all the time is ok.
-{% endhint %}
-
 Of course, you are entitled to your own political opinions, but you should be careful about expressing such opinions on behalf of your Collective so that you are not taking a position on a specific election or piece of legislation.
-
-### Political Activity & OCF
-
-As we continue to grow, we are understanding what exactly this all means, and what our hosted groups can and cannot do.&#x20;
-
-Because of this, we can only pay out for [expenses](https://docs.opencollective.foundation/how-it-works/basics#submitting-expenses) related directly to your mutual aid relief (like crisis/distress relief), or neutral political education is ok too. We **can't** pay out any expenses related to influencing legislation. As it stands, holding politicians accountable in a vague sense isn’t lobbying, but we perceive that some Collectives might want to lobby at some point, and our IRS status prevents us (and our hosted groups) from doing so.
 
 {% hint style="info" %}
 If your Collective needs to engage in these sorts of activities in the US, we would recommend exploring other types of organizations, such as 501(c)(4) organizations and PACs. A lawyer will be able to help you figure out what you need.
