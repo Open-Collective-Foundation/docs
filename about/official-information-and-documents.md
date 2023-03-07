@@ -10,6 +10,10 @@ Our official mailing address:
 >
 > Covina, CA 91723
 
+{% hint style="info" %}
+Want to mail us a check? Important info [here](https://docs.opencollective.foundation/how-it-works/financial-contributions/checks).
+{% endhint %}
+
 ### Nonprofit Status
 
 Open Collective Foundation is a registered 501(c)(3) organization. [Financial contributions](https://docs.opencollective.foundation/how-it-works/financial-contributions) (i.e., [donations](https://docs.opencollective.foundation/about/these-docs)) to Open Collective Foundation for the purpose of our sponsored Collectives are tax-deductible to the extent of the law.
@@ -22,11 +26,9 @@ Open Collective Foundation is a registered 501(c)(3) organization. [Financial co
 
 Our **IRS Determination Letter** (a.k.a. **Acceptance or Tax-exempt letter**), which serves as proof of our nonprofit status in the United States, our **W9**, **California Certificate of Status (commonly known as a Certificate of Good Standing)**, and **current Board of Director bios** can be found below:
 
-{% file src="../.gitbook/assets/open-collective-foundation-irs-determination-letter.pdf" %}
-OCF IRS Determination Letter
-{% endfile %}
+{% file src="../.gitbook/assets/OCF IRS determination letter - updated address.pdf" %}
 
-{% file src="../.gitbook/assets/OCF W9.pdf" %}
+{% file src="../.gitbook/assets/OCF W9 2023-01.pdf" %}
 W9
 {% endfile %}
 
@@ -42,7 +44,7 @@ Certificate of Status (Certificate of Good Standing)
 OCF Banking Information PDF
 {% endfile %}
 
-**Email address for automatic notifications:** [contact us](https://opencollective.com/contact)
+**Email address for automatic notifications:** conact@opencollective.foundation
 
 ### IRS Form 990s
 
@@ -72,4 +74,10 @@ You'll notice the size of OCF's budget has scaled up a lot since our 2018 and 20
 
 It's downloadable here: [terms.md](../getting-started/terms.md "mention")
 
-You agree to the 'Terms' by checking a box when you submit your application to be hosted by OCF.
+You agree to these 'Terms' by checking a box when you submit your application to be hosted by OCF.
+
+### Find more Contact Info for OCF:
+
+{% content-ref url="contact-us.md" %}
+[contact-us.md](contact-us.md)
+{% endcontent-ref %}

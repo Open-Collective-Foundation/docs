@@ -14,4 +14,4 @@ Watch a [2-minute intro explainer](https://youtu.be/269SyUQmL\_U) or an [in-dept
 
 If you're just starting out, learn more about [How to Apply](https://docs.opencollective.foundation/getting-started/how-to-apply).
 
-If you're a newly joined Collective, start with [The Basics](how-it-works/basics.md).
+If you're a newly approved Collective, start with [The Basics](how-it-works/basics.md).

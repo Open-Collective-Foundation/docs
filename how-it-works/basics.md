@@ -26,7 +26,7 @@ Once you [apply to join Open Collective Foundation](../getting-started/how-to-ap
 * OCF **(Open Collective Foundation)** is a charitable [**fiscal host**](../what-we-offer/fiscal-hosting.md) who uses the Open Collective platform
 {% endhint %}
 
-For an overview of [using the Open Collective platform](https://opencollective.com/how-it-works), check out their[ documentation](https://docs.opencollective.com). It has a ton of great information about features like the [transparent budget](https://docs.opencollective.com/help/collectives/budget), customizing an [Collective profile](https://docs.opencollective.com/help/collectives/customize-collective), [tiers, goals](https://docs.opencollective.com/help/collectives/tiers-goals), and other tools now at your disposal.
+For an overview of [using the Open Collective platform](https://opencollective.com/how-it-works), check out their[ documentation](https://docs.opencollective.com). It has a ton of great information about features like the [transparent budget](https://docs.opencollective.com/help/collectives/budget), customizing a [Collective profile](https://docs.opencollective.com/help/collectives/customize-collective) page, [Tiers, Goals](https://docs.opencollective.com/help/collectives/tiers-goals), [Updates](https://docs.opencollective.com/help/collectives/communication), and other tools now at your disposal.
 
 :white\_check\_mark: Their [Quick Start Guide](https://docs.opencollective.com/help/collectives/quick-start-guide) is another great place to start.
 
@@ -66,7 +66,7 @@ Collective admins can [set an expense policy](https://docs.opencollective.com/he
    * _Reimbursements_ are used to pay people (often volunteers) back when they have made purchases for the group - in these cases, receipts are required so that we can ensure the requested amount matches the purchased amount in order to approve the reimbursement.
 
 {% hint style="success" %}
-* Individuals and organizations can request payment from an Collective by [submitting an expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses).
+* Individuals and organizations can request payment from a Collective by [submitting an expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses).
 * Collective admins also have the option of drafting an expense and then [**sending an invitation** to someone else to complete and submit it](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses/nviting-a-third-party-to-submit-an-expense).
   * _This is a great option for those admins who know already know exactly how much they want to pay/reimburse someone, and just want to invite them to the platform._
 * Sometimes a **third type of expense, "Request a Grant"** will appear on an Collective's page. This is because that Collective has submitted a grant proposal in order to be able to offer grants. More info [here](https://docs.opencollective.foundation/how-it-works/about-grantmaking).
