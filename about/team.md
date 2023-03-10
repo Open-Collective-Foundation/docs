@@ -10,13 +10,13 @@ Pia is co-founder & CEO at Open Collective, as well as Chair of DemocracyEarth F
 
 **Alanna Irving (Wellington, New Zealand), executive director**
 
-Alanna Irving explores bossless leadership, opensource org dev, cooperative governance, participatory technology, impact entrepreneurship, and collaborating with money—for a radically optimistic future. She previously co-founded [Enspiral](http://enspiral.com), [Loomio](http://loomio.com), and [Cobudget](http://cobudget.com), is an [Edmund Hilary Fellow](http://ehf.org), and co-authored the book [Better Work Together](http://betterworktogether.co). Her ultimate dream is to make a utopian Star Trek future a lived reality for everyone. [Website](http://alanna.space), [Linkedin](https://www.linkedin.com/in/alannairving83/)
+Alanna Irving explores bossless leadership, open-source org dev, cooperative governance, participatory technology, impact entrepreneurship, and collaborating with money—for a radically optimistic future. She previously co-founded [Enspiral](http://enspiral.com), [Loomio](http://loomio.com), and [Cobudget](http://cobudget.com), is an [Edmund Hilary Fellow](http://ehf.org), and co-authored the book [Better Work Together](http://betterworktogether.co). Her ultimate dream is to make a utopian Star Trek future a lived reality for everyone. [Website](http://alanna.space), [Linkedin](https://www.linkedin.com/in/alannairving83/)
 
 ****![](../.gitbook/assets/07a51998-708f-4e8e-92b8-18fe7d0595e5.jpeg)****
 
 **Mike Strode (Chicago, USA), program manager**
 
-Mike Strode is a writer, urban cyclist, facilitator, and solidarity economy organizer with the [Kola Nut Collaborative](https://www.kolanutcollab.org) residing in southeast Chicago. The Kola Nut Collaborative is Chicago’s only time-based service and skills exchange (otherwise known as a timebank) providing an open platform for mutual aid, community organizing, and network weaving. Prior to launching the Collaborative, he worked with [Black Oaks Center for Sustainable Renewable Living](https://www.blackoakscenter.org) to develop the [Healthy Food Hub](https://www.healthyfooodhub.org), a food sovereignty initiative which connects farmers in the historically Black farming community of Pembroke Township to food insecure communities throughout Chicago. The Collaborative recently launched their newest Collective to develop a network of Chicago-based facilitators trained in a method known as the Offers and Needs Market in order to embed this resource sharing practice within local organizations. He also serves on the boards of [Dill Pickle Food Co-op](https://www.dillpickle.coop), [South Deering Manor Community Association](https://www.sdmanor.org), [US Solidarity Economy Network](https://www.ussen.org), and [New Economy Coalition](https://www.neweconomy.net). [Linkedin](https://www.linkedin.com/in/mjstrode/)
+Mike Strode is a writer, urban cyclist, facilitator, and solidarity economy organizer with the [Kola Nut Collaborative](https://www.kolanutcollab.org) residing in southeast Chicago. The Kola Nut Collaborative is Chicago’s only time-based service and skills exchange (otherwise known as a timebank), providing an open platform for mutual aid, community organizing, and network weaving. Prior to launching the Collaborative, he worked with [Black Oaks Center for Sustainable Renewable Living](https://www.blackoakscenter.org) to develop the [Healthy Food Hub](https://www.healthyfooodhub.org), a food sovereignty initiative which connects farmers in the historically Black farming community of Pembroke Township to food insecure communities throughout Chicago. The Collaborative recently launched their newest Collective to develop a network of Chicago-based facilitators trained in a method known as the Offers and Needs Market in order to embed this resource-sharing practice within local organizations. He also serves on the boards of [Dill Pickle Food Co-op](https://www.dillpickle.coop), [South Deering Manor Community Association](https://www.sdmanor.org), [US Solidarity Economy Network](https://www.ussen.org), and [New Economy Coalition](https://www.neweconomy.net). [Linkedin](https://www.linkedin.com/in/mjstrode/)
 
 ****![](../.gitbook/assets/image.png)****
 
@@ -28,17 +28,17 @@ Caroline Woolard (she/her/hers) is a six foot tall researcher, collaborator, and
 
 **Nathan Hewitt (New York, USA), program manager**
 
-Nathan Hewitt (he/him) is a nonprofit worker, fiscal sponsorship nerd, and radical administrator fascinated by solidarity-based community decisionmaking processes and governance structures. He previously worked with a major US fiscal sponsor as well as in small business operations, grantwriting, theatre administration, community arts programming, and noncommercial radio. Also a musician and activist. [Website](https://natehn.com), [Linkedin](https://www.linkedin.com/in/nthnh/)
+Nathan Hewitt (he/him) is a nonprofit worker, fiscal sponsorship nerd, and radical administrator fascinated by solidarity-based community decision-making processes and governance structures. He previously worked with a major US fiscal sponsor as well as in small business operations, grantwriting, theatre administration, community arts programming, and noncommercial radio. Also a musician and activist. [Website](https://natehn.com), [Linkedin](https://www.linkedin.com/in/nthnh/)
 
 ****![](../.gitbook/assets/IMG\_3108\_2.jpeg)****
 
 **Alina Manko (Wellington, New Zealand), support & operations**
 
-Weaving together her process-orientated mind with a genuine joy of connecting with the wonderful community we are part of, her role is strongly focused on operations as well as supporting the Collectives OCF hosts, to help them to make the most of their Open Collective experience. After years spent in a more traditional work setting, the last few years of her working life were spent on deliberately finding herself collaborating with people and projects making an actual difference and connecting people.
+Weaving together her process-orientated mind with a genuine joy of connecting with the wonderful community we are part of, her role is strongly focused on operations as well as supporting the Collectives OCF hosts, to help them to make the most of their Open Collective experience. After years spent in a more traditional work setting, the last few years of her working life were spent on deliberately finding herself collaborating with people and projects, making an actual difference and connecting people.
 
 ****![](<../.gitbook/assets/Screen Shot 2023-01-26 at 7.11.00 PM.png>)****
 
-**Kayla E (Davis, USA), support staff**
+**Kayla E (Oakland, USA), support staff**
 
 Kayla has been very fortunate to have travelled, worked, and volunteered in many parts of the world. Her professional background ranges through customer service, teaching, hospitality, landscaping, and lots more. At the end of the day, she simply seeks to help people who help people (and plants, animals, the earth), and she is very excited to be able to support the open source and solidarity economy movements. She tries not to take life too seriously, but is not very good at that. [Blog](https://blog.opencollective.com/author/kayla/), [LinkedIn](https://www.linkedin.com/in/kaylarepstein/)
 
@@ -52,7 +52,7 @@ Ember is a queer border activist with a passion for literature, alternative fami
 
 **Sadé Swift (New York, USA), communications organizer**
 
-Sadé Swift is a Black Queer artist who has been organizing for the last 10+ years. They love bridging the gap between communications and community which was how they landed at the Open Collective Foundation, by way of beautiful work they did  with art.coop last year. Sade is a proud worker owner and co-founder of two worker-owned cooperative businesses, [Cards by De](https://cardsbyde.com/), a stationery cooperative and [Rebellious Root,](https://www.rebelliousroot.com/) a consulting cooperative working towards justice and social change through training, curriculum design and intentional conversations. They are dedicated to building an abolitionist cooperative future with intention, community, and love. [Website](https://cardsbyde.com/our-team), [Linkedin](https://www.linkedin.com/in/sad%C3%A9-swift-773352253/)
+Sadé Swift is a Black Queer artist who has been organizing for the last 10+ years. They love bridging the gap between communications and community which was how they landed at the Open Collective Foundation, by way of beautiful work they did with art.coop last year. Sade is a proud worker-owner and co-founder of two worker-owned cooperative businesses, [Cards by De](https://cardsbyde.com/), a stationery cooperative and [Rebellious Root,](https://www.rebelliousroot.com/) a consulting cooperative working towards justice and social change through training, curriculum design and intentional conversations. They are dedicated to building an abolitionist cooperative future with intention, community, and love. [Website](https://cardsbyde.com/our-team), [Linkedin](https://www.linkedin.com/in/sad%C3%A9-swift-773352253/)
 
 ****![](<../.gitbook/assets/Screen Shot 2023-01-26 at 7.14.14 PM.png>)****
 
