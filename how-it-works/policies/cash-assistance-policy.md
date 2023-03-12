@@ -38,7 +38,7 @@ Please note that the [invite expense feature](https://docs.opencollective.com/he
 
 All transactions over $600 via payment apps [may be taxable](https://www.wptv.com/money/new-irs-rule-for-cash-app-transactions-set-to-go-into-effect-next-year) for the Recipient. Collectives should exercise judgement when transferring money via these services and use our built-in payment tools when possible.
 
-Funds may not be distributed via check.
+Funds may not be distributed via check or money order.
 
 {% hint style="danger" %}
 Collectives **may not** disburse cash to Recipients with whom the Volunteer or the Collective organizers have a relationship or conflict of interest, e.g. family members, business partners, employees, or major donors to the Collective.
