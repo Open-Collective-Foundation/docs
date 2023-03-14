@@ -25,14 +25,15 @@ Virtual Cards can be issued to OCF’s hosted Collectives for paying online for 
 * Collectives must have a minimum of 2 admin members
 * These are **virtual cards.** No physical card will be issued, so these cannot be used in-store.
 * Collective must have a budget on their Open Collective account that exceeds the corresponding card amount.
-* Receipts must be submitted within 30 days. If a receipt is not submitted within 30 days, the card access will be paused until you do submit the receipt
+* Receipts must be submitted within 30 days. If a receipt is not submitted within 30 days, the card access will be paused until you do submit the receipt.
   * The card's Assignee is responsible for collecting and uploading the receipts.&#x20;
-* All transactions should comply with normal usage of Collective funds as outlined in our [Terms of Fiscal Sponsorship](../getting-started/terms.md) and in compliance with our501(c)(3) status
+* All transactions should comply with normal usage of Collective funds as outlined in our [Terms of Fiscal Sponsorship](../getting-started/terms.md) and in compliance with our501(c)(3) status.
 
 **Limitations:**
 
 * Virtual cards **may not** be used for [paying/reimbursing people](../how-it-works/payouts.md) or contractors - that should be done on the OC platform.
 * Virtual cards **may not** be used for paying LLCs or sole proprietorship businesses more than $599 in a calendar year. For $600 or more in a calendar year, the business **must** invoice
+* Virtual cards **may not** be used for purchasing gift cards.  _This type of activity would fall under our_ [_Cash Assistance Policy_](https://docs.opencollective.foundation/how-it-works/policies/cash-assistance-policy#cash-assistance-program-proposal)_._&#x20;
 * Virtual cards are intended to be used only by Collective Admins/Team Members. This means that program recipients may not use a virtual card to purchase groceries for themselves.
 * Virtual cards may not be used to pay rent on behalf of Collectives or program recipients without prior approval from OCF staff, to ensure that all contracts are properly in place.
 
