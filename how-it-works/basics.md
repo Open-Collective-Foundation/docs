@@ -51,7 +51,9 @@ Using funds from your Collective’s budget is simple:
 4. They get [paid](https://docs.opencollective.com/help/fiscal-hosts/payouts#what-payment-methods-do-you-support-for-withdrawals).
 
 {% hint style="info" %}
-Collective admins can [set an expense policy](https://docs.opencollective.com/help/collectives/expense-policy) to give guidance to expense submitters.
+Collective Admins can [set an expense policy](https://docs.opencollective.com/help/collectives/expense-policy) to give guidance to expense submitters.&#x20;
+
+OCF's expense policy is viewable on the right side of the page when you click 'Submit Expense' from [https://opencollective.com/foundation](https://opencollective.com/foundation)&#x20;
 {% endhint %}
 
 ### How submitting & paying out expenses works:
