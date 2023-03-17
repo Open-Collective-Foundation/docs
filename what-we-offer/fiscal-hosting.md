@@ -57,6 +57,8 @@ There are other potential benefits to nonprofit status, such as access to [free 
 Since our collectives are part of Open Collective Foundation, they must abide by restrictions to 501(c)(3) organizations, such as [limitations on political activity](../how-it-works/policies/political-activity.md).
 
 All of our hosted Collectives must align with our [mission](../about/mission-and-values.md) in order to be [eligible](../getting-started/eligibility.md) to operate through our 501(c)(3) status.
+
+**Once funds enter into a 501(c)(3), they must remain in the 501(c)(3) sphere.** This means if an OCF-hosted Collective [closes down](../faq/leaving-ocf.md), funds cannot be returned, and can either be spent on project expenses or must be transferred to another 501(c)(3) - perhaps another OCF-hosted Collective!
 {% endhint %}
 
 ### **Open Collective “Foundation”**
