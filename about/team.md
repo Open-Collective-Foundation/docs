@@ -24,18 +24,6 @@ Mike Strode is a writer, urban cyclist, facilitator, and solidarity economy orga
 
 Caroline Woolard (she/her/hers) is a six foot tall researcher, collaborator, and connector. As Director of Research and Partnerships at Open Collective Foundation, Caroline brings over a decade of experience working on cutting-edge technology for cooperative culture in New York City. Caroline’s work includes co-creating objects, events, and networks such as an international peer-learning and barter network ([TradeSchool.coop](https://tradeschool.coop), 2009-2019), a cultural equity advocacy group ([BFAMFAPhD.com](http://bfamfaphd.com), 2013-present), and a cultural solidarity economy platform ([Art.coop](https://art.coop), 2021, with Nati Linares). Caroline Woolard is the co-author of three books: [Making and Being](https://makingandbeing.com) (Pioneer Works, 2019), a book for educators about interdisciplinary collaboration, co-authored with Susan Jahoda; [Art, Engagement, Economy](https://www.onomatopee.net/exhibition/caroline-woolard/#publication\_13011) (onomatopee, 2020) a book about managing socially-engaged projects; and [TRADE SCHOOL](https://tradeschool.coop): 2009-2019. Caroline is a tenure-track Assistant Professor of Foundations at Pratt Institute, an AmbitioUS Fellow, and a member of the Guild of Future Architects. [Website](https://carolinewoolard.com/past), [Linkedin](https://www.linkedin.com/in/carolinewoolard/)
 
-****![](../.gitbook/assets/forest.jpeg)****
-
-**Nathan Hewitt (New York, USA), program manager**
-
-Nathan Hewitt (he/him) is a nonprofit worker, fiscal sponsorship nerd, and radical administrator fascinated by solidarity-based community decision-making processes and governance structures. He previously worked with a major US fiscal sponsor as well as in small business operations, grantwriting, theatre administration, community arts programming, and noncommercial radio. Also a musician and activist. [Website](https://natehn.com), [Linkedin](https://www.linkedin.com/in/nthnh/)
-
-****![](../.gitbook/assets/IMG\_3108\_2.jpeg)****
-
-**Alina Manko (Wellington, New Zealand), support & operations**
-
-Weaving together her process-orientated mind with a genuine joy of connecting with the wonderful community we are part of, her role is strongly focused on operations as well as supporting the Collectives OCF hosts, to help them to make the most of their Open Collective experience. After years spent in a more traditional work setting, the last few years of her working life were spent on deliberately finding herself collaborating with people and projects, making an actual difference and connecting people.
-
 ****![](<../.gitbook/assets/Screen Shot 2023-01-26 at 7.11.00 PM.png>)****
 
 **Kayla E (Oakland, USA), support staff**
