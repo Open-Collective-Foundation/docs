@@ -5,7 +5,9 @@ description: Like a credit or debit card linked to your balance
 # Virtual Cards
 
 {% hint style="danger" %}
-New Virtual Card Requests are currently suspended. Please view our other [Payout ](../how-it-works/payouts.md)methods for alternative options for spending Collective funds.
+**New Virtual Card Requests are currently suspended.**&#x20;
+
+Please view our other [Payout ](../how-it-works/payouts.md)methods for alternative options for spending Collective funds.
 {% endhint %}
 
 Virtual Cards can be issued to OCF’s hosted Collectives for paying online for things like: recurring payments, utility bills, online resources/tools, subscriptions, vendors (e.g. wholesale distributors), etc.
