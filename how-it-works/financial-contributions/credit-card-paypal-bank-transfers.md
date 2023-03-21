@@ -1,6 +1,12 @@
+---
+description: Donate using our Platform
+---
+
 # Credit Card, Paypal, Bank transfers
 
-To contribute to an Collective online on the Open Collective Platform via Credit Card, PayPal, or Bank Transfer (a.k.a. ACH or wire transfer), please see [this overview of the process](https://docs.opencollective.com/help/financial-contributors/payments).
+The preferred way to move money into a Collective is using the Open Collective [**Platform**](https://docs.opencollective.foundation/what-we-offer/online-platform)**.**&#x20;
+
+To donate (aka contribute) to a Collective online via Credit Card, PayPal, or Bank Transfer (a.k.a. ACH or wire transfer), please see [**this overview** of the process](https://docs.opencollective.com/help/financial-contributors/payments).
 
 Once you choose to contribute from the Collective’s profile, our platform will guide you through the rest of the process, including choosing between credit card, PayPal, and electronic bank transfer (i.e., ACH or wire).
 
