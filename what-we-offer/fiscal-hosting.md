@@ -128,6 +128,12 @@ When you join Open Collective Foundation, your group’s finances are totally tr
 
 \---> [An objective and detailed legal analysis.](../faq/is-ocf-right-for-you.md)
 
+{% hint style="info" %}
+OCF (and fiscal hosting in general) is **NOT** a great fit for groups who need to make purchases up-front. We cannot "front the money" to you due to all our IRS restrictions above. To maintain our 501(c)(3) status, we need to be able to track all incoming/outgoing funds and [valid receipts](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#adding-receipts) are vital to this compliance.
+
+There **are** [many other ways](../how-it-works/payouts.md) to spend your Collective's money.
+{% endhint %}
+
 ## Further Reading
 
 We definitely encourage you to read more about fiscal hosting to make the most informed decision for your Collective! When you are ready, check out [how to get started with Open Collective Foundation](../getting-started/how-to-apply/).
