@@ -6,6 +6,10 @@ description: How to spend your money
 
 In order to achieve your Collective's mission, you need to spend the money you raise. We are here to facilitate that, and to take care of a lot of the admin for you. OCF functions as your Collective's bank account and we process many kinds of payouts for our hosted groups.
 
+{% hint style="info" %}
+_Charitable purposes:_ Contributions to your Collective must be devoted to your charitable purpose, as described in your initial application for hosting. You can’t use your Collective’s funds for anything other than furthering your charitable purpose, and if you do, you have to pay it back. You may not use your Collective’s funds to [influence legislation](policies/political-activity.md), to support breaking the law, or for private profit.
+{% endhint %}
+
 There are a range of ways to pay out funds from your OCF budget, depending on what you're paying for and who you want to pay. Most payouts happen through [Expenses](basics.md#submitting-expenses) on your Open Collective page, but we have also developed other options to meet the needs of our community in specific circumstances.
 
 * [Reimbursement:](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements) Someone makes a purchase, then uploads the receipt to get paid back via an Expense.
@@ -15,7 +19,7 @@ There are a range of ways to pay out funds from your OCF budget, depending on wh
 * [Payroll:](../what-we-offer/employment.md) Employ someone on an ongoing basis in a formal part-time or full-time role, which can include benefits like health insurance.
 * \[currently paused] [Virtual card:](../what-we-offer/virtual-cards-policy.md) Like a debit card linked to your Open Collective budget, which you can use to make online purchases. You later upload the receipt to an automatically generated Expense.
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Issuing of new Virtual Cards is currently suspended while the policy and processes are under review.
 {% endhint %}
 
@@ -32,6 +36,7 @@ While we try to accommodate every request, we work within some limits defined by
 * We can't make direct payments via CashApp, Venmo and similar services (because they don't allow nonprofits like OCF to sign up, among other reasons). See the [Outside Accounts Policy](policies/outside-accounts-policy.md) for how to work through external tools.
 * Payouts must be broken down into individual expenses with details about what the money is for—we can't pay out undifferentiated chunks of money (except in some special cases like donations to another 501(c)(3) nonprofit). See the [Outside Entities Policy](policies/outside-entities-policy.md) for more info.
 * We have certain paperwork requirements due to IRS rules—we have to collect W9 forms in some cases before we can pay someone, we have to sign a grant contracts, etc. If any of these apply to you, we will let you know.
+* OCF cannot reimburse for EBT
 
 {% hint style="info" %}
 Want to pay someone who's not yet on the platform? Or maybe you know exactly how much you want to disburse to someone? You can [invite someone to submit an expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense). Fill out the payout details for them, they'll receive an email to confirm, and get paid!
