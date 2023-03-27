@@ -67,7 +67,7 @@ This means that OCF will report all grants and donations received on OCF's own f
 
 ### **Ease of exit**
 
-If a Collective decides to form its own separate legal entity, it will be easy to exit your fiscal sponsorship agreement with OCF. You simply must, according to Provision 6 of the fiscal sponsorship agreement, give OCF 30 days notice.
+If a Collective decides to form its own separate legal entity, it will be easy to exit your fiscal sponsorship agreement with OCF. You simply must, according to Provision 6 of the fiscal sponsorship agreement, give OCF 30 days notice. [More info about leaving OCF](https://docs.opencollective.foundation/faq/leaving-ocf).
 
 Your choices for any remaining assets are:
 
