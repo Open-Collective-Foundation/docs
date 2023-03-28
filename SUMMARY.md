@@ -11,7 +11,6 @@
   * [Emails & Google Workspace](what-we-offer/emails.md)
   * [Nonprofit Discounts](what-we-offer/nonprofit-discounts.md)
   * [Leases](what-we-offer/leases.md)
-  * [Trademark Registration & Holding](what-we-offer/trademark-registration-and-holding.md)
 
 ## Getting Started
 
