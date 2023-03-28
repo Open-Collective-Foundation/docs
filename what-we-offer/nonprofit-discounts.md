@@ -6,7 +6,9 @@ Refer to [**our Official Information & Documentation**](../about/official-inform
 
 ### **Nonprofit Rates & Discounts** <a href="#nonprofit-rates" id="nonprofit-rates"></a>
 
-Through OCF’s 501(c)(3) status, our Collectives are eligible for a variety of nonprofit rates and benefits. Don’t forget to inquire to vendors and venues about a possible discount! Please note that sales tax exemption rules differ across all 50 states and sometimes municipalities. Therefore, this is not an area where OCF can support projects in accessing and we recommend you seek the support of a local fiscal sponsor where this support is required.
+Through OCF’s 501(c)(3) status, our Collectives are eligible for a variety of nonprofit rates and benefits. Don’t forget to inquire to vendors and venues about a possible discount.\
+\
+**PLEASE NOTE:** Sales tax exemption rules differ across all 50 states and sometimes municipalities. Therefore, this is not an area where OCF can support projects in accessing and we recommend you seek the support of a local fiscal sponsor where this support is required.
 
 ### **Google Workspace**
 
@@ -14,11 +16,11 @@ We can set up free Google Workspace accounts for you if you have a domain name. 
 
 ### **Techsoup**
 
-Techsoup has expressed that [discounts through TechSoup do NOT extend to fiscally hosted projects](https://www.techsoup.org/support/product-donation-faq#collapse3-4). This is unfortunate, as many such discounts rely on a Techsoup ID to activate, but there's not much we can do about it.
+TechSoup has expressed that [discounts through TechSoup do NOT extend to fiscally hosted projects](https://www.techsoup.org/support/product-donation-faq#collapse3-4). While collectives cannot pursue a standalone account for discount purchases, we are part of a pilot program allowing groups to access a limited catalog. Please fill out this [form](https://forms.gle/5ky7CXzyYpybhHNh9) to express interest in joining the pilot offering.
 
 ### **Slack**
 
-Slack offers discounts through TechSoup, and Techsoup is not compatible with fiscal hosting.
+[Slack for Nonprofits](https://slack.com/help/articles/204368833-Apply-for-the-Slack-for-Nonprofits-discount) may offer a substantial discount or free instance for fiscally hosted projects which provide our [MOU (Memorandum of Understanding)](../faq/grants-faq.md#where-can-we-get-an-mou-memorandum-of-understanding).&#x20;
 
 ### Loomio
 
