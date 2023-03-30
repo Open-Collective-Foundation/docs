@@ -118,7 +118,6 @@ Note: These thresholds are per year, per volunteer; **not** per reimbursement or
 
 * For most cash assistance payments, volunteers do not have to require documentation or paperwork from recipients, just info they can collect verbally on the spot.
 * Every cash assistance reimbursement expense **must** include a list of recipients and transactions as described in 1.
-* No volunteer may distribute over $250 per year in gift cards or cash (because this is the least traceable payment method)
 * If a single volunteer seeks reimbursement for more than $600 per year, we need their W9 (these forms will not be submitted to the IRS, just kept on file in case any misuse of funds is discovered)
 * Once the $5,000 threshold is reached, the requirement for evidence goes up. In most cases over $5,000, it will be easier to have the recipient submit an expense to OCF directly instead of using the cash assistance process.
 
