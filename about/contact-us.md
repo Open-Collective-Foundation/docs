@@ -24,7 +24,7 @@ Our small but mighty team is here to help you Monday to Friday across multiple t
 
 &#x20;:love\_letter: Email any OCF-specific questions to [contact@opencollective.foundation](mailto:contact@opencollective.foundation)
 
-🎟  Request platform support at [support@oscollective.org](mailto:support@opencollective.com)
+🎟  Request platform support [here](https://opencollective.com/help)
 
 :speech\_balloon: Join [our Slack](https://join.slack.com/t/opencollective/shared\_invite/zt-1l5fttt3q-z1u8fTi4uGXSqEymcxpoig) to get in touch with the entire Open Collective community (& join in the #ocf channel)
 
