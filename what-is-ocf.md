@@ -66,7 +66,7 @@ Didn’t find what you are looking for? :mag: Use the Search Bar in the upper ri
 
 :speech\_balloon:Join [our Slack](https://join.slack.com/t/opencollective/shared\_invite/zt-f43qko76-sD8G\~e\_vQCm4TtpIsM4i\~A) and find us in the #ocf channel
 
-:bird: Follow us on [Twitter](https://twitter.com/opencollect) and [Instagram](https://www.instagram.com/opencollectivefoundation/)
+:bird: Follow us on [Twitter](https://twitter.com/o\_c\_foundation), [Facebook](https://www.facebook.com/ocfshares), [Linkedin](https://www.linkedin.com/company/opencollective-foundation) and [Instagram](https://www.instagram.com/opencollectivefoundation/)
 
 :round\_pushpin: Our [mailing address](https://docs.opencollective.foundation/about/official-information-and-documents#address) & [Other Important Docs](https://docs.opencollective.foundation/about/official-information-and-documents)
 
