@@ -33,7 +33,7 @@ We exist to take care of the difficult administrative aspects of running a 501(c
 
 * Manage finances transparently
 * Receive tax-deductible contributions
-* [Pay project expenses](how-it-works/payouts.md)
+* [Pay project expenses](how-it-works/payouts/)
 * Pay your team, contractors, and vendors
 * [Receive financial contributions](how-it-works/financial-contributions/) by credit card, PayPal, electronic bank transfer, check, or donor-advised fund
 * [And more](what-we-offer/)

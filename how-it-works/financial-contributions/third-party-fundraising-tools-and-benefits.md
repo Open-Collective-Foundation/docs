@@ -120,7 +120,7 @@ Unfortunately, [Venmo, Cash App,](https://docs.opencollective.foundation/faq/exp
 
 If you raise funds on your own using these methods, please be sure to follow the processes described in our [Outside Accounts Policy](https://docs.opencollective.foundation/how-it-works/policies/outside-accounts-policy) (and inform donors that donations made through these channels will not be tax-deductible).
 
-In the situation where bank transfer and PayPal are not viable transfer methods, an individual on your team can send funds to the intended recipient via one of these services and then submit for [reimbursement](../payouts.md).
+In the situation where bank transfer and PayPal are not viable transfer methods, an individual on your team can send funds to the intended recipient via one of these services and then submit for [reimbursement](../payouts/).
 
 In the **Reimbursement**, make sure to include:
 

@@ -7,7 +7,7 @@ description: Like a credit or debit card linked to your balance
 {% hint style="danger" %}
 **New Virtual Card Requests are currently suspended.**&#x20;
 
-Please view our other [Payout ](../how-it-works/payouts.md)methods for alternative options for spending Collective funds.
+Please view our other [Payout ](../how-it-works/payouts/)methods for alternative options for spending Collective funds.
 {% endhint %}
 
 Virtual Cards can be issued to OCF’s hosted Collectives for paying online for things like: recurring payments, utility bills, online resources/tools, subscriptions, vendors (e.g. wholesale distributors), etc.
@@ -37,7 +37,7 @@ Virtual Cards can be issued to OCF’s hosted Collectives for paying online for 
 
 **Limitations:**
 
-* Virtual cards **may not** be used for [paying/reimbursing people](../how-it-works/payouts.md) or contractors - that should be done on the OC platform.
+* Virtual cards **may not** be used for [paying/reimbursing people](../how-it-works/payouts/) or contractors - that should be done on the OC platform.
 * Virtual cards **may not** be used for paying LLCs or sole proprietorship businesses more than $599 in a calendar year. For $600 or more in a calendar year, the business **must** invoice
 * Virtual cards **may not** be used for purchasing gift cards.  _This type of activity would fall under our_ [_Cash Assistance Policy_](https://docs.opencollective.foundation/how-it-works/policies/cash-assistance-policy#cash-assistance-program-proposal)_._&#x20;
 * Virtual cards are intended to be used only by Collective Admins/Team Members. This means that program recipients may not use a virtual card to purchase groceries for themselves.

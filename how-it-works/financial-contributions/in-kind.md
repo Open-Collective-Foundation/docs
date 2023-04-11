@@ -48,6 +48,6 @@ If your contribution has not yet been reported by the Collective, please see the
 
 {% hint style="info" %}
 _What of the value of the donation changes after the acknowledgement letter is sent?_ \
-__\
-__Donors are responsible for determining tax deductibility and/or obtaining a valuation. The dollar figure provided in the letter is for donor recognition purposes only.
+\
+Donors are responsible for determining tax deductibility and/or obtaining a valuation. The dollar figure provided in the letter is for donor recognition purposes only.
 {% endhint %}

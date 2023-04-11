@@ -12,7 +12,7 @@ If a donor is not comfortable with online credit card transactions, they can sen
 
 [Reach out to us](mailto:contact@opencollective.foundation) - we are happy to procure an invoice of this kind when requested. Please provide: Donor name, Email, Collective Name, & Donation amount (+ screenshots/links) for context.
 
-This is primarily done only for amounts >$1000. For amounts below this, please create your own [invoices ](../how-it-works/payouts.md)using the platform.
+This is primarily done only for amounts >$1000. For amounts below this, please create your own [invoices ](../how-it-works/payouts/)using the platform.
 
 ### **Can we use outside fundraising platforms, like GoFundMe, to fundraise for our Collective?**
 
@@ -28,7 +28,7 @@ If you are using a third-party fundraising platform, please see the [Third-Party
 
 ### Can we raise funds for a specific individual through OCF?
 
-Individuals can receive funds from OCF through [a variety of ways](../how-it-works/payouts.md). But can funds be raised specifically for a specific person or set of people?
+Individuals can receive funds from OCF through [a variety of ways](../how-it-works/payouts/). But can funds be raised specifically for a specific person or set of people?
 
 Since we are a charity, we are not allowed to "earmark" incoming funds for a specific individual. This means that fundraisers meant _only_ to support a specific individual, like many you would sometimes see on a platform like GoFundMe, are not compatible with the rules of the IRS.
 

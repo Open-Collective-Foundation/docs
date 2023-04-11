@@ -12,8 +12,8 @@ You may have heard that 501(c)(3) organizations are not allowed to be political.
 
 Specifically, **Collectives hosted by OCF are not allowed to engage in** [**lobbying**](https://www.irs.gov/charities-non-profits/lobbying) **(e.g., for specific legislation), or** [**political campaign intervention**](https://www.irs.gov/charities-non-profits/charitable-organizations/the-restriction-of-political-campaign-intervention-by-section-501c3-tax-exempt-organizations) **(including endorsing candidates).** Breaking these rules could endanger our 501(c)(3) status.
 
-* [ ] [**A Mini Course Produced by the IRS:** **Political Campaigns and Charities & the Ban on Political Campaign Intervention**](https://www.stayexempt.irs.gov/home/existing-organizations/political-campaigns-and-charities)****
-* [ ] An [IRS publication](https://www.irs.gov/pub/irs-pdf/p4221pc.pdf) **** that might be helpful with some plain language guidance on avoiding running afoul of political activity/lobbying restrictions.
+* [ ] [**A Mini Course Produced by the IRS:** **Political Campaigns and Charities & the Ban on Political Campaign Intervention**](https://www.stayexempt.irs.gov/home/existing-organizations/political-campaigns-and-charities)
+* [ ] An [IRS publication](https://www.irs.gov/pub/irs-pdf/p4221pc.pdf) that might be helpful with some plain language guidance on avoiding running afoul of political activity/lobbying restrictions.
 
 ### :no\_entry\_sign: Lobbying
 

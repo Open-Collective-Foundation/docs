@@ -29,4 +29,4 @@ Should you have the option of sending an email notification for the transaction,
 
 **To contribute externally via some other method** please reach out to [contact@opencollective.foundation](mailto:contact@opencollective.foundation) and we will assist you on a case-by-case basis.
 
-Please review our [**Outside Accounts Policy**](../policies/outside-accounts-policy.md) **** for additional information.
+Please review our [**Outside Accounts Policy**](../policies/outside-accounts-policy.md) for additional information.

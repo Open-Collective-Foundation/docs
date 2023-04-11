@@ -26,7 +26,7 @@ description: A step-by-step guide to becoming a Collective with OCF
 * We charge [fees ](../../how-it-works/fees.md)on all incoming donations for our services.
   * More about [What We Offer](https://docs.opencollective.foundation/what-we-offer)
 * If your Collective decides to use our [**Employment**](https://docs.opencollective.foundation/what-we-offer/employment) offerings, OCF is the employer (not the Collective) - this means any hirings/[firings ](https://docs.opencollective.foundation/what-we-offer/employment#terminating-employment)**must** go through OCF.
-* About [**Disbursements**](../../how-it-works/payouts.md): Generally we only pay expenses for activities **within the US**. If you want to fund international activities, get our permission first, or we might not be able to pay the expense.
+* About [**Disbursements**](../../how-it-works/payouts/): Generally we only pay expenses for activities **within the US**. If you want to fund international activities, get our permission first, or we might not be able to pay the expense.
 * If your Collective's **mission or name ever changes**, you must inform us (and depending on the changes, we may ask you to reapply as a new Collective.)
 * **Once funds enter into a 501(c)(3), they must remain in the 501(c)(3) sphere.** This means if your Collective [closes down](../../faq/leaving-ocf.md), your funds cannot be returned, and can either be spent on project expenses or must be transferred to another 501(c)(3) - perhaps another OCF-hosted Collective!
 
@@ -35,7 +35,7 @@ All this information is available in our [terms.md](../terms.md "mention") Agree
 
 
 
-💡[**Is OCF Right for you?**](https://docs.opencollective.foundation/what-we-offer) **** - _An objective and detailed legal analysis_&#x20;
+💡[**Is OCF Right for you?**](https://docs.opencollective.foundation/what-we-offer) - _An objective and detailed legal analysis_&#x20;
 {% endhint %}
 
 ## **The Application**

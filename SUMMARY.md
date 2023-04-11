@@ -34,12 +34,14 @@
   * [3rd-Party Fundraising Tools](how-it-works/financial-contributions/third-party-fundraising-tools-and-benefits.md)
   * [Off-Platform Contributions](how-it-works/financial-contributions/non-platform.md)
   * [Other Ways To Give](how-it-works/financial-contributions/other-ways-to-give.md)
-* [Payouts](how-it-works/payouts.md)
+* [Payouts](how-it-works/payouts/README.md)
+  * [Invoice and Reimbursement Examples](how-it-works/payouts/invoice-and-reimbursement-examples.md)
 * [Grantmaking](how-it-works/grantmaking/README.md)
   * [Individual Grantmaking Policy](how-it-works/grantmaking/policy.md)
   * [Other Grants](how-it-works/grantmaking/other-grants.md)
   * [Grantee Guide](how-it-works/grantmaking/grantee-guide.md)
   * [Guía del Beneficiario](how-it-works/grantmaking/guia-del-beneficiario.md)
+* [Fees](how-it-works/fees.md)
 * [Policies](how-it-works/policies/README.md)
   * [Cash Assistance Policy](how-it-works/policies/cash-assistance-policy.md)
   * [International Activity Policy](how-it-works/policies/international.md)
@@ -47,7 +49,6 @@
   * [Outside Entities Policy](how-it-works/policies/outside-entities-policy.md)
   * [Outside Accounts Policy](how-it-works/policies/outside-accounts-policy.md)
   * [Political Activity](how-it-works/policies/political-activity.md)
-* [Fees](how-it-works/fees.md)
 
 ## About
 

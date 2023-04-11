@@ -43,7 +43,7 @@ Our documentation includes information for how people can contribute to your Col
 Using funds from your Collective’s budget is simple:
 
 1. Someone submits an [expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses).
-   * There are 2 main types of Expenses: (For all payout options available, check [our Payouts page](payouts.md).)
+   * There are 2 main types of Expenses: (For all payout options available, check [our Payouts page](payouts/).)
      * [**Reimbursements**](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#reimbursements)
      * [**Invoices**](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices)
 2. A Collective [Admin](https://docs.opencollective.com/help/collectives/core-contributors#roles) (someone on your team) approves it.

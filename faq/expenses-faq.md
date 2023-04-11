@@ -5,7 +5,7 @@ description: Questions our Hosted Groups may have
 # Expenses FAQ
 
 {% hint style="success" %}
-Check out our [payouts.md](../how-it-works/payouts.md "mention") page for details about all the options for spending funds from your balance
+Check out our [payouts](../how-it-works/payouts/ "mention") page for details about all the options for spending funds from your balance
 {% endhint %}
 
 ### **What does the approval process look like for expenses?**
@@ -76,7 +76,7 @@ Details such as attachments, comments, the private note section, and the payout 
 
 As a 501(c)(3) we cannot give out lump sums first and get receipts later. This is because, with the IRS regulations for a charitable nonprofit, we have to be able to track all funds that come in and go out of our accounts.
 
-Check our [payouts.md](../how-it-works/payouts.md "mention") page for information about all the different ways payouts can be made through OCF.
+Check our [payouts](../how-it-works/payouts/ "mention") page for information about all the different ways payouts can be made through OCF.
 
 For large expenses that you cannot pay out-of-pocket, you can also have your vendors and service providers submit their invoices directly via your Collective's page, or you can use the "[invite expense](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#inviting-a-third-party-to-submit-an-expense)" option, where you fill in the details and they receive an email and then just need to confirm. So vendors can invoice OCF through your page to get paid, and then we pay them directly.
 

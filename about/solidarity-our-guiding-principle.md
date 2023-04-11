@@ -3,10 +3,10 @@
 #### Open Collective Foundation is creating a legal, financial, and technical commons for the solidarity economy. <a href="#open-collective-foundation-is-creating-a-legal-financial-and-technical-commons-for-the-solidarity-ec" id="open-collective-foundation-is-creating-a-legal-financial-and-technical-commons-for-the-solidarity-ec"></a>
 
 > _OCF has a unique role to play as steward of a legal, financial, and technical commons—a piece of shared infrastructure—that is resonating deeply with the solidarity economy movement. We can build bridges between 501(c)(3) fiscal sponsorship, the open source community (where we have deep roots), mutual aid groups (100+ are hosted by OCF today), and the movement at large. A new clarity has emerged for Open Collective Foundation: **Solidarity will be our guiding principle.**_\
-> _****_\
-> _****—_[_original announcement_](https://blog.opencollective.com/solidarity-as-our-guiding-principle/)_, July 2021_
+> \
+> _—_[_original announcement_](https://blog.opencollective.com/solidarity-as-our-guiding-principle/)_, July 2021_
 
-Open Collective Foundation allows **initiatives to raise and spend money** under the umbrella of our **** 501(c)(3) nonprofit, using a powerful open-source tech platform with financial and community engagement tools.
+Open Collective Foundation allows **initiatives to raise and spend money** under the umbrella of our 501(c)(3) nonprofit, using a powerful open-source tech platform with financial and community engagement tools.
 
 **We are radical administrators for a decentralized future.** As a fiscal sponsor, OCF handles the compliance side of raising and spending money (like dealing with the IRS and banks), so that groups can focus on their work. We build trust by sharing OCF’s budget with [full transparency](http://www.opencollective.com/foundation), and enable our hosted initiatives to do the same.
 
