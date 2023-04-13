@@ -51,7 +51,7 @@ OCF supports Collectives to build power within BIPOC, low-income, Womxn, LGBTQIA
 OCF cannot host labor unions, since they are not "charitable" (and would be considered a 501[(c)(5)](https://www.irs.gov/charities-non-profits/other-non-profits/labor-and-agricultural-organizations) rather than a 501[(c)(3)](../what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean)). But there **are** ways that we _can_ support unionization movements. Collectives that:
 
 * Provide support to workers who face poverty or hardship (sometimes called "hardship" or "solidarity" funds)
-* Help tenants fight evictions (for example during a pandemic) and other housing justice work
+* Help tenants fight evictions (for example, during a pandemic) and other housing justice work
 * Educate, advocate, and/or run trainings about labor law in parallel with the work of a union caucus (please see our [political-activity.md](../how-it-works/policies/political-activity.md "mention") policies for potentially-related information about political activities)
 * Organize the labor movement more generally
 
@@ -62,10 +62,14 @@ In order to make clear their distinction from the union itself, Collectives want
    * ✅ Hardship Fund for Alpha University Student Workers
    * ⛔ Alpha University Workers Union Fund
 3. Focus their language on supporting workers, removing language about "unionizing" from the "about" section of their profile.
-   * "Our group's mission is to support Delta Company's Workers."
+   * e.g. "Our group's mission is to support Delta Company's Workers."
 4. Make clear that the Collective is not controlled by the union.
 
-Additionally, the work must be **open ended** in terms of length in order to meet the IRS's requirement of an "indefinite charitable class," meaning that the goal should be to support all striking workers at the organization, not just those striking right now or some specific subset of them. This does not mean that your work must last forever - only that, if you chose, it _could_. This makes clear to the IRS that you are not out to enrich a finite number of people with your donated funds.&#x20;
+Additionally, the work must be **open-ended** in terms of length in order to meet the IRS's requirement of an "indefinite [charitable class](https://www.irs.gov/charities-non-profits/charitable-organizations/disaster-relief-meaning-of-charitable-class)," meaning that the goal should be to support all striking workers at the organization, not just those striking right now or some specific subset of them. This does not mean that your work must last forever - only that, if you choose, it _could_. This makes clear to the IRS that you are not out to enrich a finite number of people with your donated funds.&#x20;
+
+{% hint style="info" %}
+If helpful, consider editing the language on your websites using words and language taken directly from the IRS's definition of ["charitable purposes"](https://www.irs.gov/charities-non-profits/charitable-purposes) and "[charitable class](https://www.irs.gov/charities-non-profits/charitable-organizations/disaster-relief-meaning-of-charitable-class)". .
+{% endhint %}
 
 ### **Will our application be approved?**
 
