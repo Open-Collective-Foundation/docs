@@ -48,10 +48,10 @@ These are the same reasons we’re a good fit for the other kinds of initiatives
 
 > ### _**Solidarity Economy = mutual aid + open source + collective power**_
 
-
+:heart:
 
 {% hint style="info" %}
-#### _Additional Readings about OCF Operations:_
+_Additional Readings about OCF Operations:_
 
 * [OC Foundation Presents: Solidarity School](https://blog.opencollective.com/solidarity-school/)
 * [2022 in Review: Open Collective Foundation](https://blog.opencollective.com/ocf-2022/)
