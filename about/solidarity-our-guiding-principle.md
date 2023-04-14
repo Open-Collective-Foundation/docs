@@ -47,3 +47,23 @@ Why is OCF a good fit for mutual aid groups? We can get them set up overnight, r
 These are the same reasons we’re a good fit for the other kinds of initiatives under our umbrella, like social movements and open source projects. We’re designed to serve highly collaborative communities that value transparency and seek to have a positive impact through the lens of solidarity, and we offer powerful tools for their collective agency.
 
 > ### _**Solidarity Economy = mutual aid + open source + collective power**_
+
+
+
+{% hint style="info" %}
+#### _Additional Readings about OCF Operations:_
+
+* [OC Foundation Presents: Solidarity School](https://blog.opencollective.com/solidarity-school/)
+* [2022 in Review: Open Collective Foundation](https://blog.opencollective.com/ocf-2022/)
+* [Imagining & Enacting the Worlds We Want: Unrestricted Support for OCF Artist-Organizers](https://blog.opencollective.com/artist-fellows-2022/)
+  * [OCF Announces Artist-Organizer Fellows and new hire: Communications Organizer](https://blog.opencollective.com/announcing-comms-organizer-bobby-joe-smith-iii-artist-organizer-fellows-nia-hunter-niki-franco-ebony-gustave-and-robin-bean-crane/)
+* [How the team sets its own salaries at OCF (part 1)](https://blog.opencollective.com/team-set-salaries-ocf/)
+  * [How OCF Developed a New Compensation Model (part 2)](https://blog.opencollective.com/ocfs-journey-to-a-new-compensation-model/)
+* OCF Strategy
+  * [Solidarity as our Guiding Principle](https://blog.opencollective.com/solidarity-as-our-guiding-principle/)
+  * [OCF's Strategic Plan: Solidarity in Action](https://blog.opencollective.com/ocf-strategic-plan/)
+  * [OCF Strategic Plan Check-in](https://blog.opencollective.com/ocf-strategic-plan-checkin/)
+* [Open Collective Foundation: 2021 in Review](https://blog.opencollective.com/ocf-2021-in-review/)
+* [How Money Flows through Open Collective](https://blog.opencollective.com/how-money-flows/)
+* [Open Collective's impossible team away day](https://blog.opencollective.com/our-impossible-away-day/)
+{% endhint %}
