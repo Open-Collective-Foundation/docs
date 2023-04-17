@@ -42,7 +42,7 @@ Want to learn more about the solidarity economy? Check out the[ New Economy Coal
 
 Groups that value transparency often also value cooperation, participatory democracy, intersectional equity, sustainability, and pluralism—the principles of the solidarity economy. OCF offers many of the technological, legal, and financial supports that solidarity economy groups are asking for. We believe that, instead of a world dominated by hierarchies with only a few at the top, a better society can be formed through solidarity among peers, scaling from groups of individuals right up to huge collectives of collectives.
 
-Why is OCF a good fit for mutual aid groups? We can get them set up overnight, ready to receive and distribute money via thousands of transactions, without needing to incorporate or set up a bank account. As a 501(c)(3), we create a bridge between these unincorporated communities and donors/grants requiring a formal nonprofit.
+Why is OCF a good fit for mutual aid groups? We can get them set up quickly, ready to receive and distribute money via thousands of transactions, without needing to incorporate or set up a bank account. As a 501(c)(3), we create a bridge between these unincorporated communities and donors/grants requiring a formal nonprofit.
 
 These are the same reasons we’re a good fit for the other kinds of initiatives under our umbrella, like social movements and open source projects. We’re designed to serve highly collaborative communities that value transparency and seek to have a positive impact through the lens of solidarity, and we offer powerful tools for their collective agency.
 
