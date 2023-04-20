@@ -80,11 +80,11 @@ Collective Admins can also [set their own expense policy](https://docs.opencolle
 2. Expenses are processed and paid out by Open Collective Foundation biweekly on **Mondays and Thursdays**. :earth\_asia: _Our finance team works across multiple time zones, which may mean transaction payments do not process until later in the day._
 
 {% hint style="info" %}
-OCF can [pay out funds](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses#by-what-method-can-i-get-paid) via PayPal and electronic bank transfer via Transferwise.
+OCF can [pay out funds](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses#by-what-method-can-i-get-paid) via electronic bank transfer via Transferwise. View all [Payout Options](payouts/).
 
 Make sure to review the [Expenses and Getting Paid](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses) section of Open Collective’s documentation for a full overview of the process.
 
-If your Collective would like to pay out funds to individuals who do not have bank account access/PayPal, please review our [Cash Assistance Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/cash-assistance-policy).
+If your Collective would like to pay out funds to individuals who do not have bank account access, please review our [Cash Assistance Policy](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/cash-assistance-policy).
 
 Also check our [Third-Party Fundraising Tools](financial-contributions/third-party-fundraising-tools-and-benefits.md) and our [Outside Accounts Policy](policies/outside-accounts-policy.md) pages for info about how OCF works with other giving platforms (e.g. [Venmo, CashApp,](financial-contributions/third-party-fundraising-tools-and-benefits.md#venmo-and-cash-app) [GoFundMe](financial-contributions/third-party-fundraising-tools-and-benefits.md#third-party-tools))
 {% endhint %}
