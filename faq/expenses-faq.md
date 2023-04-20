@@ -20,6 +20,12 @@ If you work with a mutual aid or solidarity project and must use these apps, ple
 
 If your group has been fundraising using Venmo or Cash App, please review our [Outside Accounts](https://docs.opencollective.foundation/how-it-works/policies/outside-accounts-policy) policy to ensure compliance.
 
+### Can I receive a [Payout ](../how-it-works/payouts/)through Paypal?
+
+Due to [existing issues with Paypal](https://opencollective.com/foundation/updates/paypal-payouts-paused-for-expenses), OCF turned off Paypal as a Payout option, and we always prefer the [bank transfer](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#bank-transfers) payout option.
+
+If your bank account accepts direct deposit, then you need to go to “More Actions” on the Expense page, and click “Edit.” Then, under “Payout method” go to + New Bank Account, and then input all of your bank account info, including address etc. Then you’ll need to go to “Next” then “Save,” and have it re-approved by the collective admin. If you don’t have a bank account to use for receiving expenses, there are some services that will give you access to direct deposits, such as Venmo and Cash App. These services will generate bank account details you can then input on Open Collective as a bank transfer in the expense.
+
 ### **Can we pay people for their time?**
 
 Yes!
