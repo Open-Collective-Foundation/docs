@@ -57,8 +57,10 @@ _Additional Readings about OCF Operations:_
 * [2022 in Review: Open Collective Foundation](https://blog.opencollective.com/ocf-2022/)
 * [Imagining & Enacting the Worlds We Want: Unrestricted Support for OCF Artist-Organizers](https://blog.opencollective.com/artist-fellows-2022/)
   * [OCF Announces Artist-Organizer Fellows and new hire: Communications Organizer](https://blog.opencollective.com/announcing-comms-organizer-bobby-joe-smith-iii-artist-organizer-fellows-nia-hunter-niki-franco-ebony-gustave-and-robin-bean-crane/)
-* [How the team sets its own salaries at OCF (part 1)](https://blog.opencollective.com/team-set-salaries-ocf/)
+* OCF Staff Compensation
+  * [How the team sets its own salaries at OCF (part 1)](https://blog.opencollective.com/team-set-salaries-ocf/)
   * [How OCF Developed a New Compensation Model (part 2)](https://blog.opencollective.com/ocfs-journey-to-a-new-compensation-model/)
+  * [Compensation Calculator](https://opencollective.foundation/compensation?ref=blog.opencollective.com)
 * OCF Strategy
   * [Solidarity as our Guiding Principle](https://blog.opencollective.com/solidarity-as-our-guiding-principle/)
   * [OCF's Strategic Plan: Solidarity in Action](https://blog.opencollective.com/ocf-strategic-plan/)
