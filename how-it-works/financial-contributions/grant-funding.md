@@ -24,7 +24,7 @@ When you are applying for a grant, keep in mind that this can be a time-consumin
 
 ### **Government Grants**
 
-Since Open Collective Foundation is a 501(c)(3) organization, our projects are eligible to apply for many government grants. Please be aware, however, that there may be some government grant programs that **do not** accept fiscally sponsored projects or require the fiscal sponsor to be based in their geographic area of focus (OCF is [based in Walnut, California](../../about/official-information-and-documents.md#address)).
+Since Open Collective Foundation is a 501(c)(3) organization, our projects are eligible to apply for many government grants. Please be aware, however, that there may be some government grant programs that **do not** accept fiscally sponsored projects or require the fiscal sponsor to be based in their geographic area of focus (OCF is [based in Covina, California](../../about/official-information-and-documents.md#address)).
 
 Some large (e.g., federal) government programs also have extremely complicated application processes that require significant, time-intensive work from you and our staff. Because of the labor involved, as well as some of their restrictions, our Collectives may not be able to submit such applications.
 
