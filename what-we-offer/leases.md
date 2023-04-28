@@ -25,6 +25,14 @@ There are ways to mitigate the budget requirements, so less has to be held up fr
 2\) At least two Collective admins need to sign a separate contract with OCF stating that they will uphold the terms of the lease, because OCF can't be there to oversee how they're using the space day to day. This means they promise not to do the things the lease says aren't allowed, like subletting, building works, etc.
 
 \
-3\) The Collective must get [liability insurance](broken-reference) naming the leased location.
+3\) The Collective must get [liability insurance](broken-reference/) naming the leased location.
 
 **If you wish to pursue a lease through OCF, please** [**contact us**](mailto:contact@opencollective.foundation)**.**
+
+{% hint style="success" %}
+#### Short-term Rentals:
+
+Since [OCF is always the one responsible party for any Collective rental](../faq/is-ocf-right-for-you.md#model-a-fiscal-sponsorship-model), if a hosted Collective would like to enter a short-term rental, please email us so we can fill out a short-term rental agreement: contact@opencollective.foundation
+
+Oftentimes the venue will have its own agreement to be signed. Again, OCF will be the signatory on these.&#x20;
+{% endhint %}
