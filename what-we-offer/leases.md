@@ -30,9 +30,5 @@ There are ways to mitigate the budget requirements, so less has to be held up fr
 **If you wish to pursue a lease through OCF, please** [**contact us**](mailto:contact@opencollective.foundation)**.**
 
 {% hint style="success" %}
-#### Short-term Rentals:
-
-Since [OCF is always the one responsible party for any Collective rental](../faq/is-ocf-right-for-you.md#model-a-fiscal-sponsorship-model), if a hosted Collective would like to enter a short-term rental, please email us so we can fill out a short-term rental agreement: contact@opencollective.foundation
-
-Oftentimes the venue will have its own agreement to be signed. Again, OCF will be the signatory on these.&#x20;
+All third-party agreements, including rental agreements (short or long),[ need to be approved and signed by OCF](../faq/is-ocf-right-for-you.md#model-a-fiscal-sponsorship-model) before associated expenses (like rent) can be approved. If you would like OCF to approve and sign an agreement, please email us at contact@opencollective.foundation.
 {% endhint %}
