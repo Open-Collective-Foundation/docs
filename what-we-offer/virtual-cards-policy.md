@@ -10,26 +10,21 @@ description: Like a credit or debit card linked to your balance
 Please view our other [Payout ](../how-it-works/payouts/)methods for alternative options for spending Collective funds.
 {% endhint %}
 
-Virtual Cards can be issued to OCF’s hosted Collectives for paying online for things like: recurring payments, utility bills, online resources/tools, subscriptions, vendors (e.g. wholesale distributors), etc.
+Virtual Cards can be issued to OCF’s hosted Collectives for paying online for things like: recurring payments, online resources/tools, subscriptions, vendors (e.g. wholesale distributors), etc.
 
 ## How it works
 
-* Cards must be used in compliance with our policy below.
-* Monthly virtual card limits will be reset on the 1st of each month
-* Funds are spent only as transactions occur. - Setting up a card does not remove any money from your Collective's budget.
-* Submit a virtual card request (either on OCF's page, or on your own) with the intended use of the card and the amount budgeted for that monthly&#x20;
-  * Please include Vendor + Amounts (rough estimates are fine) in your card request.&#x20;
-  * The virtual card with that limit will be set up for your collective.
-* If, at any point, you need to make changes to your card request (either for vendor changes or for limit increase/decrease), please contact us at contact@opencollective.foundation with the intended use and the amount increase needed.&#x20;
-  * To receive an increase, Collective must have a budget on their Open Collective account that exceeds the corresponding amount, and must demonstrate that a higher limit is necessary (vendor + amount details).
-  * You must inform us if your vendors for your card change
-  * Please submit requests in the format [below](virtual-cards-policy.md#request-the-card) (vendor name + amount)
-* To request a new card (e.g. because you want 1-time card vs. a recurring balance), please submit a new card request as described [below](virtual-cards-policy.md#request-the-card).
+* Submit a virtual card request (either on OCF's page, or on your own, under "actions")
+  * Please submit requests in the format [below](virtual-cards-policy.md#request-the-card), with intended use + card spending limit (monthly, annually, or total)
+  * Barring further questions, the virtual card with that limit will be set up for your collective.
+* If, at any point, you need to make changes to your card use or limit, please contact us at contact@opencollective.foundation. Include:
+  * The name of your collective and the last 4 digits of the card
+  * The intended use and the amount increase needed.&#x20;
+* To request a new card for a different purpose, please submit a new card request as described [below](virtual-cards-policy.md#request-the-card).
 
 ## **Requirements / Policy:**
 
 * Collectives must have a minimum of 2 admin members
-* These are **virtual cards.** No physical card will be issued, so these cannot be used in-store.
 * Collective must have a budget on their Open Collective account that exceeds the corresponding card amount.
 * Receipts must be submitted within 30 days. If a receipt is not submitted within 30 days, the card access will be paused until you do submit the receipt.
   * The card's Assignee is responsible for collecting and uploading the receipts.&#x20;
@@ -43,7 +38,7 @@ Virtual Cards can be issued to OCF’s hosted Collectives for paying online for 
 * Virtual cards are intended to be used only by Collective Admins/Team Members. This means that program recipients may not use a virtual card to purchase groceries for themselves.
 * Virtual cards may not be used to pay rent on behalf of Collectives or program recipients without prior approval from OCF staff, to ensure that all contracts are properly in place.
 
-## Steps to setup a virtual card
+## Virtual Card Setup
 
 #### Request the card:
 
@@ -67,11 +62,11 @@ Virtual Cards can be issued to OCF’s hosted Collectives for paying online for 
 
 2\. OCF will assign the virtual card (please allow time for processing)
 
-3\. Once assigned, the card assignee will be notified via email. The card's details will appear in the Collective's **Settings** for admins to use. (in accordance with this policy)
+3\. Once assigned, the card assignee will be notified via email. The card's details will appear in the Collective's **Settings** for admins to use.
 
 #### ​After a purchase is made:
 
-1. The funds will be withdrawn from your Collective
+1. The funds will be withdrawn from your Collective balance
 2. An "Invitation to submit an expense" will be sent to your Collective admins
    1. Admins will be asked to submit your receipt. **(If the receipt is not submitted within 30 days, the card access will be paused until you do submit the receipt)**.
 
@@ -80,6 +75,18 @@ Looking for the email that asks for the receipt upload? The 'Subject' in your em
 {% endhint %}
 
 ## FAQ
+
+### Will I receive a card in the mail?
+
+These are **virtual cards.** No physical card will be issued, so these cannot be used in-store.
+
+### When do monthly limits reset on monthly budget limits?
+
+Monthly virtual card limits will be reset on the 1st of each month
+
+### Does setting up a virtual card take the virtual card limit amount out of my collective balance?
+
+Funds are spent only as transactions occur. - Setting up a card does not remove any money from your Collective's budget.
 
 ### What Name & Address do I use for cardholder contact details?
 
