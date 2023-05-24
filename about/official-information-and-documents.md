@@ -1,4 +1,10 @@
+---
+description: Important Info and Documents from OCF
+---
+
 # Official Info & Docs
+
+_aka OCF, OpenCollective Foundation, Open Collective Foundation, OC Foundation_
 
 ### Address
 
