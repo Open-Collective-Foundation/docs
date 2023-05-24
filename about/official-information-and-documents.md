@@ -22,27 +22,43 @@ Want to mail us a check? Important info [here](https://docs.opencollective.found
 
 ### Nonprofit Status
 
-Open Collective Foundation is a registered 501(c)(3) organization. [Financial contributions](https://docs.opencollective.foundation/how-it-works/financial-contributions) (i.e., [donations](https://docs.opencollective.foundation/about/these-docs)) to Open Collective Foundation for the purpose of our sponsored Collectives are tax-deductible to the extent of the law.
+Open Collective Foundation is a registered 501(c)(3) organization.&#x20;
 
-**Our EIN number** (a.k.a. Tax ID) is **81-4004928**
+[_Financial contributions_](https://docs.opencollective.foundation/how-it-works/financial-contributions) _(i.e._ [_donations_](https://docs.opencollective.foundation/about/these-docs)_) to Open Collective Foundation for the purpose of our sponsored Collectives are tax-deductible to the extent of the law._
 
-**Our DLN** is **17053184327027**
+#### **Our EIN number** (a.k.a. Tax ID): **81-4004928**
 
-**Our DUNS is 123050316**
+#### **Our DLN** : **17053184327027**
 
-Our **IRS Determination Letter** (a.k.a. **Acceptance or Tax-exempt letter**), which serves as proof of our nonprofit status in the United States, our **W9**, **California Certificate of Status (commonly known as a Certificate of Good Standing)**, and **current Board of Director bios** can be found below:
+#### **Our DUNS: 123050316**
+
+#### Our **IRS Determination Letter:**
+
+_a.k.a. **Acceptance or Tax-exempt letter** (which serves as proof of our nonprofit status in the United States)_
 
 {% file src="../.gitbook/assets/OCF IRS determination letter - updated address.pdf" %}
+IRS determination letter
+{% endfile %}
+
+#### Our **W9**:
 
 {% file src="../.gitbook/assets/OCF W9 2023-01.pdf" %}
 W9
 {% endfile %}
 
+#### **Our California Certificate of Status:**
+
+&#x20;_(commonly known as a Certificate of Good Standing)_
+
 {% file src="../.gitbook/assets/Certificate of Status (California, 2021-04-01).pdf" %}
 Certificate of Status (Certificate of Good Standing)
 {% endfile %}
 
+#### Info about Our Board of Directors:
 
+{% content-ref url="governance/board-members.md" %}
+[board-members.md](governance/board-members.md)
+{% endcontent-ref %}
 
 ## ​Financial Information
 
@@ -57,6 +73,8 @@ OCF Banking Information PDF
 You can see our publicly-available Form 990s below, or on [our Guidestar profile](https://www.guidestar.org/profile/81-4004928).
 
 {% file src="../.gitbook/assets/Open Collective Foundation 2021 990 - Public.pdf" %}
+2021 Form 990
+{% endfile %}
 
 {% file src="../.gitbook/assets/2020-oc-foundation-990-public-copy.pdf" %}
 2020 Form 990
