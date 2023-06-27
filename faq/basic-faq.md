@@ -71,10 +71,6 @@ Additionally, the work must be **open-ended** in terms of length in order to mee
 If helpful, consider editing the language on your websites using words and language taken directly from the IRS's definition of ["charitable purposes"](https://www.irs.gov/charities-non-profits/charitable-purposes) and "[charitable class](https://www.irs.gov/charities-non-profits/charitable-organizations/disaster-relief-meaning-of-charitable-class)". .
 {% endhint %}
 
-### **Will our application be approved?**
-
-As long as your group is legitimate, meets all of the [eligibility requirements](https://docs.opencollective.foundation/getting-started/eligibility), is aligned with one of our [impact areas](https://docs.opencollective.foundation/about/mission-and-values), and has no conflict with the [T](https://docs.opencollective.foundation/getting-started/terms)[erms](https://docs.opencollective.foundation/getting-started/terms) or [limitations](https://docs.opencollective.foundation/how-it-works/processes-and-limitations) of our program, you can expect to be approved. We will follow up with you via email if we have any questions or concerns about your application.
-
 ### Transferring in from a different fiscal sponsor?
 
 If your application is approved and you want to move from a previous fiscal sponsorship agreement into Open Collective Foundation's hosting:
