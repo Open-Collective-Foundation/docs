@@ -9,10 +9,15 @@ Open Collective Foundation can fiscally sponsor Collectives that meet the follow
 * Activities **cannot** include [lobbying or political campaign intervention](https://docs.opencollective.foundation/how-it-works/political-activity)
 * Activities must abide by our [International Activity Policy](../how-it-works/policies/international.md)
 * Collective must have [no separate legal existence/entity](https://docs.opencollective.foundation/how-it-works/processes-and-limitations/outside-entities-policy) from OCF
+  * Collective **cannot** have multiple fiscal sponsors, [legal entities](../how-it-works/policies/outside-entities-policy.md), or [outside bank accounts](../how-it-works/policies/outside-accounts-policy.md). **All funds must be held in your Open Collective account** in order to accurately represent your budget/activities.
 * Collective must have a **minimum** of two [admins/team members](https://docs.opencollective.com/help/collectives/core-contributors)
-* Collective **cannot** have multiple fiscal sponsors, [legal entities](../how-it-works/policies/outside-entities-policy.md), or [outside bank accounts](../how-it-works/policies/outside-accounts-policy.md). **All funds must be held in your Open Collective account** in order to accurately represent your budget/activities.
 
-[🌟](https://emojipedia.org/glowing-star/) Make sure to review our [Terms of Fiscal Sponsorship agreement](https://docs.opencollective.foundation/getting-started/terms), [Processes and Limitations](https://docs.opencollective.foundation/how-it-works/processes-and-limitations), [Community Guidelines](https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines), and [overview of fiscal sponsorship and fiscal hosting](https://docs.opencollective.foundation/about/fiscal-hosting) to ensure that your Collective fits with our service. (“Plain English” hints are provided with our Terms to help you decipher the legalese.)
+#### [🌟](https://emojipedia.org/glowing-star/) Make sure to also review our&#x20;
+
+* [Terms of Fiscal Sponsorship agreement](https://docs.opencollective.foundation/getting-started/terms) (“Plain English” hints are provided with our Terms to help you decipher the legalese.),&#x20;
+* [Processes and Limitations](https://docs.opencollective.foundation/how-it-works/processes-and-limitations),&#x20;
+* [Community Guidelines](https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines), and&#x20;
+* [Overview of fiscal sponsorship and fiscal hosting](https://docs.opencollective.foundation/about/fiscal-hosting) to ensure that your Collective fits with our service.&#x20;
 
 During your time with Open Collective Foundation and on the Open Collective platform, you and anyone involved in the Collective are expected to follow our [**Community Guidelines**](https://docs.opencollective.com/help/about/community-guidelines) and adhere to the platform’s [**Terms of Service**](https://opencollective.com/tos).
 
