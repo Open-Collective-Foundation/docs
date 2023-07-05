@@ -14,20 +14,36 @@ Had a Benevity account? Please be sure to ping us contact@opencollective.foundat
 
 Project admins are encouraged to [schedule an exit interview](https://calendly.com/openmike/exit-interview) to support us in evaluating and improving our fiscal sponsorship program with your feedback. During this exit interview, we will also offer space for a retrospective on your time with OCF (What did we do well? What could we have done better?) followed by a brief assessment of your transition plan where we offer feedback on transition strategies and best practices.
 
-If you are moving to a new fiscal sponsor:
+**If you are moving to a new fiscal sponsor:**
 
 * Have you evaluated the services you currently use at OCF to ensure that they are offered by your new fiscal sponsor?
 * Have you determined whether you will maintain your Open Collective dashboard for transparent budgeting?
 * Have you considered how you will manage transitioning your recurring donations through the platform?
 * Have you obtained their IRS determination letter and bank details to submit for final distribution?
 
-If starting your own 501(c)(3):
+**If starting your own 501(c)(3):**
 
 * Have you identified legal and accounting advisors for your org? Our minimum recommendation would be a CPA and attorney, but orgs with larger budgets might also require a CFO firm.
 * Have you considered a payroll provider to support with onboarding, payroll, and benefits?
 * Have you set up an accounting system such as Xero or QuickBooks to support you with managing your books? OCF hosted projects can continue to use OC as an [independent collective](https://docs.opencollective.com/help/independent-collectives/about-independent-collectives) even after transitioning from fiscal sponsorship.
 * Do you need an example of an employee manual to support in developing your own?
 * Have you obtained an IRS determination letter and bank details to submit for final distribution?
+
+**Exit Checklist for Other Services**
+
+* Has any insurance arrangement for the project been concluded?
+* Have all employees had an end date set in Justworks and been informed of this transition?
+  * Have external provisions been made for employee benefits transition?
+* Have all virtual cards associated with outside services been changed?
+  * OCF will close all cards associated with the project once you are unhosted.
+* Have all services or mailboxes on our Google Workspace been transitioned to a new provider?
+* Have any nonprofit discounts in use been transitioned?
+* Have all associated leases or contracts signed by OCF been transitioned to a new signatory?
+* Have any funders for actively reporting or multi-year grants been informed of your transition?
+* Have you prepared to transition any funders on Benevity to a new organizational or project page?
+* Have any Grantees served by an individual grantmaking program wound down?
+* Are all associated expenses with your project submitted and approved?
+  * OCF will determine an amount to hold back when closing a project based upon services that may still be billed in the future. In this case, we may elect to freeze a project rather than unhosting to ensure we can prevent any new funds from being added while accessing remaining funds for future billing.
 
 ### Can we leave OCF?
 
