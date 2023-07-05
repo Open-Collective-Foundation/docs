@@ -35,7 +35,7 @@
   * [Off-Platform Contributions](how-it-works/financial-contributions/non-platform.md)
   * [Other Ways To Give](how-it-works/financial-contributions/other-ways-to-give.md)
 * [Payouts](how-it-works/payouts/README.md)
-  * [Invoice and Reimbursement Examples](how-it-works/payouts/invoice-and-reimbursement-examples.md)
+  * [Invoice and Reimbursement Guidelines](how-it-works/payouts/invoice-and-reimbursement-guidelines.md)
 * [Grantmaking](how-it-works/grantmaking/README.md)
   * [Individual Grantmaking Policy](how-it-works/grantmaking/policy.md)
   * [Other Grants](how-it-works/grantmaking/other-grants.md)
