@@ -17,11 +17,12 @@ If your domain is already associated with another Google Workspace account, you 
 **Do we need a custom domain name?**\
 Yes, your Collective needs to have its own domain name (e.g. coolCollective.com).
 
-**Can I set up free gmail boxes myself?**\
+**Can I set up free Gmail boxes myself?**\
 Although being hosted by a 501(c)(3) gives your Collective access to that status through OCF, Google doesn't allow fiscally sponsored projects to sign up on their own, so OCF needs to set it up through our account. If you want to manage your own emails, we suggest signing up for free Gmail accounts, or paying for Google Workspace or another email service.
 
 **What's included with the account?**\
-Gmail, Contacts, Calendar, Meet, Chat, Drive, and Google Docs.
+Gmail, Contacts, Calendar, Meet, Chat, Drive, and Google Docs. \
+The functionality to [record meetings](https://apps.google.com/supportwidget/articlehome?hl=en\&article\_url=https%3A%2F%2Fsupport.google.com%2Fa%2Fanswer%2F7557052%3Fhl%3Den\&assistant\_event=welcome\&assistant\_id=gsuite-thorbot-yglfke\&product\_context=7557052\&product\_name=UnuFlow\&trigger\_context=a) is not available in Google Workspace for Nonprofits.
 
 **What if someone forgets their password?**\
 Email us the details and we can reset it for them. Same goes for any other email admin issue.
