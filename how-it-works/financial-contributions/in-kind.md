@@ -9,7 +9,8 @@ To make an in-kind (a.k.a. non-cash) contribution, please contact the Collective
 Once the contribution has been made, and the contributed items are in the Collective’s possession, the Collective should notify Open Collective Foundation staff. So that we can report accurately on the contribution, please send the following information to [contact@opencollective.foundation](mailto:contact@opencollective.foundation):
 
 * Name of Collective
-* Name of contributor (whether an individual or organization)
+* Name of Contributor (whether an individual or organization)
+* Contributor’s contact information (Email preferred)
 * Date received
 * Detailed description of goods received&#x20;
 
