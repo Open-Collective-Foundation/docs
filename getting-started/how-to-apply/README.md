@@ -66,14 +66,16 @@ Everything you enter into the application will be editable later on, so don't wo
 Be sure to check your Spam folder for correspondence from OCF. Sometimes our emails end up in there.
 {% endhint %}
 
-## Transitioning to Open Collective
+## Transitioning to Open Collective Foundation
 
-If you are transitioning from another fiscal host that uses the Open Collective platform, the [process is relatively simple](https://docs.opencollective.com/help/collectives/change-fiscal-host#what-is-the-process-for-changing-fiscal-hosts). If your Collective is currently with another organization that does not use Open Collective, the process will depend on that organization’s requirements, but in a nutshell they can transfer your money over and you can get up and running with OCF.
+If you are transitioning to OCF from another fiscal host that also uses the Open Collective **platform**, the [process is relatively simple](https://docs.opencollective.com/help/collectives/change-fiscal-host#what-is-the-process-for-changing-fiscal-hosts).&#x20;
 
-Please be sure to **communicate your plans** to both OCF _and_ your old fiscal host in advance of your application to ensure a smooth transition. Once you have tied up any loose ends with your current host, they can [transfer](../../how-it-works/financial-contributions/) the funds to us electronically or send it to us by check. We can issue an invoice to them and sign agreements if needed.
+If your Collective is currently with another organization that does _not_ use Open Collective **platform**, the process will depend on that organization’s requirements, but in a nutshell they can transfer your money over and you can get up and running with OCF.
 
-Due to the nature of the work involved in accepting funds into OCF, our normal [Fees](../../how-it-works/fees.md) will still apply to any incoming funds - including an initial funds transfer.&#x20;
+You can follow the [steps described here](https://docs.opencollective.foundation/faq/basic-faq#transferring-in-from-a-different-fiscal-sponsor) to ensure a smooth transition.
+
+Please be sure to **communicate your plans** to both OCF _and_ your old fiscal host in advance of your application.&#x20;
 
 {% hint style="info" %}
-All funds for your Collective must be transferred to Open Collective Foundation, since Collectives may not hold funds for the project in [any other bank account](../../how-it-works/policies/outside-accounts-policy.md) while hosted by OCF. Our normal [fees](https://docs.opencollective.foundation/how-it-works/fees) apply to funds transferred in.
+All funds for your hosted Collective **must** be transferred to Open Collective Foundation, since Collectives may **not** hold funds for the project in [any other bank account](../../how-it-works/policies/outside-accounts-policy.md) while hosted by OCF. Our normal [fees](https://docs.opencollective.foundation/how-it-works/fees) apply to any funds transferred in.
 {% endhint %}
