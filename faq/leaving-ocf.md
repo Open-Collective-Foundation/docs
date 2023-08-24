@@ -51,15 +51,15 @@ Yes. We won't lock you in. You can close down your Collective, move to a differe
 
 ### Is it a bad thing if a Collective leaves?
 
-If we have failed to live up to expectations or alienated someone, that's bad. Or, if an Collective engages in misconduct or breaks policies to the point we can't let them stay, that's bad. Both of these 'failure' modes are exceedingly rare.
+If we have failed to live up to expectations or alienated someone, that's bad. Or, if a Collective engages in misconduct or breaks policies to the point we can't let them stay, that's bad. Both of these 'failure' modes are exceedingly rare.
 
 In the vast majority of cases, Collectives leave because they are evolving. They need something we can't provide, have founded their own nonprofit, or are winding down the whole project. We don't think these situations are necessarily bad. Projects naturally go through phases and we want to support them through.
 
 ### Can we take our money with us when we go?
 
-OCF is limited by the regulations regarding 501(c)(3) nonprofits—this means we can usually only transfer money to another 501(c)(3).
+OCF is limited by the regulations regarding 501(c)(3) nonprofits—this means **we can usually only transfer money to another 501(c)(3)**. [Learn more about Model A Fiscal Sponsorship.](https://docs.opencollective.foundation/faq/is-ocf-right-for-you#model-a-fiscal-sponsorship-model)
 
-Once we give a tax deductible receipt for donated funds, we have to ensure they are only spent on allowed 501(c)(3) purposes. We can do that either by holding the funds for you as you spend them down, or by transferring them to another 501(c)(3) entity who is bound to follow the same rules.
+Once we give a tax-deductible receipt for donated funds, we have to ensure they are only spent on allowed 501(c)(3) purposes. We can do that either by holding the funds for you as you spend them down, or by transferring them to another 501(c)(3) entity who is bound to follow the same rules.
 
 ### Sending funds to another 501(c)(3)
 

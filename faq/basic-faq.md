@@ -88,3 +88,7 @@ Since our hosted groups [can only be hosted by OCF](https://docs.opencollective.
 4. An additional (less common step) is that we may need to sign a grant transfer agreement if a large amount of funds is coming from an active grant, but that should be initiated by the funder.
 
 Due to the nature of the work involved in accepting funds into OCF, we cannot offer discounts on moving balances over from another fiscal sponsor (including initial funds transfers), and our normal [Fees](../how-it-works/fees.md) apply to incoming funds regardless of source. [More info](../how-it-works/fees.md#can-we-have-a-discount).
+
+### Ready to leave OCF?
+
+[Learn more here.](leaving-ocf.md)
