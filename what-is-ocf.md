@@ -1,10 +1,12 @@
 # What is OCF?
 
-**Open Collective Foundation (OCF)** is a fiscal sponsor (aka fiscal host - [what's that?](what-we-offer/fiscal-hosting.md)) dedicated to providing a simple, open, lightweight path for charitable Collectives and communities to operate through a 501(c)(3) charitable entity ([what's that?](what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean)).
+**Open Collective Foundation (aka OCF)** is a fiscal sponsor (aka fiscal host - [what's that?](what-we-offer/fiscal-hosting.md)) dedicated to providing a simple, open, lightweight path for charitable Collectives and communities to operate through a 501(c)(3) charitable entity ([what's that?](what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean)).
 
 [Hosted Collectives](https://opencollective.com/foundation#category-CONTRIBUTIONS) that align with our [impact areas](about/mission-and-values.md#our-missions-impact-areas) have access to the unique [Open Collective online platform](https://www.opencollective.com) for managing their funds. They can also receive **tax-deductible contributions** through our 501(c)(3) status.
 
-[**What is Open Collective**](https://docs.opencollective.com/help/about/introduction)**?** It's is an open-source, online fundraising platform for open and transparent communities. **We provide the tools you need to raise and share your finances in full transparency.** 'Open Collective' founded 'Open Collective Foundation' as part of its mission to help collaborative groups collect and spend money transparently.
+[**What is Open Collective**](https://docs.opencollective.com/help/about/introduction)**?** It is an open-source, online fundraising platform for open and transparent communities. **We provide the tools you need to raise and share your finances in full transparency.**&#x20;
+
+'Open Collective' founded 'Open Collective Foundation' as part of its mission to help collaborative groups collect and spend money transparently.
 
 #### This quick video explains the power of the [Open Collective](https://www.opencollective.com) tech platform:
 
@@ -15,12 +17,12 @@ We are 1 node in an international network of 600 nonprofits, LLCs, and co-ops ar
 _For the latest on our approach to fiscal sponsorship and the solidarity economy, check out_ [_Solidarity as our Guiding Principle_](https://blog.opencollective.com/solidarity-as-our-guiding-principle/)_._
 
 {% hint style="info" %}
-**Open Collective** is a growing ecosystem. In addition to OCF, in our network, we also have:
+**Open Collective (aka OC or OC Inc.)** is a growing ecosystem. In addition to **OCF**, in our network, we also have:
 
 * [Open Source Collective](https://www.oscollective.org) (OSC) which is a fiscal host for [open source](https://opensource.com/resources/what-open-source) projects
-* [All For Climate](https://allforclimate.earth) hosts climate action movement groups in Europe
-* [Open Collective Europe](https://opencollective.com/europe) host all kinds of Collectives across Europe
+* [Open Collective Europe](https://opencollective.com/europe) (OCE) hosts all kinds of Collectives across Europe
 * [Open Collective NZ ](https://opencollective.com/ocnz)is a fundholder for Kiwi projects, communities, and Collectives
+* [All For Climate](https://allforclimate.earth) hosts climate action movement groups in Europe
 * [Social Change Nest](https://opencollective.com/the-social-change-nest) hosts community impact groups in the UK
 * [Many more fiscal hosts](https://opencollective.com/hosts) using the OC platform to provide similar services to their communities
 {% endhint %}

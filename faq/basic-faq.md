@@ -8,7 +8,11 @@ You can also join [our Slack](https://join.slack.com/t/opencollective/shared\_in
 
 ### **What is the difference between Open Collective** _and_ **Open Collective Foundation?**
 
-[Open Collective](https://opencollective.com) is the software platform, which is made by a company called Open Collective Inc. [Open Collective Foundation](https://opencollective.foundation) is a separate 501(c)(3) entity that [uses ](https://opencollective.com/foundation)the platform to provide fiscal hosting services. The two entities are legally completely separate, but share some of the same staff members and [community guidelines](https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines-1).
+[Open Collective](https://opencollective.com) is the software **platform**, which is made by a company called Open Collective Inc.&#x20;
+
+[Open Collective **Foundation**](https://opencollective.foundation) is a separate 501(c)(3) entity that [uses ](https://opencollective.com/foundation)the **platform** to provide fiscal hosting services. The two entities are legally completely separate, but they share some of the same staff members and [community guidelines](https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines-1).
+
+More about these distinctions here: [what-is-ocf.md](../what-is-ocf.md "mention")
 
 ### **What is the difference between fiscal hosting and fiscal sponsorship?**
 
@@ -73,13 +77,14 @@ If helpful, consider editing the language on your websites using words and langu
 
 ### Transferring in from a different fiscal sponsor?
 
-If your application is approved and you want to move from a previous fiscal sponsorship agreement into Open Collective Foundation's hosting:
+If your application is approved and you want to [move from a previous fiscal sponsorship](https://docs.opencollective.foundation/getting-started/how-to-apply#transitioning-to-open-collective) agreement into Open Collective Foundation's hosting:
 
 Since our hosted groups [can only be hosted by OCF](https://docs.opencollective.foundation/faq/legal-and-compliance-faq#can-we-be-fiscally-sponsored-by-another-group-while-being-hosted-by-open-collective-foundation), you should
 
 1. Dissolve your previous fiscal sponsorship agreement
 2. Provide the bank documentation to the previous fiscal sponsor so that they know where to send the money.  [All the ways of sending money to your Open Collective account can be found here](https://docs.opencollective.foundation/how-it-works/financial-contributions) (You can pass this page onto your previous sponsor).
+   1. Once you have tied up any loose ends with your current host, they can [transfer](../how-it-works/financial-contributions/) the funds to us electronically or send it to us by [check](../how-it-works/financial-contributions/checks.md). We can issue an invoice to them and sign agreements if needed.
 3. Inform us that the money is en route contact@opencollective.foundation so that we can check incoming funds and add the funds to your collective upon arrival.
 4. An additional (less common step) is that we may need to sign a grant transfer agreement if a large amount of funds is coming from an active grant, but that should be initiated by the funder.
 
-We can't offer discounts on moving balances over from another fiscal sponsor, and normal fees apply to incoming funds regardless of source ([more info](../how-it-works/fees.md#can-we-have-a-discount)).
+Due to the nature of the work involved in accepting funds into OCF, we cannot offer discounts on moving balances over from another fiscal sponsor (including initial funds transfers), and our normal [Fees](../how-it-works/fees.md) apply to incoming funds regardless of source. [More info](../how-it-works/fees.md#can-we-have-a-discount).
