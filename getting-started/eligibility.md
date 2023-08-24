@@ -15,7 +15,7 @@ Open Collective Foundation can fiscally sponsor Collectives that meet the follow
 {% hint style="info" %}
 The IRS has a specific definition of "charitable" purposes that it uses when granting 501(c)(3) status. From the IRS website:
 
-_The term charitable is used in its generally accepted legal sense and includes relief of the poor, the distressed, or the underprivileged; advancement of religion; advancement of education or science; erection or maintenance of public buildings, monuments, or works; lessening the burdens of government; lessening neighborhood tensions; eliminating prejudice and discrimination; defending human and civil rights secured by law; and combating community deterioration and juvenile delinquency._
+_The term **charitable** is used in its generally accepted legal sense and includes relief of the poor, the distressed, or the underprivileged; advancement of religion; advancement of education or science; erection or maintenance of public buildings, monuments, or works; lessening the burdens of government; lessening neighborhood tensions; eliminating prejudice and discrimination; defending human and civil rights secured by law; and combating community deterioration and juvenile delinquency._
 {% endhint %}
 
 #### [🌟](https://emojipedia.org/glowing-star/) Please also review our:
