@@ -32,6 +32,7 @@ While we try to accommodate every request, we work within some limits defined by
 * OCF will only process payouts approved by an admin of the Collective.
 * All expenditures must be allowable under 501(c)(3) regulations.
 * We can only pay people in the US in the vast majority of cases. See [our International Activity Policy](../policies/international.md) for more info.
+  * :bulb: From our [Fiscal Sponsorship Agreement (FSA)](https://docs.google.com/document/u/1/d/e/2PACX-1vQ\_fs7IOojAHaMBKYtaJetlTXJZLnJ7flIWkwxUSQtTkWUMtwFYC2ssb-ooBnT-Ldl6wbVhNQiCkSms/pub): _Generally, we only pay expenses for activities within the US. If you want to fund international activities, get our permission first, or we might not be able to pay the expense._
 * OCF makes payments via Paypal, bank transfers, and virtual cards only, because these are integrated with the Open Collective platform.
 * We can't make direct payments via CashApp, Venmo and similar services (because they don't allow nonprofits like OCF to sign up, among other reasons). See the [Outside Accounts Policy](../policies/outside-accounts-policy.md) for how to work through external tools.
 * Payouts must be broken down into individual expenses with details about what the money is for—we can't pay out undifferentiated chunks of money (except in some special cases like donations to another 501(c)(3) nonprofit). See the [Outside Entities Policy](../policies/outside-entities-policy.md) for more info.

@@ -17,7 +17,7 @@
 * [How to Apply](getting-started/how-to-apply/README.md)
   * [Application Questions](getting-started/how-to-apply/application-questions.md)
 * [Eligibility](getting-started/eligibility.md)
-* [Terms of Fiscal Sponsorship](getting-started/terms.md)
+* [Terms of Fiscal Sponsorship Agreement](getting-started/terms.md)
 
 ## How It Works
 

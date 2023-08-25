@@ -13,9 +13,17 @@ Open Collective Foundation can fiscally sponsor Collectives that meet the follow
 * Collective must have a **minimum** of two [admins/team members](https://docs.opencollective.com/help/collectives/core-contributors) - these must be 2 separate community members.
 
 {% hint style="info" %}
-The IRS has a specific definition of "charitable" purposes that it uses when granting 501(c)(3) status. From the IRS website:
+The IRS has a specific definition of "charitable" purposes that it uses when granting 501(c)(3) status.&#x20;
+
+**From the IRS website:**
 
 _The term **charitable** is used in its generally accepted legal sense and includes relief of the poor, the distressed, or the underprivileged; advancement of religion; advancement of education or science; erection or maintenance of public buildings, monuments, or works; lessening the burdens of government; lessening neighborhood tensions; eliminating prejudice and discrimination; defending human and civil rights secured by law; and combating community deterioration and juvenile delinquency._
+
+
+
+**From our** [**Fiscal Sponsorship Agreement (FSA)**](https://docs.google.com/document/u/1/d/e/2PACX-1vQ\_fs7IOojAHaMBKYtaJetlTXJZLnJ7flIWkwxUSQtTkWUMtwFYC2ssb-ooBnT-Ldl6wbVhNQiCkSms/pub)**:**&#x20;
+
+_Contributions to your Collective must be devoted to your charitable purpose. You can’t use your Collective’s funds for anything other than furthering your charitable purpose, and if you do you have to pay it back. You may not use your Collective’s funds to influence legislation, to support breaking the law, or for private profit._
 {% endhint %}
 
 #### [🌟](https://emojipedia.org/glowing-star/) Please also review our:

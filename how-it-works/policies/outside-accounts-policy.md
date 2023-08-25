@@ -1,6 +1,6 @@
 # Outside Accounts Policy
 
-The [OpenCollective Foundation Terms of Fiscal Sponsorship](../../getting-started/terms.md) state:
+The [OpenCollective Foundation Terms of Fiscal Sponsorship Agreement](../../getting-started/terms.md) state:
 
 > 6\. In the event that Sponsee receives funding outside of the Platform (that which does not go directly into the Fund), Sponsee will immediately transfer such funds to Sponsor for deposit into Sponsee’s Fund; at no time shall Sponsee hold any funds for the Collective outside of the Fund or utilize the services of any other fiscal sponsor during the Term of this Agreement.
 
