@@ -1,5 +1,7 @@
 # Employment & Benefits
 
+## Note: OCF will not be onboarding new collective employees for the month of September 2023. Feel free to submit a request for new employees with a start date of October 2023 onwards.
+
 ## About
 
 Collectives fiscally hosted by OCF can have employees, with access to benefits like health insurance. Costs related to employment are paid from the Collective's budget, with OCF as the employer.
