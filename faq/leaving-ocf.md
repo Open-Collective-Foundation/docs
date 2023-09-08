@@ -1,4 +1,16 @@
+---
+description: Information for Collectives who are exiting OCF's fiscal sponsorship program
+---
+
 # Leaving OCF
+
+
+
+{% hint style="warning" %}
+If your collective is offboarding, please ensure all future checks are addressed, mailed, and made out to your new fiscal host!&#x20;
+
+Mail sent to us once offboarding has commenced will be opened and either returned to sender or forwarded.
+{% endhint %}
 
 OCF seeks to support Collectives to have the greatest potential impact. If you've got a concern or issue, please bring it to us so we can try to help. We're always trying to learn and improve.
 
@@ -8,7 +20,15 @@ There are some practical and technical things to understand about the process of
 
 Details about leaving are spelled out in the 'termination' section of [our terms](https://opencollective.com/foundation/terms).
 
-Had a Benevity account? Please be sure to ping us contact@opencollective.foundation so we can get your Benevity account ownership transferred over.
+## Required Documentation
+
+To complete offboarding from OCF, please send the following to **contact@opencollective.foundation**:
+
+* [ ] Direct deposit info for your new fiscal host / 501(c)(3) / nonprofit legal entity
+* [ ] Confirmation letter of outstanding grants
+* [ ] Signed letters from all grantors stating: Approval to release funds to new fiscal host and OCF is no longer responsible for receiving or distributing ongoing funds for this collective
+* [ ] W9 from new fiscal host/legal entity
+* [ ] Determination letter (not required, but very useful)
 
 ### Exit Interview
 
@@ -40,7 +60,7 @@ Project admins are encouraged to [schedule an exit interview](https://calendly.c
 * Have any nonprofit discounts in use been transitioned?
 * Have all associated leases or contracts signed by OCF been transitioned to a new signatory?
 * Have any funders for actively reporting or multi-year grants been informed of your transition?
-* Have you prepared to transition any funders on Benevity to a new organizational or project page?
+* Have you prepared to transition any funders on Benevity to a new organizational or project page? Please be sure to ping us so we are no longer receiving Benevity funds on your behalf
 * Have any Grantees served by an individual grantmaking program wound down?
 * Are all associated expenses with your project submitted and approved?
   * OCF will determine an amount to hold back when closing a project based upon services that may still be billed in the future. In this case, we may elect to freeze a project rather than unhosting to ensure we can prevent any new funds from being added while accessing remaining funds for future billing.
@@ -65,7 +85,7 @@ Once we give a tax-deductible receipt for donated funds, we have to ensure they 
 
 If you are moving from OCF to another 501(c)(3)—whether it's a new fiscal sponsor or your own new entity—submit an expense to move your balance over (or invite one if you don't run the other entity), and upload the determination letter as an attachment.
 
-### **Moving to another Fiscal Host**
+### **Moving to another Fiscal Host that uses the OC platform**
 
 One thing that makes the Open Collective platform unique is that you can unplug a Collective from one Fiscal Host and plug it into another one, without losing your history, community, or recurring contributions.
 
@@ -77,7 +97,7 @@ If you have founded your own 501(c)(3), you can set it up as the Fiscal Host for
 
 As mentioned above, we can only transfer your funds to another 501(c)(3) due to IRS regulations. If you're moving to a different kind of entity, you'll need to spend down the funds OCF holds on Collective expenses before leaving.
 
-The only exception is if you've founded your own non-profit and applied for 501(c)(3) status, but are still awaiting your determinations letter. In this case we can sometimes put in place a legal agreement to enable transferring money.
+The only exception is if you've founded your own non-profit and applied for 501(c)(3) status, but are still awaiting your determination letter. In this case we can sometimes put in place a legal agreement to enable transferring money.
 
 ### Archiving your Collective
 
