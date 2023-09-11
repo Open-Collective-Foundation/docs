@@ -25,9 +25,9 @@ description: Our Collectives finding success on the platform and in their commun
 * [**Updates We Love** January 2021](https://blog.opencollective.com/ocf-updates-january-2021/) - Featuring Updates from OCF-hosted Collectives
 * [**Updates We Love** December 2020](https://blog.opencollective.com/updates-we-love-dec-2020/) **-** Featuring Updates from OCF-hosted Collectives
 * [**West Brooklyn Waterfront Mutual Aid**](https://blog.opencollective.com/an-update-from-west-brooklyn-waterfront-mutual-aid/) - Supporting neighbors in NYC
-* [**Juneteenth Conference** ](https://blog.opencollective.com/celebrating-black-excellence-in-tech/)- celebrating Black excellence in Tech and building a Tech Apprentice Pipeline
+* [**Juneteenth Conference** ](https://blog.opencollective.com/celebrating-black-excellence-in-tech/)- Celebrating Black excellence in Tech and building a Tech Apprentice Pipeline
 * [**#walkthevote**](https://blog.opencollective.com/walkthevote/) - Organizing voting parades
-* [I**nterview with Parentpreneur Foundation**](https://blog.opencollective.com/parentpreneur-foundation/) **-** Supporting a community of Black ParentPreneurs.
+* [**Interview with Parentpreneur Foundation**](https://blog.opencollective.com/parentpreneur-foundation/) **-** Supporting a community of Black ParentPreneurs.
 * [**Interview with Community Rule**](https://blog.opencollective.com/community-rule/) - a governance toolkit for building great communities.
 * [**Interview with Bushwick Ayuda Mutua**](https://blog.opencollective.com/solidarity-not-charity-in-bushwick-ny/) - a mutual aid group in Bushwick, NY formed in response to COVID-19
 * Interview with [**Drupal Diversity and Inclusion**](https://blog.opencollective.com/drupal-diversity/) - achieving real change through speaker mentoring
