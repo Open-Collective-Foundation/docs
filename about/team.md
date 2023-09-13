@@ -6,23 +6,11 @@
 
 Pia is co-founder & CEO at Open Collective, as well as Chair of DemocracyEarth Foundation, a democracy activist, and an open-source sustainer. She worked in politics in Argentina and developed technology for democracy around the world. She's a YC Alum, YGL (World Economic Forum), globe-trotter, and Roma's mum. [Twitter](https://twitter.com/piamancini), [LinkedIn](https://www.linkedin.com/in/piamancini/)
 
-![](../.gitbook/assets/alanna-nhsq-s.jpeg)
-
-**Alanna Irving (Wellington, New Zealand), executive director**
-
-Alanna Irving explores bossless leadership, open-source org dev, cooperative governance, participatory technology, impact entrepreneurship, and collaborating with money—for a radically optimistic future. She previously co-founded [Enspiral](http://enspiral.com), [Loomio](http://loomio.com), and [Cobudget](http://cobudget.com), is an [Edmund Hilary Fellow](http://ehf.org), and co-authored the book [Better Work Together](http://betterworktogether.co). Her ultimate dream is to make a utopian Star Trek future a lived reality for everyone. [Website](http://alanna.space), [Linkedin](https://www.linkedin.com/in/alannairving83/)
-
 ![](../.gitbook/assets/07a51998-708f-4e8e-92b8-18fe7d0595e5.jpeg)
 
 **Mike Strode (Chicago, USA), program manager**
 
 Mike Strode is a writer, urban cyclist, facilitator, and solidarity economy organizer with the [Kola Nut Collaborative](https://www.kolanutcollab.org) residing in southeast Chicago. The Kola Nut Collaborative is Chicago’s only time-based service and skills exchange (otherwise known as a timebank), providing an open platform for mutual aid, community organizing, and network weaving. Prior to launching the Collaborative, he worked with [Black Oaks Center for Sustainable Renewable Living](https://www.blackoakscenter.org) to develop the [Healthy Food Hub](https://www.healthyfooodhub.org), a food sovereignty initiative which connects farmers in the historically Black farming community of Pembroke Township to food insecure communities throughout Chicago. The Collaborative recently launched their newest Collective to develop a network of Chicago-based facilitators trained in a method known as the Offers and Needs Market in order to embed this resource-sharing practice within local organizations. He also serves on the boards of [Dill Pickle Food Co-op](https://www.dillpickle.coop), [South Deering Manor Community Association](https://www.sdmanor.org), [US Solidarity Economy Network](https://www.ussen.org), and [New Economy Coalition](https://www.neweconomy.net). [Linkedin](https://www.linkedin.com/in/mjstrode/)
-
-![](../.gitbook/assets/image.png)
-
-**Caroline Woolard (Berlin, Germany), Dir. Research & Partnerships**
-
-Caroline Woolard (she/her/hers) is a six foot tall researcher, collaborator, and connector. As Director of Research and Partnerships at Open Collective Foundation, Caroline brings over a decade of experience working on cutting-edge technology for cooperative culture in New York City. Caroline’s work includes co-creating objects, events, and networks such as an international peer-learning and barter network ([TradeSchool.coop](https://tradeschool.coop), 2009-2019), a cultural equity advocacy group ([BFAMFAPhD.com](http://bfamfaphd.com), 2013-present), and a cultural solidarity economy platform ([Art.coop](https://art.coop), 2021, with Nati Linares). Caroline Woolard is the co-author of three books: [Making and Being](https://makingandbeing.com) (Pioneer Works, 2019), a book for educators about interdisciplinary collaboration, co-authored with Susan Jahoda; [Art, Engagement, Economy](https://www.onomatopee.net/exhibition/caroline-woolard/#publication\_13011) (onomatopee, 2020) a book about managing socially-engaged projects; and [TRADE SCHOOL](https://tradeschool.coop): 2009-2019. Caroline is a tenure-track Assistant Professor of Foundations at Pratt Institute, an AmbitioUS Fellow, and a member of the Guild of Future Architects. [Website](https://carolinewoolard.com/past), [Linkedin](https://www.linkedin.com/in/carolinewoolard/)
 
 ![](<../.gitbook/assets/Screen Shot 2023-01-26 at 7.11.00 PM.png>)
 
@@ -69,16 +57,6 @@ Salwa comes to us from being Operations Manager at Drivers Cooperative, a startu
 **Dawn Matlak (Madison, USA), Operations Coordinator**
 
 Dawn (they/them) loves to talk about money, specifically redistributing & accounting for it. Their work is driven by deep ethics of care in our relationships and communities, which often disrupts concepts of professionalism and capitalism in workspaces. Dawn began learning collective, nonprofit, & cooperative business finances 11 years ago, with the intention of managing the tasks that many shy away from in movement work. They recently came to OCF after working for Diverse & Resilient and Public Allies Milwaukee.
-
-<div align="left">
-
-<figure><img src="../.gitbook/assets/IMG_3106 copy (1).jpg" alt=""><figcaption></figcaption></figure>
-
-</div>
-
-**Katie Adamides (Rochester, USA), director of operations**
-
-Katie (she/they) is an activist with an openness to new tools that led them to become a lawyer, policy advocate, and eventually, nonprofit leader. They want to use their career to share power with fellow activists struggling for a better future. Before returning to her hometown of Rochester, Katie lived and worked in Dinétah (Navajo Nation), the San Francisco Bay Area, Los Angeles, and New York City. To learn more about Katie's journey to nonprofit leadership, check out her[ interview with Cal Alumni Magazine](https://alumni.berkeley.edu/california-magazine/2022-spring/snapp-chats/). [LinkedIn](http://linkedin.com/in/katie-adamides-424b0915)
 
 \-------
 
