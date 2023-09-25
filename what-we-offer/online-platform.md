@@ -8,20 +8,20 @@ Open Collective _**Foundation**_ uses the Open Collective _**Platform**_ to mana
 
 The Open Collective [platform](../what-is-ocf.md#this-quick-video-explains-the-power-of-the-open-collective-tech-platform) gives every group we host a page online where you can:
 
-* Raise money
-* Manage and pay expenses
-* Display your transparent budget
-* Post Updates
-* Host Events
-* and more!
+* **Raise money** ([more info](https://docs.opencollective.com/help/financial-contributors/financial-contributors))
+* **Manage and pay expenses** ([more info](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses))
+* **Display your transparent budget** (more info)
+* **Post Updates** ([more info](https://docs.opencollective.com/help/collectives/communication))
+* **Host Events** ([more info](https://docs.opencollective.com/help/collectives/events))
+* **and** [**more**](https://docs.opencollective.com/help/product/product#pay-expenses)**!**
 
-Learn more about the Open Collective [platform features](https://docs.opencollective.com/help/product/product).
+Learn more about all the Open Collective [platform features](https://docs.opencollective.com/help/product/product).
 
 To see all this in action, check out [OCF's hosted Collectives](https://opencollective.com/foundation#category-CONTRIBUTIONS). Thanks to transparency, you can see all their activities and how they use the features for yourself.
 
 ## Transparency
 
-One of the greatest strengths of our platform is the **full transparency** of both where money comes from and where it goes. When expenses are approved or contributions come through, the balance is updated in real time!&#x20;
+One of the greatest strengths of our platform is the **full transparency** of both where money comes from and where it goes. When expenses are approved or contributions come through, the balance is updated in real time!
 
 :bulb: The ability to see your Collective’s financial position and goals gives credibility to your organization, especially in the early stages, and helps to build an environment of collaboration and trust.
 
