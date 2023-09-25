@@ -10,7 +10,7 @@ The Open Collective [platform](../what-is-ocf.md#this-quick-video-explains-the-p
 
 * **Raise money** ([more info](https://docs.opencollective.com/help/financial-contributors/financial-contributors))
 * **Manage and pay expenses** ([more info](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses))
-* **Display your transparent budget** (more info)
+* **Display your transparent budget** ([more info](https://docs.opencollective.com/help/collectives/budget))
 * **Post Updates** ([more info](https://docs.opencollective.com/help/collectives/communication))
 * **Host Events** ([more info](https://docs.opencollective.com/help/collectives/events))
 * **and** [**more**](https://docs.opencollective.com/help/product/product#pay-expenses)**!**
