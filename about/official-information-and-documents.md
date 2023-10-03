@@ -17,7 +17,11 @@ Our official mailing address:
 > Covina, CA 91723
 
 {% hint style="info" %}
-Want to mail us a check? Important info [here](https://docs.opencollective.foundation/how-it-works/financial-contributions/checks).
+**Want to mail us a check? Important info** [**here**](https://docs.opencollective.foundation/how-it-works/financial-contributions/checks)**.**
+{% endhint %}
+
+{% hint style="danger" %}
+Do not mail physical items to our address.  Any physical items will be automatically returned to sender.
 {% endhint %}
 
 ### Nonprofit Status
