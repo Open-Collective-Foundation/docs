@@ -4,6 +4,10 @@ description: A step-by-step guide to becoming a Collective with OCF
 
 # How to Apply
 
+{% hint style="danger" %}
+OCF is not accepting new applications to our fiscal sponsorship program at this time. For more information, read [our Update](https://opencollective.com/foundation/updates/ocf-slow-down-pausing-new-applications-through-feb-2024).
+{% endhint %}
+
 ## **Before you apply:**
 
 1. Read through this [documentation](../../) and [FAQs](https://docs.opencollective.foundation/faq/basic-faq) and review the [Terms of Fiscal Sponsorship Agreement](../terms.md) (a.k.a. our Terms and Conditions - when you submit your application, you will tick a box to agree to these. This is our Fiscal Sponsorship Agreement/MOA.)

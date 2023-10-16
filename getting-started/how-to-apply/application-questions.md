@@ -4,6 +4,10 @@ description: Prepare to apply
 
 # Application Questions
 
+{% hint style="danger" %}
+OCF is not accepting new applications to our fiscal sponsorship program at this time. For more information, read [our Update](https://opencollective.com/foundation/updates/ocf-slow-down-pausing-new-applications-through-feb-2024).
+{% endhint %}
+
 So that you can draft your responses, the following information is requested in the online application form:
 
 * Your Collective’s location (must be based in the U.S. Check [here ](https://www.opencollective.com/hosts)for international hosting options.)

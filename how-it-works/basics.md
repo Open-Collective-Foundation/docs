@@ -4,6 +4,10 @@ description: Fiscal Hosting with OCF
 
 # Basics
 
+{% hint style="danger" %}
+**OCF is not accepting new applications to our fiscal sponsorship program at this time. For more information, read** [**our Update**](https://opencollective.com/foundation/updates/ocf-slow-down-pausing-new-applications-through-feb-2024)**.**
+{% endhint %}
+
 {% hint style="success" %}
 Once you [apply to join Open Collective Foundation](../getting-started/how-to-apply/) and receive an approval email from us, you can immediately get started with managing your Collective on Open Collective.
 

@@ -1,5 +1,9 @@
 # Eligibility
 
+{% hint style="danger" %}
+OCF is not accepting new applications to our fiscal sponsorship program at this time. For more information, read [our Update](https://opencollective.com/foundation/updates/ocf-slow-down-pausing-new-applications-through-feb-2024).
+{% endhint %}
+
 ## Requirements
 
 Open Collective Foundation can fiscally sponsor Collectives that meet the following requirements:
