@@ -85,7 +85,7 @@ For some Collectives, being hosted by a 501(c)(3) organization may not be the ri
 There are also fiscal sponsors that operate without the Open Collective platform. Some may be within your sector or offer different services that fit your specific needs. Before you move forward with another fiscal sponsor, make sure to consider whether they are aligned with your mission, whether their technology and processes are smooth and straightforward, and whether they are transparent to their donors and sponsored projects.
 
 {% hint style="info" %}
-[Ten Things to Look for in a Fiscal Sponsor](https://www.transparency-collective.org/blog/5011/ten-things-to-look-for-in-a-fiscal-sponsor/) - _Transparency and Accountability Collective_
+[Ten Things to Look for in a Fiscal Sponsor](https://medium.com/@TAInitiative/ten-things-to-look-for-in-a-fiscal-sponsor-5cab2fc726a1) - _Transparency and Accountability Initiative_
 {% endhint %}
 
 ### **Starting your own 501(c)(3)**
