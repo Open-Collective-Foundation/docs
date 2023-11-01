@@ -1,7 +1,5 @@
 # Employment & Benefits
 
-## Note: OCF will not be onboarding new collective employees for the month of September 2023. Feel free to submit a request for new employees with a start date of October 2023 onwards.
-
 ## About
 
 Collectives fiscally hosted by OCF can have employees, with access to benefits like health insurance. Costs related to employment are paid from the Collective's budget, with OCF as the employer.
@@ -258,12 +256,13 @@ If you'd like to learn more about classification, read the guide below. It's a c
 Here are the steps to employ someone.
 
 1. If they have not already done so previously, Collective admin follows the process to [set up liability insurance](liability-insurance.md) (it can take some time for the insurer to process, so please do this first).
-2. Collective admin fills out the [Employment Setup Form](https://docs.google.com/forms/d/e/1FAIpQLSdUQThuDQIOODd\_Vi1mU9yC-FYu6USAPIJEfSFEOjMhVnKCSw/viewform) (fill it out once per employee if multiple).
-3. OCF sets up the employment contract ([example](https://docs.google.com/document/d/e/2PACX-1vR8ZtkkzDh1l\_mpGMO6sMIL3Ccv3HpG0DqMQA0C2mjAd5dK-B7UnmICd-w5zWeDO-Gq10Q\_AYybvd-u/pub)) and requests signatures from the Collective admin and the employee.
-4. OCF invites the employee to Justworks, our PEO/payroll system. They must complete the signup process.
-5. OCF staff will request [I-9 documentation](https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents) from the employee to prove US work eligibility, as required by law, and confirm it in Justworks.
-6. The employee starts getting paid by direct deposit [every two weeks](employment.md#timing).
-7. OCF will debit employment-related costs from the Collective's budget [on a monthly basis](employment.md#billing-cycle).
+2. Email us at HR@opencollective.foundation to set up an initial meeting- all new prospective employers must meet with us to go over our policies and practices.
+3. Collective admin fills out the Employment Setup Form (fill it out once per employee if you’re onboarding multiple). Give at least 7 business days before the employees first day for processing.
+4. OCF sets up the employment contract ([example](https://docs.google.com/document/d/e/2PACX-1vR8ZtkkzDh1l\_mpGMO6sMIL3Ccv3HpG0DqMQA0C2mjAd5dK-B7UnmICd-w5zWeDO-Gq10Q\_AYybvd-u/pub)) and requests signatures from the Collective admin and the employee.
+5. OCF invites the employee to Justworks, our PEO/payroll system. The employee must complete the signup process.
+6. OCF staff will request [I-9 documentation](https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents) from the employee to prove US work eligibility, as required by law, and confirm it in Justworks.
+7. The employee starts getting paid by direct deposit [every two weeks](employment.md#timing).
+8. OCF will debit employment-related costs from the Collective's budget [on a monthly basis](employment.md#billing-cycle).
 
 ## Terminating Employment
 
