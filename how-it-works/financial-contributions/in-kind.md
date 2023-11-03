@@ -6,7 +6,7 @@ description: Donating or Accepting Non-Monetary Donations
 
 To make an in-kind (a.k.a. non-cash) contribution, please contact the Collective about your intentions. You and the Collective should work together to facilitate the contribution.
 
-Once the contribution has been made, and the contributed items are in the Collective’s possession, the Collective should notify Open Collective Foundation staff. So that we can report accurately on the contribution, please send the following information to [contact@opencollective.foundation](mailto:contact@opencollective.foundation):
+Once the contribution has been made, and the contributed items are in the Collective’s possession, the **Collective Admin should notify Open Collective Foundation staff** (communications should come from the Collecitve Admin, not the donor). So that we can report accurately on the contribution, please send the following information to [contact@opencollective.foundation](mailto:contact@opencollective.foundation):
 
 * Name of Collective
 * Name of Contributor (whether an individual or organization)
