@@ -6,7 +6,9 @@ description: Donating or Accepting Non-Monetary Donations
 
 To make an in-kind (a.k.a. non-cash) contribution, please contact the Collective about your intentions. You and the Collective should work together to facilitate the contribution.
 
-Once the contribution has been made, and the contributed items are in the Collective’s possession, the **Collective Admin should notify Open Collective Foundation staff** (communications should come from the Collecitve Admin, not the donor). So that we can report accurately on the contribution, please send the following information to [contact@opencollective.foundation](mailto:contact@opencollective.foundation):
+Once the contribution has been made, and the contributed items are in the Collective’s possession, the Collective Admin should notify Open Collective Foundation staff.&#x20;
+
+So that we can report accurately on the contribution, please send the following information to [contact@opencollective.foundation](mailto:contact@opencollective.foundation):
 
 * Name of Collective
 * Name of Contributor (whether an individual or organization)
@@ -35,15 +37,16 @@ _**A couple of examples:**_
 
 ### **Tax receipts/acknowledgment letters for in-kind contributions**
 
-‌If the contributed items are tax-deductible in the eyes of the IRS, we would be happy to provide the contributor with a tax receipt.
+‌If the contributed items are tax-deductible in the eyes of the IRS, we would be happy to provide the contributor with a tax receipt. &#x20;
 
-In order to receive a written letter of acknowledgment, please [email OCF](../../about/contact-us.md) with the following information:
+In order to receive a written letter of acknowledgment, **Collective Admins** please [email OCF](../../about/contact-us.md) with the following information:
 
 * [ ] Date the donation was received
 * [ ] First, Last Name of contributor (whether an individual or organization)
 * [ ] Contributor’s contact information (Email preferred)
 * [ ] Name of Collective
 * [ ] Detailed description of goods donated
+  * [ ] Fair market valuation of donated goods
 
 If your contribution has not yet been reported by the Collective, please see the procedure for reporting an in-kind contribution above.
 
