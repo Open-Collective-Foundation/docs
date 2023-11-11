@@ -8,13 +8,15 @@ To make an in-kind (a.k.a. non-cash) contribution, please contact the Collective
 
 Once the contribution has been made, and the contributed items are in the Collective’s possession, the Collective Admin should notify Open Collective Foundation staff.&#x20;
 
-So that we can report accurately on the contribution, please send the following information to [contact@opencollective.foundation](mailto:contact@opencollective.foundation):
+**So that we can report accurately on the contribution, Collective Admins should please send the following information to** [**contact@opencollective.foundation**](mailto:contact@opencollective.foundation)**:**
 
 * Name of Collective
 * Name of Contributor (whether an individual or organization)
 * Contributor’s contact information (Email preferred)
 * Date received
 * Detailed description of goods received&#x20;
+* Fair Market Value of donated item on the date of the donation
+  * It is the donor's responsibility to determine fair market value
 
 {% hint style="info" %}
 If your Collective will be regularly accepting non-monetary donations, you can also batch them all together and [send OCF](../../about/contact-us.md) a spreadsheet at the end of each month. This will ensure we can keep all of this required information for us for our records. Feel free to use [this template](https://docs.google.com/spreadsheets/u/2/d/1A8de4z82oCu2cOVtQ5\_5ac5N9RsWqKrsxbCXt6i4B38/copy) if it helps!
