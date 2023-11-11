@@ -22,13 +22,17 @@ Details about leaving are spelled out in the 'termination' section of [our terms
 
 ## Required Documentation
 
-To complete offboarding from OCF, please send the following to **contact@opencollective.foundation**:
+To complete offboarding from OCF, please send an email to **contact@opencollective.foundation** to let us know you will be leaving.
+
+:arrows\_clockwise: If transferring to another fiscal host/501(c)(3) please us the following:
 
 * [ ] Direct deposit info for your new fiscal host / 501(c)(3) / nonprofit legal entity
 * [ ] Please provide a list of all current grants and their balances. If grants are being transferred to your new fiscal host, we require a signed letter from the grantor.
 * [ ] Signed letters from all grantors stating: Approval to release funds to new fiscal host and OCF is no longer responsible for receiving or distributing ongoing funds for this collective
 * [ ] W9 from new fiscal host/legal entity
 * [ ] Determination letter from new fiscal host/legal entity (not required, but very useful)
+
+⛔If closing down your collective completely, learn about[#archiving-your-collective](leaving-ocf.md#archiving-your-collective "mention")
 
 ### Exit Interview
 
