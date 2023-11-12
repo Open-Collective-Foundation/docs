@@ -1,5 +1,9 @@
 # Employment & Benefits
 
+## Note (as of November, 2023): OCF's new interim leadership is pausing all new collective hires so that improved rules and guidelines can be development. Official announcement with more information will be in the coming weeks, and we hope to have new processes confirmed by end of year 2023.&#x20;
+
+Please email HR@opencollective.foundation with any questions.
+
 ## About
 
 Collectives fiscally hosted by OCF can have employees, with access to benefits like health insurance. Costs related to employment are paid from the Collective's budget, with OCF as the employer.
@@ -257,7 +261,7 @@ Here are the steps to employ someone.
 
 1. If they have not already done so previously, Collective admin follows the process to [set up liability insurance](liability-insurance.md) (it can take some time for the insurer to process, so please do this first).
 2. Email us at HR@opencollective.foundation to set up an initial meeting- all new prospective employers must meet with us to go over our policies and practices.
-3. Collective admin fills out the Employment Setup Form (fill it out once per employee if you’re onboarding multiple). Give at least 7 business days before the employees first day for processing.
+3. Collective admin fills out the Employment Setup Form- will be emailed to you following onboarding meeting. Give at least 7 business days before the employees first day for processing.
 4. OCF sets up the employment contract ([example](https://docs.google.com/document/d/e/2PACX-1vR8ZtkkzDh1l\_mpGMO6sMIL3Ccv3HpG0DqMQA0C2mjAd5dK-B7UnmICd-w5zWeDO-Gq10Q\_AYybvd-u/pub)) and requests signatures from the Collective admin and the employee.
 5. OCF invites the employee to Justworks, our PEO/payroll system. The employee must complete the signup process.
 6. OCF staff will request [I-9 documentation](https://www.uscis.gov/i-9-central/form-i-9-acceptable-documents) from the employee to prove US work eligibility, as required by law, and confirm it in Justworks.
