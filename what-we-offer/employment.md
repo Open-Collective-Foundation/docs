@@ -1,6 +1,6 @@
 # Employment & Benefits
 
-## Note (as of November, 2023): OCF is pausing all new collective hires so that improved rules and guidelines can be developed. Official announcement with more information will be in the coming weeks, and we hope to have new processes confirmed by end of year 2023.&#x20;
+## Note (as of November, 2023): OCF is pausing all new collective hires to update applicable policies and practices for this offering. Official announcement with more information will be in the coming weeks, and we hope to have new processes confirmed by end of year 2023.&#x20;
 
 Please email HR@opencollective.foundation with any questions.
 
