@@ -17,13 +17,8 @@ There are a range of ways to pay out funds from your OCF budget, depending on wh
 * [Cash assistance:](../policies/cash-assistance-policy.md) A process for paying people in cash or through apps who can't directly interact with the OC platform because they are unbanked or lack internet access.
 * [Grant:](../grantmaking/policy.md) Become a grantmaker in your community, enabling financial support that's not taxable as income to the grantee, which doesn't require receipts up front. Paid via Grant Expenses (only enabled for approved groups).
 * [Payroll:](../../what-we-offer/employment.md) Employ someone on an ongoing basis in a formal part-time or full-time role, which can include benefits like health insurance.
-* \[currently paused] [Virtual card:](../../what-we-offer/virtual-cards-policy.md) Like a debit card linked to your Open Collective budget, which you can use to make online purchases. You later upload the receipt to an automatically generated Expense.
 
-{% hint style="warning" %}
-Issuing of new Virtual Cards is currently suspended while the policy and processes are under review.
-{% endhint %}
-
-![It may not be pretty, but it shows all the options!](../../.gitbook/assets/OCF-payouts.png)
+![It may not be pretty, but it shows all the options! - Virtual Cards are no longer an available payout option.](../../.gitbook/assets/OCF-payouts.png)
 
 ### Limitations
 
