@@ -16,7 +16,7 @@ We can set up free Google Workspace accounts for you if you have a domain name. 
 
 ### **Techsoup**
 
-TechSoup has expressed that [discounts through TechSoup do NOT extend to fiscally hosted projects](https://www.techsoup.org/support/product-donation-faq#collapse3-4). While collectives cannot pursue a standalone account for discount purchases, we are part of a pilot program allowing groups to access a limited catalog. Please fill out this [form](https://forms.gle/5ky7CXzyYpybhHNh9) to express interest in joining the pilot offering.
+TechSoup has expressed that [discounts through TechSoup do NOT extend to fiscally hosted projects](https://www.techsoup.org/support/product-donation-faq#collapse3-4).&#x20;
 
 ### **Slack**
 
