@@ -7,6 +7,7 @@
   * [Online Platform](what-we-offer/online-platform.md)
   * [Liability Insurance](what-we-offer/liability-insurance.md)
   * [Employment & Benefits](what-we-offer/employment.md)
+  * [Virtual Cards](what-we-offer/virtual-cards-policy.md)
   * [Emails & Google Workspace](what-we-offer/emails.md)
   * [Nonprofit Discounts](what-we-offer/nonprofit-discounts.md)
   * [Leases](what-we-offer/leases.md)
