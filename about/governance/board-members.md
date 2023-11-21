@@ -2,7 +2,6 @@
 
 #### Current members of OCF's board of directors
 
-* **Pia Mancini,** Co-Founder & CEO of [Open Collective](https://www.opencollective.com)
 * **Hafidha Acuay,** Managing Director of [PeoplesHub](https://www.peopleshub.org/)
 * **Bart Westdijk,** Director of the [Grassroots Environment Fund](https://grassrootsfund.org/)\
   \
