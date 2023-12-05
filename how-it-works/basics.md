@@ -26,7 +26,7 @@ Once you [apply to join Open Collective Foundation](../getting-started/how-to-ap
 {% hint style="info" %}
 * **Open Collective Inc**. (aka OCI or OC) is the **platform** that OCF operates on.
   * Open Collective has their own [homepage](https://www.opencollective.com), [budget](https://opencollective.com/opencollective#category-ABOUT), and [documentation](https://docs.opencollective.com/help/)
-* **Open Collective Foundation** (aka OCF) is a charitable US-based [**fiscal host**](../what-we-offer/fiscal-hosting.md) who uses the Open Collective platform to manage finances transparently
+* **Open Collective Foundation** (aka OCF) is a charitable US-based [**fiscal host**](../what-we-offer/fiscal-hosting.md) who uses the Open Collective platform to manage finances transparently.
 {% endhint %}
 
 For an overview of [using the Open Collective platform](https://opencollective.com/how-it-works), check out their[ documentation](https://docs.opencollective.com).&#x20;
