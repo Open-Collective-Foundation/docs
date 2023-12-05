@@ -72,7 +72,7 @@ In order to make clear their distinction from the union itself, Collectives want
 Additionally, the work must be **open-ended** in terms of length in order to meet the IRS's requirement of an "indefinite [charitable class](https://www.irs.gov/charities-non-profits/charitable-organizations/disaster-relief-meaning-of-charitable-class)," meaning that the goal should be to support all striking workers at the organization, not just those striking right now or some specific subset of them. This does not mean that your work must last forever - only that, if you choose, it _could_. This makes clear to the IRS that you are not out to enrich a finite number of people with your donated funds.&#x20;
 
 {% hint style="info" %}
-If helpful, consider editing the language on your websites using words and language taken directly from the IRS's definition of ["charitable purposes"](https://www.irs.gov/charities-non-profits/charitable-purposes) and "[charitable class](https://www.irs.gov/charities-non-profits/charitable-organizations/disaster-relief-meaning-of-charitable-class)". .
+If helpful, consider editing the language on your websites using words and language taken directly from the IRS's definition of ["charitable purposes"](https://www.irs.gov/charities-non-profits/charitable-purposes) and "[charitable class](https://www.irs.gov/charities-non-profits/charitable-organizations/disaster-relief-meaning-of-charitable-class)".
 {% endhint %}
 
 ### Transferring in from a different fiscal sponsor?

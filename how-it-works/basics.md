@@ -24,12 +24,20 @@ Once you [apply to join Open Collective Foundation](../getting-started/how-to-ap
 ## Open Collective
 
 {% hint style="info" %}
-* **Open Collective Inc**. is the **platform** that OCF operates on.
-  * Open Collective has their own [homepage](https://www.opencollective.com), [budget](https://opencollective.com/opencollective#category-ABOUT), and [documentation](https://docs.opencollective.com/help/). These docs you're currently reading are a pared down version to relay information that is specific to OCF.
-* OCF **(Open Collective Foundation)** is a charitable [**fiscal host**](../what-we-offer/fiscal-hosting.md) who uses the Open Collective platform
+* **Open Collective Inc**. (aka OCI or OC) is the **platform** that OCF operates on.
+  * Open Collective has their own [homepage](https://www.opencollective.com), [budget](https://opencollective.com/opencollective#category-ABOUT), and [documentation](https://docs.opencollective.com/help/)
+* **Open Collective Foundation** (aka OCF) is a charitable US-based [**fiscal host**](../what-we-offer/fiscal-hosting.md) who uses the Open Collective platform to manage finances transparently
 {% endhint %}
 
-For an overview of [using the Open Collective platform](https://opencollective.com/how-it-works), check out their[ documentation](https://docs.opencollective.com). It has a ton of great information about features like the [transparent budget](https://docs.opencollective.com/help/collectives/budget), customizing a [Collective profile](https://docs.opencollective.com/help/collectives/customize-collective) page, [Tiers, Goals](https://docs.opencollective.com/help/collectives/tiers-goals), [Updates](https://docs.opencollective.com/help/collectives/communication), and other tools now at your disposal.
+For an overview of [using the Open Collective platform](https://opencollective.com/how-it-works), check out their[ documentation](https://docs.opencollective.com).&#x20;
+
+It has a ton of great information about **Features** like:
+
+* the [Transparent Budget](https://docs.opencollective.com/help/collectives/budget),&#x20;
+* customizing a [Collective Profile](https://docs.opencollective.com/help/collectives/customize-collective) page,
+* &#x20;[Tiers, Goals](https://docs.opencollective.com/help/collectives/tiers-goals),&#x20;
+* [Updates](https://docs.opencollective.com/help/collectives/communication),&#x20;
+* and [other tools](https://docs.opencollective.com/help/product/product) now at your disposal.
 
 :white\_check\_mark: Their [Quick Start Guide](https://docs.opencollective.com/help/collectives/quick-start-guide) is another great place to start.
 
