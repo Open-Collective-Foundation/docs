@@ -22,7 +22,7 @@ Details about leaving are spelled out in the 'termination' section of [our terms
 
 ## Required Documentation
 
-To complete offboarding from OCF, please send an email to **contact@opencollective.foundation** to let us know you will be leaving.
+To complete offboarding from OCF, please complete the [**Exit & Unhosting Review Form**](https://forms.gle/MoPDGyW7YHWLngrx6) to let us know you will be leaving.
 
 :arrows\_clockwise: If **transferring to another fiscal host/501(c)(3)** please send us the following:
 
@@ -36,7 +36,7 @@ To complete offboarding from OCF, please send an email to **contact@opencollecti
 
 ### Exit Interview
 
-Project admins are encouraged to [schedule an exit interview](https://calendly.com/openmike/exit-interview) to support us in evaluating and improving our fiscal sponsorship program with your feedback. During this exit interview, we will also offer space for a retrospective on your time with OCF (What did we do well? What could we have done better?) followed by a brief assessment of your transition plan where we offer feedback on transition strategies and best practices.
+Project admins are encouraged to [**schedule an exit interview**](https://calendly.com/openmike/exit-interview) to support us in evaluating and improving our fiscal sponsorship program with your feedback. During this exit interview, we will also offer space for a retrospective on your time with OCF (What did we do well? What could we have done better?) followed by a brief assessment of your transition plan where we offer feedback on transition strategies and best practices.
 
 **If you are moving to a new fiscal sponsor:**
 
