@@ -8,7 +8,7 @@ Pia is co-founder & CEO at Open Collective, as well as Chair of DemocracyEarth F
 
 ![](../.gitbook/assets/07a51998-708f-4e8e-92b8-18fe7d0595e5.jpeg)
 
-**Mike Strode (Chicago, USA), program manager**
+**Mike Strode (Chicago, USA), program officer**
 
 Mike Strode is a writer, urban cyclist, facilitator, and solidarity economy organizer with the [Kola Nut Collaborative](https://www.kolanutcollab.org) residing in southeast Chicago. The Kola Nut Collaborative is Chicago’s only time-based service and skills exchange (otherwise known as a timebank), providing an open platform for mutual aid, community organizing, and network weaving. Prior to launching the Collaborative, he worked with [Black Oaks Center for Sustainable Renewable Living](https://www.blackoakscenter.org) to develop the [Healthy Food Hub](https://www.healthyfooodhub.org), a food sovereignty initiative which connects farmers in the historically Black farming community of Pembroke Township to food insecure communities throughout Chicago. The Collaborative recently launched their newest Collective to develop a network of Chicago-based facilitators trained in a method known as the Offers and Needs Market in order to embed this resource-sharing practice within local organizations. He also serves on the boards of [Dill Pickle Food Co-op](https://www.dillpickle.coop), [South Deering Manor Community Association](https://www.sdmanor.org), [US Solidarity Economy Network](https://www.ussen.org), and [New Economy Coalition](https://www.neweconomy.net). [Linkedin](https://www.linkedin.com/in/mjstrode/)
 
