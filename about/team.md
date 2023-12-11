@@ -2,7 +2,7 @@
 
 ![](../.gitbook/assets/pia.jpeg)
 
-**Pia Mancini (Madrid, Spain), co-founder and president**&#x20;
+**Pia Mancini (Madrid, Spain), co-founder**&#x20;
 
 Pia is co-founder & CEO at Open Collective, as well as Chair of DemocracyEarth Foundation, a democracy activist, and an open-source sustainer. She worked in politics in Argentina and developed technology for democracy around the world. She's a YC Alum, YGL (World Economic Forum), globe-trotter, and Roma's mum. [Twitter](https://twitter.com/piamancini), [LinkedIn](https://www.linkedin.com/in/piamancini/)
 
