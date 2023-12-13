@@ -13,7 +13,7 @@ Once you choose to contribute from the Collective’s profile, our platform will
 {% hint style="info" %}
 The fastest way to have access to funds is through **Card/PayPal donations** made directly on the [Open Collective Platform](../../what-we-offer/online-platform.md).
 
-**Bank transfers (e.g. ACH, wire)** are done manually - this means it takes the funds a couple of days to clear (due to bank processing times), and then the allocation of the funds requires additional actions from OCF. **It is important to allow for a few days (minimum 3 business days) when awaiting donations made via bank transfer.**
+**Bank transfers (e.g. ACH, wire)** are done manually - this means it takes the funds a couple of days to clear (due to bank processing times), and then the allocation of the funds requires additional actions from OCF. **It is important to allow for a few days (between 5 & 10 business days) when awaiting donations made via bank transfer.**
 {% endhint %}
 
 ### **Bank Transfers**
