@@ -45,5 +45,6 @@ Send us an email contact@opencollective.foundation with the following:
 * Email address of funder
 * Mailing address of funder
 * Amount of grant
+* Purpose of grant
 * Disbursement method (e.g. check, bank transfer)
 * Designation (which group) so we know where to allocate funds
