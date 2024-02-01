@@ -70,7 +70,7 @@ Certificate of Status (Certificate of Good Standing)
 OCF Banking Information PDF
 {% endfile %}
 
-**Email address for automatic notifications:** conact@opencollective.foundation
+**Email address for automatic notifications:** contact@opencollective.foundation
 
 ### IRS Form 990s
 
