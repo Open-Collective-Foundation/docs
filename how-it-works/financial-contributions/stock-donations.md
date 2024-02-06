@@ -1,6 +1,10 @@
 # Stock Donations
 
-Open Collective Foundation is able to receive donations of public stock on behalf of hosted Collectives.&#x20;
+{% hint style="info" %}
+_"Edit Feb 6, 2024:_ Stock donation update changing. New information coming very soon."
+{% endhint %}
+
+Open Collective Foundation is able to receive donations of public stock on behalf of hosted Collectives.
 
 ### Tax benefits
 
@@ -14,15 +18,7 @@ Normally when you sell stock, you have to pay capital gains tax. But if you dona
 
 ### How to donate stock
 
-First, [contact us](../../about/contact-us.md) to let us know about the stock donation.
-
-Then, instruct your broker to transfer the stock to:&#x20;
-
-DTC Clearing Number 0015
-
-FBO Open Collective Foundation&#x20;
-
-A/C Number: 119-013845-027
+[Contact us](../../about/contact-us.md) to let us know about the stock donation.
 
 ### FAQ
 
