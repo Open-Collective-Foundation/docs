@@ -89,7 +89,7 @@ Collectives [can easily give to other Collectives](https://docs.opencollective.c
 
 See our instructions on how to cancel recurring or ongoing donations, subscriptions, payments, etc., [here](https://docs.opencollective.com/help/financial-contributors/payments#cancel-a-recurring-contribution).
 
-### Can I donate stock, cryptocurrency, real estate, a life insurance policy, or another major nontraditional gift?
+### Can I donate stock, real estate, a life insurance policy, or another major nontraditional gift?
 
 [Get in touch with us](mailto:contact@opencollective.foundation) and we will be happy to talk through possibilities.
 
