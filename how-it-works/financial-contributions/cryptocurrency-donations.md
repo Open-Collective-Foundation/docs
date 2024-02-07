@@ -1,5 +1,9 @@
 # Crypto Donations
 
+{% hint style="warning" %}
+2024 Update: We are no longer accepting Crypto donations.
+{% endhint %}
+
 ## How to pay with crypto
 
 Right now this is a manual process.
