@@ -46,7 +46,7 @@ Contractors providing services to OCF Collectives are not eligible for mileage e
 
 The mileage expense rate is set by the IRS on (at least) an annual basis:
 
-✨ **$0.65 per mile** ✨
+✨ **$0.655 per mile** ✨
 
 ### Submitting Mileage Expenses
 
