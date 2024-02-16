@@ -15,9 +15,7 @@ Want to make a grant to a 501(c)(3) organization or contribute to another OCF Co
 ### How does the grantmaking process work?
 
 {% hint style="success" %}
-The grantmaking recipients will be prompted to complete with a W9 (US citizens and residents) or a W8-BEN (for all foreign-born nationals).&#x20;
-
-This form will be provided on the OC platform to **any recipient who receives over $600/year** via invoices, grantmaking payouts, and/or cash assistance (not including reimbursements), because, these are all considered "taxable income".&#x20;
+Any recipients who receive more than $600/year through grantmaking payouts, invoices, and/or cash assistance (though not for reimbursements) will be asked to fill out a W9 form (for US citizens or residents), or a W8-BEN form (for foreign-born nationals). These forms will be required on the OC platform.
 {% endhint %}
 
 Read the [Grantmaking Policy](policy.md), and specifically the [Grantmaking Process](policy.md#docs-internal-guid-bac47c71-7fff-104b-7fde-8f4e365593b3) section for a deep dive. Here's a quick tour:
