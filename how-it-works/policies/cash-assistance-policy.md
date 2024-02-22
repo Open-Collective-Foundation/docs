@@ -81,6 +81,10 @@ In either case, to submit a proposal, fill out [this form](https://forms.gle/96w
 
 To get reimbursed for cash assistance payments, Volunteers go to the Collective’s page on the Platform and select “submit expense”, then select the reimbursement option and proceed to fill out the information required on the “submit expense” form and detailed below.
 
+{% hint style="info" %}
+After Collectives are approved to operate a Cash Assistance program, for the **Expense Category,** please select: **7314 Mutual Aid**
+{% endhint %}
+
 #### Required info for reimbursement expenses
 
 Cash assistance reimbursement expense requests from Volunteers need to include certain information at different amount levels (in addition to the standard information required when submitting an expense, such as the Volunteer’s payout method details).
