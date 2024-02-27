@@ -36,7 +36,7 @@ Individuals and organizations can contribute to your Collective in a variety of 
 
 ### What types of Collectives do you host?
 
-Open Collective Foundation hosts a variety of projects meeting our [eligibility requirements](../getting-started/eligibility.md).&#x20;
+Open Collective Foundation hosts a variety of projects meeting our [eligibility requirements](broken-reference).&#x20;
 
 A few example focuses include:
 
@@ -52,7 +52,7 @@ OCF supports Collectives to build power within BIPOC, low-income, Womxn, LGBTQIA
 
 ### **C**an labor or tenant unions and related groups be fiscally hosted by OCF?
 
-OCF cannot host labor unions, since they are not "charitable" (and would be considered a 501[(c)(5)](https://www.irs.gov/charities-non-profits/other-non-profits/labor-and-agricultural-organizations) rather than a 501[(c)(3)](../what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean)). But there **are** ways that we _can_ support unionization movements. Collectives that:
+OCF cannot host labor unions, since they are not "charitable" (and would be considered a 501[(c)(5)](https://www.irs.gov/charities-non-profits/other-non-profits/labor-and-agricultural-organizations) rather than a 501[(c)(3)](broken-reference)). But there **are** ways that we _can_ support unionization movements. Collectives that:
 
 * Provide support to workers who face poverty or hardship (sometimes called "hardship" or "solidarity" funds)
 * Help tenants fight evictions (for example, during a pandemic) and other housing justice work

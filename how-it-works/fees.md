@@ -30,7 +30,7 @@ Contributors also have the option to give a “tip” to the Open Collective **p
 
 The standard fee for fiscal sponsorship is 5%-15%. Different fiscal sponsors offer different services so it can be hard to directly compare, but we think our rates are quite a good value for the service we offer.
 
-Some people compare our fees with a regular crowdfunding site, which tend to charge 0%-5%, but it's important to remember that these services do not offer [fiscal hosting](../what-we-offer/fiscal-hosting.md), ongoing & recurring donations, or budget transparency. Read more about [what OCF offers](../what-we-offer/) as a fiscal host.
+Some people compare our fees with a regular crowdfunding site, which tend to charge 0%-5%, but it's important to remember that these services do not offer [fiscal hosting](broken-reference), ongoing & recurring donations, or budget transparency. Read more about [what OCF offers](broken-reference) as a fiscal host.
 
 ### What do we use fee revenue for?
 

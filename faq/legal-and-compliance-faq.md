@@ -28,7 +28,7 @@ Per [our Fiscal Sponsorship Agreement,](https://docs.google.com/document/u/2/d/e
 
 ### **Do you provide insurance coverage for our activities?**
 
-Yes! More info [here](../what-we-offer/liability-insurance.md).
+Yes! More info [here](broken-reference).
 
 ### **Can we receive international contributions or pay out international expenses?**
 

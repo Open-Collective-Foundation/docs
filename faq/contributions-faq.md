@@ -36,7 +36,7 @@ That said, Collectives may raise funds for a general purpose, for example suppor
 
 Some related notes:
 
-* Funds can also be raised in order to pay contractors or [employees](../what-we-offer/employment.md) for their work
+* Funds can also be raised in order to pay contractors or [employees](broken-reference) for their work
 * An individual's story can serve as an example recipient, but it should be clear that funds are going into a pot of funds for hardship relief (for example), not just for that person
 * Collectives can also facilitate direct relief from a donor to a recipient in need, as long as the funds are never in the Collective or OCF's hands. In this situation, it should also be made clear that we cannot offer a tax receipt or tax-deductibility
 
@@ -77,7 +77,7 @@ Due to state-by-state regulations and significant reporting requirements, OCF's 
 
 ### Can my group offer memberships/accept membership fees?
 
-The platform has a '[Tier](https://docs.opencollective.com/help/collectives/collective-settings/tiers-goals#tiers)' type for membership fees. If all output/impact from a Collective is for 'members only', then it wouldn’t be for public benefit and therefore would not be [eligible ](../getting-started/eligibility.md)for fiscal hosting under OCF.&#x20;
+The platform has a '[Tier](https://docs.opencollective.com/help/collectives/collective-settings/tiers-goals#tiers)' type for membership fees. If all output/impact from a Collective is for 'members only', then it wouldn’t be for public benefit and therefore would not be [eligible ](broken-reference)for fiscal hosting under OCF.&#x20;
 
 The overall impact of the project needs to benefit an indefinite number of people - not only 'members'.
 

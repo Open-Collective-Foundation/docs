@@ -11,7 +11,7 @@ To donate (a.k.a. contribute) to a Collective online via Credit Card, PayPal, or
 Once you choose to contribute from the Collective’s profile, our platform will guide you through the rest of the process, including choosing between credit card, PayPal, and electronic bank transfer (i.e., ACH or wire).
 
 {% hint style="info" %}
-The fastest way to have access to funds is through **Card/PayPal donations** made directly on the [Open Collective Platform](../../what-we-offer/online-platform.md).
+The fastest way to have access to funds is through **Card/PayPal donations** made directly on the [Open Collective Platform](broken-reference).
 
 **Bank transfers (e.g. ACH, wire)** are done manually - this means it takes the funds a couple of days to clear (due to bank processing times), and then the allocation of the funds requires additional actions from OCF. **It is important to allow for a few days (between 5 & 10 business days) when awaiting donations made via bank transfer.**
 {% endhint %}

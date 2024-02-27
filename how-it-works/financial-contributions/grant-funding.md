@@ -4,7 +4,7 @@ _Check our_ [_Grants FAQ_](../../faq/grants-faq.md) _for commonly asked question
 
 ## Grant Applications
 
-The opportunity to apply for grants is one of the biggest benefits of being hosted by a [501(c)(3) organization](../../what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean) like Open Collective Foundation.
+The opportunity to apply for grants is one of the biggest benefits of being hosted by a [501(c)(3) organization](broken-reference) like Open Collective Foundation.
 
 When drafting grant applications, you will likely need info like our [EIN number, address, and maybe even our banking information](../../about/official-information-and-documents.md). You may also need to [upload our IRS Determination Letter](../../about/official-information-and-documents.md#nonprofit-status). Please check the [Official Information and Documents](../../about/official-information-and-documents.md) page first, and if the application asks for info or documentation not listed there (such as our most recent audit, 990, or other budget documents), [reach out](../../about/contact-us.md) and we will endeavor to put it together for you.
 
@@ -16,7 +16,7 @@ Some applications will ask for a document describing the fiscal sponsorship rela
 If they ask for a signed MOU (Memorandum of Understanding), email us at [contact@opencollective.foundation](mailto:%20contact@opencollective.foundation) to request one. Please be sure to include you Collective's name in the request.
 {% endhint %}
 
-Make sure to also double-check that the funder accepts applications from “fiscally sponsored projects” (i.e. what OCF calls 'Collectives'). Although [fiscal hosting (a.k.a. fiscal sponsorship)](../../what-we-offer/fiscal-hosting.md) is an established and widespread practice in the nonprofit world, there are funders that do not allow it. If their guidelines do not say, reach out to them and ask! (And in general, don’t be afraid to ask funders questions.)
+Make sure to also double-check that the funder accepts applications from “fiscally sponsored projects” (i.e. what OCF calls 'Collectives'). Although [fiscal hosting (a.k.a. fiscal sponsorship)](broken-reference) is an established and widespread practice in the nonprofit world, there are funders that do not allow it. If their guidelines do not say, reach out to them and ask! (And in general, don’t be afraid to ask funders questions.)
 
 {% hint style="info" %}
 When you are applying for a grant, keep in mind that this can be a time-consuming process! Try to [let us know](../../about/contact-us.md) well in advance of the due date about what you need so that we have time to prepare and so that we don’t run the risk of missing a deadline.
@@ -41,7 +41,7 @@ If your grant application has been approved, congratulations! The first thing th
 Since grant [contracts are legal agreements between the funder and Open Collective Foundation](../policies/#situations-where-we-need-to-be-involved), **they will need to be signed by an OCF staff member**. Once you receive a grant contract, please send it to [contact@opencollective.foundation](mailto:contact@opencollective.foundation) or ask the funder to send it to us directly.
 
 {% hint style="warning" %}
-If your Collective is receiving funds from a large grantmaker, they may require your Collective to have liability insurance. [That's something we can help with!](../../what-we-offer/liability-insurance.md)
+If your Collective is receiving funds from a large grantmaker, they may require your Collective to have liability insurance. [That's something we can help with!](broken-reference)
 {% endhint %}
 
 If they provide you with an ACH form (for payments via bank transfer) or ask for [our mailing address](../../about/official-information-and-documents.md#address) (to [contribute via check](checks.md)), you can send that information to them. **If it needs to be signed by an Open Collective Foundation team member,** [**send it to us**](../../about/contact-us.md) **via email.**

@@ -6,7 +6,7 @@ description: When you should choose between the two different expense types.
 
 ## Invoices  <a href="#invoices" id="invoices"></a>
 
-​[Invoices](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) should be used to pay individuals for work completed on behalf of the collective. Unlike reimbursements, a photo or a PDF of an invoice document is not required for invoices to be submitted on the Open Collective [platform](../../what-we-offer/online-platform.md). However, there are some requirements for drafting an invoice on the platform itself.
+​[Invoices](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) should be used to pay individuals for work completed on behalf of the collective. Unlike reimbursements, a photo or a PDF of an invoice document is not required for invoices to be submitted on the Open Collective [platform](broken-reference). However, there are some requirements for drafting an invoice on the platform itself.
 
 ### Invoices must meet the following criteria to be paid: <a href="#invoices-must-meet-the-following-criteria-to-be-paid" id="invoices-must-meet-the-following-criteria-to-be-paid"></a>
 

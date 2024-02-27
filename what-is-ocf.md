@@ -1,6 +1,6 @@
 # What is OCF?
 
-**Open Collective Foundation (aka OCF)** is a fiscal sponsor (aka fiscal host - [what's that?](what-we-offer/fiscal-hosting.md)) dedicated to providing a simple, open, lightweight path for charitable Collectives and communities to operate through a 501(c)(3) charitable entity ([what's that?](what-we-offer/fiscal-hosting.md#what-does-501-c-3-mean)).
+**Open Collective Foundation (aka OCF)** is a fiscal sponsor (aka fiscal host - [what's that?](broken-reference)) dedicated to providing a simple, open, lightweight path for charitable Collectives and communities to operate through a 501(c)(3) charitable entity ([what's that?](broken-reference)).
 
 [Hosted Collectives](https://opencollective.com/foundation#category-CONTRIBUTIONS) that align with our [impact areas](about/mission-and-values.md#our-missions-impact-areas) have access to the unique [Open Collective online platform](https://www.opencollective.com) for managing their funds. They can also receive **tax-deductible contributions** through our 501(c)(3) status.
 
@@ -38,17 +38,17 @@ We exist to take care of the difficult administrative aspects of running a 501(c
 * [Pay project expenses](how-it-works/payouts/)
 * Pay your team, contractors, and vendors
 * [Receive financial contributions](how-it-works/financial-contributions/) by credit card, PayPal, electronic bank transfer, check, or donor-advised fund
-* [And more](what-we-offer/)
+* [And more](broken-reference)
 
-Open Collective Foundation can be the home for your Collective’s finances. As your [fiscal host](what-we-offer/fiscal-hosting.md), we can be your legal entity and provide you with the financial tools you need to make an impact on the world! [Read more about **what we offer.**](what-we-offer/)
+Open Collective Foundation can be the home for your Collective’s finances. As your [fiscal host](broken-reference), we can be your legal entity and provide you with the financial tools you need to make an impact on the world! [Read more about **what we offer.**](broken-reference)
 
-{% content-ref url="what-we-offer/" %}
-[what-we-offer](what-we-offer/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 #### **Sign Me Up!**
 
-Ready to get started right now? Find out [How To Apply](getting-started/how-to-apply/), or go ahead and [Submit an Application](https://www.opencollective.com/foundation/apply)
+Ready to get started right now? Find out [How To Apply](broken-reference), or go ahead and [Submit an Application](https://www.opencollective.com/foundation/apply)
 
 ### **For Donors and Funders**
 

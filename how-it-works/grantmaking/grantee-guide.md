@@ -6,7 +6,7 @@ description: >-
 
 # Grantee Guide
 
-Firstly, congratulations! You have been selected to receive funds from a Collective that uses Open Collective Foundation as its "fiscal sponsor" ([what's that?](../../what-we-offer/fiscal-hosting.md)). **Below are some tips for the rest of the grant process.**
+Firstly, congratulations! You have been selected to receive funds from a Collective that uses Open Collective Foundation as its "fiscal sponsor" ([what's that?](broken-reference)). **Below are some tips for the rest of the grant process.**
 
 {% hint style="info" %}
 If you want to get into the weeds, you can also review the [full Grantmaking Policy](policy.md).

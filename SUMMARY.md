@@ -3,26 +3,13 @@
 * [Open Collective Foundation Docs](README.md)
 * [Dissolution FAQ](dissolution-faq.md)
 * [What is OCF?](what-is-ocf.md)
-* [What We Offer](what-we-offer/README.md)
-  * [Fiscal Hosting](what-we-offer/fiscal-hosting.md)
-  * [Online Platform](what-we-offer/online-platform.md)
-  * [Liability Insurance](what-we-offer/liability-insurance.md)
-  * [Employment & Benefits](what-we-offer/employment.md)
-  * [Virtual Cards](what-we-offer/virtual-cards-policy.md)
-  * [Emails & Google Workspace](what-we-offer/emails.md)
-  * [Nonprofit Discounts](what-we-offer/nonprofit-discounts.md)
-  * [Leases](what-we-offer/leases.md)
 
 ## Getting Started
 
-* [How to Apply](getting-started/how-to-apply/README.md)
-  * [Application Questions](getting-started/how-to-apply/application-questions.md)
-* [Eligibility](getting-started/eligibility.md)
 * [Terms of Fiscal Sponsorship Agreement](getting-started/terms.md)
 
 ## How It Works
 
-* [Basics](how-it-works/basics.md)
 * [Financial Contributions (How to Donate)](how-it-works/financial-contributions/README.md)
   * [Credit Card, Paypal, Bank transfers](how-it-works/financial-contributions/credit-card-paypal-bank-transfers.md)
   * [Checks](how-it-works/financial-contributions/checks.md)

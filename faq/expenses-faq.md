@@ -38,7 +38,7 @@ OCF's mission is about the sustainability of positive impact Collectives. We hel
 
 OCF won't tell you what to do—it's up to Collectives to make these decisions. But we encourage you to think about the long-term health of your Collective and the well-being and development of the humans who make it all possible.
 
-You can pay people casually as contractors through invoice expenses on your Collective, or **if they'll be working on a regular basis,** [**employ them**](../what-we-offer/employment.md) **part or full time.** If workers would like to benefit from paid time off and health insurance, we recommend that you reach out to us about [employment through OCF](../what-we-offer/employment.md).
+You can pay people casually as contractors through invoice expenses on your Collective, or **if they'll be working on a regular basis,** [**employ them**](broken-reference) **part or full time.** If workers would like to benefit from paid time off and health insurance, we recommend that you reach out to us about [employment through OCF](broken-reference).
 
 #### Best practices for invoice expenses
 
@@ -46,7 +46,7 @@ Contractors and vendors should be paid in a timely manner, with a detailed invoi
 
 #### As a contractor, can I take paid leave?
 
-Independent contractors are generally not given paid leave, as this is normally a benefit of employment. If you wish to give benefits like paid leave, [make the worker an employee](../what-we-offer/employment.md) instead.&#x20;
+Independent contractors are generally not given paid leave, as this is normally a benefit of employment. If you wish to give benefits like paid leave, [make the worker an employee](broken-reference) instead.&#x20;
 
 #### What can and cannot be paid out via an invoice expense?
 
@@ -56,7 +56,7 @@ We cannot pay for people's expenses in advance via invoices, such as a request f
 
 ### **Do you offer payroll and employment services?**
 
-Yes! With health insurance and benefits, too. [More info](../what-we-offer/employment.md).
+Yes! With health insurance and benefits, too. [More info](broken-reference).
 
 ### What about tax forms?
 

@@ -29,9 +29,9 @@ OCF offers limited support for integrating with 3rd party tools and apps.
 
 ### Some of our available options:
 
-[nonprofit-discounts.md](../../what-we-offer/nonprofit-discounts.md "mention")
+[Broken link](broken-reference "mention")
 
-[emails.md](../../what-we-offer/emails.md "mention")
+[Broken link](broken-reference "mention")
 
 The tools below have been used by Open Collective Foundation's Collectives in the past and are available for OCF's hosted groups.
 

@@ -40,7 +40,7 @@ OCF's control over its Collectives has both advantages and disadvantages, as set
 
 #### For further information, see:
 
-* [OCF's documentation about fiscal sponsorship](../what-we-offer/fiscal-hosting.md)
+* [OCF's documentation about fiscal sponsorship](broken-reference)
 * [Fiscal Sponsorship: Six Ways To Do It Right](https://www.adlercolvin.com/fiscal-sponsorship-six-ways-to-do-it-right-a-synopsis/) (page 605)
 * [Fiscal Sponsorship: A Balanced Overview](https://nonprofitquarterly.org/fiscal-sponsorship-a-balanced-overview/)
 * [What is Fiscal Sponsorship?](https://www.adlercolvin.com/blog/2012/10/15/what-is-fiscal-sponsorship/)

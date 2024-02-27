@@ -6,11 +6,11 @@ Since [explicitly naming our solidarity economy focus](https://blog.opencollecti
 
 ## Is OCF a good fit for co-ops? Yes and no.
 
-OCF is a 501(c)(3) nonprofit that [fiscally hosts](../what-we-offer/fiscal-hosting.md) Collectives with missions around education, social impact, and civic engagement. We're set up to serve a wide range of groups and activities, but not for everything.
+OCF is a 501(c)(3) nonprofit that [fiscally hosts](broken-reference) Collectives with missions around education, social impact, and civic engagement. We're set up to serve a wide range of groups and activities, but not for everything.
 
 ### When it's about education _about_ co-ops.... yes
 
-Are your activities focused on education about co-ops, capacity-building, research, mentorship, and building supportive communities learning about co-ops? Then we'd love to host you!&#x20;
+Are your activities focused on education about co-ops, capacity-building, research, mentorship, and building supportive communities learning about co-ops? Then we'd love to host you!
 
 This also includes groups who are in the early stages of organizing around a social impact mission with potentially cooperative aspirations, but haven't yet settled on the structure they want to have (with some caveats... see below).
 
@@ -20,7 +20,7 @@ If you are planning to be an educational business, however, see [below](ocf-and-
 
 If your interest in cooperation is about running a social impact Collective collaboratively, and practicing things like managing a budget together, how to make decisions as a group, sharing information, etc, then joining OCF can be a great way to start doing that stuff for real without having to take on heavy burdens involving legal entities and compliance.
 
-However, your cooperative practice has to be around a mission that fits [our criteria](../getting-started/eligibility.md), i.e. focused on education, social impact, or civic engagement. If it's cooperation in service of other aims, like building a business, it might not work (see below).
+However, your cooperative practice has to be around a mission that fits [our criteria](broken-reference), i.e. focused on education, social impact, or civic engagement. If it's cooperation in service of other aims, like building a business, it might not work (see below).
 
 ### When it's about business... probably no
 
@@ -46,7 +46,7 @@ Here are some links and resources to find other kinds of support for co-ops that
 
 ## Co-op Dreams
 
-We would love to see more co-ops on the Open Collective platform!&#x20;
+We would love to see more co-ops on the Open Collective platform!
 
 It's good to remember that OCF is only one host among many. There are Fiscal Hosts like OCF specifically designed to serve co-ops in several countries:
 
@@ -57,4 +57,3 @@ It's good to remember that OCF is only one host among many. There are Fiscal Hos
 We would love to see a co-op Fiscal Host emerge in the US! The right mix of people, resources, and timing just hasn't quite clicked to make it happen yet. How cool would it be to have a Fiscal Host specifically structured to support co-op Collectives? If you are interested in that idea, [get in touch](mailto:support@opencollective.com).
 
 Also, the platform can be used by any entity to [create a Fiscal Host](https://docs.opencollective.com/help/fiscal-hosts/become-a-fiscal-host) or be an [Independent Collective](https://docs.opencollective.com/help/independent-collectives). So if you plan to or have already incorporated a co-op entity, you can absolutely plug Open Collective into it.
-
