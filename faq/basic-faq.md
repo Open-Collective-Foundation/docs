@@ -12,7 +12,7 @@ You can also join [our Slack](https://join.slack.com/t/opencollective/shared\_in
 
 [Open Collective **Foundation**](https://opencollective.foundation) is a separate 501(c)(3) entity that [uses ](https://opencollective.com/foundation)the **platform** to provide fiscal hosting services. The two entities are legally completely separate, but they share some of the same staff members and [community guidelines](https://docs.opencollective.com/help/about/the-open-collective-way/community-guidelines-1).
 
-More about these distinctions here: [what-is-ocf.md](../what-is-ocf.md "mention")
+More about these distinctions here: [Broken link](broken-reference "mention")
 
 ### **What is the difference between fiscal hosting and fiscal sponsorship?**
 

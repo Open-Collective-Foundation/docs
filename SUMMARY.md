@@ -1,8 +1,7 @@
 # Table of contents
 
-* [Open Collective Foundation Docs](README.md)
-* [Dissolution FAQ](dissolution-faq.md)
-* [What is OCF?](what-is-ocf.md)
+* [Dissolution FAQ](README.md)
+* [Open Collective Foundation Docs](<README (1).md>)
 
 ## Getting Started
 
@@ -47,7 +46,6 @@
   * [Board members](about/governance/board-members.md)
   * [Role of the Board](about/board/role-of-the-board.md)
   * [Bylaws](about/governance/bylaws.md)
-* [These Docs](about/these-docs.md)
 * [Case Studies](about/case-studies.md)
 * [Contact Us](about/contact-us.md)
 
