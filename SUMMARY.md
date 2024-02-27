@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Open Collective Foundation Docs](README.md)
+* [Dissolution FAQ](dissolution-faq.md)
 * [What is OCF?](what-is-ocf.md)
 * [What We Offer](what-we-offer/README.md)
   * [Fiscal Hosting](what-we-offer/fiscal-hosting.md)
