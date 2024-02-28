@@ -4,11 +4,15 @@ description: Instructions for making donations via check
 
 # Checks
 
-{% hint style="info" %}
-Checks may take a few weeks to process and arrive into the Collective’s budget. We recommend [**contributing** ](./)**by** [**credit card, PayPal, or electronic bank transfer**](credit-card-paypal-bank-transfers.md) where possible (especially for initial budget transfers).
+{% hint style="warning" %}
+Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](../../).
 {% endhint %}
 
 ## Check Contributions
+
+{% hint style="info" %}
+Checks may take a few weeks to process and arrive into the Collective’s budget. We recommend [**contributing** ](./)**by** [**credit card, PayPal, or electronic bank transfer**](credit-card-paypal-bank-transfers.md) where possible (especially for initial budget transfers).
+{% endhint %}
 
 {% hint style="warning" %}
 Due to the manual, time-consuming nature of processing checks, please be aware that checks that are:

@@ -53,7 +53,7 @@ Collectives **may not** disburse cash to Recipients with whom the Volunteer or t
 5. Volunteers submit a reimbursement expense to the Collective budget on the Platform, including the required information (see below).
 6. OCF reviews the reimbursement expense to ensure it contains all of the required information and fits the context of the overall cash assistance program, and then proceeds to reimburse the Volunteer.
 
-\* This refers to the standard [terms of fiscal sponsorship](../../getting-started/terms.md) that all Collectives agree to when they join OCF. For cash assistance programs, OCF requires a fully signed version instead of just checking a box during signup.
+\* This refers to the standard [terms of fiscal sponsorship](../../terms/terms.md) that all Collectives agree to when they join OCF. For cash assistance programs, OCF requires a fully signed version instead of just checking a box during signup.
 
 ### Cash assistance program proposal
 

@@ -100,7 +100,7 @@ You'll notice the size of OCF's budget has scaled up a lot since our 2018 and 20
 
 ### Looking for our Fiscal Sponsorship Agreement?
 
-It's downloadable here: [terms.md](../getting-started/terms.md "mention")
+It's downloadable here: [terms.md](../terms/terms.md "mention")
 
 You agree to these 'Terms' by checking a box when you submit your application to be hosted by OCF.
 

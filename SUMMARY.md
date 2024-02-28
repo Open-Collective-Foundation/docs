@@ -3,9 +3,9 @@
 * [❗ Open Collective Foundation Dissolution](README.md)
 * [Open Collective Foundation Docs](<README (1).md>)
 
-## Getting Started
+## TERMS
 
-* [Terms of Fiscal Sponsorship Agreement](getting-started/terms.md)
+* [Terms of Fiscal Sponsorship Agreement](terms/terms.md)
 
 ## How It Works
 

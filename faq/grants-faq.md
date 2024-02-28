@@ -22,7 +22,7 @@ For details about employee gift-matching programs, check [here](../how-it-works/
 
 ### Where can we get an MOU (Memorandum of Understanding)?
 
-You can send our [Terms of Fiscal Sponsorship](../getting-started/terms.md) document over when someone requests a fiscal sponsorship agreement (you agree to this when you tick the box when you sign up with us.)
+You can send our [Terms of Fiscal Sponsorship](../terms/terms.md) document over when someone requests a fiscal sponsorship agreement (you agree to this when you tick the box when you sign up with us.)
 
 If they require a signed document, please request one via email [contact@opencollective.foundation](mailto:%20contact@opencollective.foundation) (be sure to include the name of your Collective, and the name/details of the requester).
 

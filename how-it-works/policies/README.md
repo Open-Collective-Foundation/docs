@@ -29,7 +29,7 @@ While our goal is to help you do _more_, there are some limitations to what you 
 
 :bulb: Please make sure to consider how the activities of your Collective could impact the other Collectives hosted by OCF.
 
-Please make sure to review our [Terms of Fiscal Sponsorship](../../getting-started/terms.md) agreement. Here are some restrictions to be aware of:
+Please make sure to review our [Terms of Fiscal Sponsorship](../../terms/terms.md) agreement. Here are some restrictions to be aware of:
 
 * Collectives funds must be used **solely** for your sponsored **charitable activities**. Funds used for any other purpose, such as private profit, will need to be paid back. (_Note_: this does not mean that you cannot be [paid for your labor](https://docs.opencollective.com/help/expenses-and-getting-paid/expenses#how-do-i-get-paid-from-a-collective).)
 * Funds **cannot** be used to support breaking the law.
@@ -52,4 +52,4 @@ _Note_ : You can maintain another bank account for **other** projects and activi
 * Everything is managed and tracked on the Open Collective platform.
 * We will receive money on behalf of your Collective and we will hold it safe and not spend it on anything else.
 * Your Collective isn’t a legal entity itself, but sits under the umbrella of OCF.
-* In the [Terms of Fiscal Sponsorship agreement](../../getting-started/terms.md), you promise that you’ve been honest about your Collective’s mission, and will only spend the money you raise on that mission.
+* In the [Terms of Fiscal Sponsorship agreement](../../terms/terms.md), you promise that you’ve been honest about your Collective’s mission, and will only spend the money you raise on that mission.

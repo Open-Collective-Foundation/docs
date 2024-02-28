@@ -1,6 +1,6 @@
 # Terms of Fiscal Sponsorship Agreement
 
-Before you host your Collective with Open Collective Foundation, make sure to review our [Terms of Fiscal Sponsorship Agreement](https://docs.google.com/document/u/2/d/e/2PACX-1vQ\_fs7IOojAHaMBKYtaJetlTXJZLnJ7flIWkwxUSQtTkWUMtwFYC2ssb-ooBnT-Ldl6wbVhNQiCkSms/pub) (sometimes called **FSA**), the legal agreement that defines the relationship between OCF and a hosted Collective.
+The [Terms of Fiscal Sponsorship Agreement](https://docs.google.com/document/u/2/d/e/2PACX-1vQ\_fs7IOojAHaMBKYtaJetlTXJZLnJ7flIWkwxUSQtTkWUMtwFYC2ssb-ooBnT-Ldl6wbVhNQiCkSms/pub) (sometimes called **FSA**) is the legal agreement that defines the relationship between OCF and a hosted Collective.
 
 ![Read the terms here.](../.gitbook/assets/0.png)
 

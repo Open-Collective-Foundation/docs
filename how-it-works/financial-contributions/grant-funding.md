@@ -11,7 +11,7 @@ When drafting grant applications, you will likely need info like our [EIN number
 If you need an approximate running total of our operational budget, that can be found on[ our OC Dashboard along with our current balance](https://opencollective.com/foundation#category-BUDGET).&#x20;
 
 {% hint style="info" %}
-Some applications will ask for a document describing the fiscal sponsorship relationship. If they do, you can send them our [Terms of Fiscal Sponsorship](../../getting-started/terms.md) (you agree to these when you sign up with us.)
+Some applications will ask for a document describing the fiscal sponsorship relationship. If they do, you can send them our [Terms of Fiscal Sponsorship](../../terms/terms.md) (you agree to these when you sign up with us.)
 
 If they ask for a signed MOU (Memorandum of Understanding), email us at [contact@opencollective.foundation](mailto:%20contact@opencollective.foundation) to request one. Please be sure to include you Collective's name in the request.
 {% endhint %}

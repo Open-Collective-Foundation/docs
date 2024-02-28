@@ -8,13 +8,20 @@ Read our update about the dissolution of Open Collective Foundation [here](https
 
 ### When is the last date to spend down funds?
 
-All money in your fund should be spent or granted out to another 501(c)(3) organization by September 30.
+All money in your fund should be spent on mission-aligned activities or granted out to another 501(c)(3) organization by September 30.
 
 ### Can I transfer funds to another fiscal sponsor?&#x20;
 
 If you identify another fiscal sponsor that you would like to move your collective to, reach out to us at generalinquiries@opencollective.org.&#x20;
 
-We will need an IRS determination letter to confirm that your new fiscal sponsor is a 501(c)(3) organization and we will need to perform standard due diligence to help assure that the successor fiscal sponsor is qualified and reasonably capable of using transferred assets consistent with their charitable purposes.
+We will need to confirm that your new fiscal sponsor is a 501(c)(3) organization, and we will need to perform standard due diligence to help assure that the successor fiscal sponsor is qualified and reasonably capable of using transferred assets consistent with their charitable purposes.
+
+If you choose to go to a new fiscal sponsor, the following information is needed to transfer funds:&#x20;
+
+* **Direct deposit info** for your new fiscal host / 501(c)(3) / nonprofit legal entity&#x20;
+* **W9** from new fiscal host/legal entity&#x20;
+* **IRS Determination letter** from new fiscal host/legal entity&#x20;
+* **List of all current grants** and their balances. If grants are being transferred to your new fiscal host, we require **a signed letter from the grantor** for their release to the new entity.
 
 ### What happens if I can’t spend down all of my funds?
 

@@ -4,6 +4,10 @@ description: Donate using our Platform
 
 # Credit Card, Paypal, Bank transfers
 
+{% hint style="warning" %}
+Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](../../).
+{% endhint %}
+
 The preferred way to move money into a Collective is using the Open Collective [**Platform**](https://docs.opencollective.foundation/what-we-offer/online-platform)**.**&#x20;
 
 To donate (a.k.a. contribute) to a Collective online via Credit Card, PayPal, or Bank Transfer (a.k.a. ACH or wire transfer), please see [**this overview** of the process](https://docs.opencollective.com/help/financial-contributors/payments).
