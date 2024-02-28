@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Dissolution FAQ](README.md)
+* [❗ Open Collective Foundation Dissolution](README.md)
 * [Open Collective Foundation Docs](<README (1).md>)
 
 ## Getting Started
