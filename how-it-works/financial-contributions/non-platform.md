@@ -4,6 +4,10 @@ description: Alternate Donation Options
 
 # Off-Platform Contributions
 
+{% hint style="warning" %}
+Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](../../).
+{% endhint %}
+
 {% hint style="danger" %}
 **PLEASE MAKE YOUR CONTRIBUTION** [**THROUGH THE OPEN COLLECTIVE PLATFORM**](./) **WHEREVER POSSIBLE. Using the platform is the best way to ensure the quickest, smoothest experience.**
 {% endhint %}

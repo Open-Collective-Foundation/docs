@@ -1,5 +1,9 @@
 # Individual Grantmaking Policy
 
+{% hint style="warning" %}
+Open Collective Foundation is closing down in 2024. All funds must be paid out by September 30, 2024. [Read more here](../../).
+{% endhint %}
+
 ## Introduction <a href="#docs-internal-guid-7b5952e1-7fff-6d8f-dec6-33a696c7e867" id="docs-internal-guid-7b5952e1-7fff-6d8f-dec6-33a696c7e867"></a>
 
 **This grantmaking policy (“Policy”) enables fiscally hosted collectives (“Collectives”) under the umbrella of OpenCollective Foundation (“OCF”) to become grantmakers in their communities,** a variation from traditional grantmaking where a foundation or other grantmaking institution makes a grant directly to a grantee.

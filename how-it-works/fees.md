@@ -4,6 +4,10 @@ description: What they are and what they are for
 
 # Fees
 
+{% hint style="warning" %}
+Open Collective Foundation is closing down in 2024. [Read more here](../).
+{% endhint %}
+
 To ensure that our services are sustainable and continuously improving, we charge a **Host Fee** on funds contributed to the Collectives we host. Charging fees like this is standard in the fiscal sponsorship world.
 
 There are **no setup fees, balance minimums, monthly or annual fees**, or any other charges. Besides the Host Fee, the only other fees you'll see are payment processor fees charged by Stripe, PayPal, Wise, or other third party services you may opt to pay through.
@@ -44,7 +48,7 @@ A lot of our work is behind the scenes, so to understand why we have to charge f
 
 * The largest expense is **staff**, and people are the most valuable part of our organization.\
   \
-  [Our team](../about/team.md) reviews applications to join OCF, processes expense requests, provides user support, responds to your questions and feedback, writes the blog and newsletter, handles partnerships and contracts with funders, assists with grant applications, maintains this documentation, spreads the word about OCF, and continuously improves our features and services. And lots more!
+  Our team reviews applications to join OCF, processes expense requests, provides user support, responds to your questions and feedback, writes the blog and newsletter, handles partnerships and contracts with funders, assists with grant applications, maintains this documentation, spreads the word about OCF, and continuously improves our features and services. And lots more!
 * OCF shares part of our revenue with **Open Collective**, which makes the software platform that enables everything we do. We have a close partnership so that the platform can continue to evolve.
 * We need **professional services**, such as lawyers, accountants, and developers. There are a lot of legal, financial, and technical tasks and responsibilities involved in running OCF.
 * **Compliance** is an important part of being a 501(c)(3) and fiscal sponsor. It's our job to ensure that all money is used legitimately for public benefit. There are a lot of regulations and laws we have to follow. We have to file taxes with the IRS and undergo extensive independent audits.

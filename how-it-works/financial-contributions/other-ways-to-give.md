@@ -1,5 +1,9 @@
 # Other Ways To Give
 
+{% hint style="warning" %}
+Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](../../).
+{% endhint %}
+
 * Interested in contributing **non-monetary** or **in-kind** items or property? [See our guide.](https://docs.opencollective.foundation/how-it-works/financial-contributions/in-kind)
 * To make a donation on behalf of a company or funder, or some other group, we recommend [setting up an Organization](https://docs.opencollective.com/help/financial-contributors/organizations) profile on the Open Collective platform.
 * Collectives hosted by Open Collective Foundation can also [make financial contributions to one another](https://docs.opencollective.com/help/financial-contributors/collective-to-collective).

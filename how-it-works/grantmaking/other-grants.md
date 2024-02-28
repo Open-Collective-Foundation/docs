@@ -1,5 +1,9 @@
 # Other Grants
 
+{% hint style="warning" %}
+Open Collective Foundation is closing down in 2024. All funds must be paid out by September 30, 2024. [Read more here](../../).
+{% endhint %}
+
 ## Grants to 501(c)(3) public charities
 
 If you would like to make a contribution to another 501(c)(3) public charity aligned with your Collective's mission, we need only review their IRS Determination Letter. Have the organization submit an expense and attach their 501(c)(3) IRS determination letter to the expense.

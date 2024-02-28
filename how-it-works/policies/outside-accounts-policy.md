@@ -1,5 +1,9 @@
 # Outside Accounts Policy
 
+{% hint style="warning" %}
+Open Collective Foundation is closing down in 2024. [Read more here](../../).
+{% endhint %}
+
 The [OpenCollective Foundation Terms of Fiscal Sponsorship Agreement](../../terms/terms.md) state:
 
 > 6\. In the event that Sponsee receives funding outside of the Platform (that which does not go directly into the Fund), Sponsee will immediately transfer such funds to Sponsor for deposit into Sponsee’s Fund; at no time shall Sponsee hold any funds for the Collective outside of the Fund or utilize the services of any other fiscal sponsor during the Term of this Agreement.

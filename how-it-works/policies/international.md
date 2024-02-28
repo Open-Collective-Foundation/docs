@@ -1,5 +1,9 @@
 # International Activity Policy
 
+{% hint style="warning" %}
+Open Collective Foundation is closing down in 2024. [Read more here](../../).
+{% endhint %}
+
 This international activity policy (“Policy”) sets out how OpenCollective Foundation (“OCF”) and projects fiscally sponsored under its umbrella (“Collectives”) may undertake activities involving people, organizations, or funding outside the United States (“US”).
 
 Although OCF has donors from all over the world, our mission and impact is primarily focused on the US. There are situations, however, where we may allow certain international activities as exceptions. This Policy sets out guidelines we use to make decisions about whether to make such exceptions.

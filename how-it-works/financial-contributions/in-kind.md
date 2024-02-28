@@ -4,6 +4,10 @@ description: Donating or Accepting Non-Monetary Donations
 
 # In-Kind Contributions
 
+{% hint style="warning" %}
+Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](../../).
+{% endhint %}
+
 To make an in-kind (a.k.a. non-cash) contribution, please contact the Collective about your intentions. You and the Collective should work together to facilitate the contribution.
 
 Once the contribution has been made, and the contributed items are in the Collective’s possession, the Collective Admin should notify Open Collective Foundation staff.&#x20;

@@ -1,5 +1,9 @@
 # Applying for Grants
 
+{% hint style="warning" %}
+Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](../../).
+{% endhint %}
+
 _Check our_ [_Grants FAQ_](../../faq/grants-faq.md) _for commonly asked questions._
 
 ## Grant Applications

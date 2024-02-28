@@ -41,7 +41,6 @@
 * [Official Info & Docs](about/official-information-and-documents.md)
 * [Mission & Values](about/mission-and-values.md)
 * [Solidarity: our guiding principle](about/solidarity-our-guiding-principle.md)
-* [Team](about/team.md)
 * [Governance](about/board/README.md)
   * [Board members](about/governance/board-members.md)
   * [Role of the Board](about/board/role-of-the-board.md)
@@ -58,5 +57,4 @@
 * [Grants FAQ](faq/grants-faq.md)
 * [How we're different](faq/how-were-different.md)
 * [Is OCF Right For You?](faq/is-ocf-right-for-you.md)
-* [OCF & Co-ops](faq/ocf-and-co-ops.md)
 * [Leaving OCF](faq/leaving-ocf.md)

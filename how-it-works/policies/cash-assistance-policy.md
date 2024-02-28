@@ -4,6 +4,10 @@ description: For our hosted Collectives who would like to disburse direct cash a
 
 # Cash Assistance Policy
 
+{% hint style="warning" %}
+Open Collective Foundation is closing down in 2024. [Read more here](../../).
+{% endhint %}
+
 ## What is cash assistance?
 
 **Cash assistance** refers to giving out money, via services like Venmo and Cash App, distributing gift cards, or withdrawing cash from an ATM and handing it out.&#x20;

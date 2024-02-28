@@ -4,6 +4,10 @@ description: When you should choose between the two different expense types.
 
 # Invoice and Reimbursement Guidelines
 
+{% hint style="warning" %}
+Open Collective Foundation is closing down in 2024. All funds must be paid out by September 30, 2024. [Read more here](../../).
+{% endhint %}
+
 ## Invoices  <a href="#invoices" id="invoices"></a>
 
 ​[Invoices](https://docs.opencollective.com/help/expenses-and-getting-paid/submitting-expenses#invoices) should be used to pay individuals for work completed on behalf of the collective. Unlike reimbursements, a photo or a PDF of an invoice document is not required for invoices to be submitted on the Open Collective [platform](broken-reference). However, there are some requirements for drafting an invoice on the platform itself.

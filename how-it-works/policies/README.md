@@ -4,6 +4,10 @@ description: Some of our processes and limitations
 
 # Policies
 
+{% hint style="warning" %}
+Open Collective Foundation is closing down in 2024. [Read more here](../../).
+{% endhint %}
+
 ## Situations where we need to be involved
 
 Open Collective’s platform is set up so that your Collective can have autonomy and independence, but there may be some exceptions when you need to get an OCF staff member involved. Here are some situations where you’ll need to [reach out to us](mailto:contact@opencollective.foundation):

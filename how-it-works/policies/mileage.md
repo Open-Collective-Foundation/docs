@@ -1,7 +1,7 @@
 # Mileage Expense Policy
 
 {% hint style="warning" %}
-This process is new, and [we welcome feedback](../../about/contact-us.md)!
+Open Collective Foundation is closing down in 2024. [Read more here](../../).
 {% endhint %}
 
 This mileage expense policy (“Policy”) allows volunteers of fiscally hosted collectives (“Collectives” and individually as “Collective”) under the umbrella of OpenCollective Foundation (“OCF”) and OCF employees **to submit expenses for eligible travel expenses at a rate set by the IRS.**
