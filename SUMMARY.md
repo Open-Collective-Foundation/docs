@@ -1,7 +1,6 @@
 # Table of contents
 
 * [❗ Open Collective Foundation Dissolution](README.md)
-* [Open Collective Foundation Docs](<README (1).md>)
 
 ## TERMS
 
