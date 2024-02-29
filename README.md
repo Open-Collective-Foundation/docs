@@ -67,6 +67,22 @@ Each collective has its own employment practices. All employees will need to be 
 
 No. If you have any questions, contact us at [generalinquiries@opencollective.org](mailto:generalinquiries@opencollective.org).
 
+### What happens to our liability insurance, if we have a policy?
+
+If collectives have selected liability insurance, their policies are paid in full for 2024. Coverage applies through your offboarding with OCF.
+
+### What does this mean for the Open Collective platform and other hosts on the platform (Open Source Collective, Open Collective Europe, etc.)?
+
+Open Collective Inc. (OCI) is a for-profit entity responsible for building the Open Collective platform. Open Source Collective (OSC) and Open Collective Europe (OCE) are separate entities, each with different nonprofit status under law. OCF, OSC, and OCE were all founded by OCI. We realize it can be confusing, but Open Collective Foundation (OCF) is an independent nonprofit with its own board of directors.
+
+The OCF board of directors decided to dissolve OCF only very recently, after many months spent exploring other solutions to various financial and operational challenges.
+
+OCI, OSC, and OCE learned of the decision the same day as our community of collectives and our core staff. You can read each of these organizations’ official statements here:
+
+[Open Collective, Inc. Statement](https://blog.opencollective.com/open-collective-official-statement-ocf-dissolution/) \
+[Open Collective Europe Statement](https://opencollective.com/europe/updates/regarding-the-announcement-to-dissolve-open-collective-foundation-us) \
+[Open Source Collective Statement](https://opencollective.com/opensource/updates/regarding-the-announcement-to-dissolve-open-collective-foundation)
+
 ### How can I contact OCF?
 
 The best way to contact OCF during the staged wind-down is through our general inquiry inbox at [generalinquiries@opencollective.org](mailto:generalinquiries@opencollective.org) . This will ensure that your inquiry is routed to the right person and you get a response as quickly as possible.
