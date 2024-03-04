@@ -1,6 +1,7 @@
 # Table of contents
 
 * [❗ Open Collective Foundation Dissolution](README.md)
+* [🛑 Leaving OCF](leaving-ocf.md)
 
 ## TERMS
 
@@ -56,4 +57,3 @@
 * [Grants FAQ](faq/grants-faq.md)
 * [How we're different](faq/how-were-different.md)
 * [Is OCF Right For You?](faq/is-ocf-right-for-you.md)
-* [Leaving OCF](faq/leaving-ocf.md)

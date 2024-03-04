@@ -49,7 +49,7 @@ _Note_ : You can maintain another bank account for **other** projects and activi
 * If you are engaging in **political work**, please make sure you are abiding by the IRS’s limitations on political activity for 501(c)(3) organizations. [We wrote a friendly guide here.](political-activity.md)
 * OCF Collectives **are not** able to take on loans. We can facilitate donations and grants only.
 * We do not give/find our initatives money: We are here to support existing projects. Check [here ](https://blog.opencollective.com/ten-steps-to-successful-open-source-crowdfunding/)for some fundraising tips.
-* **Once funds enter into a 501(c)(3), they must remain in the 501(c)(3) sphere.** This means if your OCF-hosted Collective [closes down](../../faq/leaving-ocf.md), your funds cannot be returned, and can either be spent on project expenses or must be transferred to another 501(c)(3) - perhaps another OCF-hosted Collective!
+* **Once funds enter into a 501(c)(3), they must remain in the 501(c)(3) sphere.** This means if your OCF-hosted Collective [closes down](../../leaving-ocf.md), your funds cannot be returned, and can either be spent on project expenses or must be transferred to another 501(c)(3) - perhaps another OCF-hosted Collective!
 
 :star2: **As a reminder:**
 

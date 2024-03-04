@@ -2,7 +2,7 @@
 description: Information for Collectives who are exiting OCF's fiscal sponsorship program
 ---
 
-# Leaving OCF
+# 🛑 Leaving OCF
 
 
 

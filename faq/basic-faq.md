@@ -91,4 +91,4 @@ Due to the nature of the work involved in accepting funds into OCF, we cannot of
 
 ### Ready to leave OCF?
 
-[Learn more here.](leaving-ocf.md)
+[Learn more here.](../leaving-ocf.md)
