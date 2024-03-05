@@ -89,14 +89,6 @@ Once we give a tax-deductible receipt for donated funds, we have to ensure they 
 
 If you are moving from OCF to another 501(c)(3)—whether it's a new fiscal sponsor or your own new entity—submit an expense to move your balance over (or invite one if you don't run the other entity), and upload the determination letter as an attachment.
 
-### **Moving to another Fiscal Host that uses the OC platform**
-
-One thing that makes the Open Collective platform unique is that you can unplug a Collective from one Fiscal Host and plug it into another one, without losing your history, community, or recurring contributions.
-
-If you have founded your own 501(c)(3), you can set it up as the Fiscal Host for your Collective going forward, and donations will flow to your bank account instead of OCF's. In that case, you no longer need to pay a Fiscal Hosting fee. Or, if you're joining another fiscal sponsor not yet on Open Collective, they can get set up on the platform and plug in their own bank account.
-
-[More about changing Fiscal Hosts.](https://docs.opencollective.com/help/collectives/change-fiscal-host)
-
 ### Moving to a non-501(c)(3) entity
 
 As mentioned above, we can only transfer your funds to another 501(c)(3) due to IRS regulations. If you're moving to a different kind of entity, you'll need to spend down the funds OCF holds on Collective expenses before leaving.
