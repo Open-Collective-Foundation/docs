@@ -14,6 +14,8 @@ All money in your fund should be spent on mission-aligned activities or granted 
 
 On March 15, all donation platforms will be shut down, including Stripe, PayPal, Benevity, and crowdfunding. Collectives will also no longer be able to accept transfers via ACH after March 15. Any donations made via check or ACH that are in transit prior to March 15 will be credited.
 
+If you have not received funds you were expecting, please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSd7387MPnSEeCBn9QO0N3GfLjzZaoeN6xIQ6lhcceaugUamKQ/viewform) and we will help identify missing funds.
+
 ### What are our options?
 
 There is no one-size-fits-all solution for the 600+ collectives at OCF. While all collective balances must be spent down by September 30, there are many ways to go about this.
