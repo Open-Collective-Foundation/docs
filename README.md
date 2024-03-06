@@ -8,7 +8,7 @@ Read our update about the dissolution of Open Collective Foundation [here](https
 
 ### When is the last date to spend down funds?
 
-All money in your fund should be spent on mission-aligned activities or granted out to another 501(c)(3) organization by September 30.
+All money in your fund should be spent on mission-aligned activities or transferred to another 501(c)(3) organization by September 30.
 
 ### When is the last date I can receive funds for my project?
 
