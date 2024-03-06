@@ -10,6 +10,10 @@ Read our update about the dissolution of Open Collective Foundation [here](https
 
 All money in your fund should be spent on mission-aligned activities or granted out to another 501(c)(3) organization by September 30.
 
+### When is the last date I can receive funds for my project?
+
+On March 15, all donation platforms will be shut down, including Stripe, PayPal, Benevity, and crowdfunding. Collectives will also no longer be able to accept transfers via ACH after March 15. Any donations made via check or ACH that are in transit prior to March 15 will be credited.
+
 ### What are our options?
 
 There is no one-size-fits-all solution for the 600+ collectives at OCF. While all collective balances must be spent down by September 30, there are many ways to go about this.
@@ -54,15 +58,11 @@ If you choose this option, we will require a backup plan (either transferring yo
 
 If you cannot spend all of your funds on qualified charitable expenses by September 30, OCF will grant the remaining fund balance to another qualified fiscal sponsor to support their legal or financial compliance infrastructure.
 
-### When is the last date I can receive funds for my project?
-
-On March 15, all donation platforms will be shut down, including Stripe, PayPal, Benevity, and crowdfunding. Collectives will also no longer be able to accept transfers via ACH after March 15. Any donations made via check or ACH that are in transit prior to March 15 will be credited.
-
-### What if we are expecting donations?&#x20;
+### What if we are expecting donations after March 15?&#x20;
 
 Tell your donors you can no longer accept donations after March 15. If you are anticipating donations, expecting a grant, or planning a fundraising campaign, reach out to us at [generalinquiries@opencollective.org](mailto:generalinquiries@opencollective.org) and we can discuss your options.
 
-Any recurring donations through the Open Collective platform will be discontinued as of March 15. Recurring donors will be notified automatically that their recurring donation is canceled.
+Any recurring donations through the Open Collective platform will be discontinued as of March 15. Recurring donors will be notified automatically that their recurring donation is canceled. All third party contribution-processing platforms (Stripe, Benevity, PayPal, etc.) will be shut down March 15.&#x20;
 
 ### Why is the final date to accept donations (March 15) so soon? Can I get an extension?
 
