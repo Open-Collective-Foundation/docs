@@ -83,12 +83,6 @@ Review this checklist before transitioning out of OCF.&#x20;
   * Have external provisions been made for employee benefits transition?
 * If you have virtual cards, make sure to change your card information on any outside services that may have payment information saved. Virtual cards associated with your collective will be deactivated once you are unhosted.
 
-###
+## **Questions?**
 
-###
-
-###
-
-### **Questions?**
-
-[Email us](mailto:ctact@opencollective.foundation) if you need help leaving OCF.
+[Email us](mailto:generalinquiries@opencollective.org) if you need help leaving OCF.
