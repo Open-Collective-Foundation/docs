@@ -18,7 +18,7 @@ This page gives additional detail on the steps you need to take.
 
 ## ➡️ Do this first
 
-To complete offboarding from OCF, please complete the [**Exit & Unhosting Review Form**](https://docs.google.com/forms/d/e/1FAIpQLSeqCKSSKFIw5laas7S2lWjAH6ia\_G-790Y5rU1Kfz2ZLCHjVg/viewform) to let us know you will be leaving.
+To complete offboarding from OCF, please complete the [**Exit & Unhosting Review Form**](https://docs.google.com/forms/d/e/1FAIpQLSeqCKSSKFIw5laas7S2lWjAH6ia\_G-790Y5rU1Kfz2ZLCHjVg/viewform) to inform us of your plan.
 
 ## If you are spending down and sunsetting your collective
 
