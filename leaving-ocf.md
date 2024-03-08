@@ -1,107 +1,93 @@
 ---
-description: Information for Collectives who are exiting OCF's fiscal sponsorship program
+description: >-
+  Information for collectives about exiting OCF's fiscal sponsorship program
+  during dissolution
 ---
 
 # 🛑 Leaving OCF
 
-
-
 {% hint style="warning" %}
-If your collective is offboarding, please ensure all future checks are addressed, mailed, and made out to your new fiscal host!&#x20;
-
-Mail sent to us once offboarding has commenced will be opened and either returned to sender or forwarded.
+Open Collective Foundation is closing down in 2024. This page reflects the process for spending out or transitioning out of OCF. [Read more about our dissolution here](./).
 {% endhint %}
 
-OCF seeks to support Collectives to have the greatest potential impact. If you've got a concern or issue, please bring it to us so we can try to help. We're always trying to learn and improve.
+During OCF's dissolution, the details in the 'termination' section of [our terms](https://opencollective.com/foundation/terms) still apply.
 
-If staying with OCF can support you to achieve your Collective's best impact, then we want you to stay. If moving on is what's right for the mission, then that's what should happen.
+Collectives can either spend down and sunset, or transfer their funds to another 501(c)(3) organization (either another fiscal sponsor or a new 501(c)(3) legal entity). You can review your options in our [Dissolution FAQ here](https://docs.opencollective.foundation/#what-are-our-options).&#x20;
 
-There are some practical and technical things to understand about the process of leaving OCF.
+This page gives additional detail on the steps you need to take.
 
-Details about leaving are spelled out in the 'termination' section of [our terms](https://opencollective.com/foundation/terms).
-
-## Required Documentation
+## ➡️ Do this first
 
 To complete offboarding from OCF, please complete the [**Exit & Unhosting Review Form**](https://docs.google.com/forms/d/e/1FAIpQLSeqCKSSKFIw5laas7S2lWjAH6ia\_G-790Y5rU1Kfz2ZLCHjVg/viewform) to let us know you will be leaving.
 
-:arrows\_clockwise: If **transferring to another fiscal host/501(c)(3)** please send us the following:
+## If you are spending down and sunsetting your collective
 
-* [ ] Direct deposit info for your new fiscal host / 501(c)(3) / nonprofit legal entity
-* [ ] Please provide a list of all current grants and their balances. If grants are being transferred to your new fiscal host, we require a signed letter from the grantor.
-* [ ] Signed letters from all grantors stating: Approval to release funds to new fiscal host and OCF is no longer responsible for receiving or distributing ongoing funds for this collective
-* [ ] W9 from new fiscal host/legal entity
-* [ ] Determination letter from new fiscal host/legal entity (not required, but very useful)
+If you want to shut your Collective down completely, you first need to zero the budget. You can do this by submitting expenses or transferring to another 501(c)(3). Once the balance is at zero, go to settings > advanced > archive.
 
-⛔If **closing down your collective** completely, learn about[#archiving-your-collective](leaving-ocf.md#archiving-your-collective "mention")
-
-### Exit Interview
-
-Project admins are encouraged to [**schedule an exit interview**](https://calendly.com/openmike/exit-interview) to support us in evaluating and improving our fiscal sponsorship program with your feedback. During this exit interview, we will also offer space for a retrospective on your time with OCF (What did we do well? What could we have done better?) followed by a brief assessment of your transition plan where we offer feedback on transition strategies and best practices.
-
-**If you are moving to a new fiscal sponsor:**
-
-* Have you evaluated the services you currently use at OCF to ensure that they are offered by your new fiscal sponsor?
-* Have you determined whether you will maintain your Open Collective dashboard for transparent budgeting?
-* Have you considered how you will manage transitioning your recurring donations through the platform?
-* Have you obtained their IRS determination letter and bank details to submit for final distribution?
-
-**If starting your own 501(c)(3):**
-
-* Have you identified legal and accounting advisors for your org? Our minimum recommendation would be a CPA and attorney, but orgs with larger budgets might also require a CFO firm.
-* Have you considered a payroll provider to support with onboarding, payroll, and benefits?
-* Have you set up an accounting system such as Xero or QuickBooks to support you with managing your books? OCF hosted projects can continue to use OC as an [independent collective](https://docs.opencollective.com/help/independent-collectives/about-independent-collectives) even after transitioning from fiscal sponsorship.
-* Do you need an example of an employee manual to support in developing your own?
-* Have you obtained an IRS determination letter and bank details to submit for final distribution?
-
-**Exit Checklist for Other Services**
-
-* Has any insurance arrangement for the project been concluded?
-* Have all employees had an end date set in Justworks and been informed of this transition?
-  * Have external provisions been made for employee benefits transition?
-* Have all virtual cards associated with outside services been changed?
-  * OCF will close all cards associated with the project once you are unhosted.
-* Have all services or mailboxes on our Google Workspace been transitioned to a new provider?
-* Have any nonprofit discounts in use been transitioned?
-* Have all associated leases or contracts signed by OCF been transitioned to a new signatory?
-* Have any funders for actively reporting or multi-year grants been informed of your transition?
-* Have you prepared to transition any funders on Benevity to a new organizational or project page? Please be sure to ping us so we are no longer receiving Benevity funds on your behalf
-* Have any Grantees served by an individual grantmaking program wound down?
-* Are all associated expenses with your project submitted and approved?
-  * OCF will determine an amount to hold back when closing a project based upon services that may still be billed in the future. In this case, we may elect to freeze a project rather than unhosting to ensure we can prevent any new funds from being added while accessing remaining funds for future billing.
-
-### Can we leave OCF?
-
-Yes. We won't lock you in. You can close down your Collective, move to a different fiscal sponsor, or incorporate own entity. You can even [take your Collective with you when you go](https://docs.opencollective.com/help/independent-collectives/about-independent-collectives), in many cases. However there are some limitations to be aware of (see below).
-
-### Is it a bad thing if a Collective leaves?
-
-If we have failed to live up to expectations or alienated someone, that's bad. Or, if a Collective engages in misconduct or breaks policies to the point we can't let them stay, that's bad. Both of these 'failure' modes are exceedingly rare.
-
-In the vast majority of cases, Collectives leave because they are evolving. They need something we can't provide, have founded their own nonprofit, or are winding down the whole project. We don't think these situations are necessarily bad. Projects naturally go through phases and we want to support them through.
-
-### Can we take our money with us when we go?
-
-OCF is limited by the regulations regarding 501(c)(3) nonprofits—this means **we can usually only transfer money to another 501(c)(3)**. [Learn more about Model A Fiscal Sponsorship.](https://docs.opencollective.foundation/faq/is-ocf-right-for-you#model-a-fiscal-sponsorship-model)
-
-Once we give a tax-deductible receipt for donated funds, we have to ensure they are only spent on allowed 501(c)(3) purposes. We can do that either by holding the funds for you as you spend them down, or by transferring them to another 501(c)(3) entity who is bound to follow the same rules.
-
-### Sending funds to another 501(c)(3)
-
-If you are moving from OCF to another 501(c)(3)—whether it's a new fiscal sponsor or your own new entity—submit an expense to move your balance over (or invite one if you don't run the other entity), and upload the determination letter as an attachment.
-
-### Moving to a non-501(c)(3) entity
-
-As mentioned above, we can only transfer your funds to another 501(c)(3) due to IRS regulations. If you're moving to a different kind of entity, you'll need to spend down the funds OCF holds on Collective expenses before leaving.
-
-The only exception is if you've founded your own non-profit and applied for 501(c)(3) status, but are still awaiting your determination letter. In this case we can sometimes put in place a legal agreement to enable transferring money.
-
-### Archiving your Collective
-
-If you want to shut your Collective down completely, you first need to zero the budget. You can do this by submitting expenses or donating the money to another OCF Collective. Once the balance is at zero, go to settings > advanced > archive.
+Review the [Exit Checklist](leaving-ocf.md#exit-checklist) to make sure all other services are shut down properly.&#x20;
 
 After you have zeroed out your balance, if you are no longer going to use the Open Collective platform, it is a best practice to "archive" your collective.
 
 [More about archiving/deleting Collectives.](https://docs.opencollective.com/help/collectives/collective-settings/closing-a-collective)
+
+## If you are transitioning to another 501(c)(3) or fiscal sponsor
+
+OCF is limited by the regulations regarding 501(c)(3) nonprofits. During our dissolution, **we can only transfer money to another 501(c)(3)**. If you're moving to a different kind of entity, you'll need to spend down the funds OCF holds on Collective expenses before leaving.
+
+Once we give a tax-deductible receipt for donated funds, we have to ensure they are only spent on allowed 501(c)(3) purposes. We can do that either by holding the funds for you as you spend them down, or by transferring them to another 501(c)(3) entity who is bound to follow the same rules.
+
+### Required documentation for sending funds to another 501(c)(3)
+
+If you are moving from OCF to another 501(c)(3)—whether it's a new fiscal sponsor or your own new entity—submit an expense to move your balance over (or invite one if you don't run the other entity), and upload the determination letter as an attachment.
+
+:arrows\_clockwise: If **transferring to another fiscal host/fiscal sponsor OR to a new 501(c)(3),** please send us the following:
+
+* [ ] Direct deposit info for your new fiscal host / 501(c)(3) / nonprofit legal entity
+* [ ] A list of all current grants and their balances. If grants are being transferred to your new fiscal host, we require a signed letter from the grantor.
+* [ ] Signed letters from all grantors stating: Approval to release funds to new fiscal host and OCF is no longer responsible for receiving or distributing ongoing funds for this collective
+* [ ] W9 from new fiscal sponsor/501(c)(3) entity
+* [ ] Determination letter from new fiscal sponsor/501(c)(3) entity
+
+### Questions to consider
+
+**If you are moving to a new fiscal sponsor:**
+
+* Have you evaluated the services you currently use at OCF to ensure that they are offered by your new fiscal sponsor?
+* Have you obtained their IRS determination letter and bank details to submit for final distribution?
+
+{% hint style="warning" %}
+If your collective is offboarding to a different fiscal sponsor, please ensure all future checks are addressed, mailed, and made out to your new fiscal sponsor.
+{% endhint %}
+
+**If you are starting your own 501(c)(3):**
+
+* Have you identified legal and accounting advisors for your org? Our minimum recommendation would be a CPA and attorney, but orgs with larger budgets might also require a CFO firm.
+* Have you considered a payroll provider to support with onboarding, payroll, and benefits?
+* Have you obtained an IRS determination letter and bank details to submit for final distribution?
+
+## **Exit Checklist**
+
+Review this checklist before transitioning out of OCF.&#x20;
+
+* Have any funders for actively reporting or multi-year grants been informed of your transition?
+* Are all associated expenses with your project submitted and approved?
+  * If you have any outstanding contracts with unbilled amounts or non-transferable grants, OCF may need to hold back funds.
+* Did you [migrate your Google Workspace data](https://docs.opencollective.foundation/#what-happens-to-our-google-workspace-email-drive-etc.-can-i-transfer-it)?&#x20;
+* Have any nonprofit discounts in use been transitioned to your new entity?
+* Have all associated leases or contracts signed by OCF been transitioned to a new signatory?
+* Have any grantees served by an individual grantmaking program wound down?
+
+**If you have employees:**
+
+* Have all employees had an end date set in Justworks and been informed of this transition?
+  * Have external provisions been made for employee benefits transition?
+* If you have virtual cards, make sure to change your card information on any outside services that may have payment information saved. Virtual cards associated with your collective will be deactivated once you are unhosted.
+
+###
+
+###
+
+###
 
 ### **Questions?**
 
