@@ -53,7 +53,12 @@ If you are moving from OCF to another 501(c)(3)—whether it's a new fiscal spon
 **If you are moving to a new fiscal sponsor:**
 
 * Have you evaluated the services you currently use at OCF to ensure that they are offered by your new fiscal sponsor?
-* Have you obtained their IRS determination letter and bank details to submit for final distribution?
+* Have you obtained the following from your new sponsors:
+  * [ ] IRS determination letter
+  * [ ] ACH deposit information (only bank provided documentation will accepted)
+  * [ ] An MOU (signed agreement)
+
+
 
 {% hint style="warning" %}
 If your collective is offboarding to a different fiscal sponsor, please ensure all future checks are addressed, mailed, and made out to your new fiscal sponsor.
