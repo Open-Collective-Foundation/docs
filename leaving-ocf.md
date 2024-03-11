@@ -42,11 +42,12 @@ If you are moving from OCF to another 501(c)(3)—whether it's a new fiscal spon
 
 :arrows\_clockwise: If **transferring to another fiscal host/fiscal sponsor OR to a new 501(c)(3),** please send us the following:
 
-* [ ] Direct deposit info for your new fiscal host / 501(c)(3) / nonprofit legal entity
+* [ ] Bank-provided ACH direct deposit info for your new fiscal host / 501(c)(3) / nonprofit legal entity
 * [ ] A list of all current grants and their balances. If grants are being transferred to your new fiscal host, we require a signed letter from the grantor.
-* [ ] Signed letters from all grantors stating: Approval to release funds to new fiscal host and OCF is no longer responsible for receiving or distributing ongoing funds for this collective
+* [ ] Signed letters from all grantors stating they approve the release of funds to your new fiscal host and OCF is no longer responsible for receiving or distributing ongoing funds for this collective
 * [ ] W9 from new fiscal sponsor/501(c)(3) entity
-* [ ] Determination letter from new fiscal sponsor/501(c)(3) entity
+* [ ] IRS determination letter from new fiscal sponsor/501(c)(3) entity
+* [ ] A MOU/signed agreement between your collective and your new fiscal sponsor
 
 ### Questions to consider
 
@@ -55,7 +56,7 @@ If you are moving from OCF to another 501(c)(3)—whether it's a new fiscal spon
 * Have you evaluated the services you currently use at OCF to ensure that they are offered by your new fiscal sponsor?
 * Have you obtained the following from your new sponsors:
   * [ ] IRS determination letter
-  * [ ] ACH deposit information (only bank provided documentation will accepted)
+  * [ ] ACH deposit information (only bank-provided documentation will accepted)
   * [ ] An MOU (signed agreement)
 
 

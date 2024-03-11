@@ -32,22 +32,27 @@ If a collective fails to reach out to us by April 1 with a proposed plan, we wil
 
 ### How do I transfer funds to another fiscal sponsor?&#x20;
 
-If you identify another fiscal sponsor that you would like to move your collective to, reach out to us at generalinquiries@opencollective.org.&#x20;
+If you identify another fiscal sponsor that you would like to move your collective to, review the [Leaving OCF documentation](leaving-ocf.md) and reach out to us at generalinquiries@opencollective.org.&#x20;
 
 We will need to confirm that your new fiscal sponsor is a 501(c)(3) organization, and we will need to perform standard due diligence to help assure that the successor fiscal sponsor is qualified and reasonably capable of using transferred assets consistent with their charitable purposes.
 
 If you choose to go to a new fiscal sponsor, the following information is needed to transfer funds:&#x20;
 
-* **Direct deposit info** for your new fiscal host/fiscal sponsor
+* **Bank-provided ACH/direct deposit info** for your new fiscal host/fiscal sponsor
 * **W9** from new fiscal host/fiscal sponsor
 * **IRS Determination letter** from new fiscal host/fiscal sponsor
 * **List of all current grants** and their balances. If grants are being transferred to your new fiscal host, we require **a signed letter from the grantor** for their release to the new entity.
+* A copy of your **MOU/signed agreement** between your collective and your new fiscal sponsor
 
 ### We are starting our own nonprofit organization. How do I transfer funds to our new organization?
 
-If you are seeking 501(c)(3) status, we cannot transfer any funds until you've received your IRS determination letter. The following information is needed to transfer funds:
+If you are seeking 501(c)(3) status, we cannot transfer any funds until you've received your IRS determination letter.&#x20;
 
-* **Direct deposit info** for your new nonprofit legal entity
+Start by reviewing the [Leaving OCF documentation](leaving-ocf.md), then notify us ASAP via [generalinquiries@opencollective.org](mailto:generalinquiries@opencollective.org).&#x20;
+
+The following information is needed to transfer funds:
+
+* **Bank-provided ACH/direct deposit info** for your new nonprofit legal entity
 * **W9** from new legal entity
 * **IRS Determination letter** for new legal entity
 * **List of all current grants** and their balances. If grants are being transferred to your new organization, we require **a signed letter from the grantor** for their release to the new entity.
