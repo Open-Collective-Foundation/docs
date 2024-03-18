@@ -12,7 +12,7 @@ All money in your fund should be spent on mission-aligned activities or transfer
 
 ### When is the last date I can receive funds for my project?
 
-On March 15, all donation platforms will be shut down, including Stripe, PayPal, Benevity, and crowdfunding. Collectives will also no longer be able to accept transfers via ACH after March 15. Any donations made via check or ACH that are in transit prior to March 15 will be credited.
+At the end of the day (midnight PT) March 15, all donation platforms will be shut down, including Stripe, PayPal, Benevity, and crowdfunding. Collectives will also no longer be able to accept transfers via ACH after March 15. Any donations made via check or ACH that are in transit by the end of the day March 15 will be credited.
 
 If you have not received funds you were expecting, please [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSd7387MPnSEeCBn9QO0N3GfLjzZaoeN6xIQ6lhcceaugUamKQ/viewform) and we will help identify missing funds.
 
@@ -38,7 +38,7 @@ We will need to confirm that your new fiscal sponsor is a 501(c)(3) organization
 
 If you choose to go to a new fiscal sponsor, the following information is needed to transfer funds:&#x20;
 
-* **Bank-provided ACH/direct deposit info** for your new fiscal host/fiscal sponsor
+* **Bank-provided ACH/direct deposit info** for your new fiscal host/fiscal sponsor (e.g., bank verification letter)
 * **W9** from new fiscal host/fiscal sponsor
 * **IRS Determination letter** from new fiscal host/fiscal sponsor
 * **List of all current grants** and their balances. If grants are being transferred to your new fiscal host, we require **a signed letter from the grantor** for their release to the new entity.
