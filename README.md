@@ -109,7 +109,7 @@ No. If you have any questions, contact us at [generalinquiries@opencollective.or
 
 ### What happens to our liability insurance, if we have a policy?
 
-If collectives have selected liability insurance, their policies are paid in full for 2024. Coverage applies through your offboarding with OCF.
+If collectives have selected liability insurance, their policies are paid in full for 2024. OCF's liability coverage applies through the end of the year, so it will cover your collective through your offboarding with OCF. Insurance policies are non-refundable.
 
 ### Can I download my contributor & financial data from the OCI platform?
 
