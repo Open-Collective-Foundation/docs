@@ -79,7 +79,7 @@ We encourage you to work with donors to make contributions within the quickest p
 
 ### Where can I find a list of other fiscal sponsors?
 
-This [spreadsheet](https://airtable.com/appQVOmXysA863DDc/shrdjThde0Xteoabu/tblwopS490Qylth3g/viwi6ALAi325gE0Gb) created by the New Economy Coalition contains a number of mission-aligned fiscal sponsors as well as resources about fiscal sponsorship.
+This [spreadsheet](https://neweconomy.net/fundinglibrary/) created by the New Economy Coalition contains a number of mission-aligned fiscal sponsors as well as resources about fiscal sponsorship.
 
 The National Network of Fiscal Sponsors maintains a [database of their members](https://www.fiscalsponsors.org/member-directory).
 
