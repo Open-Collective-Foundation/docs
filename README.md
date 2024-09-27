@@ -63,7 +63,7 @@ If you choose this option, we will require a backup plan (either transferring yo
 
 ### What happens if I can’t spend down all of my funds?
 
-If you cannot spend all of your funds on qualified charitable expenses by September 30, OCF will grant the remaining fund balance to another qualified fiscal sponsor to support their legal or financial compliance infrastructure.
+If you cannot spend all of your funds on qualified charitable expenses by September 30, OCF will grant the remaining fund balance to another qualified, mission aligned organization.
 
 ### What if we are expecting donations after March 15?&#x20;
 
