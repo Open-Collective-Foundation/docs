@@ -1,7 +1,7 @@
 # Donation Matching
 
 {% hint style="warning" %}
-Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](<../../README (1).md>).
+Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](../../dissolution-faq-and-plan.md).
 {% endhint %}
 
 Matching gifts vary widely in their processes, but we are happy to work with your employer or other corporate sponsors to facilitate match funding. Sometimes matching gifts are slow to arrive, depending on the matcher’s processes, and your budget will not be credited until the funds actually arrive. Please refer [here ](https://docs.opencollective.foundation/how-it-works/third-party-fundraising-tools-and-benefits#donation-matching)for more about what info we require.

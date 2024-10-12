@@ -1,7 +1,7 @@
 # Table of contents
 
 * [An update from Open Collective Foundation’s Board of Directors](README.md)
-* [❗ Open Collective Foundation Dissolution](<README (1).md>)
+* [❗ Dissolution FAQ and Plan](dissolution-faq-and-plan.md)
 * [🛑 Leaving OCF](leaving-ocf.md)
 
 ## TERMS

@@ -5,7 +5,7 @@ description: Some of our processes and limitations
 # Policies
 
 {% hint style="warning" %}
-Open Collective Foundation is closing down in 2024. [Read more here](<../../README (1).md>).
+Open Collective Foundation is closing down in 2024. [Read more here](../../dissolution-faq-and-plan.md).
 {% endhint %}
 
 ## Situations where we need to be involved

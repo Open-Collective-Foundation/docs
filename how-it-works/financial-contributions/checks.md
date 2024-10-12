@@ -5,7 +5,7 @@ description: Instructions for making donations via check
 # Checks
 
 {% hint style="warning" %}
-Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](<../../README (1).md>).
+Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](../../dissolution-faq-and-plan.md).
 {% endhint %}
 
 ## Check Contributions

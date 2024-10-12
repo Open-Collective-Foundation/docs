@@ -1,7 +1,7 @@
 # Outside Accounts Policy
 
 {% hint style="warning" %}
-Open Collective Foundation is closing down in 2024. [Read more here](<../../README (1).md>).
+Open Collective Foundation is closing down in 2024. [Read more here](../../dissolution-faq-and-plan.md).
 {% endhint %}
 
 The [OpenCollective Foundation Terms of Fiscal Sponsorship Agreement](../../terms/terms.md) state:

@@ -7,7 +7,7 @@ description: >-
 # 🛑 Leaving OCF
 
 {% hint style="warning" %}
-Open Collective Foundation is closing down in 2024. This page reflects the process for spending out or transitioning out of OCF. [Read more about our dissolution here](<README (1).md>).
+Open Collective Foundation is closing down in 2024. This page reflects the process for spending out or transitioning out of OCF. [Read more about our dissolution here](dissolution-faq-and-plan.md).
 {% endhint %}
 
 During OCF's dissolution, the details in the 'termination' section of [our terms](https://opencollective.com/foundation/terms) still apply.

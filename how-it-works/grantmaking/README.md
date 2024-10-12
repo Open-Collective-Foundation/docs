@@ -7,7 +7,7 @@ description: >-
 # Grantmaking
 
 {% hint style="warning" %}
-Open Collective Foundation is closing down in 2024. All funds must be paid out by September 30, 2024. [Read more here](<../../README (1).md>).
+Open Collective Foundation is closing down in 2024. All funds must be paid out by September 30, 2024. [Read more here](../../dissolution-faq-and-plan.md).
 {% endhint %}
 
 Open Collective Foundation is excited to offer our Collectives the opportunity to give grants to individuals in furtherance of their mission. For all of the details of how it works, make sure to take a look at our [**Grantmaking Policy**](policy.md).
