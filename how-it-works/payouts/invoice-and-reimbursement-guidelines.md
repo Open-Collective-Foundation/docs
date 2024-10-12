@@ -5,7 +5,7 @@ description: When you should choose between the two different expense types.
 # Invoice and Reimbursement Guidelines
 
 {% hint style="warning" %}
-Open Collective Foundation is closing down in 2024. All funds must be paid out by September 30, 2024. [Read more here](../../).
+Open Collective Foundation is closing down in 2024. All funds must be paid out by September 30, 2024. [Read more here](<../../README (1).md>).
 {% endhint %}
 
 ## Invoices  <a href="#invoices" id="invoices"></a>

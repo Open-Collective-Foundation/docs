@@ -5,7 +5,7 @@ description: Info about Separate Legal Entities and OCF
 # Outside Entities Policy
 
 {% hint style="warning" %}
-Open Collective Foundation is closing down in 2024. [Read more here](../../).
+Open Collective Foundation is closing down in 2024. [Read more here](<../../README (1).md>).
 {% endhint %}
 
 OpenCollective Foundation (“OCF”) is a [comprehensive Model A fiscal sponsor](broken-reference), meaning our service is designed for unincorporated Collectives (“Collectives” and individually as an “Collective”) that **don’t** have a separate legal entity of their own. This policy explains the rules for cases where a Collective under OCF’s umbrella is also related to an external incorporated entity or EIN.

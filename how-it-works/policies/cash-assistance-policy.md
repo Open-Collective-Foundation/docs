@@ -5,7 +5,7 @@ description: For our hosted Collectives who would like to disburse direct cash a
 # Cash Assistance Policy
 
 {% hint style="warning" %}
-Open Collective Foundation is closing down in 2024. [Read more here](../../).
+Open Collective Foundation is closing down in 2024. [Read more here](<../../README (1).md>).
 {% endhint %}
 
 ## What is cash assistance?

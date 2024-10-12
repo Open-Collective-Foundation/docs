@@ -5,7 +5,7 @@ description: More ways to raise funds
 # 3rd-Party Fundraising Tools
 
 {% hint style="warning" %}
-Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](../../).
+Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](<../../README (1).md>).
 {% endhint %}
 
 Although [receiving funds through the Open Collective **platform**](https://docs.opencollective.foundation/how-it-works/financial-contributions/credit-card-paypal-bank-transfers) is the swiftest, most direct & efficient way to receive funds, OCF’s hosted Collectives can also use some external third-party tools to receive funds for their Collective.

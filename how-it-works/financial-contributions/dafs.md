@@ -5,7 +5,7 @@ description: Donor Access Funds
 # Donor Advised Funds (DAF)
 
 {% hint style="warning" %}
-Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](../../).
+Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](<../../README (1).md>).
 {% endhint %}
 
 A **donor advised fund** is a centralized charitable account that helps individuals, families, and businesses to efficiently distribute their charitable contributions.

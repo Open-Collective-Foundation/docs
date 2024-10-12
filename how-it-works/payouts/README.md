@@ -5,7 +5,7 @@ description: How to spend your money
 # Payouts
 
 {% hint style="warning" %}
-Open Collective Foundation is closing down in 2024. All funds must be paid out by September 30, 2024. [Read more here](../../).
+Open Collective Foundation is closing down in 2024. All funds must be paid out by September 30, 2024. [Read more here](<../../README (1).md>).
 {% endhint %}
 
 In order to achieve your Collective's mission, you need to spend the money you raise. We are here to facilitate that, and to take care of a lot of the admin for you. OCF functions as your Collective's bank account and we process many kinds of payouts for our hosted groups.

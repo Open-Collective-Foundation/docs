@@ -5,7 +5,7 @@ description: What they are and what they are for
 # Fees
 
 {% hint style="warning" %}
-Open Collective Foundation is closing down in 2024. [Read more here](../).
+Open Collective Foundation is closing down in 2024. [Read more here](<../README (1).md>).
 {% endhint %}
 
 To ensure that our services are sustainable and continuously improving, we charge a **Host Fee** on funds contributed to the Collectives we host. Charging fees like this is standard in the fiscal sponsorship world.

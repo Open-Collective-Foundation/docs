@@ -5,7 +5,7 @@ description: Helpful guides for Donors and Financial Contributors
 # Financial Contributions (How to Donate)
 
 {% hint style="warning" %}
-Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](../../).
+Open Collective Foundation is closing down in 2024. The last day collectives can receive donations is March 15, 2024. [Read more here](<../../README (1).md>).
 {% endhint %}
 
 Open Collective Foundation allows donors to support amazing Collectives without them having to go through the laborious process of setting up a legal entity and bank account to receive funds.
